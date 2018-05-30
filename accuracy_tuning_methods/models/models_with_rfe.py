@@ -65,7 +65,6 @@ class Algorithms(object):
         if model_name == "lasso":
             self.lasso(model_name, train_x, test_x, train_y, test_y)
 
-    
     def rfe_model(self, train_x, test_x, train_y, test_y):
         final_error = 999999
         count_of_features = len(train_x.columns)
@@ -165,11 +164,8 @@ class Algorithms(object):
 if __name__ == '__main__':
     obj = Compute()
     (train_x, test_x, train_y, test_y) = obj.data_loader()
-    # print(len(train_x), len(train_y), len(test_x), len(test_y))
     obj2 = Algorithms("linear", train_x, test_x, train_y, test_y)
-    #obj2 = Algorithms()
-
-    obj2.base_model(train_x, test_x, train_y, test_y)
+    obj2.rfe_model(train_x, test_x, train_y, test_y)
 
     ''' TEST CASES
     obj2.pca_model(train_x, test_x, train_y, test_y)

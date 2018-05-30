@@ -7,7 +7,6 @@ import traceback
 from sklearn import datasets
 
 
-
 class Compute(object):
 
     def __init__(self):
@@ -117,7 +116,6 @@ class Algorithms(object):
 if __name__ == '__main__':
     obj = Compute()
     (train_x, test_x, train_y, test_y) = obj.data_loader()
-    #print(len(train_x), len(train_y), len(test_x), len(test_y))
     obj2 = Algorithms("elasticnet", train_x, test_x, train_y, test_y)
 
     ''' TEST CASES

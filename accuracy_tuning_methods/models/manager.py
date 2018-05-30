@@ -1,28 +1,37 @@
-"""
-Manager process wraps an web API over all the modules.
-
-"""
-
 from flask import Flask
+from sklearn import datasets
+import pandas as pd
+from sklearn .model_selection import train_test_split
+import json
 
-app = Flask(__name__)
 
+class MyFlaskApp(object):
 
-@app.route("/train")
-def train():
-    return " training module"
+    def __init__(self):
+        self.app = Flask(__name__)
+        self.app.add_url_rule('/<method>', 'index', self.index)
+        self.app.run(debug = True)
+    def index(self,method):
+        return "<h1> testing in progress </h1>"
 
-@app.route("/testing")
-def test():
-    return " <H1>testing module</H1>"
 
 if __name__ == "__main__":
-    import _pickle as pickle
+    a=MyFlaskApp()
+    '''
+    diabetes = datasets.load_diabetes()
 
-    import pprint
-
-    data = [{'a': 'A', 'b': 2, 'c': 3.0}]
-
-    pickle.dump(data, open("pickled_obj.sav", "wb"))
-    loder=pickle.load(open("pickled_obj.sav", "rb"))
-    print(loder)
+    dataset = pd.DataFrame(diabetes["data"])
+    dataset.columns = diabetes["feature_names"]
+    target = pd.DataFrame(diabetes["target"], columns=["target"])
+    dataset = pd.concat([dataset, target], axis=1)
+    x = (dataset.iloc[:, :-2])
+    y = (dataset.iloc[:, -1])
+    train_input, test_input, train_output, test_output = train_test_split(x, y, test_size=0.05, random_state=500)
+    test_input=pd.DataFrame(test_input)
+    test_output= pd.DataFrame(test_output)
+    test_input.to_csv("test.csv")
+    test_input.to_json("test_input.json")
+    test_output.to_json("test_output.json")
+    x=pd.read_json("test_output.json")
+    print((train_output.dimens),len(test_output),len(train_input),len(test_output))
+    '''
