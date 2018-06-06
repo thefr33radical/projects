@@ -17,7 +17,7 @@ class MyFlaskApp(object):
 
 if __name__ == "__main__":
     a=MyFlaskApp()
-    '''
+
     diabetes = datasets.load_diabetes()
 
     dataset = pd.DataFrame(diabetes["data"])
@@ -33,5 +33,5 @@ if __name__ == "__main__":
     test_input.to_json("test_input.json")
     test_output.to_json("test_output.json")
     x=pd.read_json("test_output.json")
-    print((train_output.dimens),len(test_output),len(train_input),len(test_output))
-    '''
+    #print((train_output.dimens),len(test_output),len(train_input),len(test_output))
+
