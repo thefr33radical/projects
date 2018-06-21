@@ -1,6 +1,6 @@
 
 
-class GridSearch(object):
+class RandomSearch(object):
 
     class Regression(object):
         def linear_regression(self,train_input,train_output,test_input,test_output):

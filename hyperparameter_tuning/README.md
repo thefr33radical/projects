@@ -8,5 +8,7 @@
     Hand-tuning
     Gaussian Process with Expected Improvement
     Tree-structured Parzen Estimators (TPE)
+    
+### Install virtualenv with requirements.txt & python 3+
 
 
