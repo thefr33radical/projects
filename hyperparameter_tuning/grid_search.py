@@ -1,4 +1,6 @@
-
+from sklearn import linear_model
+from sklearn import svm
+from sklearn import li
 
 class GridSearch(object):
 
@@ -6,6 +8,8 @@ class GridSearch(object):
         def linear_regression(self,train_input,train_output,test_input,test_output):
             pass
         def svr(self,train_input,train_output,test_input,test_output):
+            svm_paramters={{'kernel'="rbf",'c'=[]},{'kernel'="rbf",'c'=[]}}
+            model=svm.SVR()
             pass
         def lasso(self,train_input,train_output,test_input,test_output):
             pass
