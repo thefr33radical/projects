@@ -10,6 +10,7 @@ GridSearch class implements brute force Hypertuning method selection of
 from sklearn import linear_model
 from sklearn import svm
 from sklearn import datasets
+import numpy as np
 
 class GridSearch(object):
 
@@ -27,8 +28,10 @@ class GridSearch(object):
             """
             pass
         def svr(self,train_input,train_output,test_input,test_output):
-            svm_paramters= {{'kernel':"rbf",'c':[]},{'kernel':"rbf",'c':[]}}
+            svr_grid_param= {{'kernel':["rbf"],'c':[1, 10, 100, 1000]}, {'kernel':["gamma"], 'c': [1, 10, 100, 1000]},{'c': [1, 10, 100, 1000], 'kernel': ['linear']} }
             model=svm.SVR()
+
+
             pass
         def lasso(self,train_input,train_output,test_input,test_output):
             pass
