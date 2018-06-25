@@ -1,9 +1,5 @@
 """
-
-GridSearch class implements brute force Hypertuning method selection of
-
-
-
+GridSearch class implements brute force selection of hyperparameters for Classification model and Regression models.
 
 """
 
@@ -18,6 +14,10 @@ class GridSearch(object):
         """
 
         """
+
+        def __init__(self,cross_val_num):
+            self.cross_val=cross_val_num
+
         def linear_regression(self,train_input,train_output,test_input,test_output):
             """
             :param train_input:
@@ -27,9 +27,26 @@ class GridSearch(object):
             :return:
             """
             pass
-        def svr(self,train_input,train_output,test_input,test_output):
-            svr_grid_param= {{'kernel':["rbf"],'c':[1, 10, 100, 1000]}, {'kernel':["gamma"], 'c': [1, 10, 100, 1000]},{'c': [1, 10, 100, 1000], 'kernel': ['linear']} }
+
+        def svr(self, train_input, train_output, test_input, test_output):
+            """
+
+            :param train_input:
+            :param train_output:
+            :param test_input:
+            :param test_output:
+            :return:
+            """
+            svr_grid_param= {{'C': [1, 10, 100, 1000], 'gamma': [0.001, 0.0001], 'kernel': ['rbf']}, {'c': [1, 10, 100, 1000], 'kernel': ['linear']} }
             model=svm.SVR()
+
+            # Grid Search of SVR model with kernels in svr_grid_params and cross validation of 3
+            grid_search = GridSearch(model, svr_grid_param, cv = 3)
+
+            grid_search.fit(train_input, train_output)
+
+            best_alpha = grid_search.best_estimator_.alpha
+            best_score = grid_search.best_score_
 
 
             pass
@@ -48,7 +65,7 @@ class GridSearch(object):
             dataset = datasets.load_diabetes()
             model = linear_model.Ridge()
             ridge_grid_param = {"alpha":[ 0, 0.1,0.001,0.0001,1]}
-            grid_search = GridSearch(model, param_grid = ridge_grid_param)
+            grid_search = GridSearch(model, ridge_grid_param ,cv = 3)
             grid_search.fit(dataset.data , dataset.target)
 
             best_alpha = grid_search.best_estimator_.alpha
