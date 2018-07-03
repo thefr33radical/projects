@@ -9,6 +9,7 @@ from sklearn import datasets
 from sklearn.model_selection import  GridSearchCV
 import numpy as np
 
+
 class GridSearch(object):
 
     class Regression(object):
