@@ -26,7 +26,7 @@ class GridSearch(object):
             """
             pass
 
-        def svr(self):
+        def svr(self,train_input,train_output,test_input,test_output):
             """
             FUNCTION RETURNS BEST HYPERPARAMETERS
             :param train_input: training features
@@ -43,10 +43,10 @@ class GridSearch(object):
             # Grid Search of SVR model with kernels in svr_grid_params and cross validation of 3
             grid_search = GridSearchCV(model, svr_grid_param, cv = 3)
 
-            grid_search.fit(x,y)
+            grid_search.fit(train_input + test_input, train_output + test_output)
             best_params=grid_search.best_params_
             best_score = grid_search.best_score_
-            print(best_score,best_params)
+
             return best_params, best_score
 
         def ridge(self,train_input,train_output,test_input,test_output):
@@ -64,9 +64,11 @@ class GridSearch(object):
             grid_search = GridSearchCV(model, ridge_grid_param)
             grid_search.fit(train_input + test_input, train_output + test_output)
 
-            best_alpha = grid_search.best_estimator_.alpha
+            grid_search.fit(train_input + test_input, train_output + test_output)
+            best_params = grid_search.best_params_
             best_score = grid_search.best_score_
-            return best_alpha, best_score
+
+            return best_params, best_score
 
         def lasso(self,train_input,train_output,test_input,test_output):
             """
@@ -83,9 +85,11 @@ class GridSearch(object):
             grid_search = GridSearchCV(model, lasso_grid_param,cv=self.cross_val)
             grid_search.fit(train_input + test_input, train_output + test_output)
 
-            best_alpha = grid_search.best_estimator_.alpha
+            grid_search.fit(train_input + test_input, train_output + test_output)
+            best_params = grid_search.best_params_
             best_score = grid_search.best_score_
-            return best_alpha, best_score
+
+            return best_params, best_score
 
     class Classification(object):
 
