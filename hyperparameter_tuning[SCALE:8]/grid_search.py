@@ -95,14 +95,19 @@ class GridSearch(object):
 
         def svm(self,train_input,train_output,test_input,test_output):
             pass
+
         def logistic_regression(self,train_input,train_output,test_input,test_output):
             pass
+
         def naive_bayes(self,train_input,train_output,test_input,test_output):
             pass
+
         def random_forest(self,train_input,train_output,test_input,test_output):
             pass
+        
         def decesion_tree(self,train_input,train_output,test_input,test_output):
             pass
+
 
 if __name__=="__main__":
     obj1= GridSearch.Regression(3)
