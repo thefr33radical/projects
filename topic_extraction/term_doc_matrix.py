@@ -2,6 +2,8 @@
 from sklearn.feature_extraction.text import CountVectorizer as CV
 from sklearn.feature_extraction.text import TfidfVectorizer as TF
 import pandas as pd
+import glob
+import os
 
 
 class TermDocMatrix(object):
@@ -10,41 +12,54 @@ class TermDocMatrix(object):
         self.maximum_features = 10000
 
     def read_txt_file(self,path):
+        """
 
+        :param : path to text files
+        :return: list of string
+        """
+        id=[]
+        data=[]
 
-        fp = open(path,"r")
-        data = fp.read().encode("utf-8")
-        fp.close()
-        data = str(data)
-        data = data.split("::")
-        #data= [data]
-        print(data)
-        return data
+        for i in glob.glob(os.path.join(path,"*.txt")):
+            pathname, filename = os.path.split(i)
+            fp = open(i,"r")
+            temp_data = fp.read().encode("utf-8")
+            fp.close()
+            temp_data = str(temp_data)
+            data.append(temp_data)
+            id.append(filename)
+        return id,data
 
-    def transform_td_matrix(self,data):
-        matrix = CV(ngram_range=(1,2),
-                                max_features=self.maximum_features,
-                                stop_words='english')
-        t= matrix.fit_transform(data)
-        f = t.todense()
-        data_frame=pd.DataFrame(f,columns=matrix.get_feature_names())
+    def transform_td_matrix(self,id, data):
+        """
+
+        :param data: list of strings
+        :return: dataframe
+        """
+        cv = CV(analyzer = 'word', ngram_range=(1,2),max_features=self.maximum_features, stop_words='english')
+        cv_sparse_matrix = cv.fit_transform(data)
+        cv_dense_matrix = cv_sparse_matrix.todense()
+        data_frame=pd.DataFrame(cv_dense_matrix, columns=cv.get_feature_names())
         data_frame.to_csv("result_td.csv")
         print(data_frame)
 
-    def transform_tfidf_matrix(self,data):
-        matrix = TF(ngram_range=(1,2),
-                                max_features=self.maximum_features,
-                                stop_words='english')
-        t= matrix.fit_transform(data)
-        f = t.todense()
-        data_frame=pd.DataFrame(f,columns=matrix.get_feature_names())
-        data_frame.to_csv("result_tfidf.csv")
+    def transform_tfidf_matrix(self,id, data):
+        """
+
+        :param data: list of strings
+        :return: dataframe
+        """
+        tf = TF(ngram_range=(1, 2), max_features=self.maximum_features, stop_words='english')
+        tf_sparse_matrix = tf.fit_transform(data)
+        tf_dense_matrix = tf_sparse_matrix.todense()
+        data_frame = pd.DataFrame(tf_dense_matrix, columns=tf.get_feature_names(),index=id)
+        data_frame.to_csv("result_td.csv")
         print(data_frame)
 
 
-if __name__=="__main__":
+if __name__ == "__main__":
     obj = TermDocMatrix()
-    data = obj.read_txt_file()
-    obj.transform_tfidf_matrix(data)
+    id, data = obj.read_txt_file("path")
+    obj.transform_tfidf_matrix(id,data)
 
 
