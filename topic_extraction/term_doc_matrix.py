@@ -5,8 +5,14 @@ import pandas as pd
 import glob
 import os
 
+"""
 
-class TermDocMatrix(object):
+Module to transform plain text to Term Document Matrix/ TF-IDF Matrix. 
+
+"""
+
+
+class TextTransform(object):
 
     def __init__(self):
         self.maximum_features = 10000
@@ -58,7 +64,7 @@ class TermDocMatrix(object):
 
 
 if __name__ == "__main__":
-    obj = TermDocMatrix()
+    obj = TextTransform()
     id, data = obj.read_txt_file("path")
     obj.transform_tfidf_matrix(id,data)
 
