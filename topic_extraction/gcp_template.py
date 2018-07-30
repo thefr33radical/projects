@@ -1,12 +1,14 @@
 
 # Imports the Google Cloud client library
 from google.cloud import storage
-
+import json
+import os
+from StringIO import StringIO
 
 class GcpTransfer(object):
 
     def __init__(self):
-        self.client = storage.Client.from_service_account_json("path to secret key")
+        self.client = storage.Client.from_service_account_json("")
 
     def upload_blob(self,bucket_name, source_file_name, destination_blob_name):
         """
@@ -38,8 +40,33 @@ class GcpTransfer(object):
         blob.download_to_filename(destination_file_name)
         print('Blob {} downloaded to {}.'.format(source_blob_name,destination_file_name))
 
+    def read_json_files(self,bucket_name, source_dir_name, destination_blob_name):
+        """
+
+        :param bucket_name:
+        :param source_file_name:
+        :param destination_blob_name:
+        :return:
+        """
+
+        storage_client = self.client
+
+        bucket = storage_client.get_bucket(bucket_name=bucket_name)
+        blobs = bucket.list_blobs(prefix=source_dir_name)  # Get list of files
+        folder = 0
+
+        for i in blobs:
+            # Initial folder name to be ignored
+            if folder == 0:
+                folder =1
+                continue
+            file_contents = i.download_as_string()
+            z = json.loads(file_contents)
+            print(z)
+
 
 if __name__=="__main__":
     obj = GcpTransfer()
-    obj.upload_blob("bucket_name", "source_blob_name","destination_file_name")
-    obj.download_blob("bucket_name", "source_blob_name","destination_file_name")
+   # obj.upload_blob("bucket_name", "source_blob_name","destination_file_name")
+    #obj.download_blob("bucket_name", "source_blob_name","destination_file_name")
+    obj.read_json_files("mm_ml_training_data", "feedback_phishing", "")
