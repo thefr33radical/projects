@@ -2,13 +2,14 @@
 # Imports the Google Cloud client library
 from google.cloud import storage
 import json
+import pandas as pd
 import os
 from StringIO import StringIO
 
 class GcpTransfer(object):
 
     def __init__(self):
-        self.client = storage.Client.from_service_account_json("")
+        self.client = storage.Client.from_service_account_json("/home/kuliza227/works/google-cloud-sdk/gcp_cred.json")
 
     def upload_blob(self,bucket_name, source_file_name, destination_blob_name):
         """
@@ -55,6 +56,12 @@ class GcpTransfer(object):
         blobs = bucket.list_blobs(prefix=source_dir_name)  # Get list of files
         folder = 0
 
+        data = pd.DataFrame(columns=["sender","subject","recipients","timestamp"])
+        sender_list=[]
+        recpient_list=[]
+        subject_list=[]
+        timestamp=[]
+
         for i in blobs:
             # Initial folder name to be ignored
             if folder == 0:
@@ -62,7 +69,12 @@ class GcpTransfer(object):
                 continue
             file_contents = i.download_as_string()
             z = json.loads(file_contents)
-            print(z)
+            print(z["sender"])
+            sender_list.append(z["sender"])
+
+
+        data["sender"]=sender_list
+        print(data)
 
 
 if __name__=="__main__":
