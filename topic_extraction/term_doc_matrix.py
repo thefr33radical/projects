@@ -46,7 +46,7 @@ class TextTransform(object):
         cv_sparse_matrix = cv.fit_transform(data)
         cv_dense_matrix = cv_sparse_matrix.todense()
         data_frame=pd.DataFrame(cv_dense_matrix, columns=cv.get_feature_names())
-        data_frame.to_csv("result_td.csv")
+        #data_frame.to_csv("result_td.csv")
         #print(data_frame)
         return data_frame
 
@@ -60,7 +60,7 @@ class TextTransform(object):
         tf_sparse_matrix = tf.fit_transform(data)
         tf_dense_matrix = tf_sparse_matrix.todense()
         data_frame = pd.DataFrame(tf_dense_matrix, columns=tf.get_feature_names(),index=id)
-        data_frame.to_csv("result_td.csv")
+        #data_frame.to_csv("result_td.csv")
         #print(data_frame)
         return data_frame
 
