@@ -2,6 +2,7 @@
 # Imports the Google Cloud client library
 from google.cloud import storage
 import json
+import glob
 import pandas as pd
 import os
 from StringIO import StringIO
@@ -9,7 +10,7 @@ from StringIO import StringIO
 class GcpTransfer(object):
 
     def __init__(self):
-        self.client = storage.Client.from_service_account_json("path to json file")
+        self.client = storage.Client.from_service_account_json("/home/kuliza227/works/google-cloud-sdk/gcp_cred.json")
 
     def upload_blob(self,bucket_name, source_file_name, destination_blob_name):
         """
@@ -65,11 +66,12 @@ class GcpTransfer(object):
             file_contents = i.download_as_string()
             z = json.loads(file_contents)
            
-   
-
 
 if __name__=="__main__":
     obj = GcpTransfer()
-   # obj.upload_blob("bucket_name", "source_blob_name","destination_file_name")
+    for file in glob.glob(os.path.join("/home/kuliza227/github/projects/repo_projects/hyperparameter_tuning/csv_files/","*.json")):
+        foldername, filename = os.path.split(file)
+
+        obj.upload_blob("mm_ml_training_data", "/home/kuliza227/github/projects/repo_projects/hyperparameter_tuning/csv_files/"+filename,"phishing_data/"+filename)
     #obj.download_blob("bucket_name", "source_blob_name","destination_file_name")
-    obj.read_json_files("mm_ml_training_data", "feedback_phishing", "")
+   # obj.read_json_files("mm_ml_training_data", "feedback_phishing", "")
