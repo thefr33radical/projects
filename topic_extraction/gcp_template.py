@@ -42,6 +42,25 @@ class GcpTransfer(object):
         blob.download_to_filename(destination_file_name)
         print('Blob {} downloaded to {}.'.format(source_blob_name,destination_file_name))
 
+
+    def read_csv_file(self,bucket_name,source_dir_name,train_feature_file):
+        """
+        Function to read csv fiels fom google bucket and return pandas dataframe
+        :param source_dir_name:
+        :param dest_dir_name:
+        :return: pandas dataframe
+        """
+
+        storage_client = self.client
+        bucket = storage_client.get_bucket(bucket_name=bucket_name)
+        blob = bucket.get_blob(source_dir_name+train_feature_file)
+
+        data = blob.download_as_string()
+        dataframe = pd.read_csv(StringIO(data))
+        #print(dataframe)
+
+        return dataframe
+
     def read_json_files(self,bucket_name, source_dir_name, destination_blob_name):
         """
 
