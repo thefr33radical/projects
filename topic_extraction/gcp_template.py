@@ -10,7 +10,7 @@ from StringIO import StringIO
 class GcpTransfer(object):
 
     def __init__(self):
-        self.client = storage.Client.from_service_account_json("/home/kuliza227/works/google-cloud-sdk/gcp_cred.json")
+        self.client = storage.Client.from_service_account_json("")
 
     def upload_blob(self,bucket_name, source_file_name, destination_blob_name):
         """
@@ -42,10 +42,9 @@ class GcpTransfer(object):
         blob.download_to_filename(destination_file_name)
         print('Blob {} downloaded to {}.'.format(source_blob_name,destination_file_name))
 
-
     def read_csv_file(self,bucket_name,source_dir_name,train_feature_file):
         """
-        Function to read csv fiels fom google bucket and return pandas dataframe
+        Function to read csv file fom google bucket and return pandas dataframe
         :param source_dir_name:
         :param dest_dir_name:
         :return: pandas dataframe
@@ -54,16 +53,14 @@ class GcpTransfer(object):
         storage_client = self.client
         bucket = storage_client.get_bucket(bucket_name=bucket_name)
         blob = bucket.get_blob(source_dir_name+train_feature_file)
-
         data = blob.download_as_string()
         dataframe = pd.read_csv(StringIO(data))
-        #print(dataframe)
 
         return dataframe
 
     def read_json_files(self,bucket_name, source_dir_name, destination_blob_name):
         """
-
+        Function reads json files from google bucket
         :param bucket_name:
         :param source_file_name:
         :param destination_blob_name:
@@ -71,11 +68,9 @@ class GcpTransfer(object):
         """
 
         storage_client = self.client
-
         bucket = storage_client.get_bucket(bucket_name=bucket_name)
         blobs = bucket.list_blobs(prefix=source_dir_name)  # Get list of files
         folder = 0
-
 
         for i in blobs:
             # Initial folder name to be ignored
@@ -84,13 +79,15 @@ class GcpTransfer(object):
                 continue
             file_contents = i.download_as_string()
             z = json.loads(file_contents)
+            # do operation on z
+        return
            
 
 if __name__=="__main__":
     obj = GcpTransfer()
-    for file in glob.glob(os.path.join("/home/kuliza227/github/projects/repo_projects/hyperparameter_tuning/csv_files/","*.json")):
+    for file in glob.glob(os.path.join("","*.json")):
         foldername, filename = os.path.split(file)
 
-        obj.upload_blob("mm_ml_training_data", "/home/kuliza227/github/projects/repo_projects/hyperparameter_tuning/csv_files/"+filename,"phishing_data/"+filename)
+        obj.upload_blob("",filename,"/"+filename)
     #obj.download_blob("bucket_name", "source_blob_name","destination_file_name")
    # obj.read_json_files("mm_ml_training_data", "feedback_phishing", "")
