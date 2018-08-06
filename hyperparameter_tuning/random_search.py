@@ -3,6 +3,7 @@ from sklearn import svm
 from sklearn.model_selection import RandomizedSearchCV
 from scipy.stats import uniform
 
+
 class RandomSearch(object):
 
     class Regression(object):
@@ -41,7 +42,6 @@ class RandomSearch(object):
 
 
             pass
-
 
     class Classification(object):
         def svm(self,train_input,train_output,test_input,test_output):

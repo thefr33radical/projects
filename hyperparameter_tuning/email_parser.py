@@ -44,6 +44,6 @@ if __name__=="__main__":
     #data = convert()
     #data = pd.DataFrame.from_dict(data)
     #data.to_csv("training_data.csv")
-    f2 = open("/home/kuliza227/github/projects/repo_projects/hyperparameter_tuning/csv_files/1.txt.json", "r")
+    f2 = open("", "r")
     data = f2.read()
     d= json.loads(data)
