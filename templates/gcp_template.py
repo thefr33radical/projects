@@ -8,86 +8,79 @@ import os
 from StringIO import StringIO
 
 class GcpTransfer(object):
+	"""
+	Class to transfer files between google cloud 
+	"""
 
     def __init__(self):
+	# path to json file which contains google credentials       
         self.client = storage.Client.from_service_account_json("")
 
-    def upload_blob(self,bucket_name, source_file_name, destination_blob_name):
+    def upload_blob(self, bucket_name, source_file_name, destination_blob_name):
         """
+        Function to upload file to GCB
 
-    :param bucket_name: name of bucket on google cloud
-    :param source_file_name: local filename
-    :param destination_blob_name: destination folder+ filename
-    :return:
+        :param bucket_name: name of bucket on google cloud
+        :param source_file_name: local filename
+        :param destination_blob_name: destination folder+ filename
+        :return: 1 on succcess -1 on failure
     """
         storage_client = self.client
-        bucket = storage_client.get_bucket(bucket_name)
-        blob = bucket.blob(destination_blob_name)
+        try:
+            bucket = storage_client.get_bucket(bucket_name)
+            blob = bucket.blob(destination_blob_name)
 
-        blob.upload_from_filename(source_file_name)
+            blob.upload_from_filename(source_file_name)
 
-        print('File {} uploaded to {}.'.format(source_file_name,destination_blob_name))
+            print('File {} uploaded to {}.'.format(source_file_name, destination_blob_name))
+            return 1
+        except Exception as e:
+            print (e)
+            return -1
 
-    def download_blob(self,bucket_name, source_blob_name,destination_file_name):
+    def download_blob(self, bucket_name, source_blob_name, destination_file_name):
         """
+        Function to download file to GCB
 
-    :param bucket_name: name of bucket on google cloud
-    :param source_blob_name: folder+filename
-    :param destination_file_name: local filename
-    :return:
-    """
+        :param bucket_name: name of bucket on google cloud
+        :param source_blob_name: folder+filename
+        :param destination_file_name: local filename
+        :return: 1 on succcess -1 on failure
+    	"""
         storage_client = self.client
-        bucket = storage_client.get_bucket(bucket_name)
-        blob = bucket.blob(source_blob_name)
-        blob.download_to_filename(destination_file_name)
-        print('Blob {} downloaded to {}.'.format(source_blob_name,destination_file_name))
 
-    def read_csv_file(self,bucket_name,source_dir_name,train_feature_file):
+        try:
+            bucket = storage_client.get_bucket(bucket_name)
+            blob = bucket.blob(source_blob_name)
+            blob.download_to_filename(destination_file_name)
+            print('Blob {} downloaded to {}.'.format(source_blob_name, destination_file_name))
+            return 1
+        except Exception as e:
+            print (e)
+            return -1
+
+    def read_csv_file(self, bucket_name, source, dest):
         """
-        Function to read csv file fom google bucket and return pandas dataframe
+        Function to read csv fiels fom google bucket and return pandas dataframe
         :param source_dir_name:
         :param dest_dir_name:
         :return: pandas dataframe
         """
 
         storage_client = self.client
-        bucket = storage_client.get_bucket(bucket_name=bucket_name)
-        blob = bucket.get_blob(source_dir_name+train_feature_file)
-        data = blob.download_as_string()
-        dataframe = pd.read_csv(StringIO(data))
 
-        return dataframe
+        try:
+            bucket = storage_client.get_bucket(bucket_name=bucket_name)
+            blob = bucket.get_blob(source)
 
-    def read_json_files(self,bucket_name, source_dir_name, destination_blob_name):
-        """
-        Function reads json files from google bucket
-        :param bucket_name:
-        :param source_file_name:
-        :param destination_blob_name:
-        :return:
-        """
-
-        storage_client = self.client
-        bucket = storage_client.get_bucket(bucket_name=bucket_name)
-        blobs = bucket.list_blobs(prefix=source_dir_name)  # Get list of files
-        folder = 0
-
-        for i in blobs:
-            # Initial folder name to be ignored
-            if folder == 0:
-                folder =1
-                continue
-            file_contents = i.download_as_string()
-            z = json.loads(file_contents)
-            # do operation on z
-        return
-           
+            data = blob.download_as_string()
+            dataframe = pd.read_csv(StringIO(data),index_col=False,low_memory=False)
+            dataframe.to_csv(dest,index=False)
+            return dataframe
+        except Exception as e:
+            print (e)
 
 if __name__=="__main__":
-    obj = GcpTransfer()
-    for file in glob.glob(os.path.join("","*.json")):
-        foldername, filename = os.path.split(file)
-
-        obj.upload_blob("",filename,"/"+filename)
-    #obj.download_blob("bucket_name", "source_blob_name","destination_file_name")
-   # obj.read_json_files("mm_ml_training_data", "feedback_phishing", "")
+	pass
+	# create instance of class and call the functions
+	
