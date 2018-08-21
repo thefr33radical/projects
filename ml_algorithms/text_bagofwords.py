@@ -64,7 +64,10 @@ class TextTransform(object):
         #print(data_frame)
         return data_frame
 
+    def td_to_tfidf(self,data):
+        pass[
 
+        
 if __name__ == "__main__":
     obj = TextTransform()
     id, data = obj.read_txt_file("path")
