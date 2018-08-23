@@ -4,7 +4,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer as TF
 import pandas as pd
 import glob
 import os
-
+import gensim
 """
 
 Module to transform plain text to Term Document Matrix/ TF-IDF Matrix. 
@@ -36,21 +36,21 @@ class TextTransform(object):
             id.append(filename)
         return id,data
 
-    def transform_td_matrix(self,id, data):
+    def transform_td_matrix(self, data):
         """
 
         :param data: list of strings
         :return: dataframe
         """
-        cv = CV(analyzer = 'word', ngram_range=(1,2),max_features=self.maximum_features, stop_words='english')
+        cv = CV(analyzer = 'word', ngram_range=(1,2),max_features=self.maximum_features)
         cv_sparse_matrix = cv.fit_transform(data)
         cv_dense_matrix = cv_sparse_matrix.todense()
         data_frame=pd.DataFrame(cv_dense_matrix, columns=cv.get_feature_names())
         #data_frame.to_csv("result_td.csv")
         #print(data_frame)
-        return data_frame
+        return cv, data_frame
 
-    def transform_tfidf_matrix(self,id, data):
+    def transform_tfidf_matrix(self,data):
         """
 
         :param data: list of strings
@@ -62,15 +62,24 @@ class TextTransform(object):
         data_frame = pd.DataFrame(tf_dense_matrix, columns=tf.get_feature_names(),index=id)
         #data_frame.to_csv("result_td.csv")
         #print(data_frame)
-        return data_frame
+        return tf,data_frame
 
     def td_to_tfidf(self,data):
-        pass[
+        pass
 
-        
 if __name__ == "__main__":
-    obj = TextTransform()
-    id, data = obj.read_txt_file("path")
-    obj.transform_tfidf_matrix(id,data)
+     print(gensim.parsing.stem_text("trying writing nonsense"))
+
+     '''data=["i am here","you are there","lets go to ooty"]
+     test=["breaking bad is awesome"]
+     obj=TextTransform()
+     model,resp=obj.transform_td_matrix(data)
+     cv_sparse_matrix = model.fit_transform(test)
+
+     cv_dense_matrix = cv_sparse_matrix.todense()
+     data_frame = pd.DataFrame(cv_dense_matrix, columns=model.get_feature_names())
+     print(pd.concat([data_frame,resp],axis=0))
+     '''
+
 
 
