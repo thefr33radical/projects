@@ -1,10 +1,14 @@
 
 from sklearn.feature_extraction.text import CountVectorizer as CV
 from sklearn.feature_extraction.text import TfidfVectorizer as TF
+from nltk.corpus import stopwords
+from nltk.tokenize import wordpunct_tokenize
 import pandas as pd
 import glob
 import os
 import gensim
+import nltk
+nltk.download('stopwords')
 """
 
 Module to transform plain text to Term Document Matrix/ TF-IDF Matrix. 
@@ -24,6 +28,27 @@ class TextTransform(object):
     def __init__(self):
         self.maximum_features = 10000
         self.ngram=2
+
+    def remove_stopwords(self,data):
+        """
+
+        :param data: list of strings
+        :return: dataframe
+        """
+        stop_words=set(stopwords.words('english'))
+        stop_words.update(['.', ',', '"', "'", '?', '!', ':', ';', '(', ')', '[', ']', '{','@,'
+                           '}'])  # remove it if you need punctuation
+
+        new_data=[]
+        for doc in data:
+            words = doc.split()
+            new_word=""
+            for word in words:
+                if word.lower() not in stop_words:
+                    new_word+=" "+word.lower()
+
+            new_data.append(new_word)
+        return new_data
 
     def read_txt_file(self,path):
         """
@@ -88,6 +113,3 @@ if __name__ == "__main__":
      data_frame = pd.DataFrame(cv_dense_matrix, columns=model.get_feature_names())
      print(pd.concat([data_frame,resp],axis=0))
      '''
-
-
-
