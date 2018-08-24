@@ -9,6 +9,13 @@ import gensim
 
 Module to transform plain text to Term Document Matrix/ TF-IDF Matrix. 
 
+Algorithm to  convert text of words into BagofWords words model.
+
+1. Remove stopwords
+2. Stem
+3. ngrams
+4. generate Countvector/Tfidf vector
+
 """
 
 
@@ -16,6 +23,7 @@ class TextTransform(object):
 
     def __init__(self):
         self.maximum_features = 10000
+        self.ngram=2
 
     def read_txt_file(self,path):
         """
@@ -42,7 +50,7 @@ class TextTransform(object):
         :param data: list of strings
         :return: dataframe
         """
-        cv = CV(analyzer = 'word', ngram_range=(1,2),max_features=self.maximum_features)
+        cv = CV(analyzer = 'word', ngram_range=(1,self.ngram),max_features=self.maximum_features,lowercase=True,decode_error='ignore')
         cv_sparse_matrix = cv.fit_transform(data)
         cv_dense_matrix = cv_sparse_matrix.todense()
         data_frame=pd.DataFrame(cv_dense_matrix, columns=cv.get_feature_names())
@@ -56,7 +64,7 @@ class TextTransform(object):
         :param data: list of strings
         :return: dataframe
         """
-        tf = TF(ngram_range=(1, 2), max_features=self.maximum_features, stop_words='english')
+        tf = TF(ngram_range=(1, self.ngram), max_features=self.maximum_features, stop_words='english',lowercase=True,decode_error='ignore')
         tf_sparse_matrix = tf.fit_transform(data)
         tf_dense_matrix = tf_sparse_matrix.todense()
         data_frame = pd.DataFrame(tf_dense_matrix, columns=tf.get_feature_names(),index=id)
