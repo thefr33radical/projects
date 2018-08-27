@@ -40,34 +40,44 @@ class TextTransform(object):
     def lemmatize(self,data):
         """
         :param data: list of strings
-        :return: list of lemmatized strings
+        :return: list of lemmatized strings, None
         """
-
-        new_data=[]
-        lemmatizer =WordNetLemmatizer()
-        for file in data:
-            new_file = ""
-            for word in file.split():
-                new_file+=lemmatizer.lemmatize(word)+" "
+        try:
+            new_data=[]
+            lemmatizer =WordNetLemmatizer()
+            for file in data:
+                new_file = ""
+                for word in file.split():
+                    try:
+                        new_file+=lemmatizer.lemmatize(word)+" "
+                    except:
+                        continue
+            return new_data
             new_data.append(new_file)
-
-        return new_data
+        except Exception as e:
+            print(e)
 
     def stem(self,data):
         """
         :param data: list of strings
-        :return: list of lemmatized strings
+        :return: list of lemmatized strings,None
         """
 
-        new_data=[]
-        stemmer=PorterStemmer()
-        for file in data:
-            new_file = ""
-            for word in file.split():
-                new_file+=stemmer.stem(word)+" "
-            new_data.append(new_file)
+        try:
+            new_data=[]
+            stemmer=PorterStemmer()
+            for file in data:
+                new_file = ""
+                for word in file.split():
+                    try:
+                        new_file+=stemmer.stem(word)+" "
+                    except:
+                        continue
+                new_data.append(new_file)
+            return new_data
 
-        return new_data
+        except Exception as e:
+            print(e)
 
     def remove_stopwords(self,data):
         """
@@ -142,6 +152,7 @@ class TextTransform(object):
         :param data: dataframe
         :return: dataframe
         """
+
         temp_data = data
         tfidf = TFF(norm='l2',smooth_idf=True,sublinear_tf=True)
         t_data = tfidf.fit_transform(temp_data)
