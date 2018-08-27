@@ -1,14 +1,18 @@
 
 from sklearn.feature_extraction.text import CountVectorizer as CV
 from sklearn.feature_extraction.text import TfidfVectorizer as TF
+from sklearn.feature_extraction.text import TfidfTransformer as TFF
 from nltk.corpus import stopwords
-from nltk.tokenize import wordpunct_tokenize
+
 import pandas as pd
 import glob
 import os
 import gensim
 import nltk
-nltk.download('stopwords')
+#nltk.download('stopwords')
+#nltk.download('wordnet')
+from nltk.stem.wordnet import WordNetLemmatizer
+from nltk.tokenize import wordpunct_tokenize
 """
 
 Module to transform plain text to Term Document Matrix/ TF-IDF Matrix. 
@@ -17,6 +21,7 @@ Algorithm to  convert text of words into BagofWords words model.
 
 1. Remove stopwords
 2. Stem
+   lemmatize
 3. ngrams
 4. generate Countvector/Tfidf vector
 
@@ -28,6 +33,26 @@ class TextTransform(object):
     def __init__(self):
         self.maximum_features = 10000
         self.ngram=2
+
+
+    def lemmatize(self,data):
+        """
+        :param data: list of strings
+        :return: list of lemmatized strings
+        """
+
+        new_data=[]
+        lemmatizer =WordNetLemmatizer()
+        for file in data:
+            new_file = ""
+            for word in file.split():
+                new_file+=lemmatizer.lemmatize(word)+" "
+            new_data.append(new_file)
+
+        return new_data
+
+
+
 
     def remove_stopwords(self,data):
         """
@@ -97,8 +122,17 @@ class TextTransform(object):
         #print(data_frame)
         return tf,data_frame
 
-    def td_to_tfidf(self,data):
-        pass
+    def td_to_tfidf(self,data,column_names):
+        """
+        :param data: dataframe
+        :return: dataframe
+        """
+        temp_data = data
+        tfidf = TFF(norm='l2',smooth_idf=True,sublinear_tf=True)
+        t_data = tfidf.fit_transform(temp_data)
+        tf_dense_matrix = t_data.todense()
+        data = pd.DataFrame(tf_dense_matrix,columns=column_names)
+        return data
 
 if __name__ == "__main__":
      print(gensim.parsing.stem_text("trying writing nonsense"))
@@ -112,4 +146,10 @@ if __name__ == "__main__":
      cv_dense_matrix = cv_sparse_matrix.todense()
      data_frame = pd.DataFrame(cv_dense_matrix, columns=model.get_feature_names())
      print(pd.concat([data_frame,resp],axis=0))
+     obj = TextTransform()
+     obj.td_to_tfidf(None,None)
      '''
+
+     obj = TextTransform()
+     data = ["i am here", "you are there", "lets go to ooty","breaking bad is awesomeness","We are going","feet"]
+     x= obj.lemmatize(data)
