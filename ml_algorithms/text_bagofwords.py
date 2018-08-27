@@ -12,6 +12,7 @@ import nltk
 #nltk.download('stopwords')
 #nltk.download('wordnet')
 from nltk.stem.wordnet import WordNetLemmatizer
+from nltk.stem import PorterStemmer
 from nltk.tokenize import wordpunct_tokenize
 """
 
@@ -20,8 +21,9 @@ Module to transform plain text to Term Document Matrix/ TF-IDF Matrix.
 Algorithm to  convert text of words into BagofWords words model.
 
 1. Remove stopwords
-2. Stem
-   lemmatize
+2. POS tag
+3. lemmatize
+   Stem (After stemming POS wont work)
 3. ngrams
 4. generate Countvector/Tfidf vector
 
@@ -51,8 +53,21 @@ class TextTransform(object):
 
         return new_data
 
+    def stem(self,data):
+        """
+        :param data: list of strings
+        :return: list of lemmatized strings
+        """
 
+        new_data=[]
+        stemmer=PorterStemmer()
+        for file in data:
+            new_file = ""
+            for word in file.split():
+                new_file+=stemmer.stem(word)+" "
+            new_data.append(new_file)
 
+        return new_data
 
     def remove_stopwords(self,data):
         """
@@ -150,6 +165,3 @@ if __name__ == "__main__":
      obj.td_to_tfidf(None,None)
      '''
 
-     obj = TextTransform()
-     data = ["i am here", "you are there", "lets go to ooty","breaking bad is awesomeness","We are going","feet"]
-     x= obj.lemmatize(data)
