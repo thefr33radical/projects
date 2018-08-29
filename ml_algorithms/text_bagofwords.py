@@ -36,7 +36,31 @@ class TextTransform(object):
         self.maximum_features = 10000
         self.ngram=2
 
+    def avg_words(self,data):
+        """
 
+        :param data: list of strings
+        :return: list of avg length of words for each string in list, None
+        """
+        avg_word_len=[]
+        try:
+            for text in data:
+                words=text.split()
+                words_len=len(words)
+                count =0
+                for word in words:
+                    for letter in word:
+                        count+=1
+                avg_word_len.append(count)
+
+            return avg_word_len
+
+        except Exception as e:
+            print(e)
+            return None
+
+
+        pass
     def lemmatize(self,data):
         """
         :param data: list of strings
