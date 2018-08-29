@@ -3,17 +3,12 @@ from sklearn.feature_extraction.text import CountVectorizer as CV
 from sklearn.feature_extraction.text import TfidfVectorizer as TF
 from sklearn.feature_extraction.text import TfidfTransformer as TFF
 from nltk.corpus import stopwords
-
 import pandas as pd
 import glob
 import os
-import gensim
-import nltk
-#nltk.download('stopwords')
-#nltk.download('wordnet')
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.stem import PorterStemmer
-from nltk.tokenize import wordpunct_tokenize
+
 """
 
 Module to transform plain text to Term Document Matrix/ TF-IDF Matrix. 
@@ -51,7 +46,7 @@ class TextTransform(object):
                 for word in words:
                     for letter in word:
                         count+=1
-                avg_word_len.append(count)
+                avg_word_len.append(count/words_len)
 
             return avg_word_len
 
@@ -59,8 +54,6 @@ class TextTransform(object):
             print(e)
             return None
 
-
-        pass
     def lemmatize(self,data):
         """
         :param data: list of strings
@@ -184,8 +177,8 @@ class TextTransform(object):
         data = pd.DataFrame(tf_dense_matrix,columns=column_names)
         return data
 
+
 if __name__ == "__main__":
-     print(gensim.parsing.stem_text("trying writing nonsense"))
 
      '''data=["i am here","you are there","lets go to ooty"]
      test=["breaking bad is awesome"]
@@ -199,4 +192,7 @@ if __name__ == "__main__":
      obj = TextTransform()
      obj.td_to_tfidf(None,None)
      '''
-
+     data = ["i am here", "you are there", "lets go to ooty"]
+     obj = TextTransform()
+     x=obj.avg_words(data)
+     print(x)
