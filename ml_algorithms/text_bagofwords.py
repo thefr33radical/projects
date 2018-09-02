@@ -31,9 +31,20 @@ class TextTransform(object):
         self.maximum_features = 10000
         self.ngram=2
 
-    def avg_words(self,data):
+    def  avg_sentence_length(self,data):
         """
+        :param data: String
+        :return: Float - avg length of sentences, 1.0 on error
+        """
+        try:
+            sentence_list =data.split(".")
+            word_list= data.split()
+        except:
+            return 1.0
+        return len(word_list)/len(sentence_list)
 
+    def avg_words_length(self,data):
+        """
         :param data: list of strings
         :return: list of avg length of words for each string in list, None
         """
@@ -47,9 +58,7 @@ class TextTransform(object):
                     for letter in word:
                         count+=1
                 avg_word_len.append(count/words_len)
-
             return avg_word_len
-
         except Exception as e:
             print(e)
             return None
@@ -79,7 +88,6 @@ class TextTransform(object):
         :param data: list of strings
         :return: list of lemmatized strings,None
         """
-
         try:
             new_data=[]
             stemmer=PorterStemmer()
