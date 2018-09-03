@@ -32,71 +32,71 @@ class TextTransform(object):
         self.maximum_features = 10000
         self.ngram=2
 
-    def tag_noun_pronoun(data):
+    def tag_noun_pronoun(self, data):
         """
-        
-        :return: 
+
+           :param data: String - text
+           :return: String- Text comprising of only, nouns,verbs. Int - Count of nouns/verbs
         """
-            data = unicode(data, errors='ignore')
 
-            candidate_word_list = []
-	    count=0
-            tagged_words = nltk.pos_tag(nltk.word_tokenize(data))
-
-            try:
-                for word, tag in tagged_words:
-
-                    try:
-                        if str(tag[0]).lower() in ['n', 'v']:
-                            if len(word) > 2:
-                                candidate_word_list.append(word)
-				count+=1
-
-                    except:
-                        print
-                        word, tag
-                        continue
-                data = ' '.join(candidate_word_list)
-
-                return data,count
-            except:
-                return None
+        candidate_word_list = []
+        count = 0
+        tagged_words = nltk.pos_tag(nltk.word_tokenize(data))
+        try:
+            for word, tag in tagged_words:
+                try:
+                    if str(tag[0]).lower() in ['n', 'v']:
+                        if len(word) > 2:
+                            candidate_word_list.append(word)
+                        count += 1
+                except:
+                    print(word, tag)
+                    continue
+            data = ' '.join(candidate_word_list)
+            return data, count
         except Exception as e:
-            print
-            e
+            print(e)
             print("error in tagging words")
 
-    def avg_sentence_length(self,data):
+    def avg_sentence_length(self, data):
         """
-        :param data: String
-        :return: Float - avg length of sentences, 1.0 on error
-        """
+        :param data: List-strings
+        :return:  List-avg length of sentences, [1.0] on error        """
+        avg_sentence_list = []
         try:
-            sentence_list =data.split(".")
-            word_list= data.split()
-        except:
-            return 1.0
-        return len(word_list)/len(sentence_list)
+            for doc in data:
+                try:
+                    sentence_list = doc.split(".")
+                    word_list = doc.split()
+                    avg_sentence_list.append(float(len(word_list)) / float(len(sentence_list)))
+                except:
+                    avg_sentence_list.append(1.0)
 
-    def avg_word_length(self,data):
+            return avg_sentence_list
+        except Exception as e:
+            print(e)
+            return [1.0] * len(data)
+
+    def avg_word_length(self, data):
         """
-        :param data: list of strings
-        :return: list of avg length of words for each string in list, None
+        :param data: List -strings
+        :return: List of avg length of words for each doc in list, None
         """
-        avg_word_len=[]
+        avg_word_len = []
         try:
             for text in data:
-                words=text.split()
-                words_len=len(words)
-                count =0
+                words = text.split()
+                words_len = float(len(words))
+                count = 0.0
                 for word in words:
                     for letter in word:
-                        count+=1
-                avg_word_len.append(count/words_len)
+                        count += 1.0
+                avg_word_len.append(count / words_len)
             return avg_word_len
         except Exception as e:
             print(e)
-            return None
+            return [1.0]*len(data)
+
 
     def lemmatize(self,data):
         """
