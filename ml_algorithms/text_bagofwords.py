@@ -6,6 +6,7 @@ from nltk.corpus import stopwords
 import pandas as pd
 import glob
 import os
+import nltk
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.stem import PorterStemmer
 
@@ -31,7 +32,41 @@ class TextTransform(object):
         self.maximum_features = 10000
         self.ngram=2
 
-    def  avg_sentence_length(self,data):
+    def tag_noun_pronoun(data):
+        """
+        
+        :return: 
+        """
+            data = unicode(data, errors='ignore')
+
+            candidate_word_list = []
+	    count=0
+            tagged_words = nltk.pos_tag(nltk.word_tokenize(data))
+
+            try:
+                for word, tag in tagged_words:
+
+                    try:
+                        if str(tag[0]).lower() in ['n', 'v']:
+                            if len(word) > 2:
+                                candidate_word_list.append(word)
+				count+=1
+
+                    except:
+                        print
+                        word, tag
+                        continue
+                data = ' '.join(candidate_word_list)
+
+                return data,count
+            except:
+                return None
+        except Exception as e:
+            print
+            e
+            print("error in tagging words")
+
+    def avg_sentence_length(self,data):
         """
         :param data: String
         :return: Float - avg length of sentences, 1.0 on error
@@ -43,7 +78,7 @@ class TextTransform(object):
             return 1.0
         return len(word_list)/len(sentence_list)
 
-    def avg_words_length(self,data):
+    def avg_word_length(self,data):
         """
         :param data: list of strings
         :return: list of avg length of words for each string in list, None
@@ -106,14 +141,12 @@ class TextTransform(object):
 
     def remove_stopwords(self,data):
         """
-
         :param data: list of strings
         :return: dataframe
         """
         stop_words=set(stopwords.words('english'))
         stop_words.update(['.', ',', '"', "'", '?', '!', ':', ';', '(', ')', '[', ']', '{','@,'
                            '}'])  # remove it if you need punctuation
-
         new_data=[]
         for doc in data:
             words = doc.split()
@@ -127,7 +160,6 @@ class TextTransform(object):
 
     def read_txt_file(self,path):
         """
-
         :param : path to text files
         :return: list of string
         """
@@ -146,7 +178,6 @@ class TextTransform(object):
 
     def transform_td_matrix(self, data):
         """
-
         :param data: list of strings
         :return: dataframe
         """
@@ -160,7 +191,6 @@ class TextTransform(object):
 
     def transform_tfidf_matrix(self,data):
         """
-
         :param data: list of strings
         :return: dataframe
         """
@@ -177,7 +207,6 @@ class TextTransform(object):
         :param data: dataframe
         :return: dataframe
         """
-
         temp_data = data
         tfidf = TFF(norm='l2',smooth_idf=True,sublinear_tf=True)
         t_data = tfidf.fit_transform(temp_data)
