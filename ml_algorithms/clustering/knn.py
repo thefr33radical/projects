@@ -1,7 +1,6 @@
-from sklearn.cluster import KMeans
 
 
-class kmeans(object):
+class Knn(object):
     """
     Implementation of Kmeans algorithm
 
