@@ -2,6 +2,7 @@
 from sklearn.feature_extraction.text import CountVectorizer as CV
 from sklearn.feature_extraction.text import TfidfVectorizer as TF
 from sklearn.feature_extraction.text import TfidfTransformer as TFF
+from sklearn.preprocessing import MinMaxScaler
 from nltk.corpus import stopwords
 import pandas as pd
 import glob
@@ -20,8 +21,12 @@ Algorithm to  convert text of words into BagofWords words model.
 2. POS tag
 3. lemmatize
    Stem (After stemming POS wont work)
-3. ngrams
+3. ngrams 
 4. generate Countvector/Tfidf vector
+5. average sentence length
+6. average word length
+7. average character length/word
+8. average character length/sentence
 
 """
 
@@ -32,13 +37,15 @@ class TextTransform(object):
         self.maximum_features = 10000
         self.ngram=2
 
+
     def tag_noun_pronoun(self, data):
         """
 
-           :param data: String - text
+           :param data: LIST - text documents
            :return: String- Text comprising of only, nouns,verbs. Int - Count of nouns/verbs
         """
 
+        data = [ i for i in data]
         candidate_word_list = []
         count = 0
         tagged_words = nltk.pos_tag(nltk.word_tokenize(data))
@@ -57,6 +64,24 @@ class TextTransform(object):
         except Exception as e:
             print(e)
             print("error in tagging words")
+
+    def avg_character_count_per_word(self, data):
+        """
+               :param data: List-strings
+               :return:  List-avg count of character, [1.0] on error        """
+
+        avg_char_count=[]
+        for  doc in data:
+            word_list = doc.split()
+            char_count=0
+            for word in word_list:
+                try:
+                    char_count+=len(word)
+                except:
+                    continue
+            avg_char_count.append(char_count/len(word_list))
+
+        return  avg_char_count
 
     def avg_sentence_length(self, data):
         """
