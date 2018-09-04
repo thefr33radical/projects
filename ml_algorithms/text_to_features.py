@@ -2,7 +2,6 @@
 from sklearn.feature_extraction.text import CountVectorizer as CV
 from sklearn.feature_extraction.text import TfidfVectorizer as TF
 from sklearn.feature_extraction.text import TfidfTransformer as TFF
-from sklearn.preprocessing import MinMaxScaler
 from nltk.corpus import stopwords
 import pandas as pd
 import glob
@@ -80,7 +79,6 @@ class TextTransform(object):
                 except:
                     continue
             avg_char_count.append(char_count/len(word_list))
-
         return  avg_char_count
 
     def avg_sentence_length(self, data):
@@ -256,5 +254,5 @@ if __name__ == "__main__":
      '''
      data = ["i am here", "you are there", "lets go to ooty"]
      obj = TextTransform()
-     x=obj.avg_words(data)
+     x=obj.avg_character_count_per_word(data)
      print(x)
