@@ -1,6 +1,8 @@
 
 from sklearn.decomposition import PCA
 from sklearn.model_selection import train_test_split
+from ..models_classifciation import MODELS_CLASSIFICATION
+from ..models_regression import MODELS_REGRESSION
 import pandas as pd
 import numpy as np
 
@@ -70,3 +72,47 @@ class FeatureSelection(object):
         output = pd.DataFrame(l)
         # All the models score with model name is stored in a csv file
         output.to_csv("output_score.csv", sep=",")
+
+    def pca_model_classification(self, train_input, test_input, train_output, test_output):
+            """
+            PCA model to generate and select the best features
+
+            :param train_input:
+            :param test_input:
+            :param train_output:
+            :param test_output:
+            :return:
+            """
+            count_of_features = len(train_input.columns)
+            global_r2_score = 0
+            global_mean_score = 999999
+
+            l = []
+            # MODELS_GENERAL comprises of models that are used to train newly constructed features.
+            for model in MODELS_CLASSIFICATION:
+                for i in range(1, count_of_features):
+                    selector = PCA(n_components=i)
+                    selector = selector.fit(train_input, train_output)
+
+                    temp_train_input = selector.transform(train_input)
+                    temp_test_input = selector.transform(test_input)
+
+                    # Ensemble models with KFOLD
+
+                    model_name = str(model)
+                    model.fit(temp_train_input, train_output)
+                    pred = model.predict(temp_test_input)
+                    temp = {"MODEL_NAME": model_name[:7], " DIMENSION": i,
+                            "RMSE": np.sqrt(mean_squared_error(test_output, pred)),
+                            " R2_SCORE ": r2_score(test_output, pred)}
+                    l.append(temp)
+
+                    if global_mean_score > np.sqrt(
+                            mean_squared_error(test_output, pred)) and global_r2_score < r2_score(
+                            test_output, pred):
+                        global_mean_score = np.sqrt(mean_squared_error(test_output, pred))
+                        global_r2_score = r2_score(test_output, pred)
+
+            output = pd.DataFrame(l)
+            # All the models score with model name is stored in a csv file
+            output.to_csv("output_score.csv", sep=",")
