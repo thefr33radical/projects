@@ -3,6 +3,11 @@ from sklearn.decomposition import PCA
 from sklearn.model_selection import train_test_split
 from ..models_classifciation import MODELS_CLASSIFICATION
 from ..models_regression import MODELS_REGRESSION
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.neighbors import KNeighborsClassifier
+from  sklearn.linear_model import LogisticRegression
+from sklearn.svm import SVC
 import pandas as pd
 import numpy as np
 
@@ -24,7 +29,7 @@ class FeatureSelection(object):
         :param dataset: pandas dataframe
         :return: train/test split data
         """
-        data=dataset[:,:-1]
+        data=dataset[:,:-2]
         y=dataset[:,-1]
         train_input, test_input, train_output, test_output = train_test_split(data, y, test_size=0.3,
                                                                               shuffle=True)
@@ -72,6 +77,35 @@ class FeatureSelection(object):
         output = pd.DataFrame(l)
         # All the models score with model name is stored in a csv file
         output.to_csv("output_score.csv", sep=",")
+
+    def classifiers(self, train_input, test_input, train_output, test_output):
+	mnb_classifier = MultinomialNB()
+	rf_classifier = RandomForestClassifier(n_estimators=100, oob_score=True, criterion="entropy", n_jobs=-1,
+                                                    random_state=50,
+                                                    max_depth=200)
+	knn_classifier = KNeighborsClassifier()
+	svc_classifier = SVC(probability=True, kernel="linear")
+	lr_classifier = LogisticRegression(n_jobs=-1)
+	
+	mnb_classifier.fit(train_input,train_output)
+	rf_classifier.fit(train_input,train_output)
+	knn_classifier.fit(train_input,train_output)
+	svc_classifier.fit(train_input,train_output)
+	lr_classifier.fit(train_input,train_output)
+
+	return accuracy_score(test_output,mnb_classifier.predict(test_input))* 100,
+	accuracy_score(test_output,rf_classifier.predict(test_input))* 100,
+	accuracy_score(test_output,knn_classifier.predict(test_input))* 100,
+	accuracy_score(test_output,svc_classifier.predict(test_input))* 100,
+	accuracy_score(test_output,lr_classifier.predict(test_input))* 100
+	
+
+	
+
+        
+
+    def ensemble_regression(self, train_input, test_input, train_output, test_output):
+        pass
 
     def pca_model_classification(self, train_input, test_input, train_output, test_output):
             """
