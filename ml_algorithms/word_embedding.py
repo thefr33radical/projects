@@ -44,6 +44,25 @@ class WordEmbedding(object):
             vocab.update((doc.split()))
         return vocab
 
+    def search(self,word1,word2,dataset,c_size):
+        """
+
+        :param word1: string
+        :param word2: string
+        :param dataset: list of strings
+        :param c_size: int
+        :return: int
+        """
+        count =0
+        for doc in dataset:
+            word_list = doc.split()
+
+            if word1 in word_list:
+                if word2 in word_list:
+                    if(word_list.index(word2) - word_list.index(word1) <=c_size):
+                        count+=1
+        return count
+
     def co_occurence(self,dataset,stop_word_condition,context_window_size):
         """
         :param datset: list of strings
@@ -67,16 +86,13 @@ class WordEmbedding(object):
         for i in indexes:
             counter = 0
             for c in columns:
-                counter = self.search(i,j,dataset)
-                co_matrix[i][j]=counter
+                counter = self.search(i,c,dataset,context_window_size)
+                co_matrix[i][c]=counter
                 counter = 0
-
-
-
         print(co_matrix)
 
 
 if __name__=="__main__":
-    data = ["i am here", "you are there", "lets go to ooty"]
+    data = ["i am here", "you are there", "lets go to ooty","lets go to ooty","lets go to ooty","you are there"]
     obj = WordEmbedding()
     obj.co_occurence(data,True,3)
