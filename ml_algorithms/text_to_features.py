@@ -164,21 +164,19 @@ class TextTransform(object):
 
     def remove_stopwords(self,data):
         """
-        :param data: list of strings
-        :return: dataframe
+        :param data: string
+        :return: string
         """
         stop_words=set(stopwords.words('english'))
         stop_words.update(['.', ',', '"', "'", '?', '!', ':', ';', '(', ')', '[', ']', '{','@,'
                            '}'])  # remove it if you need punctuation
-        new_data=[]
-        for doc in data:
-            words = doc.split()
-            new_word=""
-            for word in words:
-                if word.lower() not in stop_words:
-                    new_word+=" "+word.lower()
+        sentence=data.split()
+        for word in sentence:
+            if word.lower() in stop_words:
+                sentence.remove(word)
 
-            new_data.append(new_word)
+        new_data = " ".join(sentence)
+
         return new_data
 
     def read_txt_file(self,path):
@@ -254,5 +252,7 @@ if __name__ == "__main__":
      '''
      data = ["i am here", "you are there", "lets go to ooty"]
      obj = TextTransform()
-     x=obj.avg_character_count_per_word(data)
-     print(x)
+     for i in data:
+         print(obj.remove_stopwords(i))
+     #x=obj.avg_character_count_per_word(data)
+     #print(x)
