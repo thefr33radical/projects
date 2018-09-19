@@ -6,13 +6,14 @@ class FeatureAnalysis(object):
     def __init(self):
         pass
 
-
     def compute_SD(self,data):
         """
         1. compute mean M
         2. Z= ((X-M)^2) for each X
         3. Var = Mean(Z)
         4. SD= sqrt(Var)
+
+        Bessel's Correction needed if we are computing SD for a sample
 
         :param data: list of numbers
         :return: float
@@ -22,11 +23,11 @@ class FeatureAnalysis(object):
             total+=i
         mean_val = total/len(data)
 
-        variance= 0
+        Z= 0
         for i in data:
-            variance+=(i - mean_val) * ( i - mean_val)
+            Z+=(i - mean_val) * ( i - mean_val)
 
-        variance = variance/len(data)
+        variance = Z/len(data)
         std_dev = math.sqrt(variance)
         print(std_dev)
         return std_dev
