@@ -9,8 +9,13 @@ class FeatureAnalysis(object):
 
     def compute_SD(self,data):
         """
+        1. compute mean M
+        2. Z= ((X-M)^2) for each X
+        3. Var = Mean(Z)
+        4. SD= sqrt(Var)
+
         :param data: list of numbers
-        :return:
+        :return: float
         """
         total=0
         for i in data:
