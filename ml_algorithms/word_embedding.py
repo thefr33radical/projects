@@ -21,8 +21,9 @@ class WordEmbedding(object):
         :return: string
         """
         stop_words = set(stopwords.words('english'))
-        stop_words.update(['.', ',', '"', "'", '?', '!', ':', ';', '(', ')', '[', ']', '{', '@,'
-                                                                                            '}'])  # remove it if you need punctuation
+        stop_words.update(['.', ',', '"', "'", '?', '!', ':', ';', '(', ')', '[', ']', '{', '@','}'])
+        # remove it if you need punctuation
+
         sentence = data.split()
         for word in sentence:
             if word.lower() in stop_words:
@@ -65,6 +66,8 @@ class WordEmbedding(object):
 
     def co_occurence(self,dataset,stop_word_condition,context_window_size):
         """
+        Function to build co occurnence matrix
+
         :param datset: list of strings
         :return: pandas dataframe comprising of co occurence matrix
         """
@@ -90,6 +93,7 @@ class WordEmbedding(object):
                 co_matrix[i][c]=counter
                 counter = 0
         print(co_matrix)
+        return co_matrix
 
 
 if __name__=="__main__":

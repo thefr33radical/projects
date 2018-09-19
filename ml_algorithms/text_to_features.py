@@ -36,7 +36,6 @@ class TextTransform(object):
         self.maximum_features = 10000
         self.ngram=2
 
-
     def tag_noun_pronoun(self, data):
         """
 
