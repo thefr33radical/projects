@@ -1,5 +1,5 @@
 from sklearn.decomposition import PCA
-from sklearn.model_selection import train_test_split
+
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.neighbors import KNeighborsClassifier
@@ -8,36 +8,10 @@ from sklearn.metrics import accuracy_score
 from sklearn.svm import SVC
 import pandas as pd
 import numpy as np
+import random
 
 
 class FeatureSelection(object):
-
-    def read_data(self, path):
-        """
-        Read data from CSV file
-        :param path: string
-        :return: pandas dataframe
-        """
-        dataset = pd.read_csv(path, low_memory=False)
-        return dataset
-
-    def split_dataset(self, dataset):
-        """
-        Fucnction to split datset into train & test sets
-        :param dataset: pandas dataframe
-        :return: train/test split data
-        """
-        data = dataset.iloc[:, :-2]
-        y = dataset.iloc[:, -1]
-
-
-        data = data.replace([np.inf, -np.inf], np.nan).dropna(axis=1)
-        data = data.replace({np.nan: 0})
-
-        data = data.fillna(0)
-        train_input, test_input, train_output, test_output = train_test_split(data, y, test_size=0.3,
-                                                                              shuffle=True)
-        return train_input, test_input, train_output, test_output
 
     def pca_model_regression(self, train_input, test_input, train_output, test_output):
         """
@@ -124,8 +98,6 @@ class FeatureSelection(object):
         :return: None
         """
         count_of_features = len(train_input.columns)
-        global_r2_score = 0
-        global_mean_score = 999999
 
         l = []
         # MODELS_GENERAL comprises of models that are used to train newly constructed features.
@@ -139,14 +111,15 @@ class FeatureSelection(object):
             # Ensemble models with KFOLD
             l.append(self.train_classifiers(temp_train_input, temp_test_input, train_output, test_output, count))
             count+=step_size
-        l.append(self.train_classifiers(temp_train_input, temp_test_input, train_output, test_output, count_of_features))
+        l.append(self.train_classifiers(train_input, test_input, train_output, test_output, count_of_features))
         output = pd.DataFrame(l)
         # All the models score with model name is stored in a csv file
         output.to_csv("output_score.csv", sep=",")
 
-
+'''
 if __name__ == "__main__":
     obj = FeatureSelection()
     dataset = obj.read_data("path")
     train_input, test_input, train_output, test_output = obj.split_dataset(dataset)
     obj.pca_model_classification(train_input, test_input, train_output, test_output, 25)
+'''
