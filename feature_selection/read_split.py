@@ -12,8 +12,12 @@ class ReadSplit(object):
         :param path: string
         :return: pandas dataframe
         """
-        dataset = pd.read_csv(path, low_memory=False)
-        return dataset
+
+        try:
+            dataset = pd.read_csv(path, low_memory=False)
+            return dataset
+        except Exception as e:
+            print(e)
 
     def select_rows(self,dataframe, n):
         """
@@ -31,8 +35,7 @@ class ReadSplit(object):
         for i in sample_rows:
             new_data = new_data.append(dataframe.iloc[i])
 
-        print
-        "new_data_rows", len(new_data)
+        print("new_data_rows", len(new_data))
         return new_data
 
     def split_dataset(self, dataset):
