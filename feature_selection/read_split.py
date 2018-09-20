@@ -19,7 +19,7 @@ class ReadSplit(object):
         except Exception as e:
             print(e)
 
-    def select_rows(self,dataframe, n):
+    def undersampling(self,dataframe, n):
         """
         Function returns randomly selected rows from a dataframe
 
@@ -38,7 +38,7 @@ class ReadSplit(object):
         print("new_data_rows", len(new_data))
         return new_data
 
-    def multiply_rows(self,dataset,n):
+    def oversampling(self,dataset,n):
         """
                Function returns randomly selected rows from a dataframe
 
@@ -46,6 +46,12 @@ class ReadSplit(object):
                :param n: n number of rows
                :return: pandas dataframe
                """
+        length = len(dataset)
+        initial_copy= dataset.copy(deep=True)
+        while (len(dataset)< n):
+            dataset =dataset.append(initial_copy)
+
+
 
         pass
 
@@ -64,11 +70,11 @@ class ReadSplit(object):
             return None,None,None,None
 
         if len(one) > len(zero):
-            one = self.select_rows(one,len(zero))
+            one = self.undersampling(one,len(zero))
             dataset = pd.concat([one,zero])
 
         elif len(one) < len(zero):
-            zero =self.select_rows(zero, len(one))
+            zero =self.undersampling(zero, len(one))
             dataset = pd.concat([one, zero])
             '''
 
