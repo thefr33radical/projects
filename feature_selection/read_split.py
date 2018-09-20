@@ -38,6 +38,17 @@ class ReadSplit(object):
         print("new_data_rows", len(new_data))
         return new_data
 
+    def multiply_rows(self,dataset,n):
+        """
+               Function returns randomly selected rows from a dataframe
+
+               :param dataframe: pandas dataframe
+               :param n: n number of rows
+               :return: pandas dataframe
+               """
+
+        pass
+
     def split_dataset(self, dataset):
         """
         Fucnction to split datset into train & test sets
@@ -45,9 +56,9 @@ class ReadSplit(object):
         :return: train/test split data
         """
         # Handling unequal classes
-        one = dataset.loc[dataset.iloc[:, -1] == 1]
-        zero = dataset.loc[dataset.iloc[:, -1] == 0]
-
+        '''one = dataset.loc[dataset.iloc[:,-1] == 1]
+        zero = dataset.loc[dataset.iloc[:,-1] == 0]
+        print(    "one",len(one),"zero",len( zero))
         if len(one) == 0 or len( zero) == 0:
             print(" Classes need to be at least two")
             return None,None,None,None
@@ -59,6 +70,7 @@ class ReadSplit(object):
         elif len(one) < len(zero):
             zero =self.select_rows(zero, len(one))
             dataset = pd.concat([one, zero])
+            '''
 
         data = dataset.iloc[:, :-2]
         y = dataset.iloc[:, -1]

@@ -1,5 +1,4 @@
 from sklearn.decomposition import PCA
-
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.neighbors import KNeighborsClassifier
@@ -87,7 +86,6 @@ class FeatureSelection(object):
                                  "LR":accuracy_score(test_output, lr_classifier.predict(test_input)) * 100
             }
 
-
     def pca_model_classification(self, train_input, test_input, train_output, test_output, step_size):
         """
         PCA model to generate and select the best features
@@ -101,7 +99,7 @@ class FeatureSelection(object):
 
         l = []
         # MODELS_GENERAL comprises of models that are used to train newly constructed features.
-        count = 100
+        count = 10
         while count < count_of_features:
             selector = PCA(n_components=count)
             selector = selector.fit(train_input, train_output)
@@ -111,8 +109,10 @@ class FeatureSelection(object):
             # Ensemble models with KFOLD
             l.append(self.train_classifiers(temp_train_input, temp_test_input, train_output, test_output, count))
             count+=step_size
+
         l.append(self.train_classifiers(train_input, test_input, train_output, test_output, count_of_features))
         output = pd.DataFrame(l)
+        print(output.head())
         # All the models score with model name is stored in a csv file
         output.to_csv("output_score.csv", sep=",")
 

@@ -1,5 +1,6 @@
-from feature_selection import  pca
+from feature_selection import  pca,read_split
 from feature_selection import  rfe
+
 
 
 class FraudDetection(object):
@@ -9,13 +10,17 @@ class FraudDetection(object):
         pass
 
     def compute(self,path):
-        obj =pca.FeatureSelection()
+        obj1 = read_split.ReadSplit()
+        obj2 =pca.FeatureSelection()
         print("start")
-        dataset = obj.read_data(path)
-        dataset = dataset.iloc[:1000,:]
-        train_input, test_input, train_output, test_output = obj.split_dataset(dataset)
-        obj.pca_model_classification(train_input, test_input, train_output, test_output, 25)
+        dataset = obj1.read_data(path)
+        dataset = dataset.iloc[:10000,:]
+        train_input, test_input, train_output, test_output = obj1.split_dataset(dataset)
+        if train_input is None:
+            return
+        obj2.pca_model_classification(train_input, test_input, train_output, test_output, 10)
         print("complete")
+
 
 if __name__=="__main__":
     fraud = FraudDetection()
