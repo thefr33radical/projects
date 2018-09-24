@@ -46,13 +46,13 @@ class ReadSplit(object):
                :param n: n number of rows
                :return: pandas dataframe
                """
-        length = len(dataset)
+
         initial_copy= dataset.copy(deep=True)
         while (len(dataset)< n):
             dataset =dataset.append(initial_copy)
         return dataset
 
-    def split_dataset(self, dataset):
+    def split_dataset(self, dataset,sampling_type):
         """
         Fucnction to split datset into train & test sets
         :param dataset: pandas dataframe
@@ -75,12 +75,16 @@ class ReadSplit(object):
             dataset = pd.concat([one, zero])
             '''
 
+        if sampling_type == 1:
+            pass
+
+        elif sampling_type ==2:
+            pass
+
         data = dataset.iloc[:, :-2]
         y = dataset.iloc[:, -1]
-
         data = data.replace([np.inf, -np.inf], np.nan).dropna(axis=1)
         data = data.replace({np.nan: 0})
-
         data = data.fillna(0)
         train_input, test_input, train_output, test_output = train_test_split(data, y, test_size=0.2,
                                                                               shuffle=True)

@@ -32,6 +32,9 @@ class FeatureAnalysis(object):
         print(std_dev)
         return std_dev
 
+    def class_distribution(self,dataset):
+
+
     def generate_plots(self,dataset):
 
         pass
