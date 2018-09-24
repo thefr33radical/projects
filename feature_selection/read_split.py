@@ -50,10 +50,7 @@ class ReadSplit(object):
         initial_copy= dataset.copy(deep=True)
         while (len(dataset)< n):
             dataset =dataset.append(initial_copy)
-
-
-
-        pass
+        return dataset
 
     def split_dataset(self, dataset):
         """
