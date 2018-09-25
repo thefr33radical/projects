@@ -58,13 +58,17 @@ class ReadSplit(object):
         data = dataset.iloc[:, :-2]
         y = dataset.iloc[:, -1]
         X_resampled, y_resampled = SMOTE().fit_sample(data, y)
-        new_dataset =pd.concat([X_resampled,y_resampled],axis=1)
+        X_resampled = pd.DataFrame(X_resampled)
+        y_resampled = pd.DataFrame(y_resampled)
+        new_dataset = pd.concat([X_resampled, y_resampled], axis=1)
         return new_dataset
 
     def synthetic_sampling_ADASYN(self,dataset):
         data = dataset.iloc[:, :-2]
         y = dataset.iloc[:, -1]
         X_resampled, y_resampled = ADASYN().fit_sample(data, y)
+        X_resampled = pd.DataFrame(X_resampled)
+        y_resampled = pd.DataFrame(y_resampled)
         new_dataset = pd.concat([X_resampled, y_resampled], axis=1)
         return new_dataset
 
@@ -72,6 +76,8 @@ class ReadSplit(object):
         data = dataset.iloc[:, :-2]
         y = dataset.iloc[:, -1]
         X_resampled, y_resampled = RandomOverSampler(random_state=0).fit_sample(data, y)
+        X_resampled = pd.DataFrame(X_resampled)
+        y_resampled = pd.DataFrame(y_resampled)
         new_dataset = pd.concat([X_resampled, y_resampled], axis=1)
         return new_dataset
 
@@ -112,3 +118,17 @@ class ReadSplit(object):
         train_input, test_input, train_output, test_output = train_test_split(data, y, test_size=0.2,
                                                                               shuffle=True)
         return train_input, test_input, train_output, test_output
+
+if __name__=="__main__":
+    obj =ReadSplit()
+
+    '''l=[[1,2,3,4,0],[2,3,45,6,0],[23,5,4,3,0],[11,2,3,4,0],[1,2,33,4,0],[1,2,3,4,0],[2,3,45,6,0],[23,5,4,3,0],[11,2,3,4,0],[1,2,33,4,0],[1,2,3,4,0],[2,3,45,6,0],[23,5,4,3,0],[11,2,3,4,0],[1,2,33,4,0],[1,12,3,4,0],[1,12,13,34,1],[1,0,3,7,1],[1,12,13,34,1],[1,0,3,7,1],[1,12,13,34,1],[1,0,3,7,1]]
+    dataset = pd.DataFrame(data=l)
+    print(dataset)
+    print(obj.random_oversampler(dataset))
+    print("-----")
+    print(obj.synthetic_sampling_ADASYN(dataset))
+    print("-----")
+    print(obj.synthetic_sampling_SMOTE(dataset))
+    print("-----")
+    '''
