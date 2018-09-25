@@ -1,6 +1,6 @@
 import pandas as pd
 import math
-
+from collections import Counter
 
 class FeatureAnalysis(object):
     def __init(self):
@@ -33,6 +33,16 @@ class FeatureAnalysis(object):
         return std_dev
 
     def class_distribution(self,dataset):
+        x = set(dataset)
+        dist=[]
+        for  i in x:
+            dist.append({str(i):dataset.count(i)})
+
+        z = Counter(dataset)
+        for i in Counter(dataset):
+            print(Counter(dataset))
+
+        print(z[5])
 
 
     def generate_plots(self,dataset):
@@ -42,4 +52,4 @@ class FeatureAnalysis(object):
 
 if __name__=="__main__":
     obj =FeatureAnalysis()
-    obj.compute_SD([9, 2, 5, 4, 12, 7, 8, 11, 9, 3, 7, 4, 12, 5, 4, 10, 9, 6, 9, 4])
+    obj.class_distribution([9, 2, 5, 4, 12, 7, 8, 11, 9, 3, 7, 4, 12, 5, 4, 10, 9, 6, 9, 4])

@@ -1,4 +1,5 @@
 from sklearn.model_selection import train_test_split
+from imblearn.over_sampling import SMOTE, ADASYN
 import  pandas as pd
 import numpy as np
 import random
@@ -51,6 +52,20 @@ class ReadSplit(object):
         while (len(dataset)< n):
             dataset =dataset.append(initial_copy)
         return dataset
+
+    def synthetic_sampling_SMOTE(self,dataset):
+        data = dataset.iloc[:, :-2]
+        y = dataset.iloc[:, -1]
+        X_resampled, y_resampled = SMOTE().fit_sample(data, y)
+        new_dataset =pd.concat([X_resampled,y_resampled],axis=1)
+        return new_dataset
+
+    def synthetic_sampling_ADASYN(self,dataset):
+        data = dataset.iloc[:, :-2]
+        y = dataset.iloc[:, -1]
+        X_resampled, y_resampled = ADASYN().fit_sample(data, y)
+        new_dataset = pd.concat([X_resampled, y_resampled], axis=1)
+        return new_dataset
 
     def split_dataset(self, dataset,sampling_type):
         """
