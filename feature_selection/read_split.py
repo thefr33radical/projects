@@ -1,6 +1,7 @@
 from sklearn.model_selection import train_test_split
 from imblearn.over_sampling import SMOTE, ADASYN
 from imblearn.over_sampling import RandomOverSampler
+from collections import Counter
 import  pandas as pd
 import numpy as np
 import random
@@ -55,6 +56,11 @@ class ReadSplit(object):
         return dataset
 
     def synthetic_sampling_SMOTE(self,dataset):
+        """
+
+        :param dataset:
+        :return:
+        """
         data = dataset.iloc[:, :-2]
         y = dataset.iloc[:, -1]
         X_resampled, y_resampled = SMOTE().fit_sample(data, y)
@@ -64,6 +70,11 @@ class ReadSplit(object):
         return new_dataset
 
     def synthetic_sampling_ADASYN(self,dataset):
+        """
+
+        :param dataset:
+        :return:
+        """
         data = dataset.iloc[:, :-2]
         y = dataset.iloc[:, -1]
         X_resampled, y_resampled = ADASYN().fit_sample(data, y)
@@ -73,6 +84,11 @@ class ReadSplit(object):
         return new_dataset
 
     def random_oversampler(self,dataset):
+        """
+
+        :param dataset:
+        :return:
+        """
         data = dataset.iloc[:, :-2]
         y = dataset.iloc[:, -1]
         X_resampled, y_resampled = RandomOverSampler(random_state=0).fit_sample(data, y)
@@ -81,7 +97,7 @@ class ReadSplit(object):
         new_dataset = pd.concat([X_resampled, y_resampled], axis=1)
         return new_dataset
 
-    def split_dataset(self, dataset,sampling_type):
+    def split_dataset(self, dataset,sampling_type=1):
         """
         Fucnction to split datset into train & test sets
         :param dataset: pandas dataframe
@@ -103,12 +119,18 @@ class ReadSplit(object):
             zero =self.undersampling(zero, len(one))
             dataset = pd.concat([one, zero])
             '''
+        y = dataset.iloc[:, -1]
+        count_predictors = Counter(y)
 
-        if sampling_type == 1:
-            pass
+        if count_predictors[0] < 0.5*count_predictors[1] or count_predictors[0] > 0.5*count_predictors[1]:
+            if sampling_type == 1:
+                dataset = self.random_oversampler(dataset)
 
-        elif sampling_type ==2:
-            pass
+            elif sampling_type ==2:
+                dataset = self.synthetic_sampling_ADASYN(dataset)
+
+            elif sampling_type ==3:
+                dataset =self.synthetic_sampling_SMOTE(dataset)
 
         data = dataset.iloc[:, :-2]
         y = dataset.iloc[:, -1]
@@ -119,12 +141,15 @@ class ReadSplit(object):
                                                                               shuffle=True)
         return train_input, test_input, train_output, test_output
 
+
 if __name__=="__main__":
     obj =ReadSplit()
 
-    '''l=[[1,2,3,4,0],[2,3,45,6,0],[23,5,4,3,0],[11,2,3,4,0],[1,2,33,4,0],[1,2,3,4,0],[2,3,45,6,0],[23,5,4,3,0],[11,2,3,4,0],[1,2,33,4,0],[1,2,3,4,0],[2,3,45,6,0],[23,5,4,3,0],[11,2,3,4,0],[1,2,33,4,0],[1,12,3,4,0],[1,12,13,34,1],[1,0,3,7,1],[1,12,13,34,1],[1,0,3,7,1],[1,12,13,34,1],[1,0,3,7,1]]
+    l=[[1,2,3,4,0],[2,3,45,6,0],[23,5,4,3,0],[11,2,3,4,0],[1,2,33,4,0],[1,2,3,4,0],[2,3,45,6,0],[23,5,4,3,0],[11,2,3,4,0],[1,2,33,4,0],[1,2,3,4,0],[2,3,45,6,0],[23,5,4,3,0],[11,2,3,4,0],[1,2,33,4,0],[1,12,3,4,0],[1,12,13,34,1],[1,0,3,7,1],[1,12,13,34,1],[1,0,3,7,1],[1,12,13,34,1],[1,0,3,7,1]]
     dataset = pd.DataFrame(data=l)
-    print(dataset)
+    #print(dataset)
+
+    '''
     print(obj.random_oversampler(dataset))
     print("-----")
     print(obj.synthetic_sampling_ADASYN(dataset))

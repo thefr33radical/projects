@@ -22,14 +22,12 @@ class FeatureAnalysis(object):
         for i in data:
             total+=i
         mean_val = total/len(data)
-
         Z= 0
         for i in data:
             Z+=(i - mean_val) * ( i - mean_val)
 
         variance = Z/len(data)
         std_dev = math.sqrt(variance)
-        print(std_dev)
         return std_dev
 
     def class_distribution(self,dataset):
@@ -39,11 +37,7 @@ class FeatureAnalysis(object):
             dist.append({str(i):dataset.count(i)})
 
         z = Counter(dataset)
-        for i in Counter(dataset):
-            print(Counter(dataset))
-
-        print(z[5])
-
+        return z
 
     def generate_plots(self,dataset):
 
