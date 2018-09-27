@@ -1,8 +1,6 @@
 from feature_selection import  pca,read_split
 from feature_selection import  rfe
 
-
-
 class FraudDetection(object):
 
     def __init__(self):
@@ -24,4 +22,4 @@ class FraudDetection(object):
 
 if __name__=="__main__":
     fraud = FraudDetection()
-    fraud.compute("/home/kuliza227/github/projects/fraud_detection/data/creditcard.csv")
+    fraud.compute("")

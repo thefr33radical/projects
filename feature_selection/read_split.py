@@ -132,7 +132,8 @@ if __name__=="__main__":
 
     l=[[1,2,3,4,0],[2,3,45,6,0],[23,5,4,3,0],[11,2,3,4,0],[1,2,33,4,0],[1,2,3,4,0],[2,3,45,6,0],[23,5,4,3,0],[11,2,3,4,0],[1,2,33,4,0],[1,2,3,4,0],[2,3,45,6,0],[23,5,4,3,0],[11,2,3,4,0],[1,2,33,4,0],[1,12,3,4,0],[1,12,13,34,1],[1,0,3,7,1],[1,12,13,34,1],[1,0,3,7,1],[1,12,13,34,1],[1,0,3,7,1]]
     dataset = pd.DataFrame(data=l)
-    #print(dataset)
+    dataset= pd.read_csv('/home/kuliza227/github/projects/fraud_detection/data/PS_20174392719_1491204439457_log.csv',low_memory=False,index = False)
+    print(len(dataset.columns.values),len(dataset),dataset)
 
     '''
     print(obj.random_oversampler(dataset))

@@ -1,6 +1,8 @@
 import pandas as pd
 import math
 from collections import Counter
+import matplotlib.pyplot as plt
+import numpy as np
 
 class FeatureAnalysis(object):
     def __init(self):
@@ -39,11 +41,44 @@ class FeatureAnalysis(object):
         z = Counter(dataset)
         return z
 
-    def generate_plots(self,dataset):
-
+    def regression_plots(self,dataset):
+        """
+        Function to plot continious plots
+        :param dataset: dataframe
+        :return:
+        """
         pass
 
+    def categorical_plots(self,dataset):
+        """
+        Function to plot categorical features
+        :param dataset:
+        :return: None
+        """
+
+        plt.rcdefaults()
+        fig, ax = plt.subplots()
+        variables = Counter(dataset["feature"])
+
+        names = list(variables.keys())
+        values = list(variables.values())
+        y_pos = np.arange(min(names), max(names) + 1)
+        print(names, values)
+
+        ax.barh(names, values, color='blue', align='center')
+        ax.set_yticks(y_pos)
+        ax.set_yticklabels(names)
+        ax.invert_yaxis()  # labels read top-to-bottom
+        ax.set_xlabel("COUNTS")
+        ax.set_title(dataset.columns.values[0])
+
+        plt.show()
 
 if __name__=="__main__":
-    obj =FeatureAnalysis()
-    obj.class_distribution([9, 2, 5, 4, 12, 7, 8, 11, 9, 3, 7, 4, 12, 5, 4, 10, 9, 6, 9, 4])
+    #obj =FeatureAnalys
+    np.random.seed(19680801)
+
+    dataset = pd.DataFrame([9, 2, 5, 4, 12, 7, 8, 11, 9, 3, 7, 4, 12, 5, 4, 10, 9, 6, 9, 4],columns=["feature"])
+
+
+    #obj.class_distribution([9, 2, 5, 4, 12, 7, 8, 11, 9, 3, 7, 4, 12, 5, 4, 10, 9, 6, 9, 4])
