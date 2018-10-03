@@ -48,23 +48,53 @@ class FeatureAnalysis(object):
         :param dataset: dataframe
         :return:
         """
-        pass
+        variables = Counter(dataset.iloc[:, 0])
+        names = list(variables.keys())
+        values = list(variables.values())
 
-    def categorical_plots(self,dataset):
+        fig, ax = plt.subplots()
+        ax.scatter(names, values,color="black")
+        ax.plot(names, values,color="red")
+
+        ax.set(xlabel="NA", ylabel='NA',
+               title=dataset.columns.values[0])
+        ax.grid()
+
+        fig.savefig(dataset.columns.values[0]+".png")
+        plt.show()
+
+
+    def categorical_pie(self,dataset):
+        """
+
+        :param dataset:
+        :return:
+        """
+
+        variables = Counter(dataset.iloc[:, 0])
+        names = list(variables.keys())
+        values = list(variables.values())
+
+        fig, ax = plt.subplots()
+        ax.pie(values, labels=names, autopct='%1.1f%%', startangle=0)
+        ax.axis('equal')
+        plt.show()
+
+    def categorical_bar(self,dataset):
         """
         Function to plot categorical features
         :param dataset:
         :return: None
         """
 
-        plt.rcdefaults()
-        fig, ax = plt.subplots()
-        variables = Counter(dataset["feature"])
+        variables = Counter(dataset.iloc[:,0])
 
         names = list(variables.keys())
         values = list(variables.values())
         y_pos = np.arange(min(names), max(names) + 1)
 
+        plt.rcdefaults()
+        fig, ax = plt.subplots()
         ax.barh(names, values, color='blue', align='center')
         ax.set_yticks(y_pos)
         ax.set_yticklabels(names)
@@ -80,5 +110,5 @@ if __name__=="__main__":
     obj =FeatureAnalysis()
     dataset = pd.DataFrame([9, 2, 5, 4, 12, 7, 8, 11, 9, 3, 7, 4, 12, 5, 4, 10, 9, 6, 9, 4],columns=["feature"])
 
-    obj.categorical_plots(dataset)
+    obj.regression_plots(dataset)
     #obj.class_distribution([9, 2, 5, 4, 12, 7, 8, 11, 9, 3, 7, 4, 12, 5, 4, 10, 9, 6, 9, 4])
