@@ -34,6 +34,11 @@ class FeatureAnalysis(object):
         return std_dev
 
     def class_distribution(self,dataset):
+        """
+        Function returns the Dictionary of count of classes
+        :param dataset: pandas columns
+        :return: Dict
+        """
         x = set(dataset)
         dist=[]
         for  i in x:
@@ -44,9 +49,9 @@ class FeatureAnalysis(object):
 
     def regression_plots(self,dataset):
         """
-        Function to plot continious plots
+        Function to plot continious values
         :param dataset: dataframe
-        :return:
+        :return: None
         """
         variables = Counter(dataset.iloc[:, 0])
         names = list(variables.keys())
@@ -66,9 +71,9 @@ class FeatureAnalysis(object):
 
     def categorical_pie(self,dataset):
         """
-
+        Function to plot categorical values
         :param dataset:
-        :return:
+        :return: None
         """
 
         variables = Counter(dataset.iloc[:, 0])
