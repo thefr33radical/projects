@@ -68,7 +68,6 @@ class FeatureAnalysis(object):
         fig.savefig(dataset.columns.values[0]+".png")
         plt.show()
 
-
     def categorical_pie(self,dataset):
         """
         Function to plot categorical values
