@@ -1,11 +1,8 @@
 import os
-import pandas as pd
-import pyocr
-from PIL import Image, ImageEnhance, ImageFilter
 import pytesseract
 import cv2
+import numpy as np
 from PIL import Image
-import sys
 
 import pyocr
 import pyocr.builders
@@ -21,6 +18,10 @@ class OCR(object):
         pass
 
     def preprocess_image(self):
+        """
+
+        :return:
+        """
         image = cv2.imread()
 
         # --- dilation on the green channel ---
@@ -36,8 +37,43 @@ class OCR(object):
         pass
 
 
-    def remove_noise(self,img):
-        pass
+    def remove_noise(self,path):
+        """
+        :param path:
+        :return:
+        """
+
+        foldername, filename = os.path.split(path)
+        img = cv2.imread(path, 0)
+        _, blackAndWhite = cv2.threshold(img, 127, 255, cv2.THRESH_BINARY_INV)
+
+        nlabels, labels, stats, centroids = cv2.connectedComponentsWithStats(blackAndWhite, None, None, None, 8,
+                                                                             cv2.CV_32S)
+        sizes = stats[1:, -1]  # get CC_STAT_AREA component
+        img2 = np.zeros((labels.shape), np.uint8)
+
+        for i in range(0, nlabels - 1):
+            if sizes[i] >= 10:  # filter small dotted regions
+                img2[labels == i + 1] = 255
+
+        res = cv2.bitwise_not(img2)
+        cv2.imwrite(foldername+'/result.png', res)
+
+    def convert_grayscale(self,path):
+        """
+
+        :param path:
+        :return:
+        """
+
+        foldername,filename = os.path.split(path)
+
+        x = Image.open(path, 'r')
+        x = x.convert('L')  # makes it greyscale
+        y = np.asarray(x.getdata(), dtype=np.float64).reshape((x.size[1], x.size[0]))
+        y = np.asarray(y, dtype=np.uint8)  # if values still in range 0-255!
+        w = Image.fromarray(y, mode='L')
+        w.save(foldername+'/output.jpg')
 
     def load_image(self):
         """
@@ -57,7 +93,7 @@ class OCR(object):
         # to use.
 
         txt = tool.image_to_string(
-            Image.open('/home/kuliza227/Downloads/demo300.jpg'),
+            Image.open('/home/kuliza227/Downloads/demo3.jpg'),
             lang="eng",
             builder=pyocr.builders.TextBuilder()
         )
@@ -98,10 +134,15 @@ class OCR(object):
         '''
 
 if __name__=="__main__":
+
     obj=OCR()
+    obj.convert_grayscale('/home/kuliza227/Downloads/demo4.jpg')
+    obj.remove_noise('/home/kuliza227/Downloads/output.jpg')
+
+    text = pytesseract.image_to_string(Image.open('/home/kuliza227/Downloads/result.png'),lang="eng")
+    print(text)
     #obj.load_image()
     #img = cv2.imread('/home/kuliza227/Downloads/IMG_4056_sized.jpg', 0)
     #print((img))
-    text = pytesseract.image_to_string(Image.open('/home/kuliza227/Downloads/demo2.jpg'),lang="eng")
-    print(text)
+
     pass
