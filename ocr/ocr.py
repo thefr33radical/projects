@@ -33,9 +33,16 @@ class OCR(object):
         foldername, filename = os.path.split(path)
         img = Image.open(path, 'r')
 
-
+        area = (120,150, 600, 150+100)
+        cropped_img = img.crop(area)
+        cropped_img.show()
+        cropped_img.save(foldername + "/test.jpg")
+        self.convert_grayscale(foldername + "/test.jpg")
+        self.remove_noise(foldername + "/output.jpg")
+        text = pytesseract.image_to_string(Image.open('/home/kuliza227/Downloads/output.jpg'), lang="eng")
+        print(text)
         
-        for i in range(0,12):
+        """for i in range(0,12):
             area = (100, 200+115*i, 1550,(200+115*(i+1)))
             cropped_img = img.crop(area)
             cropped_img.show()
@@ -44,6 +51,7 @@ class OCR(object):
             self.remove_noise(foldername+"/output.jpg")
             text = pytesseract.image_to_string(Image.open('/home/kuliza227/Downloads/result_.png'), lang="eng")
             print(text)
+        """
 
     def preprocess_image(self):
         """
@@ -80,7 +88,7 @@ class OCR(object):
         img2 = np.zeros((labels.shape), np.uint8)
 
         for i in range(0, nlabels - 1):
-            if sizes[i] >=5:  # filter small dotted regions
+            if sizes[i] >=50:  # filter small dotted regions
                 img2[labels == i + 1] = 255
 
         res = cv2.bitwise_not(img2)
@@ -182,8 +190,8 @@ class OCR(object):
 if __name__=="__main__":
     obj=OCR()
 
-    obj.remove_horizontal_lines("/home/kuliza227/IMG_4056_sized.jpg")
-    obj.remove_noise("/home/kuliza227/line_removed.jpg")
+    #obj.remove_horizontal_lines("/home/kuliza227/IMG_4056_sized.jpg")
+    obj.recursive_scanner("/home/kuliza227/IMG_4056_sized.jpg")
    # obj.remove_noise("/home/kuliza227/result.png")
     ##obj.convert_grayscale('/home/kuliza227/Downloads/demo4.jpg')
     #obj.remove_noise('/home/kuliza227/Downloads/output.jpg')
