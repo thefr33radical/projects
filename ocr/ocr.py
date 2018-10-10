@@ -50,7 +50,7 @@ class OCR(object):
 
         :return:
         """
-        image = cv2.imread()
+        image = cv2.imread("/home/kuliza227/IMG_4056_sized.jpg",0)
 
         # --- dilation on the green channel ---
         dilated_img = cv2.dilate(image[:, :, 1], np.ones((7, 7), np.uint8))
@@ -80,7 +80,7 @@ class OCR(object):
         img2 = np.zeros((labels.shape), np.uint8)
 
         for i in range(0, nlabels - 1):
-            if sizes[i] >= 10:  # filter small dotted regions
+            if sizes[i] >=5:  # filter small dotted regions
                 img2[labels == i + 1] = 255
 
         res = cv2.bitwise_not(img2)
@@ -160,10 +160,31 @@ class OCR(object):
         # digits is a python string
         '''
 
-if __name__=="__main__":
+    def remove_horizontal_lines(self,path):
+        """
 
+        :param path:
+        :return:
+        """
+        foldername, filename = os.path.split(path)
+        img = cv2.imread(path)
+        gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+
+        ## (1) Create long line kernel, and do morph-close-op
+        kernel = np.ones((1, 40), np.uint8)
+        morphed = cv2.morphologyEx(gray, cv2.MORPH_CLOSE, kernel)
+        cv2.imwrite("line_detected.png", morphed)
+
+        ## (2) Invert the morphed image, and add to the source image:
+        dst = cv2.add(gray, (255 - morphed))
+        cv2.imwrite(foldername+"/line_removed.jpg", dst)
+
+if __name__=="__main__":
     obj=OCR()
-    obj.recursive_scanner("/home/kuliza227/Downloads/demo4.jpg")
+
+    obj.remove_horizontal_lines("/home/kuliza227/IMG_4056_sized.jpg")
+    obj.remove_noise("/home/kuliza227/line_removed.jpg")
+   # obj.remove_noise("/home/kuliza227/result.png")
     ##obj.convert_grayscale('/home/kuliza227/Downloads/demo4.jpg')
     #obj.remove_noise('/home/kuliza227/Downloads/output.jpg')
 
