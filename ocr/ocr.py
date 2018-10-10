@@ -17,6 +17,34 @@ class OCR(object):
     def __init__(self):
         pass
 
+    def increase_dpi(self,path):
+        """
+
+        :param path:
+        :return:
+        """
+
+    def recursive_scanner(self,path):
+        """
+
+        :param path:
+        :return:
+        """
+        foldername, filename = os.path.split(path)
+        img = Image.open(path, 'r')
+
+
+        
+        for i in range(0,12):
+            area = (100, 200+115*i, 1550,(200+115*(i+1)))
+            cropped_img = img.crop(area)
+            cropped_img.show()
+            cropped_img.save(foldername+"/test.jpg")
+            self.convert_grayscale(foldername+"/test.jpg")
+            self.remove_noise(foldername+"/output.jpg")
+            text = pytesseract.image_to_string(Image.open('/home/kuliza227/Downloads/result_.png'), lang="eng")
+            print(text)
+
     def preprocess_image(self):
         """
 
@@ -35,7 +63,6 @@ class OCR(object):
         norm_img = cv2.normalize(diff_img, None, alpha=0, beta=255, norm_type=cv2.NORM_MINMAX, dtype=cv2.CV_8UC1)
         cv2.imshow('norm_img', cv2.resize(norm_img, (0, 0), fx=0.5, fy=0.5))
         pass
-
 
     def remove_noise(self,path):
         """
@@ -57,7 +84,7 @@ class OCR(object):
                 img2[labels == i + 1] = 255
 
         res = cv2.bitwise_not(img2)
-        cv2.imwrite(foldername+'/result.png', res)
+        cv2.imwrite(foldername+'/result_.png', res)
 
     def convert_grayscale(self,path):
         """
@@ -136,13 +163,9 @@ class OCR(object):
 if __name__=="__main__":
 
     obj=OCR()
-    obj.convert_grayscale('/home/kuliza227/Downloads/demo4.jpg')
-    obj.remove_noise('/home/kuliza227/Downloads/output.jpg')
+    obj.recursive_scanner("/home/kuliza227/Downloads/demo4.jpg")
+    ##obj.convert_grayscale('/home/kuliza227/Downloads/demo4.jpg')
+    #obj.remove_noise('/home/kuliza227/Downloads/output.jpg')
 
-    text = pytesseract.image_to_string(Image.open('/home/kuliza227/Downloads/result.png'),lang="eng")
-    print(text)
-    #obj.load_image()
-    #img = cv2.imread('/home/kuliza227/Downloads/IMG_4056_sized.jpg', 0)
-    #print((img))
-
-    pass
+    #text = pytesseract.image_to_string(Image.open('/home/kuliza227/Downloads/result.png'),lang="eng")
+    #print(text)
