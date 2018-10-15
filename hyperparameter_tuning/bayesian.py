@@ -22,9 +22,7 @@ class Bayseian(object):
         :return: dictionary of results
         """
         mnb_classifier = MultinomialNB()
-        rf_classifier = RandomForestClassifier(n_estimators=100, oob_score=True, criterion="entropy", n_jobs=-1,
-                                               random_state=50,
-                                               max_depth=200)
+        rf_classifier = RandomForestClassifier()
         knn_classifier = KNeighborsClassifier()
         svc_classifier = SVC(probability=True, kernel="linear")
         lr_classifier = LogisticRegression(n_jobs=-1)
