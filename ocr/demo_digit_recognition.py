@@ -5,6 +5,8 @@ import matplotlib.pyplot as plt
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
+from sklearn.metrics import confusion_matrix
+import seaborn as sns
 
 dataset =load_digits()
 
@@ -26,4 +28,11 @@ model = LogisticRegression()
 model.fit(train_x,train_y)
 
 print(accuracy_score(model.predict(test_x[0:15]),test_y[0:15]))
+"""cm = confusion_matrix(test_y, model.predict(test_x))
+plt.figure(figsize=(19,19))
+sns.heatmap(cm, annot=True, fmt=".3f", linewidths=.5, square = True, cmap = 'Blues_r')
+plt.ylabel('Actual label')
+plt.xlabel('Predicted label')
+plt.show()
+"""
 
