@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import confusion_matrix
 import seaborn as sns
-
+from sklearn.ensemble import RandomForestClassifier
 dataset =load_digits()
 
 """
@@ -25,9 +25,12 @@ plt.show()
 train_x,test_x,train_y,test_y = train_test_split(dataset.data,dataset.target,test_size= 0.2)
 
 model = LogisticRegression()
+model2 =RandomForestClassifier()
 model.fit(train_x,train_y)
+model2.fit(train_x,train_y)
 
-print(accuracy_score(model.predict(test_x[0:15]),test_y[0:15]))
+print(test_x[5].shape)
+print((model.predict(test_x[5].reshape(1,64)),test_y[5]))
 """cm = confusion_matrix(test_y, model.predict(test_x))
 plt.figure(figsize=(19,19))
 sns.heatmap(cm, annot=True, fmt=".3f", linewidths=.5, square = True, cmap = 'Blues_r')
@@ -36,3 +39,11 @@ plt.xlabel('Predicted label')
 plt.show()
 """
 
+pre={}
+#print(model.predict(test_x[5].reshape(1,64))[0])
+pre[model.predict(test_x[6].reshape(1,-1))[0]] = np.max(model.predict_proba(test_x[6].reshape(1,64)))
+pre[model2.predict(test_x[6].reshape(1,64))[0]] = np.amax(model2.predict_proba(test_x[6].reshape(1,64)))
+print(pre, max(pre.items())[0])
+
+
+print(np.argmax(model.predict_proba(test_x[5].reshape(1,64))))
