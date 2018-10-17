@@ -39,11 +39,23 @@ plt.xlabel('Predicted label')
 plt.show()
 """
 
-pre={}
-#print(model.predict(test_x[5].reshape(1,64))[0])
-pre[model.predict(test_x[6].reshape(1,-1))[0]] = np.max(model.predict_proba(test_x[6].reshape(1,64)))
-pre[model2.predict(test_x[6].reshape(1,64))[0]] = np.amax(model2.predict_proba(test_x[6].reshape(1,64)))
-print(pre, max(pre.items())[0])
+pre=[]
 
+
+#print(model.predict(test_x[5].reshape(1,64))[0])
+pre.append ( (model.predict(test_x[6].reshape(1,-1))[0],np.max(model.predict_proba(test_x[6].reshape(1,64))) ))
+pre.append ( (model2.predict(test_x[6].reshape(1,-1))[0],np.max(model2.predict_proba(test_x[6].reshape(1,64))) ))
+print(pre)
+
+maximum = pre[0][1]
+
+max_class=0
+
+for i in pre:
+            if i[1]> maximum:
+                max_class=i[0]
+                maximum=i[1]
+
+print( maximum, max_class)
 
 print(np.argmax(model.predict_proba(test_x[5].reshape(1,64))))
