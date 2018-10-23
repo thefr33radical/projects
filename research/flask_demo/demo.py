@@ -1,12 +1,8 @@
 from flask import jsonify,Flask
 
+app = Flask(__name__)
 
-class Demo(object):
-    """
-        Flask Demo Server
-
-    """
-    def names(self):
+def names():
         """
 
         :return:
@@ -14,16 +10,29 @@ class Demo(object):
         data = {"names": ["John", "Jacob", "Julie", "Jennifer"]}
         return jsonify(data)
 
-    def welcome(self):
+def welcome():
         return "<H1> Welcome!!!!!!!!!!!!! </H1>"
 
 
-obj = Demo()
+if __name__ =="__main__":
+	
+	
+	app.run(debug=True)
+	app.add_url_rule("/names","names",names,methods=["GET"])
+	app.add_url_rule("/","/",welcome,methods=["GET"])
+
+
+from flask import Flask, Response
+
+
 app = Flask(__name__)
-app.add_url_rule("/names","names",obj.names,methods=["GET"])
-app.add_url_rule("/","/",obj.welcome,methods=["GET"])
-app.run(debug=True,host='0.0.0.0')
+
+@app.route("/")
+def index():
+    return Response("It works!"), 200
+
+if __name__ == "__main__":
+    app.run(debug=True)
+	
 
 
-if __name__ == '__main__':
-    obj = Demo()
