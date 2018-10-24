@@ -40,32 +40,32 @@ class FeatureAnalysis(object):
         :return: Dict
         """
         x = set(dataset)
+        print(x)
         dist=[]
-        for  i in x:
-            dist.append({str(i):dataset.count(i)})
 
         z = Counter(dataset)
+        print(z)
         return z
 
-    def regression_plots(self,dataset):
+    def regression_plots(self,dataset,count_features,feature_name):
         """
         Function to plot continious values
         :param dataset: dataframe
         :return: None
         """
-        variables = Counter(dataset.iloc[:, 0])
-        names = list(variables.keys())
-        values = list(variables.values())
+
+        names = list(count_features.keys())
+        values = list(count_features.values())
 
         fig, ax = plt.subplots()
         ax.scatter(names, values,color="black")
         ax.plot(names, values,color="red")
 
         ax.set(xlabel="NA", ylabel='NA',
-               title=dataset.columns.values[0])
+               title=feature_name)
         ax.grid()
 
-        fig.savefig(dataset.columns.values[0]+".png")
+        fig.savefig(feature_name+".png")
         plt.show()
 
     def categorical_pie(self,dataset):
@@ -82,19 +82,18 @@ class FeatureAnalysis(object):
         fig, ax = plt.subplots()
         ax.pie(values, labels=names, autopct='%1.1f%%', startangle=0)
         ax.axis('equal')
+        plt.savefig(dataset.columns.values[0] + ".png")
         plt.show()
 
-    def categorical_bar(self,dataset):
+    def categorical_bar(self,dataset,count_features,feature_name):
         """
         Function to plot categorical features
         :param dataset:
         :return: None
         """
 
-        variables = Counter(dataset.iloc[:,0])
-
-        names = list(variables.keys())
-        values = list(variables.values())
+        names = list(count_features.keys())
+        values = list(count_features.values())
         y_pos = np.arange(min(names), max(names) + 1)
 
         plt.rcdefaults()
@@ -104,15 +103,31 @@ class FeatureAnalysis(object):
         ax.set_yticklabels(names)
         ax.invert_yaxis()  # labels read top-to-bottom
         ax.set_xlabel("COUNTS")
-        ax.set_title(dataset.columns.values[0])
+        ax.set_title(feature_name)
 
-        plt.savefig(dataset.columns.values[0]+".png")
+        plt.savefig(feature_name+".png")
         plt.show()
+
+
+    def choose_plot(self,dataset):
+        """
+
+        :param dataset:
+        :return:
+        """
+
+        for i in dataset:
+            count_features = self.class_distribution(dataset[i])
+            if len(count_features.keys()) > 10:
+                self.regression_plots(dataset[i],count_features,i)
+            else:
+                self.categorical_bar(dataset[i],count_features,i)
+                self.categorical_pie(dataset[i],count_features,i)
 
 
 if __name__=="__main__":
     obj =FeatureAnalysis()
     dataset = pd.DataFrame([9, 2, 5, 4, 12, 7, 8, 11, 9, 3, 7, 4, 12, 5, 4, 10, 9, 6, 9, 4],columns=["feature"])
 
-    obj.regression_plots(dataset)
+    obj.choose_plot(dataset)
     #obj.class_distribution([9, 2, 5, 4, 12, 7, 8, 11, 9, 3, 7, 4, 12, 5, 4, 10, 9, 6, 9, 4])
