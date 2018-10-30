@@ -14,6 +14,12 @@ class PerfMetric(object):
             :return:
             """
 
+            sensitivity = 0.0
+            specificity = 0.0
+            precesion = 0.0
+
+
+
         def auc(self,predicted_output,actual_output):
             """
 
