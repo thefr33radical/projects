@@ -68,21 +68,21 @@ class FeatureAnalysis(object):
         fig.savefig(feature_name+".png")
         plt.show()
 
-    def categorical_pie(self,dataset):
+    def categorical_pie(self,dataset,count_features,feature_name):
         """
         Function to plot categorical values
         :param dataset:
         :return: None
         """
 
-        variables = Counter(dataset.iloc[:, 0])
-        names = list(variables.keys())
-        values = list(variables.values())
+        names = list(count_features.keys())
+        values = list(count_features.values())
 
         fig, ax = plt.subplots()
-        ax.pie(values, labels=names, autopct='%1.1f%%', startangle=0)
+        ax.set(title=feature_name)
+        ax.pie(values, labels=names, autopct='%1.1f%%', startangle=0,)
         ax.axis('equal')
-        plt.savefig(dataset.columns.values[0] + ".png")
+        plt.savefig(feature_name+".png")
         plt.show()
 
     def categorical_bar(self,dataset,count_features,feature_name):
@@ -108,7 +108,6 @@ class FeatureAnalysis(object):
         plt.savefig(feature_name+".png")
         plt.show()
 
-
     def choose_plot(self,dataset):
         """
 
@@ -118,7 +117,7 @@ class FeatureAnalysis(object):
 
         for i in dataset:
             count_features = self.class_distribution(dataset[i])
-            if len(count_features.keys()) > 10:
+            if len(count_features.keys()) > 20:
                 self.regression_plots(dataset[i],count_features,i)
             else:
                 self.categorical_bar(dataset[i],count_features,i)

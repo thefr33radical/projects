@@ -13,7 +13,6 @@ class PerfMetric(object):
 
     class Classification(object):
 
-
         def confusion_matrix(self,actual_output,predicted_output):
             """
             Function to Compute Precesion, Accuracy, Sensitivity, Specificity
@@ -56,15 +55,6 @@ class PerfMetric(object):
             """
             return log_loss(actual_output,proba_output)
 
-        def auc(self,predicted_output,actual_output):
-            """
-
-            :param predicted_output:
-            :param actual_output:
-            :return:
-            """
-
-        pass
 
 if __name__ =="__main__":
     obj = PerfMetric()
