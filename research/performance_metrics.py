@@ -1,5 +1,6 @@
 
 from sklearn.metrics import confusion_matrix
+from sklearn.metrics import  log_loss
 
 
 class PerfMetric(object):
@@ -44,11 +45,16 @@ class PerfMetric(object):
 
             return precesion, accuracy, f1_score, sensitivity, specificity
 
-        def log_loss(self,):
+        def log_loss(self,actual_output, proba_output):
             """
+            Function to compute log loss
 
-            :return:
+            log loss = (-1/N) * (  [ 1~N Samples ] [ 1~M Classes ] Actual_ij * Proba_ij )
+
+
+            :return logloss float
             """
+            return log_loss(actual_output,proba_output)
 
         def auc(self,predicted_output,actual_output):
             """
