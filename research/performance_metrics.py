@@ -70,3 +70,4 @@ if __name__ =="__main__":
     obj = PerfMetric()
     class_obj = obj.Classification()
     class_obj.confusion_matrix([1,1,1,1,1,0,0,0,0,0],[0,0,1,1,1,0,0,0,0,1])
+    print(class_obj.log_loss([1,1,1,0,0],[[.2,.8],[.3,.7],[.6,.4],[.8,.2],[.8,.2]]))
