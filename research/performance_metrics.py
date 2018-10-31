@@ -1,12 +1,19 @@
 
 from sklearn.metrics import confusion_matrix
+
+
 class PerfMetric(object):
+    """
+    Module comprising performance metrics for classification and Regression
+    """
+
     class Regression(object):
         pass
 
     class Classification(object):
 
-        def confusion_matrix(self,predicted_output,actual_output):
+
+        def confusion_matrix(self,actual_output,predicted_output):
             """
             Function to Compute Precesion, Accuracy, Sensitivity, Specificity
 
@@ -36,6 +43,12 @@ class PerfMetric(object):
             f1_score = (2 * precesion * sensitivity) / (precesion + sensitivity)
 
             return precesion, accuracy, f1_score, sensitivity, specificity
+
+        def log_loss(self,):
+            """
+
+            :return:
+            """
 
         def auc(self,predicted_output,actual_output):
             """
