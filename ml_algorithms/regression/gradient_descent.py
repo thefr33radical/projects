@@ -18,3 +18,22 @@ Gradient Descent Algorithm :
     4. Stop when (| SSEi-SSEi+1 | ) < minimum_margin
 
 """
+
+from sklearn.preprocessing import StandardScaler
+import numpy as np
+class GradDescent(object):
+    def compute(self):
+
+        X=np.([1100, 1400,1425,1550,1600,1700,1700,1875,2350,2450])
+        Y=np.array([199000,245000,319000,240000,312000,279000,310000,308000,405000,324000])
+
+        Xz= StandardScaler().fit(X.reshape(1,-1))
+        Xz= Xz.transform(X.reshape(1,-1))
+        #Y=StandardScaler().fit_transform(Y.reshape(1,-1))
+        print(Xz,Y)
+
+
+if __name__ == '__main__':
+    obj = GradDescent()
+    obj.compute()
+
