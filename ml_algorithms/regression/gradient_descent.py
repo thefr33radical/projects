@@ -19,18 +19,28 @@ Gradient Descent Algorithm :
 
 """
 
-from sklearn.preprocessing import StandardScaler
+from sklearn.preprocessing import MinMaxScaler,StandardScaler
 import numpy as np
+import random
+
+
 class GradDescent(object):
+
+
     def compute(self):
 
-        X=np.([1100, 1400,1425,1550,1600,1700,1700,1875,2350,2450])
+        X=np.array([1100.0, 1400,1425,1550,1600,1700,1700,1875,2350,2450])
         Y=np.array([199000,245000,319000,240000,312000,279000,310000,308000,405000,324000])
 
-        Xz= StandardScaler().fit(X.reshape(1,-1))
-        Xz= Xz.transform(X.reshape(1,-1))
-        #Y=StandardScaler().fit_transform(Y.reshape(1,-1))
-        print(Xz,Y)
+        scaler= MinMaxScaler()
+        scaler2=StandardScaler()
+        X = scaler.fit_transform(X.reshape(-1,1))
+        Y = scaler.fit_transform(Y.reshape(-1, 1))
+
+        print(" 1. Standardized ", "\n")
+        print("X ", X, "\nY ", Y)
+
+
 
 
 if __name__ == '__main__':
