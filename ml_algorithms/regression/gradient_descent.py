@@ -26,7 +26,6 @@ import random
 
 class GradDescent(object):
 
-
     def compute(self):
 
         X=np.array([1100.0, 1400,1425,1550,1600,1700,1700,1875,2350,2450])
@@ -43,25 +42,35 @@ class GradDescent(object):
         print(" 2. Random values a,b :",a,b, "\n")
 
         Ypred=[]
-
+        ypred=[]
 
         for i in range(0,data_len):
-            ypred= a + X[i]*b
-            Ypred.append(   float(   (Y[i]- ypred)*(Y[i]- ypred) ) )
+            ypred.append(a + X[i]*b)
+            temp = a + X[i] * b
+            Ypred.append(   float(   (Y[i]- temp)*(Y[i]- temp) ) )
 
         #print(Ypred)
         SSE = (sum(Ypred))/2
-        print(" 3. a.SSE:",SSE)
+        print(" 3a.SSE:",SSE)
 
         dSSEa=[]
         dSSEb=[]
         for i in range(0,data_len):
-            dSSEa.append( float( -Y[i]-ypred[i] ) )
+            dSSEa.append( float( -(Y[i]-ypred[i]) ) )
 
         for i in range(0,data_len):
             dSSEb.append( float( -(Y[i]-ypred[i])*X[i] ) )
 
-        print(dSSEa,dSSEb)
+        gradA =sum(dSSEa)
+        gradB = sum(dSSEb)
+
+        print("3b. A,B : ",gradA, gradB)
+
+        NewA= a - (0.01 * gradA)
+        NewB= b - (0.01 * gradB)
+        print(" 3c. NewA,NewB:", a,b)
+
+
 
 
 if __name__ == '__main__':
