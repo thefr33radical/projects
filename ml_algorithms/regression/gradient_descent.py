@@ -38,10 +38,22 @@ class GradDescent(object):
         Y = scaler.fit_transform(Y.reshape(-1, 1))
 
         print(" 1. Standardized ", "\n")
-        print("X ", X, "\nY ", Y)
+        #print("X ", X, "\nY ", Y)
 
+        a = random.choice([0.35,0.45,0.55,0.65,0.75])
+        b = random.choice([0.35,0.45,0.55,0.65,0.75])
+        print(" 2. Random values a,b :",a,b, "\n")
 
+        Ypred=[]
 
+        for i in range(len(X)):
+            ypred= a + X[i]*b
+            Ypred.append(   float(   (Y[i]- ypred)*(Y[i]- ypred) ) )
+
+        #print(Ypred)
+        SSE = (sum(Ypred))/2
+
+        print(SSE)
 
 if __name__ == '__main__':
     obj = GradDescent()
