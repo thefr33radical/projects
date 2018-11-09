@@ -71,8 +71,6 @@ class GradDescent(object):
         print(" 3c. NewA,NewB:", a,b)
 
 
-
-
 if __name__ == '__main__':
     obj = GradDescent()
     obj.compute()
