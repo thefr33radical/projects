@@ -1,0 +1,135 @@
+class Graph:
+    """Represents a computational graph
+    """
+
+    def __init__(self):
+        """Construct Graph"""
+        self.operations = []
+        self.placeholders = []
+        self.variables = []
+
+    def as_default(self):
+        global _default_graph
+        _default_graph = self
+
+class placeholder:
+    """Represents a placeholder node that has to be provided with a value
+       when computing the output of a computational graph
+    """
+
+    def __init__(self):
+        """Construct placeholder
+        """
+        self.consumers = []
+
+        # Append this placeholder to the list of placeholders in the currently active default graph
+        _default_graph.placeholders.append(self)
+
+class Variable:
+    """Represents a variable (i.e. an intrinsic, changeable parameter of a computational graph).
+    """
+
+    def __init__(self, initial_value=None):
+        """Construct Variable
+
+        Args:
+          initial_value: The initial value of this variable
+        """
+        self.value = initial_value
+        self.consumers = []
+
+        # Append this variable to the list of variables in the currently active default graph
+        _default_graph.variables.append(self)
+
+class Operation:
+    """Represents a graph node that performs a computation.
+
+    An `Operation` is a node in a `Graph` that takes zero or
+    more objects as input, and produces zero or more objects
+    as output.
+    """
+
+    def __init__(self, input_nodes=[]):
+        """Construct Operation
+        """
+        self.input_nodes = input_nodes
+
+        # Initialize list of consumers (i.e. nodes that receive this operation's output as input)
+        self.consumers = []
+
+        # Append this operation to the list of consumers of all input nodes
+        for input_node in input_nodes:
+            input_node.consumers.append(self)
+
+        # Append this operation to the list of operations in the currently active default graph
+        _default_graph.operations.append(self)
+
+    def compute(self):
+        """Computes the output of this operation.
+        "" Must be implemented by the particular operation.
+        """
+        pass
+
+class matmul(Operation):
+    """Multiplies matrix a by matrix b, producing a * b.
+    """
+
+    def __init__(self, a, b):
+        """Construct matmul
+
+        Args:
+          a: First matrix
+          b: Second matrix
+        """
+        super().__init__([a, b])
+
+    def compute(self, a_value, b_value):
+        """Compute the output of the matmul operation
+
+        Args:
+          a_value: First matrix value
+          b_value: Second matrix value
+        """
+        return a_value.dot(b_value)
+
+class add(Operation):
+    """Returns x + y element-wise.
+    """
+
+    def __init__(self, x, y):
+        """Construct add
+
+        Args:
+          x: First summand node
+          y: Second summand node
+        """
+        super().__init__([x, y])
+
+    def compute(self, x_value, y_value):
+        """Compute the output of the add operation
+
+        Args:
+          x_value: First summand value
+          y_value: Second summand value
+        """
+        return x_value + y_value
+
+
+
+# Create a new graph
+Graph().as_default()
+
+# Create variables
+A = Variable([[1, 0], [0, -1]])
+b = Variable([1, 1])
+
+# Create placeholder
+x = placeholder()
+
+
+# Create hidden node y
+y = matmul(A, x)
+# Create output node z
+z = add(y, b)
+
+print(z.compute(3,4))
