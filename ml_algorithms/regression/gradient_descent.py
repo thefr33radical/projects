@@ -30,9 +30,11 @@ class GradDescent(object):
 
         X=np.array([1100.0, 1400,1425,1550,1600,1700,1700,1875,2350,2450])
         Y=np.array([199000,245000,319000,240000,312000,279000,310000,308000,405000,324000])
+
         data_len = len(X)
         scaler= MinMaxScaler()
         scaler2=StandardScaler()
+        
         X = scaler.fit_transform(X.reshape(-1,1))
         Y = scaler.fit_transform(Y.reshape(-1, 1))
         print(" 1. Standardized ", "\n")
