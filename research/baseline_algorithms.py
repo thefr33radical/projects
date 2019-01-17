@@ -29,12 +29,18 @@ def zero_rule_classificaton(train_variable, train_output, test_variable):
       max_arr[j]+=1
       break
    test_output=[]
-   for i in test_variale:
+   for i in test_variable:
     test_output.append(max(max_array])
     
    return test_output
-   
-   
-   
-    
-    
+ 
+ def zero_rule_regression(train_variable,train_output,test_output):
+    """
+    Regression baseline algorithm
+    """
+                       
+    predicted = sum(train_output)/len(train_output)
+    test_output=[]
+    for i in test_variable:
+    test_output.append(predicted)
+    return test_output
