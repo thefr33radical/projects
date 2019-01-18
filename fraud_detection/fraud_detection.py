@@ -82,4 +82,5 @@ class FraudDetection(object):
 
 if __name__=="__main__":
     fraud = FraudDetection()
-    fraud.compute("/home/kuliza227/works/fraud_detection/data/creditcard.csv")
+    path =input()
+    fraud.compute(path)
