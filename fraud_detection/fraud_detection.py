@@ -27,9 +27,9 @@ class FraudDetection(object):
 
     def compute(self,path):
         """
-
-        :param path:
-        :return:
+        Function to perform the all computations
+        :param path: string
+        :return:None
         """
 
         dataset = self.read_data(path)
