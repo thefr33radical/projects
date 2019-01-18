@@ -3,7 +3,7 @@
 
 ## Problem Statement
 #### To detect whether the given transaction is fraudulent or not.
-#### Usually in a dataset the number of cased of fraudullent transaction as compared to geniune transaction is miniscule. Class imbalance is usually encountered, which usually transforms into anamoly detection problem.
+#### Usually in a dataset the number of cases of fraudulent transaction as compared to geniune transaction is miniscule. Class imbalance is usually encountered, which usually transforms into anamoly detection problem.
 #### Solution : 1.Balancing number of samplesis done by using -> [Oversampling, SMOTE, ADASYN]
 ###             2.Classifiers -> False Negatives need to be penalized more. Penalized Wrapper models.
 ####            3.Metrics -> Accuracy cannot be used to measure the performance of the model. Sensitivity, Specificity, F1Score, Logloss have to be taken into account
