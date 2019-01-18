@@ -1,6 +1,6 @@
 # Feature Selection Techniques
 
-### There are two ways of selecting the best features, they are implemented here. We alsorank the importance of features.
+### There are two ways of selecting the best features, they are implemented here. We also rank the importance of features.
 
 ### Recursive Feature Selection
 Input : pandas dataframe [ X_train, X_test, Y_train, Y_test ]
