@@ -1,11 +1,10 @@
 # Hyperparameter tuning of various ML models 
-### Level : 5
 ### Author : Thefr33radical
 ### Methods :
 
     Grid Search
     Random Search
-    Hand-tuning
+    Manual-tuning
     Gaussian Process with Expected Improvement
     Tree-structured Parzen Estimators (TPE)
     
