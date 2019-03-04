@@ -11,6 +11,7 @@ Input : pandas dataframe [ X_train, X_test, Y_train, Y_test ]
 Output : pandas dataframe [ X_test ]
 
 ### LDA : Linear Discriminant analysis
+in progress
 
 
 ### Feature Ranking
