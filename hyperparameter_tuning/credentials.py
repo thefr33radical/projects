@@ -1,6 +1,0 @@
-aws_folder = ""
-bucket_name= ""
-prefix=""
-ACCESS_KEY="AA"
-SECRET_KEY=""
-REGION = ""
