@@ -1,8 +1,8 @@
 # Implementing ML Algorithms along with notes
 
-* Linear Regression using gradient descent
-* Lasso Regression using co ordinate descent
-* Logistic Regression using gradient descent
+* Linear Regression 
+* Lasso Regression 
+* Logistic Regression 
 * Ridge Regression 
 * Naive Bayes
 * Linear Discriminat Analysis
@@ -16,5 +16,4 @@
 * Principal Component Analysis
 * T-SNE
 * K-medians
-* 
 
