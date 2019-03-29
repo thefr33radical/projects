@@ -39,7 +39,7 @@ class OCR(object):
         cropped_img.save(foldername + "/test.jpg")
         self.convert_grayscale(foldername + "/test.jpg")
         self.remove_noise(foldername + "/output.jpg")
-        text = pytesseract.image_to_string(Image.open('/home/kuliza227/Downloads/output.jpg'), lang="eng")
+        text = pytesseract.image_to_string(Image.open('path_to_img.jpg'), lang="eng")
         print(text)
         
         """for i in range(0,12):
@@ -49,7 +49,7 @@ class OCR(object):
             cropped_img.save(foldername+"/test.jpg")
             self.convert_grayscale(foldername+"/test.jpg")
             self.remove_noise(foldername+"/output.jpg")
-            text = pytesseract.image_to_string(Image.open('/home/kuliza227/Downloads/result_.png'), lang="eng")
+            text = pytesseract.image_to_string(Image.open('path_to_img_.png'), lang="eng")
             print(text)
         """
 
@@ -58,7 +58,7 @@ class OCR(object):
 
         :return:
         """
-        image = cv2.imread("/home/kuliza227/IMG_4056_sized.jpg",0)
+        image = cv2.imread("path_to_img.jpg",0)
 
         # --- dilation on the green channel ---
         dilated_img = cv2.dilate(image[:, :, 1], np.ones((7, 7), np.uint8))
@@ -128,14 +128,14 @@ class OCR(object):
         # to use.
 
         txt = tool.image_to_string(
-            Image.open('/home/kuliza227/Downloads/demo3.jpg'),
+            Image.open('path_to_img.jpg'),
             lang="eng",
             builder=pyocr.builders.TextBuilder()
         )
         # txt is a Python string
         print(txt)
         '''word_boxes = tool.image_to_string(
-            Image.open('/home/kuliza227/Downloads/IMG_4056_sized.jpg'),
+            Image.open('path_to_img.jpg'),
             lang="eng",
             builder=pyocr.builders.WordBoxBuilder()
         )
@@ -147,7 +147,7 @@ class OCR(object):
         # may return empty boxes
         '''
         line_and_word_boxes = tool.image_to_string(
-            Image.open('/home/kuliza227/Downloads/IMG_4057_sized.jpg'), lang="eng",
+            Image.open('path_to_img.jpg'), lang="eng",
             builder=pyocr.builders.LineBoxBuilder()
         )
         #print(line_and_word_boxes[0])
@@ -189,12 +189,6 @@ class OCR(object):
 
 if __name__=="__main__":
     obj=OCR()
-
-    #obj.remove_horizontal_lines("/home/kuliza227/IMG_4056_sized.jpg")
-    obj.recursive_scanner("/home/kuliza227/IMG_4056_sized.jpg")
-   # obj.remove_noise("/home/kuliza227/result.png")
-    ##obj.convert_grayscale('/home/kuliza227/Downloads/demo4.jpg')
-    #obj.remove_noise('/home/kuliza227/Downloads/output.jpg')
-
-    #text = pytesseract.image_to_string(Image.open('/home/kuliza227/Downloads/result.png'),lang="eng")
-    #print(text)
+  
+    obj.recursive_scanner("path_to_img.jpg")
+  
