@@ -2,7 +2,7 @@
 # Project list
 
 ### NLP
-* Team BHP - prediction of Car Sales
+* Team BHP - Prediction of Car Sales based on User Reviews
 * Text Classification of NCERT text books
 * Chatbot 
 * Micro Review Summarization
@@ -11,11 +11,12 @@
 * Recommender Systems
 * Fraud detection
 * Finding Similar Questions in Quora
+* Automated Comment Generation 
 
 ### Computer Vision
 * Facial emotion detection
 * Object tracking
-
+* Preentation Video summarization
 
 ### Others
 * Learned indexes
