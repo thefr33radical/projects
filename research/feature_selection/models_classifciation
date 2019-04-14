@@ -1,9 +1,0 @@
-from sklearn.naive_bayes import MultinomialNB
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.neighbors import KNeighborsClassifier
-from  sklearn.linear_model import LogisticRegression
-from sklearn.svm import SVC
-
-MODELS_CLASSIFICAATION = [MultinomialNB(),RandomForestClassifier(n_estimators=100, oob_score=True, criterion="entropy", n_jobs=-1,
-                                                    random_state=50,
-                                                    max_depth=200),KNeighborsClassifier,SVC(probability=True, kernel="linear"),LogisticRegression(n_jobs=-1)]
