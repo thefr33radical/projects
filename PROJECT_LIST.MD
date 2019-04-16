@@ -1,5 +1,5 @@
 
-# Project list
+# Project list (s0me are being updated)
 
 ### NLP
 * Team BHP - Prediction of Car Sales based on User Reviews
@@ -16,7 +16,7 @@
 ### Computer Vision
 * Facial emotion detection
 * Object tracking
-* Preentation Video summarization
+* Presentation Video summarization
 
 ### Others
 * Learned indexes
