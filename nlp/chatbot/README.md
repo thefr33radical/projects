@@ -1,5 +1,10 @@
 
 ## Contributors : Thefreeradical
-### Project level : 1/10
 
-##Status : Not yet implemented
+## Modules
+* Gender Indentifier
+* Sentiment Analyzer
+* NER 
+* Response Generator
+* Knowledge Graph Constructor
+
