@@ -1,5 +1,4 @@
-
-## Contributors : Thefreeradical
+### Context Adaptive Chatbot
 
 ## Modules
 * Gender Indentifier
