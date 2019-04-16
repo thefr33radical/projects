@@ -4,7 +4,7 @@
 ### NLP
 * Team BHP - Prediction of Car Sales based on User Reviews
 * Text Classification of NCERT text books
-* Chatbot 
+* Context Adaptive Chatbot 
 * Micro Review Summarization
 * Leveraging Big Code to Improve Software Reliability
 * Hateminers : Detecting Hate speech against Women
