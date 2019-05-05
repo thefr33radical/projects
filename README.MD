@@ -2,9 +2,11 @@
 # Project list (updating..)
 
 
-Domain | Project Name  | Short Summary | Link
-------------- | -------------  | ------------- | -------------
- NLP | Team BHP - Prediction of Car Sales based on User Reviews | Content Cell |
+Domain | Project Name  
+------------- | -------------  
+ NLP | Team BHP - Prediction of Car Sales based on User Reviews 
+ Short Summary |
+ Link |
  NLP | Text Book Recommender for Schools | Content Cell |
  NLP | Context Adaptive Chatbot   | Content Cell |
  NLP | Micro Review Summarization  | Content Cell |
