@@ -1,9 +1,9 @@
 
-# Project list (s0me are being updated)
+# Project list (updating..)
 
 ### NLP
 * Team BHP - Prediction of Car Sales based on User Reviews
-* Text Classification of NCERT text books
+* Text Book Recommender for Schools
 * Context Adaptive Chatbot 
 * Micro Review Summarization
 * Leveraging Big Code to Improve Software Reliability
@@ -17,6 +17,8 @@
 * Facial emotion detection
 * Object tracking
 * Presentation Video summarization
+* Crowd Counter
+* Forecasting climate based on Remote Sensing Spatio Temporal Data
 
 ### Others
 * Learned indexes
