@@ -2,16 +2,16 @@
 # Project list (updating..)
 
 ### NLP
-* Team BHP - Prediction of Car Sales based on User Reviews
-* Text Book Recommender for Schools
-* Context Adaptive Chatbot 
-* Micro Review Summarization
-* Leveraging Big Code to Improve Software Reliability
-* Hateminers : Detecting Hate speech against Women
-* Recommender Systems
-* Fraud detection
-* Finding Similar Questions in Quora
-* Automated Comment Generation 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
 
 ### Computer Vision
 * Facial emotion detection
@@ -29,14 +29,18 @@
                     
 NLP  | Second Header
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell 
-Content Cell  | Content Cell
-Content Cell  | Content Cell 
-Content Cell  | Content Cell
-Content Cell  | Content Cell 
-Content Cell  | Content Cell
-Content Cell  | Content Cell 
+Team BHP - Prediction of Car Sales based on User Reviews | Content Cell
+Text Book Recommender for Schools | Content Cell 
+Context Adaptive Chatbot   | Content Cell
+Micro Review Summarization  | Content Cell 
+Leveraging Big Code to Improve Software Reliability  | Content Cell
+Hateminers : Detecting Hate speech against Women  | Content Cell 
+Recommender Systems  | Content Cell
+Fraud detection | Content Cell 
+|Finding Similar Questions in Quora  | Content Cell  |
+| Automated Comment Generation   | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 | First Header  | Second Header |
 | ------------- | ------------- |
