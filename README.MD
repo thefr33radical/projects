@@ -3,7 +3,7 @@
 
 
 Domain | Project Name  | Short Summary | Link
-------------- | -------------  | -------------
+------------- | -------------  | ------------- | -------------
  NLP | Team BHP - Prediction of Car Sales based on User Reviews | Content Cell |
  NLP | Text Book Recommender for Schools | Content Cell |
  NLP | Context Adaptive Chatbot   | Content Cell |
