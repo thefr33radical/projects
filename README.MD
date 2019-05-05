@@ -20,8 +20,8 @@ Domain | Project Name  | Link
  Computer Vision | Facial emotion detection  | Link
  Computer Vision | Forecasting climate based on Remote Sensing Spatio Temporal Data  | Link
  Distributed Systems | Learned indexes  | Link
- Networks | ICMP implementation on MININET | | Link
- Systems | Iridium | Content
+ Networks | ICMP implementation on MININET | Link
+ Systems | Iridium | Link
 
 
 
