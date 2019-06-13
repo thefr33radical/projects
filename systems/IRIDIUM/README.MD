@@ -4,6 +4,7 @@
 | Notes |
 | ----- |
  
+| ----- |
 | IRIDIUM is Credit Card Transaction System which replicates how a Credit works in Real Time. The various challenges in implementing included maintaining consistencies across Read/Write, using efficient form of Storage, dealing with latencies, rolling back error prone changes etc |
 | ----- |
 | * IRIDIUM incorporates ACID, concurreny control, 1NF, 2NF, 3NF and BCNF Normalization and Transaction properties. |
