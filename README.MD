@@ -2,7 +2,7 @@
 # Project list
 #####  (updating..)
 
-Domain | Project Name  | Link
+Domain | Project Name  | Project Link
 ------------- | -------------  | -------------
  NLP | Team BHP - Prediction of Car Sales based on User Reviews | Link
  NLP | Text Book Recommender for Schools  | Link
