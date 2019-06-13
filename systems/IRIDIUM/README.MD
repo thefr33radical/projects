@@ -11,7 +11,7 @@
 |      |
 | Backend : Server is hosted on Apache Tomcat and Database is on MYSQL server. PHP is used in backend. |
 | |
-| Data can be inserted in SQL tables and the properties that apply for a credit card transaction from the view point of a DBMS is maintained. |
-|      |
 | DBMS : MYSQL, is used as its an online system. Concurrency control and transaction properties are maintained for multiple connections. |
+|      |
+| Data can be inserted in SQL tables and the properties that apply for a credit card transaction from the view point of a DBMS is maintained. |
 |      |
