@@ -3,7 +3,7 @@
 #####  (updating..)
 
 Domain | Project Name  | Project Link | Status |
-------------- | -------------  | -------------
+------------- | -------------  | ------------- | --------
  NLP | Team BHP - Prediction of Car Sales based on User Reviews | Link | In Progress
  NLP | Text Book Recommender for Schools  | Link | In Progress
  NLP | Context Adaptive Chatbot   | Link | In Progress
