@@ -1,7 +1,9 @@
  # IRIDIUM -  Credit card tranasaction system 
  ![](https://github.com/thefr33radical/projects/blob/master/systems/IRIDIUM/Website/Iridium/credit%20card/images/1.jpg?raw=true)
+ 
+ * IRIDIUM is Credit Card Transaction System which replicates how a Credit works in Real Time. The various challenges in implementing included maintaining consistencies across Read/Write, using efficient form of Storage, dealing with latencies, rolling back error prone changes etc
 
-* The project is used to demonstrate the ACID, concurreny control, 1NF, 2NF, 3NF and BCNF Normalization and Transaction properties.
+* IRIDIUM incorporates ACID, concurreny control, 1NF, 2NF, 3NF and BCNF Normalization and Transaction properties.
 
 * User Interface is developed on android for cellphones and Javascript/HTML for desktops. Backend Server is hosted on Apache Tomcat and Database is on MYSQL server. PHP code in backend. 
 
