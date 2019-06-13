@@ -1,7 +1,7 @@
  # IRIDIUM -  Credit card tranasaction system 
  ![](https://github.com/thefr33radical/projects/blob/master/systems/IRIDIUM/Website/Iridium/credit%20card/images/1.jpg?raw=true)
  
- ```sh
+|-----|
  
  * IRIDIUM is Credit Card Transaction System which replicates how a Credit works in Real Time. The various challenges in implementing included maintaining consistencies across Read/Write, using efficient form of Storage, dealing with latencies, rolling back error prone changes etc
 
@@ -13,4 +13,3 @@
 
 * Concurrency control and transaction properties are maintained for multiple connections.
 
-```
