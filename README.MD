@@ -5,7 +5,7 @@
 Domain | Project Name  | Project Link | Status |
 ------------- | -------------  | ------------- | --------
  NLP | Team BHP - Prediction of Car Sales based on User Reviews | 2017 | Completed
- NLP | Text Book Recommender for Schools  | Link | completed16
+ NLP | Text Book Recommender for Schools  | 2016 | Completed
  NLP | Context Adaptive Chatbot   | Link | updating
  NLP | Micro Review Summarization  | 2016 | Completed
  NLP | Leveraging Big Code to Improve Software Reliability  | Link | updating
