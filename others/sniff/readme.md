@@ -1,4 +1,4 @@
-# Keylogger written in python
+# SNIFF : Keylogger written in python
 
 * Logs all keys, including virtual input
 
