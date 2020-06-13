@@ -2,10 +2,10 @@
 # Project list
 #####  (updating..)
 
-Domain | Project Name  | Date | Status | Complxty(1-5)
+Domain | Project Name  | Date | Status | C (1-5)
 ------------- | -------------  | ------------- | -------- | --------
   BlockChain  | [IOBoT](https://github.com/thefr33radical/Codeathons/tree/master/MIT_FINRA_19/IOBot) | 2019 | Completed | 4
- NLP | Team BHP - Prediction of Car Sales based on User Reviews | 2017 | Completed | 5
+ NLP/TimeSeries | Team BHP - Prediction of Car Sales based on User Reviews | 2017 | Completed | 5
   ML | [FAIM: the Fractal Artificial Intelligence Model](https://github.com/thefr33radical/Codeathons/blob/master/AI_WORLD_HACKATHON19/README.MD) | 2019 | Completed | 3
  Stats | [NASA CHALLENGE 19](https://github.com/thefr33radical/Codeathons/blob/master/NASA_CHALLENGE19/README.MD)  | 2019 | Completed | 2
  TimeSeries | [Ploutus : Explainable AI](https://github.com/thefr33radical/Codeathons/blob/master/UBHack19/README.MD)  | 2019 | completed | 3
