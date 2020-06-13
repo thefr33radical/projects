@@ -1,5 +1,5 @@
 # Android App to Montior and report Your fitness
-* Tracks pushups, Pullups
+* Tracks pushups, Pullups : We make use of Sensors in X, Y, Z plane to take into account excersise movement. This Was a IOT & smartphone class group project.
 * Runtimer
 * Heart Monitor
 
