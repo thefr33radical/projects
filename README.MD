@@ -23,7 +23,7 @@ CVision | Forecasting climate based on Remote Sensing Spatio Temporal Data  | Li
 Dist Systems | Learned indexes  | Link | updating
  Networks | ICMP implementation on MININET | 2017 | Completed
  Systems | [Iridium](https://github.com/thefr33radical/projects/blob/master/systems/IRIDIUM/README.MD)  | 2017 | Completed
-  Systems | FitKit  | 2016 | Completed
+  Systems | [FITKIT](https://github.com/thefr33radical/projects/blob/master/others/FITKIT/readme.md)  | 2016 | Completed
 
 
 
