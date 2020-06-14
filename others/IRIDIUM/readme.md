@@ -1,7 +1,7 @@
 # IRIDIUM
-#### A Credit Transactions system
+#### A Credit Transaction system
 <img src="https://github.com/thefr33radical/projects/blob/master/others/IRIDIUM/images/home.PNG" width="800" height="500">
-<img src="https://github.com/thefr33radical/projects/blob/master/others/IRIDIUM/images/login.PNG" width="800" height="500">
+<img src="https://github.com/thefr33radical/projects/blob/master/others/IRIDIUM/images/login.PNG" width="700" height="500">
 
 #### Objectives
 * Application includes fronted, database and backend process to create a successful Lender and loan monitoring system.
@@ -13,6 +13,6 @@
 #### Concepts and Tech
 * UI is designed for android users as well as a website is made available. The code for website is built using PHP for secure communications. There are no public API links.
 * The data is stored in multipe SQL database. Customer identity is protected via bcrypt encrpytion.
-* Most DB's are built to 3NF wherever applicable for maintainig integrity. 
+* Most DB's are built to 3NF wherever applicable for maintainig atmoicity, integrity. 
 
 
