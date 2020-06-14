@@ -1,6 +1,7 @@
 # IRIDIUM
 #### A Credit Transactions system
-<img src="https://github.com/thefr33radical/projects/blob/master/others/IRIDIUM/images/home.PNG" width="500" height="500">
+<img src="https://github.com/thefr33radical/projects/blob/master/others/IRIDIUM/images/home.PNG" width="800" height="500">
+<img src="https://github.com/thefr33radical/projects/blob/master/others/IRIDIUM/images/login.PNG" width="800" height="500">
 
 #### Objectives
 * Application includes fronted, database and backend process to create a successful Lender and loan monitoring system.
