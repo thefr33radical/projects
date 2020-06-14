@@ -25,7 +25,7 @@ CVision | Facial emotion detection  | Link | updating
 CVision | Forecasting climate based on Remote Sensing Spatio Temporal Data  | Link | updating
 Dist Systems | Learned indexes  | Link | updating
  Networks | ICMP implementation on MININET | 2017 | Completed | 4
- Systems | [IRIDIUM](https://github.com/thefr33radical/projects/blob/master/systems/IRIDIUM/README.MD)  | 2017 | Completed | 3
+ Systems | [IRIDIUM](https://github.com/thefr33radical/projects/blob/master/others/IRIDIUM/readme.md)  | 2017 | Completed | 3
   Systems | [FITKIT](https://github.com/thefr33radical/projects/blob/master/others/FITKIT/readme.md)  | 2016 | Completed | 1
 
 
