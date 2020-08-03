@@ -1,6 +1,6 @@
 
 # Project list
-#####  (updating..)
+
 
 Domain | Project Name  | Date | Status | C (1-5)
 ------------- | -------------  | ------------- | -------- | --------
