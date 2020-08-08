@@ -1,2 +1,6 @@
 *.Rhistory
+*.csv
+*.json
+*.dat
+
 
