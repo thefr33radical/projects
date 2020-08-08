@@ -1,10 +1,11 @@
 import pandas as pd
+path="/media/gear/Data/workdir/projects/big data/real time forecasting/covid19_forecasting/data/"
+data=pd.read_csv(path+"raw/COVID-19_Nursing_Home_Dataset.csv")
 
-data=pd.read_csv("/media/gear/Data/workdir/projects/big data/real time forecasting/covid19_forecasting/data/raw/COVID-19_Nursing_Home_Dataset.csv")
-
+data2=data.copy(deep=True)
 
 data.drop(columns=['Federal Provider Number', 'Provider Name',
-       'Provider Address', 'Provider City', 'Provider State',
+       'Provider Address', 'Provider City',
        'Provider Zip Code', 'Submitted Data', 'Passed Quality Assurance Check','Resident Access to Testing in Facility',
        'Laboratory Type Is State Health Dept',
        'Laboratory Type Is Private Lab', 'Laboratory Type Is Other','Shortage of Nursing Staff', 'Shortage of Clinical Staff',
@@ -21,7 +22,7 @@ data.drop(columns=['Federal Provider Number', 'Provider Name',
        'Initial Confirmed COVID-19 Case This Week', 'Geolocation'],inplace=True)
 print(data.columns)
 
-df2=data.groupby("Week Ending")['Residents Weekly Admissions COVID-19',
+df2=data.groupby(["Week Ending", 'Provider State'])['Residents Weekly Admissions COVID-19',
        'Residents Total Admissions COVID-19',
        'Residents Weekly Confirmed COVID-19',
        'Residents Total Confirmed COVID-19',
@@ -38,4 +39,16 @@ df2=data.groupby("Week Ending")['Residents Weekly Admissions COVID-19',
        'Total Resident COVID-19 Deaths Per 1,000 Residents',
        'Total Residents COVID-19 Deaths as a Percentage of Confirmed COVID-19 Cases',
        'County'].sum()
-print(df2)
+
+
+df2.to_csv(path+"processed/covid19_forecast_dataset_week_group.csv")
+
+data2.drop(columns=['Week Ending','Provider Name',
+       'Provider Address',
+       'Provider Zip Code', 'Submitted Data', 'Passed Quality Assurance Check','Resident Access to Testing in Facility',
+       'Laboratory Type Is State Health Dept',
+       'Laboratory Type Is Private Lab', 'Laboratory Type Is Other', 'County','Geolocation'],inplace=True)
+
+
+data2.fillna(value=0,inplace=True)
+data2.to_csv(path+"processed/covid19_classification_dataset.csv")
