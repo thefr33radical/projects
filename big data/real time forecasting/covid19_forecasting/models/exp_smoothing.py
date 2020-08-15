@@ -7,8 +7,12 @@ path='/media/gear/Data/workdir/projects/big data/real time forecasting/covid19_f
 fig_save_path='/media/gear/Data/workdir/projects/big data/real time forecasting/covid19_forecasting/reports/figures/'
 data = pd.read_csv(path+'covid19_forecast_dataset_week_group.csv')
 print(data.columns)
-def generate_plots(data):
+result=pd.DataFrame()
+fig = plt.figure(frameon=False)
+fig.set_size_inches(8,5)
 
+
+def generate_plots(data):
     corr=data.corr()
     sns.heatmap(corr,
                 xticklabels=corr.columns.values,
@@ -20,15 +24,42 @@ def generate_plots(data):
             plt.savefig(fig_save_path+c+'.jpg')
 
 #generate_plots(data)
-def model_exp_smooth(data,train_X,train_y):
+sns.set_style("darkgrid")
+data[data.columns[:10]].plot(figsize=(10,6)).legend(title='COVID Forecvasting', bbox_to_anchor=(1, 1))
+plt.show()
 
+def model_exp_smooth(data3,train_X,train_y,col_name):
     # create class
-    model = SimpleExpSmoothing(data).fit(smoothing_level=0.2,optimized=False)
+    model = SimpleExpSmoothing(data3).fit(smoothing_level=0.3,optimized=False)
     # fit model
-    model_fit = model.forecast(train_X)
-    # make prediction
-    #print( model_fit.predict(train_X))
-    return model
+    for i in range(5):
+        model_fit = model.forecast(1)
+        model_fit.columns=[col_name]
+        data3=pd.concat([data3,model_fit])
+        data3.iloc[-1,0]=data3.iloc[-1,-1]
+        data3.drop(data3.columns[-1],inplace=True,axis=1)
+        data3.columns=[col_name]
+        model = SimpleExpSmoothing(data3).fit(smoothing_level=0.2, optimized=True)
+    return model,data3
 
-data2=data[data['Week Ending'],data['Residents Weekly Admissions COVID-19']]
-model=model_exp_smooth(data2,data['Week Ending'],data['Residents Weekly Admissions COVID-19'])
+def compute(data):
+    global  result
+    for i in data.columns:
+        if i!='Week Ending':
+            col_name=i
+            data2=data[['Week Ending',i]]
+            data2.set_index('Week Ending',inplace=True)
+            data2.index=pd.to_datetime(data2.index)
+            model,data3=model_exp_smooth(data2,data[['Week Ending']],data[[col_name]],col_name)
+            if len(result) <=1:
+                result=data3
+            else:
+                result=pd.merge(result,data3,how='inner',left_index=True,right_index=True)
+    #print(result)
+    result.to_csv(fig_save_path+"forecast.csv")
+
+
+#compute(data)
+
+
+
