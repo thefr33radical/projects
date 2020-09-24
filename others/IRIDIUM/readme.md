@@ -4,7 +4,7 @@
 <img src="https://github.com/thefr33radical/projects/blob/master/others/IRIDIUM/images/login.PNG" width="800" height="500" class="center">
 
 #### Objectives
-* Application includes fronted, database and backend process to create a successful Lender and loan monitoring system.
+* Create a successful Lender and loan monitoring system. The enviroment includes end to end modules.
 * Users need to signup before requesting for a bank or credit account. 
 * A user can request credit upto maximum of 25% of their free flow money available in their account. Credit score  will be  calculated for the user based  on their previous transactions.
 * Users who default or have late payments get their bank accounts charged with the fees.
