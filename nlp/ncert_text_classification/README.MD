@@ -1,1 +1,1 @@
-https://docs.google.com/viewer?url=https://github.com/thefr33radical/projects/blob/master/nlp/ncert_text_classification/presentation/Language%20Processing%20Term%20Project.pdf
+<a href="presentation/Language%20Processing%20Term%20Project.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
