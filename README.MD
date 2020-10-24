@@ -2,7 +2,7 @@
 # Project list
 
 
-Domain | Project Name  | Date | Status | C (1-5)
+Domain | Project Name  | Date | Status | LvL 1~5
 ------------- | -------------  | ------------- | -------- | --------
   BlockChain  | [IOBoT](https://github.com/thefr33radical/Codeathons/tree/master/MIT_FINRA_19/IOBot) | 2019 | Completed | 4
  NLP/TimeSeries | Team BHP - Prediction of Car Sales based on User Reviews | 2017 | Completed | 5
