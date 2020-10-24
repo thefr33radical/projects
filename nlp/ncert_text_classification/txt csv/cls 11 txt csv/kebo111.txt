@@ -1,0 +1,222 @@
+UNIT 4The description of structure and variation of living organisms over aperiod of time, ended up as two, apparently irreconcilable perspectives
+on biology. The two perspectives essentially rested on two levels of
+organisation of life forms and phenomena. One described at organismic
+and above level of organisation while the second described at cellular
+and molecular level of organisation. The first resulted in ecology and
+related disciplines. The second resulted in physiology and biochemistry.
+Description of physiological processes, in flowering plants as an
+example, is what is given in the chapters in this unit. The processes of
+mineral nutrition of plants, photosynthesis, transport, respiration and
+ultimately plant growth and development are described in molecular
+terms but in the context of cellular activities and even at organism
+level. Wherever appropriate, the relation of the physiological processes
+to environment is also discussed.PLANT PHYSIOLOGYChapter 11Transport in PlantsChapter 12Mineral NutritionChapter 13Photosynthesis in Higher
+PlantsChapter 14Respiration in PlantsChapter 15Plant Growth and
+Development
+MELVIN CALVIN born in Minnesota in April, 1911, received hisPh.D. in Chemistry from the University of Minnesota. He servedas Professor of Chemistry at the University of California,
+Berkeley.Just after world war II, when the world was under shockafter the Hiroshima-Nagasaki bombings, and seeing the ill-
+effects of radio-activity, Calvin and co-workers put radio-
+activity to beneficial use. He along with J.A. Bassham studied
+reactions in green plants forming sugar and other substances
+from raw materials like carbon dioxide, water and minerals
+by labelling the carbon dioxide with C14. Calvin proposed thatplants change light energy to chemical energy by transferring
+an electron in an organised array of pigment molecules and
+other substances. The mapping of the pathway of carbon
+assimilation in photosynthesis earned him Nobel Prize in 1961.The principles of photosynthesis as established by Calvinare, at present, being used in studies on renewable resource
+for energy and materials and basic studies in solar energy
+research.Melvin Calvin
+Have you ever wondered how water reaches the top of tall trees, or for thatmatter how and why substances move from one cell to the other, whetherall substances move in a similar way, in the same direction and whether
+metabolic energy is required for moving substances.  Plants need to movemolecules over very long distances, much more than animals do; they alsodo not have a circulatory system in place.  Water taken up by the roots has
+to reach all parts of the plant, up to the very tip of the growing stem.  Thephotosynthates or food synthesised by the leaves have also to be moved toall parts including the root tips embedded deep inside the soil.  Movementacross short distances, say within the cell, across the membranes and fromcell to cell within the tissue has also to take place. To understand some ofthe transport processes that take place in plants, one would have to recollect
+one™s basic knowledge about the structure of the cell and the anatomy ofthe plant body.  We also need to revisit our understanding of diffusion,besides gaining some knowledge about chemical potential and ions.When we talk of the movement of substances we need first to definewhat kind of movement we are talking about, and also what substanceswe are looking at. In a flowering plant the substances that would need tobe transported are water, mineral nutrients, organic nutrients and plantgrowth regulators. Over small distances substances move by diffusionand by cytoplasmic streaming supplemented by active transport.Transport over longer distances proceeds through the vascular system(the xylem and the phloem) and is called translocation.An important aspect that needs to be considered is the direction oftransport. In rooted plants, transport in xylem (of water and minerals) isessentially unidirectional, from roots to the stems. Organic and mineralnutrients however, undergo multidirectional transport. OrganicTRANSPORT IN PLANTSCHAPTER  1111.1Means ofTransport11.2Plant-WaterRelations11.3Long DistanceTransport ofWater11.4Transpiration11.5Uptake andTransport of
+Mineral
+Nutrients11.6   PhloemTransport: Flow
+from Source to
+Sink
+176BIOLOGYcompounds synthesised in the photosynthetic leaves are exported to allother parts of the plant including storage organs.  From the storage organsthey are later re-exported.  The mineral nutrients are taken up by theroots and transported upwards into the stem, leaves and the growingregions.  When any plant part undergoes senescence, nutrients may bewithdrawn from such regions and moved to the growing parts.  Hormonesor plant growth regulators and other chemical stimuli are also transported,though in very small amounts, sometimes in a strictly polarised orunidirectional manner from where they are synthesised to other parts.Hence, in a flowering plant there is a complex traffic of compounds (butprobably very orderly) moving in different directions, each organ receivingsome substances and giving out some others.11.1MEANS OF TRANSPORT11.1.1DiffusionMovement by diffusion is passive, and may be from one part of the cell tothe other, or from cell to cell, or over short distances, say, from the inter-cellular spaces of the leaf to the outside.  No energy expenditure takes place.In diffusion, molecules move in a random fashion, the net result beingsubstances moving from regions of higher concentration to regions of lower
+concentration.  Diffusion is a slow process and is not dependent on a ‚living
+system™. Diffusion is obvious in gases and liquids, but diffusion in solidsrather than of solids is more likely.  Diffusion is very important to plantssince it is the only means for gaseous movement within the plant body.Diffusion rates are affected by the gradient of concentration, thepermeability of the membrane separating them, temperature and pressure.11.1.2Facilitated DiffusionAs pointed out earlier, a gradient must already be present for diffusion to
+occur.  The diffusion rate depends on the size of the substances; obviously
+smaller substances diffuse faster.  The diffusion of any substance across a
+membrane also depends on its solubility in lipids, the major constituent of
+the membrane. Substances soluble in lipids diffuse through the membrane
+faster.  Substances that have a hydrophilic moiety, find it difficult to pass
+through the membrane; their movement has to be facilitated.  Membrane
+proteins provide sites at which such molecules cross the membrane.  They
+do not set up a concentration gradient: a concentration gradient must
+already be present for molecules to diffuse even if facilitated by the proteins.
+This process is called facilitated diffusion.In facilitated diffusion special proteins help move substances acrossmembranes without expenditure of ATP energy. Facilitated diffusion
+cannot cause net transport of molecules from a low to a high concentration
+Œ this would require input of energy.   Transport rate reaches a maximum
+when all of the protein transporters are being used (saturation).  Facilitated
+TRANSPORT IN PLANTS177diffusion is very specific: it allows cell toselect substances for uptake.  It issensitive to inhibitors which react withprotein side chains.The proteins form channels in themembrane for molecules to pass through.Some channels are always open; otherscan be controlled.  Some are large,allowing a variety of molecules to cross.The porins are proteins that form hugepores in the outer membranes of the
+plastids, mitochondria and some bacteriaallowing molecules up to the size of smallproteins to pass through.Figure 11.1 shows an extracellularmolecule bound to the transport protein;the transport protein then rotates andreleases the molecule inside the cell, e.g.,water channels Œ made up of eightdifferent types of aquaporins.11.1.2.1Passive symports and
+antiportsSome carrier or transport proteins allow
+diffusion only if two types of moleculesmove together. In a symport, bothmolecules cross the membrane in the same
+direction; in an antiport, they move inopposite directions (Figure 11.2). When aFigure 11.1 Facilitated diffusionUniportCarrier protein
+MembraneAntiportSymportAAABBFigure 11.2 Facilitated diffusion
+178BIOLOGYmolecule moves across a membrane independent of other molecules, theprocess is called uniport.11.1.3Active TransportActive transport uses energy to pump molecules against a concentration
+gradient. Active transport is carried out by membrane-proteins. Hence
+different proteins in the membrane play a major role in both active as well
+as passive transport. Pumps are proteins that use energy to carry
+substances across the cell membrane. These pumps can transport
+substances from a low concentration to a high concentration (‚uphill™
+transport).  Transport rate reaches a maximum when all the protein
+transporters are being used or are saturated.  Like enzymes the carrier
+protein is very specific in what it carries across the membrane.  These
+proteins are sensitive to inhibitors that react with protein side chains.11.1.4Comparison of Different Transport ProcessesTable 11.1 gives a comparison of the different transport mechanisms.Proteins in the membrane are responsible for facilitated diffusion and
+active transport and hence show common characterstics of being highly
+selective; they are liable to saturate, respond to inhibitors and are under
+hormonal regulation.  But diffusion whether facilitated or not Œ take placeonly along a gradient and do not use energy.TABLE 11.1 Comparison of Different Transport MechanismsPropertySimpleFacilitatedActiveDiffusionTransportTransport
+Requires special membrane proteins€No€Yes€Yes
+Highly selective€No€Yes€Yes
+Transport saturates€No€Yes€Yes
+Uphill transport€No€No
+€YesRequires ATP energy€No€No
+€Yes11.2PLANT-WATER RELATIONSWater is essential for all physiological activities of the plant and plays a
+very important role in all living organisms.  It provides the medium in
+which most substances are dissolved. The protoplasm of the cells is
+nothing but water in which different molecules are dissolved and (several
+particles) suspended. A watermelon has over 92 per cent water; most
+herbaceous plants have only about 10 to 15 per cent of its fresh weight
+as dry matter. Of course, distribution of water within a plant varies Œ
+woody parts have relatively very little water, while soft parts mostly contain
+TRANSPORT IN PLANTS179water.  A seed may appear dry but it still has water Œ otherwise it wouldnot be alive and respiring!Terrestrial plants take up huge amount water daily but most of it islost to the air through evaporation from the leaves, i.e., transpiration. Amature corn plant absorbs almost three litres of water in a day, while a
+mustard plant absorbs water equal to its own weight in about 5 hours.
+Because of this high demand for water, it is not surprising that water is
+often the limiting factor for plant growth and productivity in both
+agricultural and natural environments.11.2.1Water PotentialTo comprehend plant-water relations, an understanding of certainstandard terms is necessary. Water potential (YY
+YY
+Yw) is a conceptfundamental to understanding water movement.  Solute potential(YY
+
+YY
+Ys) and pressure potential (YY
+
+YY
+Yp) are the two main components thatdetermine water potential.Water molecules possess kinetic energy. In liquid and gaseous formthey are in  random motion that is both rapid and constant. The greaterthe concentration of water in a system, the greater is its kinetic energy or
+‚water potential™.  Hence, it is obvious that pure water will have the greatest
+water potential.  If two systems containing water are in contact, random
+movement of water molecules will result in net movement of water
+molecules from the system with higher energy to the one with lower energy.
+Thus water will move from the system containing water at higher water
+potential to the one having low water potential.  This process of movementof substances down a gradient of free energy is called diffusion. Water
+potential is denoted by the Greek symbol Psi or YY
+YY
+Y and is expressed inpressure units such as pascals (Pa).  By convention, the water potentialof pure water at standard temperatures, which is not under any pressure,
+is taken to be zero.If some solute is dissolved in pure water, the solution has fewer freewater and the concentration of water decreases, reducing its water
+potential. Hence, all solutions have a lower water potential than pure
+water; the magnitude of this lowering due to dissolution of a solute is
+called solute potential or YY
+YY
+Ys.  YY
+
+YY
+Ys  is always negative.  The more thesolute molecules, the lower (more negative) is the Ys . For a solution atatmospheric pressure (water potential) Yw = (solute potential)  Ys.If a pressure greater than atmospheric pressure is applied to purewater or a solution, its water potential increases. It is equivalent topumping water from one place to another. Can you think of any system
+in our body where pressure is built up? Pressure can build up in a plant
+system when water enters a plant cell due to diffusion causing a pressurebuilt up against the cell wall, it makes the cell turgid (see section 11.2.2);
+180BIOLOGYthis increases the pressure potential. Pressure potential is usuallypositive, though in plants negative potential or tension in the water columnin the xylem plays a major role in water transport up a stem.  Pressure
+potential is denoted as YY
+YY
+Yp.Water potential of a cell is affected by both solute and pressurepotential.  The relationship between them is as follows:YY
+
+YY
+Yw = YY
+
+YY
+Ys + YY
+
+YY
+Yp11.2.2OsmosisThe plant cell is surrounded by a cell membrane and a cell wall.  The cellwall is freely permeable to water and substances in solution hence is not
+a barrier to movement. In plants the cells usually contain a large central
+vacuole, whose contents, the vacuolar sap, contribute to the solute
+potential of the cell. In plant cells, the cell membrane and the membrane
+of the vacuole, the tonoplast together are important determinants of
+movement of molecules in or out of  the cell.Osmosis is the term used to refer specifically to the diffusion of wateracross a differentially- or semi-permeable membrane. Osmosis occursspontaneously in response to a driving force. The net direction and rate of
+osmosis depends on both the pressure gradient and concentration gradient.Water will move from its region of higher chemical  potential (or concentration)
+to its region of lower chemical potential until equilibrium is reached. At
+equilibrium the two chambers should have the same water potential.You may have made a potato osmometer at some earlier stage inschool. If the tuber is placed in water, the cavity in the potato tuber
+containing a concentrated solution of sugar collects water due to osmosis.Study Figure 11.3 in which the two chambers, A and B, containingsolutions are separated by a semi-permeable membrane.Figure 11.3ABSolutemoleculeWater
+Semi-permeable
+membrane(a)Solution of  which chamber has a
+lower water potential?(b)Solution of  which chamber has a
+lower solute potential?(c)In which direction will osmosis
+occur?(d)Which solution has a higher solute
+potential?(e)At equilibrium which chamber will
+have lower water potential?(f)If one chamber has a Y Y 
+Y Y 
+Y of Œ 2000 kPa,and the other Œ 1000 kPa, which isthe chamber that has the higher YY
+YY
+Y?
+TRANSPORT IN PLANTS181Let us discuss another experiment where asolution of sucrose in water taken in a funnel isseparated from pure water in a beaker through
+a semi-permeable membrane (Figure 11.4). Youcan get this kind of a membrane in an egg.
+Remove the yolk and albumin through a small
+hole at one end of the egg, and place the shell
+in dilute solution of hydrochloric acid for a few
+hours. The egg shell dissolves leaving the
+membrane intact. Water will move into the funnel,resulting in rise in the level of the solution in the
+funnel. This will continue till the equilibrium is
+reached. In case sucrose does diffuse outthrough the membrane, will this equilibrium be
+ever reached?External pressure can be applied from theupper part of the funnel such that no water
+diffuses into the funnel through the membrane.
+This pressure required to prevent water from
+diffusing is in fact, the osmotic pressure and this
+is the function of the solute concentration; more
+the solute concentration, greater will be the
+pressure required to prevent water from diffusing
+in. Numerically osmotic pressure is equivalent
+to the osmotic potential, but the sign is
+opposite.Osmotic pressure is the positive
+pressure applied, while osmotic potential is
+negative.11.2.3PlasmolysisThe behaviour of the plant cells (or tissues) withregard to water movement depends on thesurrounding solution. If the external solutionbalances the osmotic pressure of the cytoplasm,it is said to be isotonic.  If the external solutionis more dilute than the cytoplasm, it is
+hypotonic and if the external solution is moreconcentrated, it is hypertonic. Cells swell inhypotonic solutions and shrink in hypertonicones.Plasmolysis occurs when water moves out ofthe cell and the cell membrane of a plant cellshrinks away from its cell wall.€ This occurs whenFigure 11.4A demonstration of osmosis. Athistle funnel is filled withsucrose solution and keptinverted in a beaker containingwater. (a) Water will diffuse
+across the membrane (asshown by arrows) to raise thelevel of the solution in thefunnel (b) Pressure can beapplied as shown to stop the
+water movement into thefunnelSucrose
+solutionMembranewater(a)(b)Pressure
+182BIOLOGYthe cell (or tissue) is placed in a solution that is hypertonic (has more solutes)to the protoplasm. Water moves out; it is first lost from  the cytoplasm andthen from the vacuole. The water when drawn out of the cell throughdiffusion into the extracellular (outside cell) fluid causes the protoplast toshrink away from the walls.€The cell is said to be plasmolysed. The movementof water occurred across the membrane moving from an area of high waterpotential (i.e., the cell) to an area of lower water potential outside the cell(Figure 11.5).€€What occupies the space between the cell wall and the shrunkenprotoplast in the plasmolysed cell?When the cell (or tissue) is placed in an isotonic solution, there is nonet flow of water towards the inside or outside.  If the external solution
+balances the osmotic pressure of the cytoplasm it is said to be isotonic.When water flows into the cell and out of the cell and are in equilibrium,the cells are said to be flaccid.€The process of plasmolysis is usually reversible. When the cells areplaced in a hypotonic solution (higher water potential or dilute solutionas compared to the cytoplasm), water diffuses into the cell causing the
+cytoplasm to build up a pressure against the wall, that is called turgorpressure.€The pressure exerted by the protoplasts due to entry of wateragainst the rigid walls is called pressure potential YY
+YY
+Yp.. Because of therigidity of the cell wall, the cell does not rupture.  This turgor pressure isultimately responsible for enlargement and extension growth of cells.What would be the YY
+YY
+Yp of a flaccid cell? Which organisms other thanplants possess cell wall ?11.2.4ImbibitionImbibition is a special type of diffusion when water is absorbed by solidsŒ colloids Œ causing them to enormously increase in volume.  The classicalFigure 11.5 Plant cell plasmolysis
+TRANSPORT IN PLANTS183examples of imbibition are absorption of water by seeds and dry wood.The pressure that is produced by the swelling of wood had been used by
+prehistoric man to split rocks and boulders.  If it were not for the pressure
+due to imbibition, seedlings would not have been able to emerge out of
+the soil into the open; they probably would not have been able to establish!Imbibition is also diffusion since water movement is along aconcentration gradient; the seeds and other such materials have almost no
+water hence they absorb water easily.  Water potential gradient between
+the absorbent and the liquid imbibed is essential for imbibition.  In addition,
+for any substance to imbibe any liquid, affinity between the adsorbant andthe liquid is also a pre-requisite.11.3LONG DISTANCE TRANSPORT OF WATERAt some earlier stage you might have carried out an experiment whereyou had placed a twig bearing white flowers in coloured water and had
+watched it turn colour. On examining the cut end of the twig after a few
+hours you had noted the region through which the coloured water moved.
+That experiment very easily demonstrates that the path of water movement
+is through the vascular bundles, more specifically, the xylem. Now we
+have to go further and try and understand the mechanism of movement
+of water and other substances up a plant.Long distance transport of substances within a plant cannot be bydiffusion alone.  Diffusion is a slow process. It can account for only short
+distance movement of molecules. For example, the movement of a molecule
+across a typical plant cell (about 50 µm) takes approximately 2.5 s. At thisrate, can you calculate how many years it would take for the movement
+of molecules over a distance of 1 m within a plant by diffusion alone?In large and complex organisms, often substances have to be movedacross very large distances. Sometimes the sites of production or
+absorption and sites of storage are too far from each other; diffusion or
+active transport would not suffice. Special long distance transport systems
+become necessary so as to move substances across long distances and at
+a much faster rate. Water and minerals, and food are generally moved by
+a mass or bulk flow system. Mass flow is the movement of substances inbulk or en masse from one point to another as a result of pressuredifferences between the two points. It is a characteristic of mass flow that
+substances, whether in solution or in suspension, are swept along at the
+same pace, as in a flowing river. This is unlike diffusion where different
+substances move independently depending on their concentration
+gradients. Bulk flow can be achieved either through a positive hydrostatic
+pressure gradient (e.g., a garden hose) or a negative hydrostatic pressure
+gradient (e.g., suction through a straw).
+184BIOLOGYThe bulk movement of substances through the conducting or vasculartissues of plants is called translocation.Do you remember studying cross sections of roots, stems and leavesof higher plants and studying the vascular system? The higher plantshave highly specialised vascular tissues Œ xylem and phloem. Xylem is
+associated with translocation of mainly water, mineral salts, some organic
+nitrogen and hormones, from roots to the aerial parts of the plants. The
+phloem translocates a variety of organic and inorganic solutes, mainly
+from the leaves to other parts of the plants.11.3.1How do Plants Absorb Water?We know that the roots absorb most of the water that goes into plants;obviously that is why we apply water to the soil and not on the leaves.
+The responsibility of absorption of water and minerals is more specifically
+the function of the root hairs that are present in millions at the tips of the
+roots.  Root hairs are thin-walled slender extensions of root epidermal
+cells that greatly increase the surface area for absorption.  Water is
+absorbed along with mineral solutes, by the root hairs, purely by diffusion.
+Once water is absorbed by the root hairs, it can move deeper into root
+layers by two distinct pathways:Łapoplast pathwayŁsymplast pathwayThe apoplast is the system of adjacent cell walls that is continuousthroughout the plant, except at the casparian strips of the endodermisin the roots (Figure 11.6).  The apoplastic movement of water occurs
+exclusively through the intercellular spaces and the walls of the cells.
+Movement through the apoplast does not involve crossing the cellFigure 11.6 Pathway of water movement in the root

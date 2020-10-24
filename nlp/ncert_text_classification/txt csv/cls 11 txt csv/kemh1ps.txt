@@ -1,0 +1,310 @@
+MATHEMATICS
+Textbook for Class XI
+
+ForewordThe National Curriculum Framework (NCF), 2005, recommends that children™s life
+at school must be linked to their life outside the school. This principle marks adeparture from the legacy of bookish learning which continues to shape our systemand causes a gap between the school, home and community. The syllabi and textbooks
+
+developed on the basis of NCF signify an attempt to implement this basic idea. Theyalso attempt to discourage rote learning and the maintenance of sharp boundariesbetween different subject areas. We hope these measures will take us significantly
+
+further in the direction of a child-centred system of education outlined in the NationalPolicy on Education (1986).The success of this effort depends on the steps that school principals andteachers will take to encourage children to reflect on their own learning and topursue imaginative activities and questions. We must recognise that given space,
+time and freedom, children generate new knowledge by engaging with the information
+passed on to them by adults. Treating the prescribed textbook as the sole basis ofexamination is one of the key reasons why other resources and sites of learning areignored. Inculcating creativity and initiative is possible if we perceive and treat
+children as participants in learning, not as receivers of a fixed body of knowledge.These aims imply considerable change in school routines and mode offunctioning. Flexibility in the daily time-table is as necessary as rigour in implementing
+the annual calendar so that the required number of teaching days are actually devotedto teaching. The methods used for teaching and evaluation will also determine howeffective this textbook proves for making children™s life at school a happy experience,
+
+rather than a source of stress or boredom. Syllabus designers have tried to address
+the problem of curricular burden by restructuring and reorienting knowledge at
+different stages with greater consideration for child psychology and the time available
+for teaching. The textbook attempts to enhance this endeavour by giving higherpriority and space to opportunities for contemplation and wondering, discussion insmall groups, and activities requiring hands-on experience.The National Council of Educational Research and Training (NCERT) appreciates
+the hard work done by the Textbook Development Committee responsible for this
+
+book. We wish to thank the Chairperson of the advisory group in Science and
+Mathematics, Professor J.V. Narlikar and the Chief Advisor for this book
+Professor P.K. Jain for guiding the work of this committee. Several teachers
+
+contributed to the development of this textbook; we are grateful to their principalsfor making this possible. We are indebted to the institutions and organisations which
+have generously permitted us to draw upon their resources, material and personnel.
+We are especially grateful to the members of the National Monitoring Committee,
+appointed by the Department of Secondary and Higher Education, Ministry of HumanResource Development under the Chairpersonship of Professor Mrinal Miri and
+Professor G.P. Deshpande, for their valuable time and contribution. As an organisation
+committed to the systemic reform and continuous improvement in the quality of itsproducts, NCERT welcomes comments and suggestions which will enable us to
+
+undertake further revision and refinement.Director
+New DelhiNational Council of Educational
+20 December 2005Research and Training
+Textbook Development Committee
+CHAIRPERSON, ADVISORY
+ GROUP IN SCIENCE AND MATHEMATICS
+J.V. Narlikar, 
+Emeritus Professor,
+ Chairman,  Advisory Committee Inter University
+Centre for Astronomy & Astrophysics (IUCCA), Ganeshkhind, Pune University, Pune
+CHIEF ADVISORP.K. Jain, 
+Professor, 
+Department of Mathematics, University of Delhi, DelhiCHIEF COORDINATOR
+Hukum Singh, Professor,
+ DESM, NCERT, New Delhi
+MEMBERSA.K. Rajput, Associate Professor,
+ RIE Bhopal, M.P.
+A.K. Wazalwar, 
+Associate Professor,
+ DESM NCERT, New Delhi
+B.S.P. Raju, 
+Professor,
+ RIE Mysore, Karnataka
+C.R. Pradeep, Assistant Professor,
+ Department of Mathematics, Indian Institute of Science,
+Bangalore, Karnataka.Pradeepto Hore, Sr. Maths Master
+, Sarla Birla Academy Bangalore, Karnataka.
+S.B. Tripathy, 
+Lecturer
+, Rajkiya Pratibha Vikas Vidyalaya, Surajmal Vihar, Delhi.
+S.K.S. Gautam, Professor,
+ DESM, NCERT, New Delhi
+Sanjay Kumar Sinha, P.G.T.,
+ Sanskriti School Chanakyapuri, New Delhi.
+Sanjay Mudgal, Lecturer,
+ CIET, New Delhi
+Sneha Titus, 
+Maths Teacher,
+ Aditi Mallya School Yelaharika, Bangalore, Karnataka
+Sujatha Verma, 
+Reader in Mathematics, IGNOU, New Delhi.
+Uaday Singh, Lecturer,
+ DESM, NCERT, New Delhi.
+MEMBER-COORDINATOR
+V.P. Singh, 
+Associate Professor
+,  DESM, NCERT, New Delhi
+
+AcknowledgementsThe Council gratefully acknowledges the valuable contributions of the followingparticipants of the Textbook Review Workshop: P. Bhaskar Kumar, 
+P.G.T.,
+ JawaharNavodaya Vidyalaya, Ananthpur, (A.P.); Vinayak Bujade, 
+Lecturer,
+ Vidarbha Buniyadi
+Junior College, Sakkardara Chowk Nagpur, Maharashtra; Vandita Kalra, 
+Lecturer,
+Sarvodaya Kanya Vidyalaya Vikashpuri District Centre, New Delhi; P.L. Sachdeva
+
+Deptt. of Mathematics, Indian Institute of Science, Bangalore, Karnataka; P.K.Tiwari
+
+Assistant Commissioner (Retd.), Kendriya Vidyalaya Sangathan; Jagdish Saran,
+Department of Statistics, University of Delhi; Quddus Khan, 
+Lecturer, 
+Shibli NationalP.G. College Azamgarh (U.P.); Sumat Kumar Jain, 
+Lecturer,
+ K.L. Jain Inter College
+Sasni Hathras (U.P.); R.P. Gihare, 
+Lecturer
+ (BRC), Janpad Shiksha Kendra Chicholi
+Distt. Betul (M.P.); Sangeeta Arora, 
+P.G.T.,
+ A.P.J. School Saket, New Delhi; P.N.
+Malhotra, ADE (Sc.), Directorate of Education, Delhi; D.R. Sharma, P.G.T.,
+ J.N.V.
+Mungespur, Delhi; Saroj, 
+P.G.T.
+ Government Girls Sr. Secondary School, No. 1,
+Roop Nagar, Delhi, Manoj Kumar Thakur, 
+P.G.T.
+, D.A.V. Public  School, Rajender
+Nagar, Sahibabad, Ghaziabad (U.P.) and R.P. Maurya, 
+Reader, 
+DESM, NCERT,
+New Delhi.Acknowledgements are due to Professor M. Chandra, Head, Department of
+Education in Science and Mathematics for her support.The Council acknowledges the efforts of the Computer Incharge, Deepak Kapoor;Rakesh Kumar, Kamlesh Rao and Sajjad Haider Ansari, D.T.P. Operators; Kushal Pal
+
+Singh Yadav, Copy Editor and Proof Readers, Mukhtar Hussain and Kanwar Singh.
+The contribution of APCŒOffice, administration of DESM and Publication
+Department is also duly acknowledged.
+ContentsForewordiii
+1.Sets1
+1.1Introduction1
+1.2Sets and their Representations1
+1.3The Empty Set5
+
+1.4Finite and Infinite Sets6
+1.5Equal  Sets7
+1.6Subsets9
+
+1.7Power Set12
+1.8Universal Set12
+1.9Venn Diagrams13
+
+1.10Operations on Sets14
+1.11Complement of a Set18
+1.12Practical Problems on Union and Intersection of Two Sets21
+2.Relations and Functions30
+2.1Introduction30
+2.2Cartesian Product of Sets30
+
+2.3Relations34
+2.4Functions36
+3.Trigonometric Functions49
+3.1Introduction49
+
+3.2Angles49
+3.3Trigonometric Functions55
+
+3.4Trigonometric Functions of Sum and Difference of Two Angles63
+3.5Trigonometric Equations74
+4.Principle of Mathematical Induction86
+4.1Introduction86
+4.2Motivation87
+
+4.3The Principle of Mathematical Induction88
+
+viii5.Complex Numbers and Quadratic Equations97
+5.1Introduction97
+5.2Complex Numbers97
+
+5.3Algebra of Complex Numbers98
+5.4The Modulus and the Conjugate of a Complex Number102
+5.5Argand Plane and Polar Representation104
+
+5.6Quadratic Equations108
+6.Linear Inequalities116
+6.1Introduction116
+6.2Inequalities116
+
+6.3Algebraic Solutions of Linear Inequalities in One Variable
+and their Graphical Representation118
+6.4Graphical Solution of Linear Inequalities in Two Variables123
+
+6.5Solution of System of Linear Inequalities in Two Variables127
+7.Permutations and Combinations134
+7.1Introduction134
+
+7.2Fundamental Principle of Counting134
+
+7.3Permutations138
+7.4Combinations148
+8.Binomial Theorem160
+8.1Introduction160
+8.2Binomial Theorem for Positive Integral Indices160
+
+8.3General and Middle Terms167
+9.Sequences and Series177
+9.1Introduction177
+
+9.2Sequences177
+
+9.3Series179
+
+9.4Arithmetic Progression (A.P.)181
+
+9.5Geometric Progression (G.P.)186
+
+9.6Relationship Between A.M. and G.M.191
+9.7Sum to 
+n terms of Special Series194
+10.Straight Lines203
+10.1Introduction203
+10.2Slope of a Line204
+10.3V
+arious Forms of the Equation of a Line212
+10.4General Equation of a Line220
+10.5Distance of a Point From a Line225
+
+ix11.Conic Sections236
+11.1Introduction236
+11.2Sections of a Cone236
+
+11.3Circle239
+
+11.4Parabola242
+
+11.5Ellipse247
+11.6Hyperbola255
+12.Introduction to Three Dimensional Geometry268
+12.1Introduction268
+12.2  Coordinate Axes and Coordinate Planes in
+Three Dimensional Space269
+12.3  Coordinates of a Point in Space269
+12.4  Distance between Two Points271
+12.5  Section Formula273
+13.Limits and Derivatives281
+13.1Introduction281
+
+13.2Intuitive Idea of Derivatives281
+13.3Limits284
+13.4Limits of Trigonometric Functions298
+13.5Derivatives303
+14.Mathematical Reasoning321
+14.1Introduction321
+14.2Statements321
+14.3New Statements from Old324
+14.4Special Words/Phrases329
+14.5Implications335
+14.6V
+alidating Statements339
+15.Statistics347
+15.1Introduction347
+15.2Measures of Dispersion349
+15.3Range349
+15.4Mean Deviation349
+15.5V
+ariance and Standard Deviation361
+15.6   Analysis of Frequency Distributions372
+
+x16.Probability383
+16.1Introduction383
+16.2Random Experiments384
+16.3Event387
+16.4Axiomatic Approach to Probability394
+Appendix 1: Infinite Series412
+A.1.1 
+Introduction412
+A.1.2  Binomial Theorem for any Index412
+
+A.1.3  Infinite Geometric Series414
+
+A.1.4  Exponential Series416
+A.1.5  Logarithmic Series419
+Appendix 2: Mathematical Modelling421
+A.2.1 
+Introduction421
+A.2.2  Preliminaries421
+
+A.2.3  What is Mathematical Modelling425
+Answers433Supplementary Material466
+xi
+First EditionFebruary 2006  Phalguna 1927
+ReprintedOctober 2006 Kartika 1928
+November 2007 Kartika 1929PD 410T BS© National Council of EducationalResearch and Training, 2006
+Rs 105.00Printed on 80 GSM paper withNCERT watermark
+Published at the PublicationDepartment by the Secretary,
+
+National Council of Educational
+Research and Training,
+Sri Aurobindo Marg, New Delhi
+110 016 and printed at Sam
+Industrial Enterprises, A-17/18,
+Sector 60, Noida 201 301ISBN  81-7450-486-9
+ALL RIGHTS RESERVEDNo part of this publication may be reproduced, stored in a retrievalsystem or transmitted, in any form or by any means, electronic,mechanical, photocopying, recording or otherwise without the prior
+permission of the publisher.This book is sold subject to the condition that it shall not, by way oftrade,  be lent,  re-sold, hired out or otherwise disposed of without the
+publisher™s consent, in any form of binding or cover other than that in
+which it is published.The correct price of this publication is the price printed on this page,Any revised price indicated by a rubber stamp or by a sticker or by anyother means is incorrect and should be unacceptable.OFFICES OF THE PUBLICATION
+DEPARTMENT
+, NCERTNCERT Campus
+Sri Aurobindo Marg
+New  Delhi 110 016
+Phone :  011-26562708
+108, 100 Feet RoadHosdakere Halli Extension
+Banashankari III Stage
+Bangalore 560 085Phone : 080-26725740
+Navjivan Trust BuildingP.O.Navjivan
+
+Ahmedabad 380 014Phone :  079-27541446
+CWC CampusOpp. Dhankal Bus Stop
+Panihati
+Kolkata 700 114Phone :  033-25530454
+CWC ComplexMaligaon
+Guwahati 781 021Phone :  0361-2674869
+Publication TeamHead, Publication:
+Peyyeti RajakumarDepartmentChief Production:
+Shiv KumarOfficerChief Editor:
+Shveta UppalChief Business:
+Gautam GangulyManagerAssistant Editor:
+Bijnan SutarProduction Assistant:
+Mukesh GaurCover and LayoutArvinder Chawla

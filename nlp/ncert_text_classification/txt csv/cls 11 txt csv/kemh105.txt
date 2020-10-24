@@ -1,0 +1,249 @@
+ChapterCOMPLEX NUMBERS AND
+QUADRATIC EQUATIONS
+W. R. Hamilton
+(1805-1865)Mathematics is the Queen of Sciences and Arithmetic is the Queen of
+Mathematics. Œ GAUSS 5.1  IntroductionIn earlier classes, we have studied linear equations in oneand two variables and quadratic equations in one variable.
+We have seen that the equation 
+x2 + 1 = 0 has no realsolution as x2 + 1 = 0 gives x2 = Œ 1 and square of everyreal number is non-negative. So, we need to extend the
+real number system to a larger system so that we canfind the solution of the equation x2 = Œ 1. In fact, the mainobjective is to solve the equation ax2 + bx + c = 0, whereD = b2 Œ  4ac < 0, which is not possible in the system ofreal numbers.5.2  Complex NumbersLet us denote 1 by the symbol i. Then, we have 21i. This means that i is asolution of the equation x2 + 1 = 0.A number of the form a + ib, where a and b are real numbers, is defined to be acomplex number. For example, 2 + 
+i3,  (Œ 1) + 3i,  1411i are complex numbers.For the complex number z = a + ib, a is called the real part
+, denoted by Re z andb is called the imaginary part denoted by Im z of the complex number z. For example,if z = 2 + i5, then Re z = 2 and Im z = 5.Two complex numbers 
+z1 = a + ib and z2 = c + id are equal if  a = c and b = d.5
+98       MATHEMATICS
+Example 1 If 4x + i(3x Œ y) = 3 + i (Œ 6), where x and y are real numbers, then findthe values of x and y.Solution We have
+4x + i (3x Œ y) = 3 + i (Œ6)... (1)
+Equating the real and the imaginary parts of (1), we get4x = 3, 3x Œ y = Œ 6,which, on solving simultaneously, give  
+34x and 334y.5.3   Algebra of Complex Numbers
+In this Section, we shall develop the algebra of complex numbers.5.3.1   Addition of two complex numbers
+ Let z1 = a + ib and z2 = c + id be any twocomplex numbers. Then, the sum  z1 + z2 is defined as follows:z1 + z2 = (a + c) + i (b + d), which is again a complex number.
+For example, (2 + i3) + (Œ 6 +i5) = (2 Œ 6) + i (3 + 5) = Œ 4 + i 8The addition of complex numbers satisfy the following properties:(i)The closure law
+  The sum of two complex numbers is a complex
+number, i.e., 
+z1 + z2 is a complex number for all complex numbersz1 and z2.(ii)The commutative law  For any two complex numbers z1 and z2,z1 + z2 = z2 + z1(iii)The associative law  For any three complex numbers z1, z2, z3,(z1 + z2) + z3 = z1 + (z2 + z3).(iv)The existence of additive identity  There exists the complex number0 + i 0 (denoted as 0), called the additive identity or the zero complex
+number,
+ such that, for every complex number z, z + 0 = z.(v)The existence of additive inverse  To every complex number
+z = a + ib, we have the complex number Œ a + i(Œ b) (denoted as Œ  z),called the additive inverse or negative of z. We observe that 
+z + (Œz) = 0(the additive identity).5.3.2  Difference of two complex numbers Given any two complex numbers z1 andz2, the difference z1 Œ z2 is defined as follows:z1 Œ z2 = z1 + (Œ z2).For example,(6 + 3
+i) Œ (2 Œ i) = (6 + 3i) + (Œ 2 + i ) = 4 + 4iand(2 Œ  
+i) Œ (6 + 3i) = (2 Œ i) + ( Œ 6 Œ 3i) = Œ 4 Œ 4i
+COMPLEX NUMBERS AND QUADRATIC EQUATIONS       995.3.3  Multiplication of two complex numbers Let z1 = a + ib and z2 = c + id be anytwo complex numbers. Then, the product z1 z2 is defined as follows:z1 z2 = (ac Œ  bd) + i(ad + bc)For example, (3 + i5) (2 + i6) = (3 × 2 Œ 5 × 6) + i(3 × 6 + 5 × 2) = Œ 24 + i28The multiplication of complex numbers possesses the following properties, whichwe state without proofs.(i)The closure law 
+The product of two complex numbers is a complex number,
+the product z1 z2 is a complex number for all complex numbers z1 and z2.(ii)The commutative law For any two complex numbers z1 and z2,z1 z2 = z2 z1.(iii)The associative law For any three complex numbers z1, z2, z3,(z1 z2) z3 = z1 (z2 z3).(iv)The existence of multiplicative identity There exists the complex number1 + i 0 (denoted as 1),  called the multiplicative identity such that z.1 = z,for every complex number z.(v)The existence of multiplicative inverse For every non-zero complexnumber z = a + ib or a + bi(a  0, b  0), we have the complex number2222
+aŒb
+iabab
+ (denoted by 1z or zŒ1 ), called the multiplicative inverseof z such that11z.z (the multiplicative identity).(vi)The distributive law For any three complex numbers z1, z2, z3,(a)  z1 (z2 + z3) = z1 z2 + z1 z3(b)  (z1 + z2) z3 = z1 z3 + z2 z35.3.4  Division of two complex numbers Given any two complex numbers z1 and  z2,where 20z, the quotient 12zz is defined by11221zzzzFor example, letz1 = 6 + 3i and  z2 = 2 Œ iThen121(63)
+2zizi
+ = 63i 2222122121
+i
+
+100       MATHEMATICS
+= 2635ii = 1112366912
+55ii
+5.3.5  Power of i  we know that321iiiii
+
+,224211ii
+22521iiiii
+
+, 336211ii
+, etc.Also, we have    122111
+,1,
+11iiiii
+iii
+     34341111
+,111iiiii
+iiii
+In general, for any integer k, i4k = 1, i4k + 1 = i, i4k + 2 = Œ1, i4k + 3 = Œ i5.3.6  The square roots of a negative real numberNote that  i2 = Œ1 and  ( Œ i)2 = i2 = Œ 1Therefore,  the square roots of Œ 1 are i, Œ i. However, by the symbol 
+1, we wouldmean i only.
+Now, we can see that 
+i and Œi both are the solutions of the equation x2 + 1 = 0 orx2 = Œ1.Similarly2233i i2 = 3 (Œ 1) = Œ 323i = 23 i2 = Œ 3Therefore,  the square roots of Œ3 are 3i and 3i.Again, the symbol 3 is meant to represent 3i only, i.e., 
+3 = 3i.Generally, if 
+a is a positive real number, 
+a = 1a = ai,We already know that 
+ab = ab for all positive real number a and b. Thisresult also holds true when either 
+a > 0, b < 0  or a < 0,  b > 0. What if a < 0, b < 0?Let us examine.Note that
+COMPLEX NUMBERS AND QUADRATIC EQUATIONS       101
+21111
+i
+ (by assuming ab = ab for all real numbers)= 1 = 1,  which is a contradiction to the fact that 21i.Therefore, abab
+ if both a and b are negative real numbers.Further, if any of 
+a and b is zero, then, clearly, 
+abab
+= 0.5.3.7 Identities We prove the following identity
+222121212
+2zzzzzz
+
+, for all complex numbers z1 and z2.Proof
+  We have,(
+z1 + z2)2 = (z1 + z2) (z1 + z2),=  (z1 + z2) z1 + (z1 + z2) z2(Distributive law)= 22121122
+zzzzzz
+(Distributive law)    = 
+22112122
+zzzzzz
+(Commutative law of multiplication)    = 
+221122
+2zzzz
+Similarly, we can prove the following identities:
+(i)222121122
+2zzzzzz
+
+(ii)33223
+12112122
+33zzzzzzzz
+
+(iii)33223
+12112122
+33zzzzzzzz
+
+(iv)22121212
+zŒzzzzŒz
+In fact, many other identities which are true for all real numbers, can be provedto be true for all complex numbers.Example 2 Express the following in the form of  a + bi:(i)158ii(ii)
+2ii 318iSolution(i)158ii = 258i = 518 = 58= 508i(ii)
+3128iii
+ = 512888
+i  = 
+221256i 1256ii.
+102       MATHEMATICS
+Example 3 Express (5 Œ 3i)3 in the form a + ib.SolutionWe have, (5 Œ 3
+i)3=53 Œ 3 × 52 × (3i) + 3 × 5 (3i)2 Œ (3i)3= 125 Œ  225i Œ 135 + 27i  = Œ 10 Œ 198i.Example 4 Express 3223
+i
+in the form of a + ibSolution We have, 
+3223
+i
+  = 
+3223
+ii
+= 263262
+iii
+
+ = 623122
+i
+5.4  The Modulus and the Conjugate of a Complex NumberLet z = a + ib be a complex number. Then, the modulus of 
+z, denoted by | z |, is definedto be the  non-negative real number 22ab, i.e., | z | = 22ab and the conjugateof z, denoted as z, is the complex number a Œ  ib, i.e.,  z = a Œ  ib.For example,2233110
+i
+, 22252(5)29
+i
+,and33ii
+,  2525
+ii
+, 35i = 3i Œ 5Observe that the multiplicative inverse of the non-zero complex number z isgiven byzŒ1 = 1aib
+ = 2222
+abiabab
+ = 22aib
+ab =  2zzor        z 2zzFurthermore, the following results can easily be derived.For any two compex numbers z1 and z2 , we have(i)1212
+zzzz
+(ii)1122zzzz provided 20z(iii)1212
+zzzz
+(iv)1212
+zzzz
+
+(v) 1122zzzz provided z2  0.
+COMPLEX NUMBERS AND QUADRATIC EQUATIONS       103Example 5 Find the multiplicative inverse of 2 Œ  3i.SolutionLet z = 2 Œ  3iThenz = 2 + 3i and2222(3)13
+z
+Therefore,   the multiplicative inverse of 23iis given byzŒ1 22323
+131313
+ziiz
+The above working can be reproduced in the following manner also,zŒ1 =123
+23(23)(23)
+iiii
+
+=22232323
+131313
+2(3)
+iiii
+Example 6 Express the following in the form a + ib(i) 5212ii(ii)  iŒ35Solution(i)  We have, 
+525212
+
+121212
+iii
+iii
+
+
+  255222
+12iii
+= 3623(122)
+123
+ii = 122
+i.(ii) 353517
+2111
+iiiiiii
+ = 2iiiEXERCISE 5.1Express each of the complex number given in the Exercises 1 to 10 in theform a + ib.1.355ii2.ii919
+3.i39
+104       MATHEMATICS
+Fig 5.14.3(7 + i7) + i (7 + i7)5.(1 Œ i) Œ ( Œ1 + i6)6. 125
+4552
+ii
+
+
+
+7.1714
+43333
+iii
+
+
+
+
+8.(1 Œ i)49.3133i10.3123i
+Find the multiplicative inverse of each of the complex numbers given in theExercises 11 to 13.
+11.
+4 Œ  3i12.53i13.Œ i14.Express the following expression in the form of a + ib :3535
+3232
+iiii
+5.5  Argand Plane and Polar Representation
+We already know that corresponding to
+each ordered pair of real numbers(x, y), we get a unique point in the XY-
+plane and vice-versa with reference to aset of mutually perpendicular lines knownas the x-axis and the y-axis. The complexnumber x + iy which  corresponds to theordered pair (x, y) can be representedgeometrically as the unique point P(x, y)in the XY-plane and vice-versa.
+Some complex numbers such as2 + 4i, Œ 2 + 3i, 0 + 1i, 2 + 0i, Œ 5 Œ2i and1 Œ 2i which correspond to the orderedpairs (2, 4), ( Œ 2, 3), (0, 1), (2, 0), ( Œ5, Œ2), and (1, Œ 2), respectively, have been
+represented geometrically by the points A, B, C, D, E, and F, respectively in
+
+the Fig 5.1.The plane having a complex number assigned to each of its point is called thecomplex plane or the Argand plane
+.
+COMPLEX NUMBERS AND QUADRATIC EQUATIONS       105Obviously, in the Argand plane, the modulus of the complex number
+x + iy = 22xy is the distance between the point P(x, y) and the origin O (0, 0)(Fig 5.2). The points on the x-axis corresponds to the complex numbers of the forma + i 0 and the points on the y-axis corresponds to the complex numbers of the formFig 5.2Fig 5.30 + i b. The x-axis and y-axis in the Argand plane are called, respectively, the 
+real axis
+and the imaginary axis.The representation of a  complex number z = x + iy and its conjugatez = x Œ iy in the Argand plane are, respectively, the points P
+ (x, y) and Q (x, Œ y).Geometrically, the point (
+x, Œ y) is the mirror image of the point (x, y) on the realaxis (Fig 5.3).
+106       MATHEMATICS
+5.5.1  Polar representation of a complexnumber Let the point P represent the non-zero complex number z = x + iy. Let thedirected line segment OP be of length r and be the angle which OP makes with thepositive direction of x-axis (Fig 5.4).We may note that the point P is
+uniquely determined by the ordered pair ofreal numbers (r, ), called the polarcoordinates of the point 
+P. We consider
+the origin as the pole and the positivedirection of the x axis as the initial line.We have, 
+x = r cos , y = r sin  and therefore, z = r (cos  + i sin ). The latter
+is said to be the polar form of the complex number. Here 22rxyz
+
+ is themodulus of z and  is called the argument (or amplitude) of z which is denoted by arg z.For any complex number z  0, there corresponds only one value of  in0  < 2. However, any other interval of length 2
+, for example Œ <   , can besuch an interval.We shall take the value of 
+ such that Œ  <    , called principalargument of z and is denoted by arg z, unless specified otherwise.  (Figs. 5.5 and 5.6)Fig 5.4Fig 5.5 02
+Fig 5.6 (Œ  <    )
+COMPLEX NUMBERS AND QUADRATIC EQUATIONS       107Example 7 Represent the complex number 13zi in the polar form.Solution Let 1 = r cos , 3 = r sin By squaring and adding, we get222
+cos
+sin4ri.e.,r42 (conventionally, 
+r >0)Therefore,1cos
+2, 3sin2, which gives 3Therefore,required 
+polar form is  2cossin
+33ziThe complex number zi13 is represented as shown  in Fig 5.7.Example 8 Convert the complex number 1613i into polar form.Solution The given complex number  1613i = 1613
+1313
+iii         = 
+2Œ161Œ3Œ161Œ3
+=1+3
+1Œ3
+iii = Œ41Œ3=Œ4+43
+ii (Fig 5.8).Let Œ 4 = 
+r cos , 43 = r sin By squaring and adding, we get16 + 48 = 222
+cos
++sin
+rwhich gives        
+r2 = 64,  i.e.,  r = 8Hence   
+cos  = 12,  sin  = 32         2=Œ=33Thus, the required polar form is  228cossin
+33iFig  5.7Fig  5.8
+108       MATHEMATICS
+EXERCISE 5.2Find the modulus and the arguments of each of the complex numbers inExercises 1 to 2.1. z = Œ 1 Œ  i32.z = Œ 3 + iConvert each of the complex numbers given in Exercises 3 to 8 in the polar form:3.1 Œ i4. Œ 1 + i5. Œ 1 Œ i6.Œ 37.3 + i8.i5.6  Quadratic EquationsWe are already familiar with the quadratic equations and have solved them in the set
+of real numbers in the cases where discriminant is non-negative, i.e.,   0,
+Let us consider the following quadratic equation:02cbxax with real coefficients a, b, c and a  0.Also, let us assume that the  b2 Œ 4ac < 0.Now, we know that we can find the square root of negative real numbers in the
+set of complex numbers. Therefore, the solutions to the above equation are available inthe set of complex numbers which are given byx = 224422bbacbacbi
+aa
+Note    At this point of time, some would be interested to know as to how many
+roots does an equation have? In this regard, the following theorem known as theFundamental theorem of Algebra 
+is stated below (without proof).ﬁA polynomial equation has at least one root.ﬂAs a consequence of this theorem, the following result, which is of immenseimportance, is arrived at:ﬁA polynomial equation of degree n has n roots.ﬂExample 9 Solve  x2 + 2 = 0Solution  We have, 
+x2 + 2 = 0orx2 = Œ 2 i.e., x = 2 = 2iExample 10  Solve  x2 + x + 1= 0Solution Here, 
+b2 Œ 4ac = 12 Œ 4 × 1 × 1 = 1 Œ  4 = Œ 3

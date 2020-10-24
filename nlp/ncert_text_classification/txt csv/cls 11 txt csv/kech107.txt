@@ -1,0 +1,139 @@
+185EQUILIBRIUMUNIT 7EQUILIBRIUMChemical equilibria are important in numerous biologicaland environmental processes. For example, equilibriainvolving O2 molecules and the protein hemoglobin play acrucial role in the transport and delivery of O2 from ourlungs to our muscles. Similar equilibria involving CO
+molecules and hemoglobin account for the toxicity of CO.When a liquid evaporates in a closed container,molecules with relatively higher kinetic energy escape the
+liquid surface into the vapour phase and number of liquid
+molecules from the vapour phase strike the liquid surface
+and are retained in the liquid phase. It gives rise to a constant
+vapour pressure because of an equilibrium in which thenumber of molecules leaving the liquid equals the number
+returning to liquid from the vapour. We say that the systemhas reached equilibrium state at this stage. However, thisis not static equilibrium and there is a lot of activity at the
+boundary between the liquid and the vapour. Thus, atequilibrium, the rate of evaporation is equal to the rate ofcondensation. It may be represented byH2O (l)  H2O (vap)The double half arrows indicate that the processes inboth the directions are going on simultaneously. The mixture
+of reactants and products in the equilibrium state is called
+an equilibrium mixture.€Equilibrium can be established for both physicalprocesses and chemical reactions. The reaction may be fast
+or slow depending on the experimental conditions and the
+nature of the reactants. When the reactants in a closed vessel
+at a particular temperature react to give products, the
+concentrations of the reactants keep on decreasing, while
+those of products keep on increasing for some time after
+which there is no change in the concentrations of either ofthe reactants or products. This stage of the system is the
+dynamic equilibrium and the rates of the forward andAfter studying this unit you will beable to·identify dynamic nature ofequilibrium involved in physicaland chemical processes;·state the law of equilibrium;·explain characteristics of
+equilibria involved in physicaland chemical processes;·write expressions for
+equilibrium constants;·establish a relationship betweenKp and Kc;·explain various factors that
+affect the equilibrium state of areaction;·classify substances as acids orbases according to Arrhenius,Bronsted-Lowry and Lewisconcepts;·classify acids and bases as weakor strong in terms of theirionization constants;·explain the dependence of
+degree of ionization onconcentration of the electrolyte
+and that of the common ion;·describe pH scale for
+representing hydrogen ionconcentration;·explain ionisation of water andits duel role as acid and base;·describe ionic product (Kw ) andpKw  for water;·appreciate use of buffer
+solutions;·calculate solubility productconstant.
+186CHEMISTRYreverse reactions become equal. It is due tothis dynamic equilibrium stage that there isno change in the concentrations of variousspecies in the reaction mixture. Based on theextent to which the reactions proceed to reachthe state of chemical equilibrium, these maybe classified in three groups.(i)The reactions that proceed nearly tocompletion and only negligibleconcentrations of the reactants are left. Insome cases, it may not be even possible todetect these experimentally.(ii)The reactions in which only small amountsof products are formed and most of thereactants remain unchanged atequilibrium stage.(iii)The reactions in which the concentrationsof the reactants and products arecomparable, when the system is inequilibrium.The extent of a reaction in equilibriumvaries with the experimental conditions suchas concentrations of reactants, temperature,etc. Optimisation of the operational conditionsis very important in industry and laboratory
+so that equilibrium is favorable in thedirection of the desired product. Someimportant aspects of equilibrium involvingphysical and chemical processes are dealt inthis unit along with the equilibrium involving
+ions in aqueous solutions which is called asionic equilibrium.7.1EQUILIBRIUM IN PHYSICALPROCESSESThe characteristics of system at equilibrium
+are better understood if we examine somephysical processes. The most familiarexamples are phase transformationprocesses, e.g.,solid      liquidliquid    gassolid      gas7.1.1Solid-Liquid EquilibriumIce and water kept in a perfectly insulatedthermos flask (no exchange of heat between
+its contents and the surroundings) at 273Kand the atmospheric pressure are inequilibrium state and the system showsinteresting characteristic features. We observethat the mass of ice and water do not changewith time and the temperature remains
+constant. However, the equilibrium is notstatic. The intense activity can be noticed at
+the boundary between ice and water.Molecules from the liquid water collide againstice and adhere to it and some molecules of iceescape into liquid phase. There is no change
+of mass of ice and water, as the rates of transferof molecules from ice into water and of reverse
+transfer from water into ice are equal at
+atmospheric pressure and 273 K.It is obvious that ice and water are inequilibrium only at particular temperature
+and pressure. For any pure substance atatmospheric pressure, the temperature atwhich the solid and liquid phases are atequilibrium is called the normal melting pointor normal freezing point of the substance.The system here is in dynamic equilibrium and
+we can infer the following:(i)Both the opposing processes occursimultaneously.(ii)Both the processes occur at the same rate
+so that the amount of ice and water
+remains constant.7.1.2Liquid-Vapour EquilibriumThis equilibrium can be better understood if
+we consider the example of a transparent boxcarrying a U-tube with mercury (manometer).Drying agent like anhydrous calcium chloride
+(or phosphorus penta-oxide) is placed for a
+few hours in the box. After removing thedrying agent by tilting the box on one side, awatch glass (or petri dish) containing water is
+quickly placed inside the box. It will beobserved that the mercury level in the rightlimb of the manometer slowly increases and
+finally attains a constant value, that is, thepressure inside the box increases and reachesa constant value. Also the volume of water in
+the watch glass decreases (Fig. 7.1). Initially
+there was no water vapour (or very less) insidethe box. As water evaporated the pressure inthe box increased due to addition of water
+187EQUILIBRIUMmolecules into the gaseous phase inside thebox. The rate of evaporation is constant.However, the rate of increase in pressuredecreases with time due to condensation of
+vapour into water. Finally it leads to anequilibrium condition when there is no netevaporation. This implies that the number ofwater molecules from the gaseous state intothe liquid state also increases till theequilibrium is attained i.e.,rate of evaporation= rate of condensationH2O(l) H2O (vap)At equilibrium the pressure exerted by thewater molecules at a given temperature
+remains constant and is called the equilibrium
+vapour pressure of water (or just vapourpressure of water); vapour pressure of waterincreases with temperature. If the aboveexperiment is repeated with methyl alcohol,acetone and ether, it is observed that differentliquids have different equilibrium vapourpressures at the same temperature, and theliquid which has a higher vapour pressure ismore volatile and has a lower boiling point.If we expose three watch glassescontaining separately 1mL each of acetone,
+ethyl alcohol, and water to atmosphere andrepeat the experiment with different volumesof the liquids in a warmer room, it is observedthat in all such cases the liquid eventually
+disappears and the time taken for completeevaporation depends on (i) the nature of theliquid, (ii) the amount of the liquid and (iii) thetemperature. When the watch glass is open tothe atmosphere, the rate of evaporation
+remains constant but the molecules aredispersed into large volume of the room. As aconsequence the rate of condensation fromvapour to liquid state is much less than therate of evaporation. These are open systems
+and it is not possible to reach equilibrium in
+an open system.Water and water vapour are in equilibriumposition at atmospheric pressure (1.013 bar)
+and at 100°C in a closed vessel. The boiling
+point of water is 100°C at 1.013 bar pressure.
+For any pure liquid at one atmospheric
+pressure (1.013 bar), the temperature atwhich the liquid and vapours are atequilibrium is called normal boiling point of
+the liquid. Boiling point of the liquid depends
+on the atmospheric pressure. It depends on
+the altitude of the place; at high altitude theboiling point decreases.7.1.3Solid Œ Vapour EquilibriumLet us now consider the systems where solidssublime to vapour phase. If we place solid iodine
+in a closed vessel, after sometime the vessel getsfilled up with violet vapour and the intensity ofcolour increases with time. After certain time the
+intensity of colour becomes constant and at this
+stage equilibrium is attained. Hence solid iodine
+sublimes to give iodine vapour and the iodinevapour condenses to give solid iodine. Theequilibrium can be represented as,I2(solid)  I2 (vapour)Other examples showing this kind ofequilibrium are,Camphor (solid)  Camphor (vapour)NH4Cl (solid)  NH4Cl (vapour)Fig.7.1  Measuring equilibrium vapour pressure of water at a constant temperature
+188CHEMISTRY7.1.4Equilibrium Involving Dissolutionof Solid or Gases in LiquidsSolids in liquidsWe know from our experience that we candissolve only a limited amount of salt or sugarin a given amount of water at roomtemperature. If we make a thick sugar syrupsolution by dissolving sugar at a highertemperature, sugar crystals separate out if wecool the syrup to the room temperature. Wecall it a saturated solution when no more of
+solute can be dissolved in it at a giventemperature. The concentration of the solutein a saturated solution depends upon thetemperature. In a saturated solution, adynamic equilibrium exits between the solutemolecules in the solid state and in the solution:Sugar (solution)Sugar (solid), andthe rate of dissolution of sugar = rate ofcrystallisation of sugar.Equality of the two rates and dynamicnature of equilibrium has been confirmed withthe help of radioactive sugar. If we drop someradioactive sugar into saturated solution of
+non-radioactive sugar, then after some timeradioactivity is observed both in the solution
+and in the solid sugar. Initially there were noradioactive sugar molecules in the solution
+but due to dynamic nature of equilibrium,there is exchange between the radioactive andnon-radioactive sugar molecules between thetwo phases. The ratio of the radioactive to non-radioactive molecules in the solution increasestill it attains a constant value.Gases in liquidsWhen a soda water bottle is opened, some ofthe carbon dioxide gas dissolved in it fizzesout rapidly. The phenomenon arises due todifference in solubility of carbon dioxide atdifferent pressures. There is equilibriumbetween the molecules in the gaseous stateand the molecules dissolved in the liquidunder pressure i.e.,CO2(gas) CO2(in solution)This equilibrium is governed by Henry™slaw, which states that the mass of a gasdissolved in a given mass of a solvent atany temperature is proportional to thepressure of the gas above the solvent. Thisamount decreases with increase of
+temperature. The soda water bottle is sealedunder pressure of gas when its solubility inwater is high. As soon as the bottle is opened,some of the dissolved carbon dioxide gasescapes to reach a new equilibrium conditionrequired for the lower pressure, namely itspartial pressure in the atmosphere. This is howthe soda water in bottle when left open to theair for some time, turns ‚flat™. It can begeneralised that:(i)For solidliquid equilibrium, there isonly one temperature (melting point) at1 atm (1.013 bar) at which the two phasescan coexist. If there is no exchange of heatwith the surroundings, the mass of the twophases remains constant.(ii)For liquid vapour equilibrium, thevapour pressure is constant at a given
+temperature.(iii)For dissolution of solids in liquids, the
+solubility is constant at a giventemperature.(iv)For dissolution of gases in liquids, theconcentration of a gas in liquid isproportional to the pressure(concentration) of the gas over the liquid.These observations are summarised inTable 7.1Liquid Vapour2HO
+p constant at givenH2O (l) H2O (g)temperatureSolid LiquidMelting point is fixed atH2O (s)  H2O (l)constant pressureSolute(s) SoluteConcentration of solute                 (solution)in solution is constantSugar(s) Sugarat a given temperature                (solution)Gas(g)  Gas (aq)[gas(aq)]/[gas(g)] isconstant at a giventemperatureCO2(g)  CO2(aq)[CO2(aq)]/[CO2(g)] isconstant at a given
+temperatureTable 7.1Some Features of PhysicalEquilibriaProcessConclusion
+189EQUILIBRIUM7.1.5General Characteristics of EquilibriaInvolving Physical ProcessesFor the physical processes discussed above,
+following characteristics are common to thesystem at equilibrium:(i)Equilibrium is possible only in a closedsystem at a given temperature.(ii)Both the opposing processes occur at the
+same rate and there is a dynamic butstable condition.(iii)All measurable properties of the systemremain constant.(iv)When equilibrium is attained for a physical
+process, it is characterised by constantvalue of one of its parameters at a given
+temperature. Table 7.1 lists suchquantities.(v)The magnitude of such quantities at any
+stage indicates the extent to which thephysical process has proceeded before
+reaching equilibrium.7.2EQUILIBRIUM IN CHEMICAL
+PROCESSES Œ DYNAMIC
+EQUILIBRIUMAnalogous to the physical systems chemicalreactions also attain a state of equilibrium.
+These reactions can occur both in forward and
+backward directions. When the rates of the
+forward and reverse reactions become equal,
+the concentrations of the reactants and the
+products remain constant. This is the stage of
+chemical equilibrium. This equilibrium is
+dynamic in nature as it consists of a forwardreaction in which the reactants give product(s)
+and reverse reaction in which product(s) givesthe original reactants.For a better comprehension, let usconsider a general case of a reversible reaction,A + B  C + DWith passage of time, there isaccumulation of the products C and D and
+depletion of the reactants A and B (Fig. 7.2).
+This leads to a decrease in the rate of forward
+reaction and an increase in he rate of the
+reverse reaction,Eventually, the two reactions occur at theFig. 7.2  Attainment of chemical equilibrium.same rate and the system reaches a state ofequilibrium.Similarly, the reaction can reach the stateof equilibrium even if we start with only C and
+D; that is, no A and B being present initially,as the equilibrium can be reached from eitherdirection.The dynamic nature of chemicalequilibrium can be demonstrated in the
+synthesis of ammonia by Haber™s process.  Ina series of experiments, Haber started withknown amounts of dinitrogen and dihydrogenmaintained at high temperature and pressure
+and at regular intervals determined theamount of ammonia present. He wassuccessful in determining also theconcentration of unreacted dihydrogen anddinitrogen. Fig. 7.4 (page 191) shows that after
+a certain time the composition of the mixtureremains the same even though some of thereactants are still present. This constancy incomposition indicates that the reaction hasreached equilibrium. In order to understand
+the dynamic nature of the reaction, synthesisof ammonia is carried out with exactly thesame starting conditions (of partial pressureand temperature) but using D2 (deuterium)in place of H2.  The reaction mixtures startingeither with H2 or D2 reach equilibrium withthe same composition, except that D2 and ND3are present instead of H2 and NH3.  Afterequilibrium is attained, these two mixtures
+190CHEMISTRYDynamic Equilibrium Œ A Student™s ActivityEquilibrium whether in a physical or in a chemical system, is always of dynamicnature. This can be demonstrated by the use of radioactive isotopes. This is not feasiblein a school laboratory. However this concept can be easily comprehended by performingthe following activity. The activity can be performed in a group of 5 or 6 students.Take two 100mL measuring cylinders (marked as 1 and 2) and two glass tubeseach of 30 cm length. Diameter of the tubes may be same or different in the range of3-5mm. Fill nearly half of the measuring cylinder-1 with coloured water (for thispurpose add a crystal of potassium permanganate to water) and keep second cylinder(number 2) empty.Put one tube in cylinder 1 and second in cylinder 2. Immerse one tube in cylinder1, close its upper tip with a finger and transfer the coloured water contained in itslower portion to cylinder 2. Using second tube, kept in 2nd cylinder, transfer the colouredwater in a similar manner from cylinder 2 to cylinder 1. In this way keep on transferringcoloured water using the two glass tubes from cylinder 1 to 2 and from 2 to 1 till younotice that the level of coloured water in both the cylinders becomes constant.If you continue intertransferring coloured solution between the cylinders, there willnot be any further change in the levels of coloured water in two cylinders. If we takeanalogy of ‚level™ of coloured water with ‚concentration™ of reactants and products in thetwo cylinders, we can say the process of transfer, which continues even after the constancyof level, is indicative of dynamic nature of the process. If we repeat the experiment taking
+two tubes of different diameters we find that at equilibrium the level of coloured water intwo cylinders is different. How far diameters are responsible for change in levels in twocylinders? Empty cylinder (2) is an indicator of no product in it at the beginning.Fig.7.3Demonstrating dynamic nature of equilibrium. (a) initial stage (b) final stage after the
+equilibrium is attained.
+191EQUILIBRIUM2NH3(g)   N2(g) + 3H2(g)Similarly let us consider the  reaction,H2(g) + I2(g) 2HI(g). If we start with equalinitial concentration of H2 and I2, the reactionproceeds in the forward direction and theconcentration of H2 and I2 decreases while thatof HI increases, until all of these become
+constant at equilibrium (Fig. 7.5).  We can alsostart with HI alone and make the reaction to
+proceed in the reverse direction; the
+concentration of HI will decrease andconcentration of H2 and I2 will increase untilthey all become constant when equilibrium is
+reached (Fig.7.5).  If total number of H and Iatoms are same in a given volume, the same
+equilibrium mixture is obtained whether westart it from pure reactants or pure product.(H2, N2, NH3 and D2, N2, ND3) are mixedtogether and left for a while.  Later, when thismixture is analysed, it is found that theconcentration of ammonia is just the same asbefore. However, when this mixture isanalysed by a mass spectrometer, it is foundthat ammonia and all deuterium containingforms of ammonia (NH3, NH2D, NHD2 and ND3)and dihydrogen and its deutrated forms(H2, HD and D2) are present. Thus one canconclude that scrambling of H and D atomsin the molecules must result from a
+continuation of the forward and reverse
+reactions in the mixture. If the reaction hadsimply stopped when they reachedequilibrium, then there would have been no
+mixing of isotopes in this way.Use of isotope (deuterium) in the formationof ammonia clearly indicates that chemicalreactions reach a state of dynamic
+equilibrium in which the rates of forward
+and reverse reactions are equal and there
+is no net change in composition.Equilibrium can be attained from bothsides, whether we start reaction by taking,
+H2(g) and N2(g) and get NH3(g) or by takingNH3(g) and decomposing it into N2(g) andH2(g).N2(g) + 3H2(g)  2NH3(g)Fig 7.4  Depiction of equilibrium for the reaction223
+Ng3Hg2NHg
+Fig.7.5Chemical equilibrium in the reaction
+H2(g) + I2(g)  2HI(g) can be attainedfrom either direction7.3LAW OF CHEMICAL EQUILIBRIUMAND EQUILIBRIUM CONSTANTA mixture of reactants and products in the
+equilibrium state is called an equilibriummixture. In this section we shall address anumber of important questions about the
+composition of equilibrium mixtures: What isthe relationship between the concentrations ofreactants and products in an equilibriummixture? How can we determine equilibriumconcentrations from initial concentrations?
+192CHEMISTRYWhat factors can be exploited to alter thecomposition of an equilibrium mixture? Thelast question in particular is important whenchoosing conditions for synthesis of industrialchemicals such as H2, NH3, CaO etc.To answer these questions, let us considera general reversible reaction:A + B   C + Dwhere A and B are the reactants, C and D are
+the products in the balanced chemicalequation. On the basis of experimental studiesof many reversible reactions, the Norwegianchemists Cato Maximillian Guldberg and Peter
+Waage proposed in 1864 that theconcentrations in an equilibrium mixture are
+related by the following equilibriumequation,
+CD
+AB
+cK  (7.1)where Kc is the equilibrium constant and theexpression on the right side is called theequilibrium constant expression.The equilibrium equation is also known asthe law of mass action because in the earlydays of chemistry, concentration was calledﬁactive massﬂ. In order to appreciate their workbetter, let us consider reaction betweengaseous H2 and I2 carried out in a sealed vesselat 731K.H2(g)   +   I2(g)     2HI(g)1 mol    1 mol           2 molSix sets of experiments with varying initialconditions were performed, starting with onlygaseous H2 and I2 in a sealed reaction vesselin first four experiments (1, 2, 3 and 4) andonly HI in other two experiments (5 and 6).
+Experiment 1, 2, 3 and 4 were performed
+taking different concentrations of H2 and / orI2, and with time it was observed that intensityof the purple colour remained constant and
+equilibrium was attained. Similarly, for
+experiments 5 and 6, the equilibrium was
+attained from the opposite direction.Data obtained from all six sets ofexperiments are given in Table 7.2.It is evident from the experiments 1, 2, 3and 4 that number of moles of dihydrogen
+reacted = number of moles of iodine reacted =
+½ (number of moles of HI formed). Also,
+experiments 5 and 6 indicate that,[H2(g)]eq = [I2(g)]eqKnowing the above facts, in order toestablish a relationship betweenconcentrations of the reactants and products,several combinations can be tried. Let us
+consider the simple expression,[HI(g)]eq / [H2(g)]eq [I2(g)]eqIt can be seen from Table 7.3 that if weput the equilibrium concentrations of the
+reactants and products, the above expressionTable 7.2  Initial and Equilibrium Concentrations of H2, I2 and HI

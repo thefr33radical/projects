@@ -1,0 +1,366 @@
+Weightage and the distribution of marks over different dimensions of the question
+shall be as follows:(A) Weightage to 
+Content/ Subject Units :S.No.Content UnitMarks1.Number Systems04
+2.Algebra20
+3.Trigonometry12
+
+4.Coordinate Geometry08
+
+5.Geometry16
+
+6.Mensuration10
+7.Statistics and Probability10
+                                               Total : 80
+(B) Weightage to Forms of Questions :S.No.Form ofMarks for 
+eachNumber ofT
+otal MarksQuestionsQuestionQuestions
+1.MCQ011010
+2.SAR020510
+3.SA031030
+DESIGN OF THE QUESTION PAPERMathematicsClass XTime : 3 HoursMaximum Marks : 80
+    4.LA  06   
+05   30      Total   30    80
+SET-II
+220EXEMPLAR PROBLEMS(C) Scheme of OptionsAll questions are compulsory, i.e., there is no overall choice. However, internal choices
+are provided in one question of 2 marks, three questions of 3 marks each and twoquestions of 6 marks each.(D) Weightage to Difficulty level of Questions
+  S.No.Estimated Difficulty
+Percentage of MarksLevel of Questions  1.Easy20
+  2.Average60
+
+  3.Difficult20
+Note : A question may vary in difficulty level from individual to individual. As such, the
+assessment in respect of each will be made by the paper setter/ teacher on the basis ofgeneral anticipation from the groups as whole taking the examination. This provision is
+only to make the paper balanced in its weight, rather to determine the pattern of marking
+at any stage.
+DESIGN OF THE QUESTION PAPER, SET-II221
+BLUE PRINTMATHEMATICS
+CLASS XForm of QuestionUnitsMCQSARSA LATotal
+Number Systems2(2)2(1)--4(3)
+Algebra3(3)2(1)9(3)
+6(1)20(8)
+Polynomials, Pair ofLinear Equations in
+Two Variables,
+
+Quadratic Equations,Arithmatic ProgressionsTrigonometry
+1(1)2(1)3(1)
+6(1)12(4)
+Introduction to T
+rigonometry,
+Some Applications of
+Trigonometry
+Coordinate Geometry1(1)4(2)3(1)-8(4)
+Geometry1(1)-9(3)
+6(1)16(5)
+Triangles, Circles,
+ConstructionsMensuration1(1)-3(1)
+6(1)10(3)
+Areas related to Circles,Surface Areas and 
+Volumes
+Statistics & 
+Probability
+1(1)-3(1)
+6(1)10(3)
+Total
+10(10)10(5)30(10)30(5)80(30)
+SUMMARY
+Multiple Choice Questions (MCQ)Number of Questions : 10Marks : 10Short Answer Questions
+with Resasoning (SAR)Number of Questions : 05Marks : 10
+Short Answer Questions 
+(SA)Number of Questions : 10
+Marks : 30Long Answer Qustions (LA)Number of Questions : 05Marks : 30
+                                Total       
+                             30         80
+
+222EXEMPLAR PROBLEMSMathematicsClass XMaximum Marks : 80Time : 3 Hours
+General Instructions1.All questions are compulsory.
+2.The question paper consists of  30 questions divided into four sections A, B, C, and
+D.Section A contains 10 questions of 1 mark each, Section B contains 5 questions
+of 2 marks each, Section C contains 10 questions of 3 marks each and Section Dcontains 5 questions of 6 marks each.3.There is no overall choice. However, an internal choice has been provided inone question of 2 marks, three questions of 3 marks and two questions of 6marks each.4.In questions on construction, the drawing should be neat and exactly as per
+given measurements.5.Use of calculators is not allowed.Section  A
+1.The largest number which divides 318 and 739 leaving remainders 3 and 4,respectively is
+(A) 110(B) 7
+(C) 35(D) 105
+2.The number of zeroes lying between Œ2 to 2 of the polynomial f (x), whose graphis given below, is
+(A)  2(B)  3(C)  4(D)  1
+3.The discriminant of the quadratic equation 33x2 + 10x + 3 = 0 is(A) 8(B) 
+64(C) 
+133(D) 3
+DESIGN OF THE QUESTION PAPER, SET-II223
+4.If 65, a, 4 are in AP, the value of 
+a is(A) 1(B) 
+13(C) 
+135(D) 2655.If in the following figure,  ABC  QPR, then the measure of Q is(A) 60°(B) 90°(C) 70°(D) 50°
+   6.In the adjoining figure, ABC is circumscribing a circle. Then, the length of BC is(A) 7 cm(B) 8 cm(C) 9 cm(D) 10 cm
+7.If sin = 1
+3, then the value of (9 cot2 + 9) is(A) 1(B) 81(C) 9(D) 181
+224EXEMPLAR PROBLEMS8.The radii of the ends of a frustum of a cone 40 cm high are 20 cm and 11 cm. Itsslant height is(A) 41 cm               (B) 205 cm(C) 49 cm(D) 
+521
+cm9.A bag contains 40 balls out of which some are red, some are blue and  remainingare black. If the probability of drawing a red ball is 1120 and that of blue ball is 1
+5,then the number of black balls is(A) 5(B) 
+25(C) 10
+(D) 3010.Two coins are tossed simultaneously. The probability of getting at most one head is
+(A) 14(B) 1
+2(C) 3
+4(D) 1SECTION B11.
+Which of the following can be the nth term of an AP?
+3n + 1, 2n2 + 3, n3 + n.Give reasons.12.Are the points (Œ3, Œ3), (Œ3, 2) and (Œ3, 5) collinear? Give reasons.13.ABC and BDE are two equilateral triangles such that D is the mid point of BC.What is the ratio of the areas of triangles ABC and BDE? Justify your answer.
+14.cos (A + B) = 
+12 and sin (A Œ B)=
+1
+2, 0° < A + B < 90° and A Œ B > 0°. What are
+the values of A and 
+B? Justify your answer.
+15.A coin is tossed twice and the outcome is noted every time. Can you say that headmust come once in two tosses? Justify your answer.
+ORA die is thrown once. The probability of getting a prime number is 23. Is it true?Justify your answer.
+DESIGN OF THE QUESTION PAPER, SET-II225
+SECTION C16.Show that square of an odd positive integer is of the form 8q + 1, for some positiveinteger q.ORWrite the denominator of the rational number 
+357
+5000
+ in the form of 2m5n, m, n arenon-negative integers and hence write its decimal expansion, without actual division.17.If (x Œ 2) is a factor of x3+ax2+bx+16 and b = 4a, then find the values of a and b.18.The sum of reciprocals of a child™s age (in years) 3 years ago and 5 years fromnow is 13. Find his present age.ORSolve for x :    6 
+a2x2 Œ 7abx Œ 3b2 = 0, a 0, using the quadratic formula.19.Find the sum of all two digit natural numbers which are divisible by 7.20.Find the ratio in which the line x + 3y Œ 14 = 0 divides the line segment joining thepoints A (Œ2, 4) 
+and B (3, 7).21.Find the area of the quadrilateral whose vertices in the same order are (Œ4, Œ2),(Œ3, Œ5), (3, Œ2) and (2, 3).22.Two tangents PA and PB are drawn to a circle with centre O from an  external
+point P. Prove that 
+APB = 2OAB. (see the following figure).
+226EXEMPLAR PROBLEMS23.Construct a triangle with sides 3 cm, 5 cm and 7 cm and then construct anothertriangle whose sides are 53 of the corresponding sides of the first triangle.24.Prove the identity (1 + cot+ tan) (sinŒ cos) = 2sec
+cosec
+Œ2cosec
+sec
+ORFind the value of2222cos32°+ cos58°
+sec50°Œ cot40°
+ Œ 4 tan13° tan37° tan53° tan77°25.The area of an equilateral triangle is 493 cm2. Taking each vertex as centre,
+circles are described with radius equal to half the length of the side of the triangle.Find the area of the part of the triangle not included in the circles. [Take
+2231.73,
+=7]SECTION D26.In a bag containing white and red balls, half the number of white balls is equal tothe one third the number of red balls. Twice the total number of balls exceeds three
+
+times the number of red balls by 8. How many balls of each type does the bag
+contain?27.Prove that in a right triangle, the square of the hypotenuse is equal to sum of
+squares of the other two sides.
+Using the above theorem, prove that in a triangle ABC, if AD is perpendicular toBC, then AB
+2 + CD2 = AC
+2 + BD2.28.A pole 5m high is fixed on the top of a tower. The angle of elevation of the top of
+
+the pole as observed from a point A on the ground is 60° and the angle of depression
+of point A from the top of the tower is 45°. Find the height of the tower. (T
+ake 3= 1.73)29.The interior of a building is in the form of a cylinder of diameter 4 m and height3.5 m, surmounted by a cone of the same base with vertical angle as a right angle.Find the surface area (curved) and volume of the interior of the building.
+DESIGN OF THE QUESTION PAPER, SET-II227
+ORA vessel in the form of an open inverted cone of height 8 cm and radius of its topis 5 cm. It is filled with water up to the brim. When lead shots, each of radius 0.5
+cm are dropped into the vessel, one fourth of the water flows out. Find the numberof lead shots dropped in the vessel.30.Find the mean, median and mode of the following frequency distribution:Class0-1010-2020-3030-4040-5050-6060Œ70
+Frequency457101284
+ORThe following distribution gives the daily income of 50 workers of a factory:Daily income100-120120-140140-160160-180180-200
+(in Rs)Number of workers12148610
+Convert the distribution above to a less than type cumulative frequency distribution,and draw its ogive. Find the median from this ogive.
+228EXEMPLAR PROBLEMSMARKING  SCHEMESECTION  A
+MARKS1. (D)2. (A)3. (B)4. (C)5.   (A)
+6. (D)7. (B)8. (A)9. (C)10. (C)(1  ×  ×  ×  ×  × 10 = 10)SECTION B11.
+nth term is 3n +1,(
+12)because, nth term of an AP can only be a linear relation in 
+n.      (
+112)12.Yes,(
+12)Since all the three points are on the line x = Œ3.(
+112)13.4 : 1(
+1
+2)ar ABC
+ar BDE
+ = 22BCBD = 22BC1(BC)
+2=41(112)14.A = 45°, 
+B = 15°(
+12)A + B = 60° and A Œ B = 30°, solving, we get 
+A = 45°, B = 15°(
+112)15.No.(
+1
+2)Head may come and head may not come. In every toss, there are twoequally likely outcomes.        (
+112)ORNo.(
+12)P (a pirme number) = P (2, 3, 5) = 3
+6= 1
+2(11
+2)
+DESIGN OF THE QUESTION PAPER, SET-II229
+SECTION C16.An odd positive integer can be of the form, 4n+1 or 4n+3(1)
+Therefore, (4n + 1)2 = 16n2 + 8n + 1 = 8 (2n2 + n) + 1 = 8q + 1.(1)
+     (4
+n + 3)2 = 16n2 + 24n + 9 = 8 (2n2 + 3n +1)+1 = 8q + 1.(1)
+OR357
+5000
+= 34357
+25(1)= 443572
+25 = 4714
+(10)
+ (1)= 0.0714           (1)
+17.(xŒ2) is a factor of x3 + ax2 + bx + 16Therefore, (2)3 + a(2)2 + b(2) + 16 = 0(1)
+4a + 2b + 24 = 0 or 2a + b + 12 = 0(1)
+Given b = 4a, so a = Œ2(1)
+and b = Œ818.Let the present age be x years.(1)
+Therefore, 13x + 15x = 13or 3 [(x + 5) + (x Œ 3)] = (x Œ 3) (x + 5)or 6x + 6 = x2 + 2x Œ 15.or x2 Œ 4x Œ21 = 0or (x Œ 7) (x + 3) = 0(1)
+i.e., x = 7, x = Œ3 (rejected)Therefore, present age = 7 years(1)
+OR6a2x2 Œ 7abx Œ 3b2 = 0B2 Œ 4AC = [(Œ7ab)2 Œ 4 (6a2) (Œ3b2)]   = 49a2b2 + 72a2b2 = 121a2b2(1)Therefore, x = 2Œ(Œ7) ± 11
+12abab
+a(1)
+230EXEMPLAR PROBLEMS       = 
+21812ab
+a or 2Œ 412aba       = 
+32b
+a or 3ba(1)19.Numbers are14, 21, ..., 98(1)
+
+98 = 14 + (n Œ 1) 7, i.e., n = 13(1)
+S13 = 132[14 + 98] = 728.(1)
+20.Let C (x, y) be the point where the line x + 3y Œ 14 = 0 divides the line segment inthe ratio k:1. So, x = 3 Œ 2
+ + 1kk, y = 7 + 4
+ + 1kk(1)and, 3 Œ 27 + 4
++3.
+ + 1 + 1
+kkkkŒ14 = 0       (
+12)i.e.,  3k Œ 2 + 21k + 12 Œ 14k Œ 14 = 0,i.e., 10k Œ 4 = 0i.e., k = 410 = 25(1)Therefore, ratio is 2 : 5(
+12)21.Area of ABC=  1
+2[Œ 4 (Œ5 + 2) Œ 3 (Œ2 + 2) + 3 (Œ2 + 5)]= 1
+2 [12 + 9] = 212 sq.units(1)
+area of ACD = 1
+2 [Œ4 (Œ2 Œ3) + 3(3 + 2) + 2(Œ2 + 2)]= 1
+2 [20 + 15] = 352 sq. units(1)
+
+DESIGN OF THE QUESTION PAPER, SET-II231
+Therefore, area of  quadrilateral ABCD = 2135
+2 = 562 = 28 sq. units     (1)
+22.AP = PB. So, PAB = 
+PBA = 
+12[180º Œ APB]= 90º Œ 12APB(1)
+OAB = 90° Œ PAB(1)
+= 90° Œ [90° Œ 1
+2APB] = 1
+2APBi.e.,2 
+OAB = APB(1)
+23.Correct construction of  with sides 3, 5 and 7 cm           (1)
+Correct construction of similar triangle                       (2)
+24.LHS = cos
+sin
+1++(sin
+ Œ cos
+)sin
+cos
+                                 (12)= 22(sin
+ cos
+ + cos
+ + sin
+) (sin
+ Œ cos
+)sin
+cos
+ = 33sin
+ Œ cos
+sin
+ cos
+(112)= 2sin
+cos
+ Œ 2cos
+sin
+ = 2sec
+cosec
+Œ2cosec
+sec
+                       (1)
+OR2222cos58° = sin32°,tan53° = cot37°
+sec50° = cosec40,tan77° = cot13°
+                       (2)
+Given expression= 2222cos32°  +  sin32°
+Œ 4 tan13° tan 37° cot 37° cot 13°
+cosec40° Œ cot40°
+                             (1)
+= 1 Œ 4 = Œ 3
+232EXEMPLAR PROBLEMS25.Area of ABC = 493cm2 = 324aSo, a = 14 cm                                   (1)
+Area of one sector =  × 72 60360
+ = 496             (1)
+Therefore, required area = 34922
+493Œ
+67= 493
+ Œ 77= 84.77 Œ 77 = 7.77 cm2                                  (1)
+SECTION D26.Let the number of white balls be x and number of red balls be yTherefore, 12x= 1
+3y, i.e.,  3x Œ 2y = 0        (I)                   (1
+1
+2)and 2 (x + y) = 3y + 8i.e., 2x Œ y = 8                    
+(II)                    (1
+1
+2)Solving (I) and (II), we get x = 16, y = 24                      (2)
+Therefore, number of white balls = 16Number of red balls = 24(1)
+27.For correct given, to prove, construction and proof           (
+1422)For correct proof                       (2)
+
+DESIGN OF THE QUESTION PAPER, SET-II233
+AD2 = AB
+2 Œ BD2                                 (12)and AD
+2 = AC
+2 Œ CD2(1
+2)i.e., AB
+2 Œ BD2 = AC
+2 Œ CD2                                (1
+2)or  AB
+2 + CD2 = AC
+2 + BD2                                (1
+2)28.For correct figure(1)
+Let height of tower be h metres and AB = 
+x metres.(
+12)Therefore,xh = cot 45° = 1                     (1)
+ i.e., x = h.                      (
+12)Also,   + 5
+tan60 = 3
+hx(1) i.e.,  h + 5 = 3x = 3h                      (1
+2) i.e., (3Œ1)h = 5h = 531.3131
+(12)   = 
+5(31)5(2.73)
+22   = 13.65
+2 = 6.825 m(1)
+
+234EXEMPLAR PROBLEMS29.For correct figure(
+12)Here, Q = 45° , i.e.,  height of cone = radius = 2m(1)
+Therefore, surface area = rl + 2rh= r ( l+ 2h)(1)
+=  × 2 × (22+7)(
+1
+2)= (14 + 42)  m2(1)Volume = 
+2113rh + r2h(12)= r2 1 + 3hh=2210.5
+43.54
+33     
+    
+    
+    
+         (12)= 503m3           (1)
+ORVolume 
+of water = 1
+3× (5)2 × 8(
+1
+2)= 200
+3 cm3(1)1
+4th volume = 503 cm3(1)Volume of one lead shot = 
+340.5
+(0.5)
+33cm3          (112)Let number of shots be n.Therefore, 0.5
+3n = 503             (1)
+i.e., n = 100.             (1)
+
+DESIGN OF THE QUESTION PAPER, SET-II235
+30.CI0Œ1010Œ2020Œ3030Œ4040Œ5050Œ6060Œ70T
+otalfi45710128450
+xi5152535455565
+uiŒ3Œ2Œ10123
+fi uiŒ12Œ10Œ7012161211
+cf491626384650
+if= 50iifu= 11
+Mean = 35 + 1150×10 = 35 + 2.2 = 37.2(1)
+Median =  Œ cf
+2 + nlhf
+(12)= 30 + 25Œ16
+1010 = 30 + 9 = 39(1)
+Mode = 10102
+ Œ + × 
+2 Œ  Œ 
+fflhfff(1
+2)= 12 Œ 10
+40 + ×10
+24 Œ 10 Œ 8
+(12)= 40 + 206= 43.33(1)
+ORWriting as(1)
+Daily income (in Rs)cfLess than 12012
+Less than 14026
+
+Less than 16034
+Less than 18040
+Less than 20050
+(112)
+236EXEMPLAR PROBLEMS(5)Note: Full credit should be given for alternative correct solution.

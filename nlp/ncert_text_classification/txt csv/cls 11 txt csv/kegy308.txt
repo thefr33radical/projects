@@ -1,0 +1,197 @@
+107Weather Instruments, Maps and ChartsChapter 8
+Weather Instruments, Maps andChartsWeather denotes the atmospheric conditions of weather elements at a
+particular place and time. The weather elements include temperature,pressure, wind, humidity and cloudiness. Each day weather maps are
+prepared for that day by the Meteorological Department from the dataobtained from observations made at various weather stations across theworld. In India, weather-related information is collected and published
+under the auspices of the Indian Meteorological Department, New Delhi,which is also responsible for weather forecasting.Weather forecasts help in taking safety measures in advance in case of
+the likelihood of bad weather. Predicting weather a few days in advancemay prove very useful to farmers and to the crew of ships, pilots, fishermen,
+
+defence personnel, etc.Indian Meteorological DepartmentThe Indian Meteorological Department (IMD) was established in 1875, with
+its headquarters at Calcutta. The IMD headquarters are presently located
+at New Delhi.Glossary1.Weather :  The condition of the atmosphere at a given place and time
+with respect to atmospheric pressure, temperature, humidity, precipitation,
+cloudiness and wind. These factors are known as weather elements.
+2.Weather Forecast : Prediction with a reasonable amount of certainty
+about the conditions of weather that would prevail in the coming 12 to 48hours in a certain area.
+108Practical Work in GeographyWEATHER OBSERVATIONSGlobally, meteorological observations are recorded at three levels, viz.surface observatories, upper air observatories and space-basedobservation platforms. The World Meteorological Organization (WMO), aspecialised agency of the United Nations, coordinates these observations.SURFACE OBSERVATORIESA typical surface observatory has instruments for measuring andrecording weather elements like temperature (maximum and minimum),air pressure, humidity, clouds, wind and rainfall. Specialised observatories
+also record elements like radiation, ozone atmospheric trace gases,pollution and atmospheric electricity. These observations are taken allover the globe at fixed times of the day as decided by the WMO and the
+use of instruments are made conforming to international standards, thusmaking observations globally compatible.
+In India, meteorological observations are normally classified into fivecategories depending upon their instruments and the number of dailyobservations taken. The highest category is Class-I. Typical instrumentalfacility available in a Class-I observatory consists of the following:Maximum and minimum thermometersAnemometer and wind vaneDry and Wet bulb thermometerRain gaugeBarometer
+Observations are taken in these observatories normally at00,03,06,09,12,15,18,21 hours (Greenwich Mean Time) around the globe.However, for logistic reasons, some of the observatories take limitednumber of daily observations upper air observation during daytime only.SPACE-BASED OBSERVATIONSWeather satellites make comprehensive and large-scale observations ofdifferent meteorological elements at the ground level as well in the upperlayers of the atmosphere. The geo-stationary satellites provide space-based
+observations about weather conditions (refer to Chapter 7). For example,The Indian National Satellite (INSAT) provides valuable observations oftemperature, cloud cover, wind and associated weather phenomena.
+109Weather Instruments, Maps and ChartsWEATHER INSTRUMENTSVarious instruments are used for measuringdifferent weather phenomena. Some of the commonbut important weather instruments are listed below.Thermometer
+Thermometer is used to measure air temperature.Most thermometers are in the form of a narrow closedglass tube with an expanded bulb at one end. Thebulb and the lower part of the tube are filled with
+liquid such as mercury or alcohol. Before the otherend is sealed off, the air in the tube is released byheating it. The bulb of the thermometer in contact
+with the air gets heated or cooled, as the case maybe, as a result of which the mercury in the bulbrises or falls. A scale is marked on the glass tube
+and readings are taken from there.The two most common scales used inthermometers are Centigrade and the Fahrenheit.
+
+On the Centigrade thermometer, the temperature of
+melting ice is marked 00C and that of boiling wateras 1000C, and the interval between the two is dividedinto 100 equal parts. On the Fahrenheitthermometer, the freezing and boiling points ofwater are graduated as 320F and 2120F respectively.While the maximum thermometer and minimumthermometer are used to measure the airtemperature, the dry bulb and the wet bulb
+thermometers are used to determine the humidityin the air.  A set of these thermometers is kept in the
+Stevenson Screen (Box 8.2).The maximum thermometer is designed to recordthe highest temperature during a day. As thetemperature increases, the mercury moves up into
+the tube; however, as the mercury cools, it cannotmove downwards because of a constriction in thetube. It must be reset again to bring it down. The
+minimum thermometer records the lowest readingFigure 8.1 Maximum ThermometerFigure 8.2 Minimum Thermometer
+110Practical Work in GeographySTEVENSON SCREENThe Stevenson screen is designed to protectthermometers from precipitation and direct
+sunlight while allowing air to circulate freely
+around them. It is made from wood with louvered
+sides to allow free and even flow of air. It is paintedwhite to reflect radiation. It stands on four legsand is about 3 feet 6 inches above the level of the
+ground. The legs must be sufficiently rigid and
+be buried sufficiently in the ground to prevent
+shaking. The front panel is hinged at the bottom
+to form a door, which allows for maintenance andreading of the thermometers. The door ofStevenson screen is always towards the north in
+the northern hemisphere and towards the south
+in the southern hemisphere because direct
+sunrays also affect mercury. The purpose of the
+Stevenson screen is to create a uniform
+temperature enclosure that closely represents thesame temperature as the air outside.in a day. In this thermometer, alcohol is used in place ofmercury. When the temperature decreases, the metal pinin the tube goes down and strikes at the minimumtemperature. (Fig. 8.1 Maximum and Fig. 8.2 Minimum
+
+Thermometers).The dry bulb and wet bulb thermometers are used formeasuring humidity in the air (Fig. 8.3). The dry bulb and
+wet bulb thermometers are two identical thermometersfixed to a wooden frame. The bulb of the dry thermometeris kept uncovered and is exposed to the air while the bulb
+of the wet bulb thermometer is wrapped up with a piece ofwet muslin, which is kept continuously moist by dippinga strand of it into a small vessel of distilled water. The
+evaporation from the wet bulb lowers its temperature.Figure 8.3 Wet and DryBulb
+Thermometer
+111Weather Instruments, Maps and ChartsDry bulb readings are not affected by the amount of water vapourpresent in the air, but the wet bulb readings vary with it since the rate ofevaporation is dependent upon the amount of water vapour present inthe air. The greater the humidity in the air, the slower the rate of evaporation
+and hence, the difference between the readings of the dry bulb and wetbulb will be small. On the other hand, when the air is dry, the evaporationfrom the surface of the wet bulb is rapid, which would lower its
+temperature and the difference between the two readings would be larger.Hence, the difference of the readings of the dry bulb and the wet bulbthermometers determines the state of the atmosphere with regard to its
+humidity. The  larger the difference, the more arid is the air.
+BarometerThe air around us has weight, and it exerts great pressure on the earth™s
+surface. At the sea level, under normal conditions, the pressure of air is1.03 kg per square centimetre. Dueto constant movement of air, change
+
+in temperature and variation in itsvapour content, the weight of the airchanges continuously with time and
+place.The instrument used tomeasure atmospheric pressure is
+called a barometer. The mostcommonly used barometers are themercury barometer, aneroid
+barometer and barographs. The unitof measurement is in the millibar.Mercury barometer is an accurate
+instrument and is used as a standard.In it the atmospheric pressure of anyplace is balanced against the weight of
+a column of mercury in an invertedglass tube. The principle of a mercurialbarometer can be explained by a simple
+experiment (Fig. 8.4). Take a thickglass tube of uniform length about ameter long and fill it with mercury.Figure 8.4 Mercury Barometer
+112Practical Work in GeographyClose the mouth of the tube with afinger, then invert and immerse its openend in a cup of mercury without allowingair to enter into the tube and thenremove the finger.The mercury will flow out of the tubeinto the cup and stand at a definite height
+above the level of the liquid in the cup.This is because the weight of the column
+of the mercury in the tube, above thesurface of the mercury in the cup, isbalanced by the weight of the air columnof an indefinite height exerted as pressureupon an equal cross-section of the liquidsurface. The height of the column ofmercury in the tube, therefore, becomesthe measure of the pressure of air.Aneroid barometer gets its name from the Greek work, aneros (a- ‚not™, neros Œ‚moisture™, meaning without liquid). It is a compact and portable instrument. It
+consists of a corrugated metal box made up of a thin alloy, sealed completely andmade airtight after partial exhaustion of air. It has a thin flexible lid, which issensitive to changes of pressure. (Fig. 8.5)As the pressure increases, the lid is pressed inward, and this, in turn, moves asystem of levers connected to a pointer, which moves clockwise over the graduateddial and gives higher reading. When the pressure decreases, the lid is pushed
+outward and the pointer moves counter clockwise, indicating lower pressure.Barograph works on the principle of aneroid barometer. There are a numberof vacuum boxes placed one above the other so that the displacement is large. Asystem of levers magnifies this movement which is recorded by a pen on a paper
+attached to a rotating drum. The readings of a barograph are not always accurate,and therefore, they are standardised by comparing them with a mercury barometerreading.Wind VaneWind vane is a device used to measure the direction of the wind. The wind vane isa lightweight revolving plate with an arrowhead on one end and two metal platesattached to the other end at the same angle. This revolving plate is mounted on a
+rod in such a manner that it is free to rotate on a horizontal plane. It respondsFigure 8.5 Aneroid Barometer
+113Weather Instruments, Maps and Chartseven to a slight blow of wind. The arrow always points towards thedirection from which the wind blows. (Fig. 8.6)Rain GaugeThe amount of rainfall is measured with the help of a rain gauge. The rain
+gauge consists of a metal cylinder on which a circular funnel is fitted. Thediameter of the funnel™s rim is normally 20 cm. The rain drops are collected
+and measured in a measuring glass. Normally, rainfall is measured inthe units of millimetres or centimetres. Snow is also measured in a similarmanner by turning it into liquid form (Fig. 8.7).Table 8.1: InstrumentsFigure 8.6 Wind VaneFigure 8.7 Rain GaugeInstruments for Measuring Weather Elements
+S. NoElementInstrumentUnit
+1Temperature
+Thermometer
+°C/°F2Atmospheric Pressure
+BarometerMillibars3Wind (Direction)Wind 
+VaneCardinal 
+points4Wind (Velocity)Anemometer
+Km/hr5Rainfall
+Rain Gaugemm/cm
+114Practical Work in GeographyWEATHER MAPS AND CHARTSWeather Maps: A weather map is the representation of weatherphenomena of the earth or a part of it on a flat surface.  It depicts conditions
+associated with different weather elements such as temperature, rainfall,sunshine and cloudiness, direction and velocity of winds, etc. on aparticular day. Such observations being taken at fixed hours are
+transmitted by code to the forecasting stations. The central office keeps arecord of the observations, which forms the basis for making a weathermap. The upper air observations which are procured from hill stations,
+aeroplanes, pilot balloons, etc. are plotted separately. Since the inceptionof the Indian Meteorological Department, the weather maps and chartsare prepared regularly.Meteorological observatories transmit the data to the CentralObservatory at Pune twice a day. Data is also collected on ships plyingon the Indian seas. A good progress has been made in the field of weather
+forecasting and observation with the establishment of weatherobservatories in Antarctica, the International Indian Ocean Expedition,and the launching of rockets and weather satellites.Weather Charts: The data received from various weather observatories
+are in plenty and detailed. As such, they cannot be incorporated in onesingle chart unless the coding designed to give the economy of expression
+is used. These are called synoptic weather charts and the codes used
+are called meteorological symbols. Weather charts provide the primarytools for weather forecasting. They help in locating and identifying different
+air masses, pressure systems, fronts and areas of precipitation.WEATHER SYMBOLSThe messages received from all the observatories are plotted on the map
+using weather symbols standardised by the World Meteorological
+Organisation and the National Weather Bureaus. (Figures 8.8 and 8.9)
+To facilitate the interpretation of the plots, each element occupies a fixedposition to the station circle as given in Figures 
+8.8 and 8.9.
+115Weather Instruments, Maps and ChartsFigure 8.8 Meteorological Symbols (Approved by the InternationalMeteorological Organisation, Warsaw, 1935)
+116Practical Work in GeographyFigure 8.9 Wind Speed and Common EffectsCalm, Smoke rise vertically.
+Direction of wind shown by smoke drift, but notwind vanes.Wind felt on face; leaves rustle; ordinary vanemove by winds.Leaves and small twigs in constant motion, windextends light flag.Raises dust and loose papers, small branchesare moved.Small tree in leaf begin to sway, crested wavelets
+from an inland waters.Large branches in motion; whistling heard intelegraph wires umbrellas used with diffiuclty.
+Whole tree in motion, inconvenience felt whenwalking against wind.Breaks twigs off trees; generally impedesprogress.Slight structural damage occurs (chimney potsand slates removed.)Seldom experienced inland; trees uprooted,considerable structural damage occurs.Very rarely experienced, accompanied by
+widespread damage.Most destructive.
+01-56-11
+12-19
+20-2829-38
+39-4950-6162-7475-8889-102
+103-117
+118 plus
+Beaufort No.Wind
+ArrowSpeedCommon effectskm/hr0Calm
+1Light air
+2Light breeze
+3Gentle breeze
+
+4Moderate breeze
+5Fresh breeze
+
+6Strong breeze
+7Moderate gale
+8Fresh gale
+9Strong gale
+10Whole gale
+
+11Storm
+12Hurricane
+
+117Weather Instruments, Maps and ChartsMapping the Climatic DataMuch of the climatic data is represented by line symbols. The mostcommon of these are the isometric lines. These lines are depicted on themap as isopleths. The Isopleth can be interpolated for places having thesame mean values of temperature, rainfall, pressure, sunshine, clouds,
+etc. Some of these lines and their uses are mentioned below:Isobars :Lines connecting places of equal air pressure.Isotherms :Lines connecting places of equal temperature.Isohyets :Lines connecting places of equal amount of rainfall over a
+given period of time.
+Isohels :Lines connecting places of same mean daily duration ofsunshine.Isonephs :Lines connecting places of same mean value of cloud cover.Weather Map InterpretationOn the basis of the above information, we can analyse a weather map andunderstand the general pattern of weather conditions prevailing in differentparts of the country. In Fig. 8.10 the general weather conditions prevailing
+in India during the month of May are plotted. There is a general increaseof pressure towards the north and north-east.  Two low-pressure centres
+can be identified with one over Rajasthan and the other over the Bay of
+Bengal.  The low pressure centre is well developed over the Bay of Bengal
+marked by concentric isobars, with the lowest air pressure being 996mb.  The southern part of India has overcast skies. The central part of
+India, on the other hand, has generally clear skies.  In the southern part
+of the eastern coast, the winds are mostly from the land to the sea, flowingin an anti-clockwise direction. Also, read Fig. 8.12 and find out the
+temperature and pressure conditions in July.In Figures 8.11 and 8.13, the general weather conditions duringwinters in the month of January are plotted. There is a general increase of
+pressure towards the north from south.  Most of the country has clearskies with a high-pressure region developing to the eastern side of India.The highest pressure isobar of 1018 mb passes through Rajasthan.
+118Practical Work in GeographyFigure 8.10 Indian Weather Map (for the month of May)
+119Weather Instruments, Maps and ChartsFigure 8.11 Indian Weather Map (for the month of January)
+120Practical Work in GeographyFigure 8.12 India - Mean Pressure and Temperature (January)
+
+121Weather Instruments, Maps and ChartsFigure 8.13 Mean Pressure and Temperature (July)
+
+122Practical Work in GeographyEXERCISES1.Choose the right answer from the four alternatives given below.
+Which department prepares the weather map of India for each
+day?(a)The World Meteorological Organisation
+(b)The Indian Meteorological Department
+
+(c)The Survey of India
+(d)None of these
+Which two liquids are used in maximum and minimum
+
+thermometers?(a)Mercury and water
+(b)Water and alcohol
+
+(c)Mercury and alcohol
+(d)None of these
+Lines connecting the places of equal pressure are called
+(a)Isobars
+(b)Isohyets
+(c)Isotherms
+
+(d)Isohels
+The primary tool for weather forecasting is(a)Thermometer
+
+(b)Barometer
+(c)Maps
+(d)Weather charts
+
+If there is more humidity in the air, the difference between thereadings of a dry bulb and a wet bulb will be(a)Less
+
+(b)More
+(c)Equal
+(d)None of these
+2.Answer the following questions in about 30 words.
+What are the basic elements of weather?
+What is a weather chart?Which instruments are normally available in Class-I observatoryto measure the weather phenomena?
+What are Isotherms?(i)(ii)(iii)(iv)(v)(i)(ii)(iii)(iv)
+123Weather Instruments, Maps and Charts(v)Which meteorological symbols are used to mark the following on
+a weather map?a)Rain
+b)Mist
+
+c)Sunshine
+d)Lightning
+e)Overcast Sky
+3.Answer the following question in not more than 125 words.
+Discuss how weather maps and charts are prepared and how they
+are useful to us.MAP READINGStudy the Figures 8.12 and 8.13 and answer the following questions.(a)Which seasons are shown in these maps?
+(b)What is the value of the highest isobar in Figure 8.12 and through
+which part of the country does it pass?
+(c)What are the values of the highest and the lowest isobars in Figure
+8.13 and where are they located?(d)What are the patterns of temperature distribution in both the
+maps?(e)In which parts do you see the highest and the lowest mean
+temperature in Figure 8.12?(f)What relationship do you see between the distribution of
+temperature and pressure in both the maps?

@@ -1,0 +1,538 @@
+ARITHMETIC PROGRESSIONS93File Name : C:\Computer Station\Class - X (Maths)/Final/Chap Œ 5/Chap-5 (8th Nov.).pmd
+55.1Introduction
+You must have observed that in nature, many things follow a certain pattern, such as
+the petals of a sunflower, the holes of a honeycomb, the grains on a maize cob, the
+
+spirals on a pineapple and on a pine cone etc.We now look for some patterns which occur in our day-to-day life. Some such
+examples are :(i)Reena applied for a job and got selected. She
+has been offered a job with a starting monthlysalary of ` 8000, with an annual increment of` 500 in her salary. Her salary (in 
+`) for the 1st,2nd, 3rd, . . . years will be, respectively8000,8500,9000, . . . .
+(ii)The lengths of the rungs of a ladder decrease
+uniformly by 2 cm from bottom to top
+(see Fig. 5.1). The bottom rung is 45 cm in
+length. The lengths (in cm) of the 1st, 2nd,3rd, . . ., 8th rung from the bottom to the top
+are, respectively45, 43, 41, 39, 37, 35, 33, 31(iii)In a 
+savings scheme, the amount becomes 54 times of itself after every 3 years.The maturity amount (in `) of an investment of ` 8000 after 3, 6, 9 and 12 yearswill be, respectively :10000,12500,15625,19531.25
+ARITHMETIC PROGRESSIONSFig. 5.1
+94M
+ATHEMATICS
+File Name : C:\Computer Station\Class - X (Maths)/Final/Chap Œ 5/Chap-5 (8th Nov.).pmd
+(iv)The number of unit squares in squares with side 1, 2, 3, . . . units (see Fig. 5.2)are, respectively12, 22, 32, . . . .Fig. 5.2(v)Shakila put 
+` 100 into her daughter™s money box when she was one year old and
+increased the amount by ` 50 every year. The amounts of money (in 
+`) in the boxon the 1st, 2nd, 3rd, 4th, . . . birthday were100,150,200,250, . . ., respectively.
+(vi)A 
+pair of rabbits are too young to produce in their first month. In the second, andevery subsequent month, they produce a new pair. Each new pair of rabbits
+produce a new pair in their second month and in every subsequent month (see
+Fig. 5.3). Assuming no rabbit dies, the number of pairs of rabbits at the start of
+
+the 1st, 2nd, 3rd, . . ., 6th month, respectively are :1, 1, 2, 3, 5, 8Fig. 5.3
+ARITHMETIC PROGRESSIONS95File Name : C:\Computer Station\Class - X (Maths)/Final/Chap Œ 5/Chap-5 (8th Nov.).pmd
+In the examples above, we observe some patterns. In some, we find that thesucceeding terms are obtained by adding a fixed number, in other by multiplying
+with a fixed number, in another we find that they are squares of consecutive
+numbers, and so on.In this chapter, we shall discuss one of these patterns in which succeeding terms
+are obtained by adding a fixed number to the preceding terms. We shall also see how
+to find their nth terms and the sum of n consecutive terms, and use this knowledge insolving some daily life problems.5.2Arithmetic Progressions
+Consider the following lists of numbers :(i)1,2,3,4, . . .
+(ii)100,70,40,10, . . .
+(iii)Œ3,Œ2,Œ1,0, . . .
+(iv)3,3,3,3, . . .
+(v)Œ1.0, Œ1.5, Œ2.0, Œ2.5, . . .
+Each of the numbers in the list is called a term.Given a term, can you write the next term in each of the lists above? If so, howwill you write it? Perhaps by following a pattern or rule. Let us observe and write therule.In (i), each term is 1 more than the term preceding it.In (ii), each term is 30 less than the term preceding it.
+In (iii), each term is obtained by adding 1 to  the term preceding it.In (iv), all the terms in the list are 3 , i.e., each term is obtained by adding(or subtracting) 0 to the term preceding it.In (v), each term is obtained by adding Œ 0.5 to (i.e., subtracting 0.5 from) theterm preceding it.In all the lists above, we see that successive terms are obtained by adding a fixednumber to the preceding terms. Such list of numbers is said to form an  ArithmeticProgression ( AP )
+.So, an arithmetic progression is a list of numbers in which each term  isobtained by adding a fixed number to the preceding term except the firstterm.This fixed number is called the common difference
+ of the AP. Remember that
+it can be positive, negative or zero.
+96M
+ATHEMATICS
+File Name : C:\Computer Station\Class - X (Maths)/Final/Chap Œ 5/Chap-5 (8th Nov.).pmd
+Let us denote the first term of an AP by 
+a1, second term by a2, . . ., nth term byan and the common difference by 
+d. Then the AP becomes 
+a1, a2, a3, . . ., an.So,a2 Œ a1 = a3 Œ a2 = . . . = an Œ an Œ 1 = d.Some more examples of AP are:
+(a)The heights ( in cm ) of some students of a school standing in a queue in the
+morning assembly are 147 , 148, 149, . . ., 157.(b)The minimum temperatures ( in degree celsius ) recorded for a week in the
+month of January in a city, arranged in ascending order are
+Œ 3.1, Œ 3.0, Œ 2.9, Œ 2.8, Œ 2.7, Œ 2.6, Œ 2.5(c)The balance money ( in 
+` ) after paying 5 % of the total  loan of ` 1000 everymonth is 950, 900, 850, 800, . . ., 50.(d)The cash prizes ( in 
+` ) given by a school to the toppers of Classes I to XII are,respectively, 200, 250, 300, 350, . . ., 750.
+(e)The total savings (in 
+`) after every month for 10 months when ` 50 are savedeach month are 50, 100, 150, 200, 250, 300, 350, 400, 450, 500.It is left as an exercise for you to explain why each of the lists above is an AP.
+You can see that
+a, a + d, a + 2d, a + 3d, . . .represents an arithmetic progression where a is the first term and d the commondifference. This is called the 
+general form of an AP.
+Note that in examples (a) to (e) above, there are only a finite number of terms.Such an AP is called a 
+finite AP. 
+Also note that each of these Arithmetic Progressions
+(APs) has a last term. The APs in examples (i) to (v) in this section, are not finite APs
+and so they are called infinite Arithmetic Progressions
+. Such APs do not have a
+last term.Now, to know about an AP, what is the minimum information that you need? Is it
+enough to know the first term? Or, is it enough to know only the common difference?
+
+You will find that you will need to know both Œ the first term 
+a and the commondifference d.For instance if the first term a is 6 and the common difference d is 3, thenthe AP is
+ 6, 9,12, 15, . . .and if a is 6 and d is Œ 3, then the AP is
+6, 3, 0, Œ3, . . .
+ARITHMETIC PROGRESSIONS97File Name : C:\Computer Station\Class - X (Maths)/Final/Chap Œ 5/Chap-5 (8th Nov.).pmd
+Similarly, when
+a = Œ 7,d = Œ 2,the AP is  Œ 7, Œ 9, Œ 11, Œ 13, . . .
+a =  1.0,d = 0.1,the AP is  1.0, 1.1, 1.2, 1.3, . . .
+a =  0,d = 112,the AP is  0,  1
+12, 3, 412, 6, . . .a = 2,d = 0,the AP is  2, 2, 2, 2, . . .
+So, if you know what a and d are, you can list the AP. What about the other way
+round? That is, if you are given a list of numbers can you say that it is an AP and then
+find a and d? Since a is the first term, it can easily be written. We know that in an AP,
+every succeeding term is obtained by adding d to the preceding term. So, d found bysubtracting any term from its succeeding term, i.e., the term which immediately followsit should be same for an AP.
+For example, for the list of numbers :6, 9, 12, 15, . . . ,We have
+a2 Œ a1 = 9  Œ 6 = 3,a3 Œ a2 = 12 Œ 9 = 3,a4 Œ a3 = 15 Œ 12 = 3Here the difference of any two consecutive terms in each case is 3. So, thegiven list is an AP whose first term 
+a is 6 and common difference 
+d is 3.For the list of numbers :6, 3, 0, Œ 3, . . .,
+a2 Œ a1 = 3 Œ 6 = Œ 3a3 Œ a2 = 0 Œ 3 = Œ 3a4 Œ a3 = Œ3 Œ 0  = Œ3Similarly this is also an AP whose first term is 6 and the common differenceis Œ3.In general, for an AP 
+a1, a2, . . ., an, we haved =ak + 1 Œ akwhere ak + 1  and ak  are the ( k + 1)th and the kth terms respectively.
+To obtain 
+d in a given AP, we need not find all of 
+a2 Œ a1, a3 Œ a2, a4 Œ a3, . . . .It is enough to find only one of them.Consider the list of numbers 1, 1, 2, 3, 5, . . . . By looking at it, you can tell that thedifference between any two consecutive terms is not the same. So, this is not an AP.
+
+98M
+ATHEMATICS
+File Name : C:\Computer Station\Class - X (Maths)/Final/Chap Œ 5/Chap-5 (8th Nov.).pmd
+Note that to find d in the AP : 6, 3, 0, Œ 3, . . ., we have subtracted 6 from 3
+and not 3 from 6, i.e., we should subtract the kth term from the (k + 1) th termeven if the (k + 1) th term is smaller.
+Let us make the concept more clear through some examples.Example 1 : For the AP : 
+32, 12, Œ 12, Œ 3
+2 , . . ., write the first term a and thecommon difference d.Solution : Here,a =32, d =12 Œ 3
+2 = Œ 1.Remember that we can find d using any two consecutive terms, once we know thatthe numbers are in AP.
+Example 2 : Which of the following list of numbers form an AP? If they form an AP,
+write the next two terms :(i)4, 10, 16, 22, . . .
+(ii)1, Œ 1, Œ 3, Œ 5, . . .
+(iii)Œ 2, 2, Œ 2, 2, Œ 2, . . .
+(iv)1, 1, 1, 2, 2, 2, 3, 3, 3, . . .
+Solution :(i)We have
+a2 Œ a1= 10 Œ 4 =   6a3 Œ a2= 16 Œ 10 =  6a4 Œ a3= 22 Œ 16  = 6i.e.,ak + 1 Œ ak  is the same every time.So, the given list of numbers forms an AP with the common difference d = 6.The next two terms are: 22 + 6 = 28 and 28 + 6 = 34.(ii)a2 Œ a1=  Œ 1 Œ 1 = Œ 2a3 Œ a2=  Œ 3 Œ ( Œ1 ) = Œ 3 + 1 = Œ 2 a4 Œ a3= Œ 5 Œ ( Œ3 ) = Œ 5 + 3 = Œ 2i.e., ak + 1 Œ ak  is the same every time.So, the given list of numbers forms an AP with the common difference d = Œ2.
+The next two terms are:Œ 5 + (Œ 2 ) = Œ 7andŒ 7 + (Œ 2 ) = Œ 9
+(iii)a2 Œ a1 = 2 Œ (Œ 2) = 2 + 2 = 4a3 Œ a2  = Œ 2 Œ 2 = Œ 4As a2 Œ a1   a3 Œ a2 , the given list of numbers does not form an AP.
+
+ARITHMETIC PROGRESSIONS99File Name : C:\Computer Station\Class - X (Maths)/Final/Chap Œ 5/Chap-5 (8th Nov.).pmd
+(iv)a2 Œ a1 = 1 Œ 1 = 0a3 Œ a2 = 1 Œ 1 = 0a4 Œ a3 = 2 Œ 1 = 1Here, a2 Œ a1 = a3 Œ a2  a4 Œ a3.So, the given list of numbers does not form an AP.
+EXERCISE5.1
+1.In which of the following situations, does the list of numbers involved make an arithmeticprogression, and why?(i)The taxi fare after each km when the fare is 
+` 15 for the first km and ` 8 for eachadditional km.(ii)The amount of air present in a cylinder when a vacuum pump removes 14 of theair remaining in the cylinder at a time.(iii)The cost of digging a well after every metre of digging, when it costs ` 150 for thefirst metre and rises by ` 50 for each subsequent metre.(iv)The amount of money in the account every year, when 
+` 10000 is deposited atcompound interest at 8 % per annum.2.Write first four terms of the AP, when the first term
+ a and the common difference 
+d aregiven as follows:(i)a = 10,d = 10(ii)
+a = Œ2,d = 0(iii)a = 4,d = Œ 3(iv)
+a = Œ 1,d =  12(v)a = Œ 1.25,d = Œ 0.253.For the following APs, write the first term and the common difference:
+(i)3, 1, Œ 1, Œ 3, . . .(ii)Œ 5, Œ 1, 3, 7, . . .
+(iii)15913
+,,,,
+3333
+ . . .(iv)
+0.6, 1.7, 2.8, 3.9, . . .4.Which of the following are APs ? If they form an AP, find the common difference 
+d andwrite three more terms.(i)2, 4, 8, 16, . . .
+(ii)572,,3,,
+22 . . .(iii)Œ 
+1.2, Œ 3.2, Œ 5.2, Œ 7.2, . . .(iv)Œ 
+10, Œ 6, Œ 2, 2, . . .(v)3, 
+32, 322
+, 332,
+ . . .(vi)
+0.2, 0.22, 0.222, 0.2222, . . .(vii)0, Œ 4, Œ 8, 
+Œ12, . . .(viii)Œ 
+12, Œ 12, Œ 12, Œ 12, . . .
+100M
+ATHEMATICS
+File Name : C:\Computer Station\Class - X (Maths)/Final/Chap Œ 5/Chap-5 (8th Nov.).pmd
+(ix)1, 3, 9, 
+27, . . .(x)
+a, 2a, 3a, 4a, . . .(xi)a, a2, a3, a4, . . .(xii)
+2,8,18
+, 32,
+ . . .(xiii)3,6,9
+, 12,
+ . . .(xiv)1
+2, 32, 52, 72, . . .(xv)1
+2, 52, 72, 73, . . .5.3nth Term of an AP
+Let us consider the situation again, given in Section 5.1 in which Reena applied for a
+job and got selected. She has been offered the job with a starting monthly salary of` 8000, with an annual increment of ` 500. What would be her monthly salary for thefifth year?To answer this, let us first see what her monthly salary for the second year
+would be.It would be ` (8000 + 500) = ` 8500. In the same way, we can find the monthly
+salary for the 3rd, 4th and 5th year by adding ` 500 to the salary of the previous year.
+So, the salary for the 3rd year = ` (8500 + 500)=` (8000 + 500 + 500)=` (8000 + 2 × 500)=` [8000 + (3 Œ 1) × 500](for the 
+3rd year)=` 9000Salary for the 4th year   = 
+` (9000 + 500)=` (8000 + 500 + 500 + 500)=` (8000 + 3 × 500)=` [8000 + (4 Œ 1) × 500](for the 
+4th year)=` 9500Salary for the 5th year    = 
+` (9500 + 500)=` (8000+500+500+500 + 500)
+=` (8000 + 4 × 500)=` [8000 + (5 Œ 1) × 500](for the 
+5th year)=` 10000Observe that we are getting a list of numbers8000, 8500, 9000, 9500, 10000, . . .These numbers are in AP. (Why?)
+
+ARITHMETIC PROGRESSIONS101File Name : C:\Computer Station\Class - X (Maths)/Final/Chap Œ 5/Chap-5 (8th Nov.).pmd
+Now, looking at the pattern formed above, can you find her monthly salary for
+the 6th year? The 15th year? And, assuming that she will still be working in the job,
+what about the monthly salary for the 25th year? You would calculate this by adding
+` 500 each time to the salary of the previous year to give the answer. Can we make
+this process shorter? Let us see. You may have already got some idea from the way
+
+we have obtained the salaries above.Salary for the 15th year=  Salary for the 14th year + ` 500=  500500500...500
+8000500
+13times
+
+``=  ` [8000 + 14 × 500]=  ` [8000 + (15 Œ 1) × 500] = ` 15000i.e.,First salary + (15 Œ 1) × Annual increment.
+In the same way, her monthly salary for the 25th year would be
+` [8000 + (25 Œ 1) × 500] = ` 20000= First salary + (25 Œ 1) × Annual increment
+This example would have given you some idea about how to write the 15th term,or the 25th term, and more generally, the 
+nth term of the AP.
+Let a1, a2, a3, . . . be an AP whose first term 
+a1 is a and the commondifference is d.Then,the second terma2 =a + d = a + (2 Œ 1) dthe third terma3 =a2 + d = (a + d) + d = a + 2d = a + (3 Œ 1) dthe fourth terma4 =a3 + d = (a + 2d) + d = a + 3d = a + (4 Œ 1) d. . . . . . . .. . . . . . . .Looking at the pattern, we can say that the nth term an = a + (n Œ 1) d.So, the nth term an of the AP with first term 
+a and common difference d isgiven by an = a + (n Œ 1) d.
+
+
+102M
+ATHEMATICS
+File Name : C:\Computer Station\Class - X (Maths)/Final/Chap Œ 5/Chap-5 (8th Nov.).pmd
+an is also called the general term of the AP
+. If there are m terms in the AP, then
+am represents the last term which is sometimes also denoted by l.Let us consider some examples.Example 3 : Find the 10th term of the AP :  2, 7, 12, . . .
+Solution : Here, a = 2,d = 7 Œ 2 = 5and
+n =  10.We have
+an = a + (n Œ 1) dSo,a10 = 2 + (10 Œ 1) × 5 = 2 + 45 = 47Therefore, the 10th term of the given AP is 47.
+Example 4 : Which term of the AP : 21, 18, 15, . . . isŒ 81? Also, is any term 0? Give
+reason for your answer.
+Solution :Here, a = 21,d = 18 Œ 21 = Œ 3and
+an = Œ 81, and we have to find n.Asan =a + ( n Œ 1) d,we haveŒ 81 =21 + (
+n Œ 1)(Œ 3)Œ 81 =24 Œ 3
+nŒ 105 =Œ 3
+nSo,n =35Therefore, the 35th term of the given AP is Œ 81.
+Next, we want to know if there is any n for which an = 0. If such an n is there, then21 + (n Œ 1) (Œ3) =0,
+i.e.,3(
+n Œ 1) =21
+i.e.,n =8So, the eighth term is 0.Example 5 : Determine the AP whose 3rd term is 5 and the 7th term is 9.
+Solution : We have
+a3 = a + (3 Œ 1) d =a + 2d = 5(1)
+anda7 = a + (7 Œ 1) d =a + 6d = 9(2)
+Solving the pair of linear equations (1) and (2), we geta =3,
+d = 1Hence, the required AP is 3, 4, 5, 6, 7, . . .
+
+ARITHMETIC PROGRESSIONS103File Name : C:\Computer Station\Class - X (Maths)/Final/Chap Œ 5/Chap-5 (8th Nov.).pmd
+Example 6 : Check whether 301 is a term of the list of numbers 5, 11, 17, 23, . . .
+Solution : We have :
+a2 Œ a1 =11 Œ 5 = 6,
+a3 Œ a2 = 17 Œ 11 = 6,
+a4 Œ a3 = 23 Œ 17 = 6As ak + 1 Œ ak is the same for k = 1, 2, 3, etc., the given list of numbers is an AP.
+Now,
+a = 5and
+d = 6.Let 301 be a term, say, the 
+nth term of the this AP.
+We know that
+an =a + (n Œ 1) dSo,301 =5 + (
+n Œ 1) × 6i.e.,301 =6
+n Œ 1So,n =302151
+63But n should be a positive integer (Why?). So, 301 is not a term of the given list ofnumbers.Example 7 : How many two-digit numbers are divisible by 3?Solution : The list of two-digit numbers divisible by 3 is :12, 15, 18, . . . , 99Is this an AP? Yes it is. Here,
+a = 12,d = 3,an = 99.Asan =a + (n Œ 1) d,we have99 =12 + (
+n Œ 1) × 3i.e.,87 =(
+n Œ 1) × 3i.e.,n Œ 1 =873 = 29i.e.,n =29 + 1 = 30
+So, there are 30 two-digit numbers divisible by 3.Example 8 : Find the 11th term from the last term (towards the first term) of the
+AP : 10, 7, 4, . . ., Œ 62.Solution : Here,a = 10,d = 7 Œ 10 = Œ 3,l = Œ 62,wherel = a + (n Œ 1) d
+104M
+ATHEMATICS
+File Name : C:\Computer Station\Class - X (Maths)/Final/Chap Œ 5/Chap-5 (8th Nov.).pmd
+To find the 11th term from the last term, we will find the total number of terms in
+the AP.
+So,Œ 62 =10 + (
+n Œ 1)(Œ3)i.e.,Œ 72 =(
+n Œ 1)(Œ3)i.e.,n Œ 1 =24
+orn =25
+So, there are 25 terms in the given AP.
+The 11th term from the last term will be the 15th term. (Note that it will not be
+the 14th term. Why?)So,a15 =10 + (15 Œ 1)(Œ3) = 10 Œ 42 = Œ 32
+i.e., the 11th term from the last term is Œ 32.
+Alternative Solution :If we write the given AP in the reverse order, then 
+a = Œ 62 and d = 3 (Why?)So, the question now becomes finding the 11th term with these 
+a and d.So,a11 =Œ 62 + (11 Œ 1) × 3 = Œ 62 + 30 = Œ 32
+So, the 11th term, which is now the required term, is Œ 32.
+Example 9 : A sum of 
+` 1000 is invested at 8% simple interest per year. Calculate the
+interest at the end of each year. Do these interests form an AP? If so, find the interest
+at the end of 30 years making use of this fact.Solution : We know that the formula to calculate simple interest is given by
+Simple Interest =P×R×T
+100So, the interest at the end of the1st year =
+1000×8×1
+100` =  ` 80The interest at the end of the2nd year =1000×8×2
+100` = ` 160The interest at the end of the3rd year =1000×8×3
+100` = ` 240Similarly, we can obtain the interest at the end of the 4th year, 5th year, and so on.
+So, the interest (in Rs) at the end of the 1st, 2nd, 3rd, . . . years, respectively are80, 160, 240, . . .
+ARITHMETIC PROGRESSIONS105File Name : C:\Computer Station\Class - X (Maths)/Final/Chap Œ 5/Chap-5 (8th Nov.).pmd
+It is an AP as the difference between the consecutive terms in the list is 80, i.e.,
+d = 80. Also, a = 80.So, to find the interest at the end of 30 years, we shall find a30.Now,
+a30 =a + (30 Œ 1) d = 80 + 29 × 80 = 2400So, the interest at the end of 30 years will be ` 2400.Example 10 : In a flower bed, there are 23 rose plants in the first row, 21 in the
+second, 19 in the third, and so on. There are 5 rose plants in the last row. How many
+rows are there in the flower bed?Solution : The number of rose plants in the 1st, 2nd, 3rd, . . ., rows are :23, 21, 19, . . ., 5It forms an AP (Why?). Let the number of rows in the flower bed be 
+n.Thena = 23,d =21 Œ 23 = Œ 2,
+an = 5As,an =a + (n Œ 1) dWe have,5 =23 + (
+n Œ 1)(Œ 2)i.e.,Œ 18 =(
+n Œ 1)(Œ 2)i.e.,n =10
+So, there are 10 rows in the flower bed.EXERCISE5.2
+1.Fill in the blanks in the following table, given that a is the first term, d the commondifference and 
+an the nth term of the AP:
+adna
+n(i)738. . .
+(ii)Œ 18. . .100
+(iii). . .Œ 318Œ 5
+(iv)Œ 18.92.5. . .3.6
+(v)3.50105. . .
+
+106M
+ATHEMATICS
+File Name : C:\Computer Station\Class - X (Maths)/Final/Chap Œ 5/Chap-5 (8th Nov.).pmd
+2.Choose the correct choice in the following and justify :(i)30th term of the AP: 10, 7, 4, . . . , is
+(A)97(B)77(C)Œ77(D)Œ 87
+(ii)11th term of the AP: Œ 3, 12, 2, . . ., is(A)28(B)22(C)Œ38(D)Œ 48
+123.In the following APs, find the missing terms in the boxes :
+(i)2,
+ ,26
+(ii) ,13,
+ ,3(iii)5,
+ , ,192(iv)Œ 4,
+ , , , ,6(v) ,38,
+ , , ,Œ 22
+4.Which term of the AP : 3, 8, 13, 18, . . . ,is78?
+5.Find the number of terms in each of the following APs :
+(i)7, 13, 19, . . . , 205
+(ii)18, 1152, 13, . . . , Œ 476.Check whether Œ 150 is a term of the AP : 11, 8, 5, 2 . . .
+7.Find the 31st term of an AP whose 11th term is 38 and the 16th term is 73.
+8.An AP consists of 50 terms of  which 3rd term is 12 and the last term is 106. Find the 29th
+term.9.If the 3rd and the 9th terms of an AP are 4 and Œ 8 respectively, which term of this AP is
+
+zero?10.The 17th term of an AP exceeds its 10th term by 7. Find the common difference.
+11.
+Which term of the AP : 3, 15, 27, 39, . . . will be 132 more than its 54th term?12.Two APs have the same common difference. The difference between their 100th terms is
+100, what is the difference between their 1000th terms?13.How many three-digit numbers are divisible by 7?14.How many multiples of 4 lie between 10 and 250?15.For what value of n, are the nth terms of two APs: 63, 65, 67, . . . and 3, 10, 17, . . . equal?16.Determine the AP whose third term is 16 and the 7th term exceeds the 5th term by 12.
+ARITHMETIC PROGRESSIONS107File Name : C:\Computer Station\Class - X (Maths)/Final/Chap Œ 5/Chap-5 (8th Nov.).pmd
+17.Find the 20th term from the last term of the AP : 3, 8, 13, . . ., 253.
+18.The sum of the 4th and 8th terms of an AP is 24 and the sum of the 6th and 10th terms is
+44.  Find the first three terms of the AP.
+19.Subba Rao started work in 1995 at an annual salary of ` 5000 and received an incrementof ` 200 each year. In which year did his income reach 
+` 7000?20.Ramkali saved ` 5 in the first week of a year and then increased her weekly savings by` 1.75. If in the nth week, her weekly savings become ` 20.75, find n.5.4Sum of First 
+n Terms of an AP
+Let us consider the situation againgiven in Section 5.1 in which Shakila
+put ` 100 into her daughter™s money
+box when she was one year old,` 150 on her second birthday,
+` 200 on her third birthday and willcontinue in the same way. How much
+
+money will be collected in the moneybox by the time her daughter is 21years old?Here, the amount of money (in `) put in the money box on her first, second, third,fourth . . . birthday were respectively 100, 150, 200, 250, . . . till her 21st birthday. To
+find the total amount in the money box on her 21st birthday, we will have to write each
+of the 21 numbers in the list above and then add them up. Don™t you think it would bea tedious and time consuming process? Can we make the process shorter? This would
+be possible if we can find a method for getting this sum. Let us see.We consider the problem given to Gauss (about whom you read in
+Chapter 1), to solve when he was just 10 years old. He was asked to find the sum ofthe positive integers from 1 to 100. He immediately replied that the sum is 5050. Can
+you guess how did he do? He wrote :S =1 + 2 + 3 + . . . + 99 + 100
+And then, reversed the numbers to writeS =100 + 99 + . . . + 3 + 2 + 1
+Adding these two, he got2S =(100 + 1) + (99 + 2) + . . . + (3 + 98) + (2 + 99) + (1 + 100)
+=101 + 101 + . . . + 101 + 101(100 times)
+So,S =
+100101
+50502, i.e., the sum = 5050.
+108M
+ATHEMATICS
+File Name : C:\Computer Station\Class - X (Maths)/Final/Chap Œ 5/Chap-5 (8th Nov.).pmd
+We will now use the same technique to find the sum of the first 
+n terms of an AP :
+a, a + d, a + 2d, . . .The nth term of this AP is 
+a + (n Œ 1) d. Let S denote the sum of the first n termsof the AP. We have
+S = a + (a + d) + (a + 2d) + . . . + [a + (n Œ 1) d](1)
+Rewriting the terms in reverse order, we have
+S = [a + (n Œ 1) d] + [a + (n Œ 2) d] + . . . + (a + d) + a(2)On adding (1) and (2), term-wise. we get2S = [2(1)][2(1)]...[2(1)][2(1)]
+times
+
+
+
+andandandand
+nor,2S =
+n [2a + (n Œ 1) d](Since, there are 
+n terms)or,S =
+2n [2a + (n Œ 1) d]So, the sum of the first n terms of an AP is given by
+S =2n [2a + (n Œ 1) d]We can also write this asS =
+2n [a + a + (n Œ 1) d]i.e.,S =2n (a + an)(3)Now, if there are only 
+n terms in an AP, then 
+an = l, the last term.From (3), we see thatS =2n (a + l)(4)This form of the result is useful when the first and the last terms of an AP aregiven and the common difference is not given.Now we return to the question that was posed to us in the beginning. The amountof money (in Rs) in the money box of Shakila™s daughter on 1st, 2nd, 3rd, 4th birthday,
+. . ., were 100, 150, 200, 250, . . ., respectively.
+This is an AP. We have to find the total money collected on her 21st birthday, i.e.,
+the sum of the first 21 terms of this AP.
+
+ARITHMETIC PROGRESSIONS109File Name : C:\Computer Station\Class - X (Maths)/Final/Chap Œ 5/Chap-5 (8th Nov.).pmd
+Here, a = 100,d = 50and
+n = 21. Using the formula :S =2(1)
+2nand
+,we haveS =
+212100(211)50
+2
+ = 212001000
+2=211200
+2 = 12600So, the amount of money collected on her 21st birthday is ` 12600.Hasn™t the use of the formula made it much easier to solve the problem?We also use S
+n in place of S to denote the sum of first n terms of the AP. We
+write S20 to denote the sum of the first 20 terms of an AP. The formula for the sum of
+the first n terms involves four quantities S, a, d and n. If we know any three of them,we can find the fourth.Remark : The nth term of an AP is the difference of the sum to first 
+n terms and thesum to first (n Œ 1) terms of it, i.e., an = Sn Œ Sn Œ 1.Let us consider some examples.Example 11 :
+ Find the sum of the first 22 terms of the AP : 8, 3, Œ2, . . .
+Solution : Here, a = 8,d = 3 Œ 8 = Œ5,n = 22.We know that
+S= 
+2(1)
+2nand
+Therefore,S= 
+221621(5)
+2 = 11(16 Œ 105) = 11(Œ89) = Œ 979
+So, the sum of the first 22 terms of the AP is Œ 979.
+Example 12 : If the sum of the first 14 terms of an AP is 1050 and its first term is 10,
+find the 20th term.Solution : Here, S14 = 1050,n = 14,a = 10.AsS
+n =2(1)
+2nand
+,so,1050 =
+142013
+2d= 140 + 91d
+110M
+ATHEMATICS
+File Name : C:\Computer Station\Class - X (Maths)/Final/Chap Œ 5/Chap-5 (8th Nov.).pmd
+i.e.,910 =91
+dor,
+d =10
+Therefore,a20 =10 + (20 Œ 1) × 10 = 200, i.e. 20th term is 200.
+Example 13 : How many terms of the AP : 24, 21, 18, . . . must be taken so that their
+sum is 78?Solution : Here, a = 24,d = 21 Œ 24 = Œ3,S
+n = 78. We need to find 
+n.We know thatS
+n =2(1)
+2nand
+So,78 =
+48(1)(3)
+2
+nn = 513
+2nnor3
+n2 Œ 51n + 156 =0
+orn2 Œ 17n + 52 =0
+or(
+n Œ 4)(n Œ 13) =0
+orn =4or13
+Both values of n are admissible. So, the number of terms is either 4 or 13.Remarks:
+1.In this case, the sum of the first 4 terms = the sum of the first 13 terms = 78.
+2.Two answers are possible because the sum of the terms from 5th to 13th will be
+zero. This is because a is positive and d is negative, so that some terms will bepositive and some others negative, and will cancel out each other.
+Example 14 : Find the sum of :(i)the first 1000 positive integers(ii)the first 
+n positive integersSolution :(i)Let S = 1 + 2 + 3 + . . . + 1000
+Using the formula  Sn = ()2nal for the sum of the first n terms of an AP, we
+haveS1000 =1000(11000)
+2 = 500 × 1001 = 500500So, the sum of the first 1000 positive integers is 500500.(ii)Let S
+n = 1 + 2 + 3 + . . . + nHere a = 1 and the last term l is n.
+ARITHMETIC PROGRESSIONS111File Name : C:\Computer Station\Class - X (Maths)/Final/Chap Œ 5/Chap-5 (8th Nov.).pmd
+Therefore,S
+n =(1)
+2nnor S
+n = (1)
+2nnSo,  the sum of first n positive integers is given bySn = (+1)
+2nnExample 15 : Find the sum of first 24 terms of the list of numbers whose nth term isgiven byan = 3 + 2nSolution :Asan =3 + 2
+n,so,a1 =3 + 2 = 5
+a2 =3 + 2 × 2 = 7
+a3 =3 + 2 × 3 = 9
+List of numbers becomes5, 7, 9, 11, . . .
+Here,7 Œ 5 =9 Œ 7 = 11 Œ 9 = 2 
+and so on.So, it forms an AP with common difference 
+d = 2.To find S
+24, we have n = 24,a = 5,d = 2.Therefore,S
+24 =2425(241)2
+2
+ = 121046
+ = 672So, sum of first 24 terms of the list of numbers is 672.Example 16 : A manufacturer of TV sets produced 600 sets in the third year and 700
+sets in the seventh year. Assuming that the production increases uniformly by a fixed
+number every year, find :
+(i)the production in the 1st year
+(ii)the production in the 10th year(iii)the total production in first 7 yearsSolution : (i)Since the production increases uniformly by a fixed number every year,
+the number of TV sets manufactured in 1st, 2nd, 3rd, . . ., years will form an AP.
+Let us denote the number of TV sets manufactured in the nth year by an.Then,a3 =600  and 
+a7 = 700
+112M
+ATHEMATICS
+File Name : C:\Computer Station\Class - X (Maths)/Final/Chap Œ 5/Chap-5 (8th Nov.).pmd
+or,
+a + 2d =600
+anda + 6d =700Solving these equations, we getd = 25and
+a = 550.Therefore, production of TV sets in the first year is 550.(ii)Now
+a10 =a + 9d = 550 + 9 × 25 = 775So, production of TV sets in the 10th year is 775.(iii)Also,S
+7 =72550(71)25
+2
+=71100150
+2 = 4375Thus, the total production of TV sets in first 7 years is 4375.EXERCISE5.3
+1.Find the sum of the following APs:
+(i)2, 7, 12, . . ., to 10 terms.
+(ii)Œ37, Œ33, Œ29, . . ., to 12 terms.(iii)0.6, 1.7, 2.8, . . ., to 100 terms.(iv)111
+,,151210
+ , . . ., to 11 terms.2.Find the sums given below :(i)7 + 
+1102 + 14 + . . . + 84(ii)34 + 32 + 30 + . . . + 10
+(iii)Œ5  + 
+(Œ8) + (Œ11) + . . . + (Œ230)3.In an AP:
+(i)given 
+a = 5, d = 3, an = 50, find n and Sn.(ii)given a = 7, a13 = 35,  find d and S13.(iii)given a12 = 37, d = 3, find a and S12.(iv)given a3 = 15, S10 = 125, find d and a10.(v)given 
+d = 5, S9 = 75, find a and a9.(vi)given a = 2,  d = 8,  Sn = 90, find n and an.(vii)given a = 8, an = 62, Sn = 210, find n and d.(viii)given an = 4, d = 2,  Sn = Œ14, find n and a.(ix)given a = 3, n = 8, S = 192, find d.(x)given 
+l = 28,  S = 144,  and there are total 9 terms. Find a.
+ARITHMETIC PROGRESSIONS113File Name : C:\Computer Station\Class - X (Maths)/Final/Chap Œ 5/Chap-5 (8th Nov.).pmd
+4.How many terms of the AP : 9, 17, 25, . . . must be taken to give a sum of 636?
+5.The first term of an AP is 5, the last term is 45 and the sum is 400. Find the number of terms
+and the common difference.6.The first and the last terms of an AP are 17 and 350 respectively. If the common difference
+
+is 9, how many terms are there and what is their sum?7.Find the sum of first 22 terms of an AP in which 
+d = 7 and 22nd term is 149.8.Find the sum of first 51 terms of an AP whose second and third terms are 14 and 18
+respectively.
+9.If the sum of first 7 terms of an AP is 49 and that of 17 terms is 289, find the sum of
+
+first n terms.10.Show that a1, a2, . . ., an, . . . form an AP where 
+an is defined as below :(i)an = 3 + 4n(ii)an = 9 Œ 5nAlso find the sum of the first 15 terms in each case.11.
+If the sum of the first n terms of an AP is 4
+n Œ n2, what is the first term (that is S1)? Whatis the sum of first two terms? What is the second term? Similarly, find the 3rd, the 10th and
+the nth terms.12.Find the sum of the first 40 positive integers divisible by 6.13.Find the sum of the first 15 multiples of 8.14.Find the sum of the odd numbers between 0 and 50.15.A contract on construction job specifies a penalty for delay of completion beyond acertain date as follows: ` 200 for the first day, 
+` 250 for the second day, 
+` 300 for the thirdday, etc., the penalty for each succeeding day being 
+` 50 more than for the preceding day.
+How much money the contractor has to pay as penalty, if he has delayed the work by 30
+
+days?16.A sum of ` 700 is to be used to give seven cash prizes to students of a school for theiroverall academic performance. If each prize is ` 20 less than its preceding prize, find thevalue of each of the prizes.17.In a school, students thought of planting trees in and around the school to reduce airpollution. It was decided that the number of trees, that each section of each class willplant, will be the same as the class, in which they are studying, e.g., a section of  Class Iwill plant 1 tree, a section of Class II will plant 2 trees and so on till Class XII. There are
+three sections of each class. How many trees will be planted by the students?18.A spiral is made up of successive semicircles, with centres alternately at A and B,starting with centre atA, of radii 0.5 cm, 1.0 cm, 1.5 cm, 2.0 cm, . . .  as shown in
+Fig. 5.4. What is the total length of such a spiral made up of thirteen consecutivesemicircles? (Take 
+ = 227)
+114M
+ATHEMATICS
+File Name : C:\Computer Station\Class - X (Maths)/Final/Chap Œ 5/Chap-5 (8th Nov.).pmd
+Fig. 5.4[Hint : Length of successive semicircles is l1, l2, l3, l4, . . . with centres at A, B, A, B, . . .,respectively.]
+19.200 logs are stacked in the following manner: 20 logs in the bottom row, 19 in the next row,
+18 in the row next to it and so on (see Fig. 5.5). In how many rows are the 200 logs placedand how many logs are in the top row?Fig. 5.520.In a potato race, a bucket is placed at the starting point, which is 5 m from the first potato,and the other potatoes are placed 3 m apart in a straight line. There are ten potatoes in the
+line (see Fig. 5.6).Fig. 5.6A competitor starts from the bucket, picks up the nearest potato, runs back with it, drops
+it in the bucket, runs back to pick up the next potato, runs to the bucket to drop it in, and
+she continues in the same way until all the potatoes are in the bucket. What is the totaldistance the competitor has to run?[Hint : To pick up the first potato and the second  potato, the total distance (in metres)
+run by a competitor is 2 × 5 + 2 × (5 + 3)]
+ARITHMETIC PROGRESSIONS115File Name : C:\Computer Station\Class - X (Maths)/Final/Chap Œ 5/Chap-5 (8th Nov.).pmd
+EXERCISE5.4(Optional)*
+1.Which term of the AP : 121, 117, 113, . . ., is
+its first negative term?[Hint : Find n for an < 0]2.The sum of the third and the seventh termsof an AP is 6 and their product is 8. Find
+
+the sum of first sixteen terms of the AP.
+3.A ladder has rungs 25 cm apart.
+(see Fig. 5.7). The rungs decrease
+uniformly in length from 45 cm at thebottom to 25 cm at the top. If the top andthe bottom rungs are 122m apart, what isthe length of the wood required for therungs?[Hint : Number of rungs = 250
+125]4.The houses of a row are numbered consecutively from 1 to 49. Show that there is a valueof x such that the sum of the numbers of the houses preceding the house numbered x isequal to the sum of the numbers of the houses following it. Find this value of x.[Hint : Sx Œ 1 = S49 Œ Sx]5.A small terrace at a football ground comprises of 15 steps each of which is 50 m long andbuilt of solid concrete.Each step has a rise of 14 m and a tread of 12 m. (see Fig. 5.8). Calculate the total volumeof concrete required to build the terrace.[Hint : Volume of concrete required to build the first step = 
+31150m
+42]Fig. 5.8Fig. 5.7*These exercises are not from the examination point of view.
+
+116M
+ATHEMATICS
+File Name : C:\Computer Station\Class - X (Maths)/Final/Chap Œ 5/Chap-5 (8th Nov.).pmd
+5.5Summary
+In this chapter, you have studied the following points :
+1.An arithmetic progression (AP) is a list of numbers in which each term is obtained byadding a fixed number d to the preceding term, except the first term. The fixed number dis called the common difference.The general form of an AP is 
+a,a + d,a + 2d,a + 3d, . . .2.A given list of numbers 
+a1, a2, a3, . . . is an AP, if the differences 
+a2 Œ a1, a3 Œ a2,a4 Œ a3, . . ., give the same value, i.e., if ak + 1 Œ ak is the same for different values of k.3.In an AP with first term 
+a and common difference 
+d, the nth term (or the general term) isgiven by 
+an = a + (n Œ 1) d.4.The sum of the first n terms of an AP is given by :
+S =2(1)
+2nand
+5.If l is the last term of the finite AP, say the 
+nth term, then the sum of all terms of the AP
+is given by :S =()2
+nalA NOTE TO THE READERIf a, b, c are in AP, then 
+b = 2ac and b is called the arithmeticmean of a and c.

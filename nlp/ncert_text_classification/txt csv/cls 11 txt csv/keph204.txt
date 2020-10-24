@@ -1,0 +1,507 @@
+CHAPTER TWELVETHERMODYNAMICS12.1  INTRODUCTIONIn previous chapter we have studied thermal properties ofmatter. In this chapter we shall study laws that govern
+thermal energy. We shall study the processes where work isconverted into heat and vice versa. In winter, when we rubour palms together, we feel warmer; here work done in rubbing
+produces the  ‚heat™.  Conversely, in a steam engine, the ‚heat™
+of the steam is used to do useful work in moving the pistons,
+which in turn rotate the wheels of the train.In physics, we need to define the notions of heat,temperature, work, etc. more carefully.  Historically, it took along time to arrive at the proper concept of ‚heat™. Before the
+modern picture, heat was regarded as a fine invisible fluid
+filling in the pores of a substance.  On contact between a hot
+body and a cold body, the fluid  (called caloric) flowed fromthe colder to the hotter body! This is similar to what happens
+when a horizontal pipe connects two tanks containing water
+up to different heights. The flow continues until the levels of
+water in the two tanks are the same.  Likewise, in the ‚caloric™
+picture of heat, heat flows until the ‚caloric levels™ (i.e., the
+temperatures) equalise.In time, the picture of heat as a fluid was discarded infavour of the modern concept of heat as a form of energy. An
+important experiment in this connection was due to Benjamin
+Thomson (also known as Count Rumford) in 1798. He
+observed that boring of a brass cannon generated a lot of
+heat, indeed enough to boil water. More significantly, the
+amount of heat produced depended on the work done (by thehorses employed for turning the drill) but not on the
+sharpness of the drill. In the caloric picture, a sharper drill
+would scoop out more heat fluid from the pores; but this
+was not observed. A most natural explanation of the
+observations was that heat was a form of energy and the
+experiment demonstrated conversion of energy from one form
+to anotherŒfrom work to heat.12.1Introduction12.2Thermal equilibrium12.3Zeroth law of
+Thermodynamics12.4Heat, internal energy and
+work12.5First law ofthermodynamics12.6Specific heat capacity12.7Thermodynamic statevariables and equation of
+state
+12.8Thermodynamic processes12.9Heat engines12.10Refrigerators and heatpumps12.11Second law of
+thermodynamics
+12.12Reversible and irreversibleprocesses12.13Carnot engineSummaryPoints to ponderExercises
+Thermodynamics is the branch of physics that
+deals with the concepts of heat and temperatureand the inter-conversion of heat and other formsof energy. Thermodynamics is a macroscopicscience. It deals with bulk systems and does not
+go into the molecular constitution of matter. In
+fact, its concepts and laws were formulated in the
+nineteenth century before the molecular pictureof matter was firmly established.  Thermodynamic
+description involves relatively few macroscopic
+variables of the system, which are suggested by
+common sense and can be usually measured
+directly. A microscopic description of a gas, for
+example, would involve specifying the co-ordinatesand velocities of the huge number of moleculesconstituting the gas. The description in kinetic
+theory of gases is not so detailed but it does involve
+molecular distribution of velocities.
+Thermodynamic description of a gas, on the other
+hand, avoids the molecular description altogether.
+Instead, the state of a gas in thermodynamics is
+specified by macroscopic variables such as
+pressure, volume, temperature, mass and
+composition that  are felt by our sense perceptionsand are measurable*.The distinction between mechanics andthermodynamics is worth bearing in mind.  Inmechanics, our interest is in the motion of particlesor bodies under the action of forces and torques.Thermodynamics is not concerned with the
+motion of the system as a whole.  It is concerned
+with the internal macroscopic state of the body.
+When a bullet is fired from a gun, what changesis the mechanical state of the bullet (its kinetic
+energy, in particular), not its temperature.  When
+the bullet pierces a wood and stops, the kinetic
+energy of the bullet gets converted into heat,
+changing the temperature of the bullet and the
+surrounding layers of wood.  Temperature isrelated to the energy of the internal (disordered)motion of the bullet, not to the motion of the bullet
+as a whole.12.2  THERMAL EQUILIBRIUMEquilibrium in mechanics means that the netexternal force and torque on a system are zero.The term ‚equilibrium™ in thermodynamics appears*Thermodynamics may also involve other variables that are not so obvious to our senses  e.g. entropy, enthalpy,etc., and they are all macroscopic variables.**Both the variables need not change. It depends on the constraints. For instance, if the gases are in containers
+of fixed volume, only the pressures of the gases would change to achieve thermal equilibrium.in a different context : we say the state of a system
+is an equilibrium state if the macroscopicvariables that characterise the system do notchange in time. For example, a gas inside a closed
+rigid container, completely insulated from itssurroundings, with fixed values of pressure,volume, temperature, mass and composition that
+do not change with time, is in a state ofthermodynamic equilibrium.In general, whether or not a system is in a stateof equilibrium depends on the surroundings and
+the nature of the wall that separates the systemfrom the surroundings.  Consider two gases A andB occupying two different containers. We knowexperimentally that pressure and volume of a
+given mass of gas can be chosen to be its two
+independent variables. Let the pressure andvolume of the gases be (PA, VA) and (PB, VB)respectively.  Suppose first that the two systemsare put in proximity but are separated by anadiabatic wall Œ an insulating wall 
+(can bemovable) that does not allow flow of energy (heat)from one to another. The systems are insulated
+from the rest of the surroundings also by similaradiabatic walls. The situation is shown
+schematically in Fig. 12.1 (a). In this case, it is
+found that any possible pair of values (PA, VA) willbe in equilibrium with any possible pair of values(PB, VB).  Next, suppose that the adiabatic wall isreplaced by a diathermic wall
+Œa conducting wall
+that allows energy flow (heat) from one to another.It is then found that the macroscopic variables of
+the systems A and B change spontaneously untilboth the systems attain equilibrium states. After
+that there is no change in their states. The
+situation is shown in Fig. 12.1(b).  The pressure
+and volume variables of the two gases change to(PB, VB) and (PA, VA) such that the new statesof A and B are in equilibrium with each other**.There is no more energy flow from one to another.We then say that the system A is in thermal
+equilibrium with the system B.What characterises the situation of thermalequilibrium between two systems ? You can guessthe answer from your experience. In thermalequilibrium, the temperatures of the two systemsTHERMODYNAMICS299
+PHYSICS300are equal. We shall see how 
+does one arrive atthe concept of temperature in thermodynamics?The Zeroth law of thermodynamics provides theclue.12.3  ZEROTH LAW OF THERMODYNAMICSImagine two systems A and B, separated by an
+adiabatic wall, while each is in contact with a thirdsystem C, via a conducting wall [Fig. 12.2(a)]. The
+states of the systems (i.e., their macroscopic
+variables) will change until both A and B come tothermal equilibrium with C. After this is achieved,suppose that the adiabatic wall between A and Bis replaced by a conducting wall and C is insulatedfrom A and B by an adiabatic wall [Fig.12.2(b)]. Itis found that the states of A and B change nofurther i.e. they are found to be in thermalequilibrium with each other. This observation
+forms the basis of the Zeroth Law ofThermodynamics, which states that ‚twosystems in thermal equilibrium with a thirdsystem separately are in thermal equilibrium
+with each other™
+.  R.H. Fowler formulated thislaw in 1931 long after the first and second Laws
+
+of thermodynamics were stated and so numbered.Fig. 12.1(a) Systems A and B (two gases) separatedby an adiabatic wall Œ an insulating wall
+that does not allow flow of heat. (b) Thesame systems A and B separated by adiathermic wall Œ a conducting wall that
+
+allows heat to flow from one to another.  In
+this case, thermal equilibrium is attainedin due course.The Zeroth Law clearly suggests that when twosystems A and B, are in thermal equilibrium,there must be a physical quantity that has thesame value for both. This thermodynamicvariable whose value is equal for two systems in
+thermal equilibrium is called temperature (T).Thus, if A and B are separately in equilibriumwith C, TA = TC  and TB = TC.  This implies thatTA = TB i.e. the systems A and B are also inthermal equilibrium.We have arrived at the concept of temperatureformally via the Zeroth Law.  The next question
+is :how to assign numerical values to
+
+temperatures of different bodies ?  In other words,
+
+how do we construct a scale of temperature ?
+
+Thermometry deals with this basic question towhich we turn in the next section.Fig. 12.2(a) Systems A and B are separated by anadiabatic wall, while each is in contact
+with a third system C via a conductingwall. (b) The adiabatic wall between  Aand B is replaced by a conducting wall,
+while C is insulated from A and B by anadiabatic wall.12.4  HEAT, INTERNAL ENERGY AND WORKThe Zeroth Law of Thermodynamics led us tothe concept of temperature that agrees with our
+commonsense notion.  Temperature is a marker(a)(b)(a)(b)
+THERMODYNAMICS301of the ‚hotness™ of a body. It determines thedirection of flow of heat when two bodies are
+placed in thermal contact.  Heat flows from thebody at a higher temperature to the one at lowertemperature. The flow stops when the
+temperatures equalise; the two bodies are thenin thermal equilibrium. We saw in some detailhow to construct temperature scales to assign
+temperatures to different bodies. We nowdescribe the concepts of heat and other relevantquantities like internal energy and work.The concept of internal energy of a system isnot difficult to understand.  We know that everybulk system consists of a large number ofmolecules.  Internal energy is simply the sum of
+the kinetic energies and potential energies ofthese molecules. We remarked earlier that inthermodynamics, the kinetic energy of the
+system, as a whole, is not relevant.  Internalenergy is thus, the sum of molecular kinetic andpotential energies in the frame of reference
+relative to which the centre of mass of the systemis at rest. Thus, it includes only the (disordered)energy associated with the random motion of
+molecules of the system. We denote the internalenergy of a system by U.Though we have invoked the molecularpicture to understand the meaning of internalenergy, as far as thermodynamics is concerned,U is simply a macroscopic variable of the system.The important thing about internal energy isthat it depends only on the state of the system,not on how that state was achieved.  Internalenergy U of a system is an example of athermodynamic ‚state variable™ Œ its valuedepends only on the given state of the system,not on history i.e. not on the ‚path™ taken to arrive
+at that state. Thus, the internal energy of a givenmass of gas depends on its state described byspecific values of pressure, volume and
+temperature. It does not depend on how thisstate of the gas came about. Pressure, volume,temperature, and internal energy are
+thermodynamic state variables of the system(gas) (see section 12.7). If we neglect the smallintermolecular forces in a gas, the internal
+energy of a gas is just the sum of kinetic energiesassociated with various random motions of itsmolecules.  We will see in the next chapter that
+in a gas this motion is not only translational(i.e. motion from one point to another in thevolume of the container); it also includesrotational and vibrational motion of the
+molecules (Fig. 12.3).What are the ways of changing internalenergy of a system ? Consider again, forsimplicity, the system to be a certain mass ofgas contained in a cylinder with a movablepiston as shown in Fig. 12.4.  Experience showsthere are two ways of changing the state of thegas (and hence its internal energy).  One way is
+to put the cylinder in contact with a body at ahigher temperature than that of the gas. Thetemperature difference will cause a flow of
+energy (heat) from the hotter body to the gas,thus increasing the internal energy of the gas.The other way is to push the piston down i.e. to
+do work on the system, which again results inincreasing the internal energy of the gas.  Ofcourse, both these things could happen in the
+reverse direction. With surroundings at a lowertemperature, heat would flow from the gas tothe surroundings.  Likewise, the gas could pushthe piston up and do work on the surroundings.In short, heat and work are two different modes
+of altering the state of a thermodynamic system
+and changing its internal energy.The notion of heat should be carefullydistinguished from the notion of internal energy.Heat is certainly energy, but it is the energy in
+transit.  This is not just a play of words.  The
+distinction is of basic significance. The state of
+a thermodynamic system is characterised by its
+internal energy, not heat. A statement like ‚agas in a given state has a certain amount of
+heat™ is as meaningless as the statement that‚a gas in a given state has a certain amount
+of work™.  In contrast, ‚a gas in a given statehas a certain amount of internal energy™ is aperfectly meaningful statement. Similarly, thestatements ‚a certain amount of heat issupplied to the system™ or ‚a certain amountof work was done by the system™ are perfectlymeaningful.To summarise, heat and work inthermodynamics are not state variables. Theyare modes of energy transfer to a system
+resulting in change in its internal energy,which, as already mentioned, is a state variable.In ordinary language, we often confuse heatwith internal energy.  The distinction betweenthem is sometimes ignored in elementary
+PHYSICS302physics books. For proper understanding ofthermodynamics, however, the distinction is
+crucial.Fig. 12.3(a) Internal energy U of a gas is the sumof the kinetic and potential energies of  its
+molecules when the box is at rest. Kineticenergy due to various types of motion(translational, rotational, vibrational) is to
+
+be included in U.  (b) If the same box is
+moving as a whole with some velocity,
+the kinetic energy of the box is not to beincluded in U.Fig. 12.4Heat and work are two distinct modes ofenergy transfer to a system that results  in
+change in its internal energy. (a) Heat isenergy transfer due to temperaturedifference between the system and the
+surroundings.  (b) Work is energy transfer
+brought about by means (e.g. moving the
+piston by raising or lowering some weightconnected to it) that do not involve such atemperature difference.12.5  FIRST LAW OF THERMODYNAMICSWe have seen that the internal energy U of asystem can change through two modes of energytransfer : heat and work.  LetQ=Heat supplied 
+to the system by thesurroundingsW=Work done 
+by the system on thesurroundingsU=Change in internal energy of the system
+The general principle of conservation ofenergy then implies thatQ=  U + W(12.1)i.e. the energy (Q) supplied to the system goesin partly to increase the internal energy of thesystem (U) and the rest in work on theenvironment (W). Equation (12.1) is known asthe First Law of Thermodynamics.  It is simplythe general law of conservation of energy applied
+to any system in which the energy transfer from
+or to the surroundings is taken into account.Let us put Eq. (12.1) in the alternative form
+Q  Œ 
+W  = U(12.2)Now, the system may go from an initial state
+to the final state in a number of ways. Forexample, to change the state of a gas from
+(P1, V1) to (P2, V2), we can first change thevolume of the gas from V1 to V2, keeping itspressure constant i.e. we can first go the state(P1, V2) and then change the pressure of thegas from P1 to P2, keeping volume constant, totake the gas to (P2, V2).  Alternatively, we canfirst keep the volume constant and then keep
+the pressure constant. Since U is a statevariable, U depends only on the initial andfinal states and not on the path taken by thegas to go from one to the other. However, Qand W will, in general, depend on the pathtaken to go from the initial to final states. Fromthe First Law of Thermodynamics, Eq. (12.2),
+
+it is clear that the combination Q Œ W, ishowever, path independent. This shows that
+if a system is taken through a process in which
+U = 0 (for example, isothermal expansion ofan ideal gas, see section 12.8),
+Q  = 
+Wi.e., heat supplied to the system is used up
+entirely by the system in doing work on the
+environment.If the system is a gas in a cylinder with amovable piston, the gas in moving the piston
+THERMODYNAMICS303does work. Since force is pressure times area,and area times displacement is volume, work
+done by the system against a constant pressureP isW  = 
+P Vwhere V is the change in volume of the gas.Thus, for this case, Eq. (12.1) givesQ  = 
+U + PV(12.3)As an application of Eq. (12.3), consider the
+change in internal energy for 1 g of water whenwe go from its liquid to vapour phase. Themeasured latent heat of water is 2256 J/g. i.e.,
+for 1 g of water Q = 2256 J. At atmosphericpressure, 1 g of water has a volume 1 cm3 inliquid phase and 1671 cm3 in vapour phase.Therefore,W =P(Vg ŒVl ) = 1.013 10
+5 (1670)10
+Œ6 =169.2 JEquation (12.3) then givesU = 2256 Œ 169.2  =  2086.8 JWe see that most of the heat goes to increasethe internal energy of water in transition fromthe liquid to the vapour phase.12.6  SPECIFIC HEAT CAPACITYSuppose an amount of heat Q supplied to asubstance changes its temperature from T toT + T.  We define heat capacity of a substance(see Chapter 11) to beTQS  (12.4)We expect Q and, therefore, heat capacity Sto be proportional to the mass of the substance.Further, it could also depend on the
+temperature, i.e., a different amount of heat may
+be needed for a unit rise in temperature at
+different temperatures. To define a constantcharacteristic of the substance and
+independent of its amount, we divide S by themass of the substance m  in kg :1    
+SQsmmT
+          (12.5)s is known as the specific heat capacity of thesubstance.  It depends on the nature of thesubstance and its temperature.  The unit of
+specific heat  capacity is J kgŒ1 KŒ1.If the amount of substance is specified interms of moles µ (instead of mass m in kg), we
+can define heat capacity per mole of thesubstance by1SQCT      (12.6)C is known as molar specific heat capacity ofthe substance. Like s, C is independent of theamount of substance. C depends on the natureof the substance, its temperature and theconditions under which heat is supplied. The
+unit of C is J mo1
+Œ1 KŒ1. As we shall see later (inconnection with specific heat capacity of gases),additional conditions may be needed to defineC or s. The idea in defining C is that simplepredictions can be made in regard to molar
+specific heat capacities.Table 12.1 lists measured specific and molarheat capacities of solids at atmospheric pressureand ordinary room temperature.We will see in Chapter 13 that predictions ofspecific heats of gases generally agree with
+experiment. We can use the same law of
+equipartition of energy that we use there topredict molar specific heat capacities of solids.Consider a solid of N atoms, each vibratingabout its mean position. An oscillator in onedimension has average energy of 2  ˜ 
+kBT= kBT. In three dimensions, the average energyis 3 kBT.  For a mole of a solid, the total energy isU  = 3 kBT   NA  = 3 RTNow, at constant pressure, 
+Q =U + P V U,  since for a solid V is negligible.  Therefore,CQTUTR
+3(12.7)Table 12.1Specific and molar heat capacitiesof some solids at room
+temperature and atmosphericpressureAs Table 12.1 shows, the 
+experimentallymeasured values which gener
+ally agrees with
+PHYSICS304predicted value 3R at 
+ordinary temperatures.(Carbon is an exception.) The agreement isknown to break down at low temperatures.Specific heat capacity of 
+waterThe old unit of heat was calorie.  One calorie
+was earlier defined to be the amount of heat
+required to raise the temperature of 1g of 
+waterby 1°C. With more precise measurements, it was
+found that the specific heat of water variesslightly with temperature.  Figure 12.5 shows
+
+this variation in the temperature range 0 to
+100 °C.
+Fig. 12.5Variation of specific heat capacity of waterwith temperature.For a precise definition of calorie, it was,therefore, necessary to specify the unittemperature interval. One calorie is defined
+to be the amount of heat required to raise the
+temperature of 1g of water from 14.5 °C to
+15.5°C. Since heat is just a form of energy,
+
+it is preferable to use the unit joule, J.
+In SI units, the specific heat 
+capacity of 
+wateris 4186 J kg
+Œ1 KŒ1 i.e. 4.186 J gŒ1 KŒ1. The socalled mechanical equivalent of heat definedas the amount of work needed to produce
+1 cal of heat is in fact just a conversion factor
+between two different units of energy: calorie
+to joule. Since in SI units, we use the unit joule
+for heat, work or any other form of energy, the
+term mechanical equivalent is now
+superfluous and need not be used.As already remarked, the specific heatcapacity depends on the process or theconditions under which heat c
+apacity transfertakes place.  For gases, for example, we can
+define two specific heats : 
+specific heatcapacity at 
+constant volume and specificheat capacity at 
+constant pressure.  For anideal gas, we have a simple relation.        Cp  Œ  
+Cv = R(12.8)
+where Cp and Cv  are molar specific heatcapacities of an 
+ideal gas at constant pressureand volume respectively and R is the universalgas constant.  To prove the relation, we begin
+with Eq. (12.3) for 1 mole of the gas :
+                Q  = 
+U + P VIf Q  is absorbed at constant volume, V = 0   vvvQUU
+CTTT
+   
+      
+   
+      
+      
+   
+(12.9)
+where the subscript v is dropped in the laststep, since U of an ideal gas depends only ontemperature. (The subscript denotes the
+quantity kept fixed.) If, on the other hand, Qis absorbed at constant pressure,pppp
+   
+QUV
+C PTTT
+   
+      
+   
+      
+      
+   
+(12.10)
+The subscript p can be dropped from thefirst term since U of an ideal gas depends onlyon T.  Now, for a mole of an ideal gas
+                PV = RTwhich gives    p  VPRT         (12.11)
+Equations (12.9) to (12.11) give the desired
+relation, Eq. (12.8).
+12.7THERMODYNAMIC STATE VARIABLESAND EQUATION OF STATEEvery equilibrium state of a thermodynamicsystem is completely described by specificvalues of some macroscopic variables, alsocalled state variables. For example, anequilibrium state of a gas is completelyspecified by the values of pressure, volume,
+temperature, and mass (and composition ifthere is a mixture of gases). A thermodynamicsystem is not always in equilibrium. For example,
+a gas allowed to expand freely  against vacuumis not an equilibrium state [Fig. 12.6(a)]. Duringthe rapid expansion, pressure of the gas may
+THERMODYNAMICS305not be uniform throughout. Similarly, a mixtureof gases undergoing an explosive chemicalreaction (e.g. a mixture of petrol vapour andair when ignited by a spark) is not anequilibrium state; again its temperature andpressure are not uniform [Fig. 12.6(b)].
+
+Eventually, the gas attains a uniformtemperature and pressure and comes tothermal and mechanical equilibrium with its
+surroundings.Fig. 12.6(a) The partition in the box is suddenlyremoved leading to free expansion of thegas. (b) A mixture of gases undergoing anexplosive chemical reaction. In bothsituations, the gas is not in equilibrium andcannot be described by state variables.In short, thermodynamic state variablesdescribe equilibrium states of systems. Thevarious state variables are not necessarilyindependent. The connection between the statevariables is called the equation of state. Forexample, for an ideal gas, the equation of state
+is the ideal gas relation   P V = µ R TFor a fixed amount of the gas i.e. given µ, thereare thus, only two independent variables, say Pand V or T and V.  The pressure-volume curvefor a fixed temperature is called an isotherm.Real gases may have more complicatedequations of state.The thermodynamic state variables are of twokinds: extensive and intensive. Extensivevariables indicate the ‚size™ of the system.Intensive variables such as pressure andtemperature do not. To decide which variable isextensive and which intensive, think of arelevant system in equilibrium, and imagine thatit is divided into two equal parts. The variables
+that remain unchanged for each part areintensive. The variables whose values get halvedin each part are extensive. It is easily seen, for
+example, that internal energy U, volume V, totalmass M are extensive variables. Pressure P,temperature T, and density  are intensivevariables.  It is a good practice to check theconsistency of thermodynamic equations usingthis classification of variables. For example, in
+the equation      Q =U + P Vquantities on both sides are extensive*. (Theproduct of an intensive variable like P and anextensive quantity V is extensive.)12.8  THERMODYNAMIC PROCESSES12.8.1  Quasi-static processConsider a gas in thermal and mechanicalequilibrium with its surroundings. The pressureof the gas in that case equals the externalpressure and its temperature is the same asthat of its surroundings. Suppose that theexternal pressure is suddenly reduced (say by
+lifting the weight on the movable piston in thecontainer).  The piston will accelerate outward.During the process, the gas passes throughstates that are not equilibrium states. The non-equilibrium states do not have well-definedpressure and temperature. In the same way, if
+a finite temperature difference exists betweenthe gas and its surroundings, there will be arapid exchange of heat during which the gas
+will pass through non-equilibrium states.  Indue course, the gas will settle to an equilibriumstate with well-defined temperature and
+pressure equal to those of the surroundings. Thefree expansion of a gas in vacuum and a mixtureof gases undergoing an explosive chemical
+reaction, mentioned in section 12.7 are alsoexamples where the system goes through non-equilibrium states.Non-equilibrium states of a system are difficultto deal with.  It is, therefore, convenient to
+imagine an idealised process in which at every
+stage the system is an equilibrium state. Such a
+*As emphasised earlier, Q is not a state variable.  However, Q is clearly proportional to the total mass ofsystem and hence is extensive.
+PHYSICS306process is, in principle, infinitely slow-hence thename quasi-static (meaning nearly static). The
+system changes its variables (P, T, V) so slowlythat it remains in thermal and mechanicalequilibrium with its surroundings throughout.
+In a quasi-static process, at every stage, thedifference in the pressure of the system and theexternal pressure is infinitesimally small.  The
+same is true of the temperature differencebetween the system and its surroundings.  Totake a gas from the state (P, T) to another state(P , T  ) via  a quasi-static process, we changethe external pressure by a very small amount,
+allow the system to equalise its pressure withthat of the surroundings and continue theprocess infinitely slowly until the systemachieves the pressure P . Similarly, to changethe temperature, we introduce an infinitesimaltemperature difference between the system andthe surrounding reservoirs and by choosing
+reservoirs of progressively different temperaturesT to T , the system achieves the temperature T .Fig. 12.7In a quasi-static process, the temperatureof the surrounding reservoir and theexternal pressure differ only infinitesimallyfrom the temperature and pressure of thesystem.A quasi-static process is obviously ahypothetical construct.  In practice, processesthat are sufficiently slow and do not involveaccelerated motion of the piston, largetemperature gradient, etc. are reasonablyapproximation to an ideal quasi-static process.
+We shall from now on deal with quasi-staticprocesses only, except when stated otherwise.A process in which the temperature of thesystem is kept fixed throughout is called anisothermal process.  The expansion of a gas ina metallic cylinder placed in a large reservoir of
+fixed temperature is an example of an isothermal
+process.  (Heat transferred from the reservoir to
+the system does not materially affect the
+temperature of the reservoir, because of its very
+large heat capacity.)  In isobaric processes thepressure is constant while in isochoricprocesses the volume is constant.  Finally, ifthe system is insulated from the surroundings
+and no heat flows between the system and the
+surroundings, the process is adiabatic. Thedefinitions of these special processes aresummarised in Table. 12.2Table 12.2Some special thermodynamicprocessesWe now consider these processes in some detail:
+Isothermal processFor an isothermal process (T fixed), the ideal gasequation gives                  PV  =  constanti.e., pressure of a given mass of gas varies 
+inverselyas its volume. This is nothing but Boyle™s Law.Suppose an ideal gas goes isothermally (attemperature T) from its initial state (P1, V1) tothe final state (P2, V 2).  At any intermediate stagewith pressure P and volume change from V toV + V (V small)     W  = P VTaking (V  0) and summing the quantityW over the entire process,d 21VW= PV
+V Ind2211VV=  RTRT    
+VVVV       
+ (12.12)
+THERMODYNAMICS307where in the second  step we have made use ofthe ideal gas equation PV = µ RT and  taken theconstants out of the integral.  For an ideal gas,internal energy depends only on temperature.Thus, there is no change in the internal energy
+of an ideal gas in an isothermal process. The
+First Law of Thermodynamics then implies that
+heat supplied to the gas equals the work doneby the gas : Q = W.  Note from Eq. (12.12) thatfor V2 > V1,  W > 0; and for V2 < V1, W < 0.  Thatis, in an isothermal expansion, the gas absorbsheat and does work while in an isothermalcompression, work is  done on the gas by theenvironment and heat is released.Adiabatic processIn an adiabatic process, the system is insulatedfrom the surroundings and heat absorbed orreleased is zero. From Eq. (12.1), we see thatwork done by the gas results in decrease in itsinternal energy (and hence its temperature foran ideal gas).  We quote without proof (the resultthat you will learn in higher courses) that foran adiabatic process of an ideal gas.    P V    =  const(12.13)where   is the ratio of specific heats (ordinaryor molar) at constant pressure and at constantvolume.               =CpCvThus if an ideal gas undergoes a change inits state adiabatically from (P1, V1) to (P2, V2) :P1 V1  = P2 V2(12.14)Figure12.8 shows the P-V curves of an idealgas for two adiabatic processes connecting twoisotherms.Fig. 12.8P-V curves for isothermal and adiabaticprocesses of an ideal gas.We can calculate, as before, the work done inan adiabatic change of an ideal gas from thestate (P1, V1, T1) to the state (P2, V2, T2).         21d VW =PV
+V  2211d1Œ+1
+VVVV= constant constant 
+VV V     
+   =1Œ11Œ21 Œ 1  )Œ (1tanVVtcons(12.15)
+From Eq. (12.34), the constant is P1V1  or P2V22211
+11211 1 Œ 
+PVPV
+W= 
+VV                 122211
+)11 Œ Œ
+R(TŒT
+= PVPV
+      (12.16)
+As expected, if work is done by the gas in anadiabatic process (W > 0), from Eq. (12.16),T2 < T1.  On the other hand, if work is done onthe gas (W < 0), we get T2 > T1 i.e., thetemperature of the gas rises.Isochoric processIn an isochoric process, V is constant. No workis done on or by the gas.  From Eq. (12.1), theheat absorbed by the gas goes entirely to changeits internal energy and its temperature.  Thechange in temperature for a given amount of
+heat is determined by the specific heat of the
+gas at constant volume.Isobaric processIn an isobaric process, P is fixed. Work done bythe gas isW = P (V2 Œ V1)  =  µ R (T2 Œ T1)   (12.17)
+Since temperature changes, so does internalenergy. The heat absorbed goes partly toincrease internal energy and partly to do work.
+The change in temperature for a given amountof heat is determined by the specific heat of thegas at constant pressure.Cyclic processIn a cyclic process, the system returns to itsinitial state. Since internal energy is a state
+variable, U = 0 for a cyclic process. From
+PHYSICS308Eq. (12.1), the total heat absorbed equals thework done by the system.12.9  HEAT ENGINESHeat engine is a device by which a system ismade to undergo a cyclic process that results
+in conversion of heat to work.(1)It consists of a 
+working substanceŒthesystem. For example, a mixture of fuelvapour and air in a gasoline or diesel engine
+or steam in a steam engine are the working
+substances.(2)The working substance goes through a cycle
+consisting of several processes. In some ofthese processes, it absorbs a total amount
+of heat Q1 from an external reservoir at somehigh temperature T1.(3)In some other processes of the cycle, the
+working substance releases a total amountof heat Q2 to an external reservoir at somelower temperature T2.(4)The work done (
+W) by the system in a cycleis transferred to the environment via somearrangement (e.g. the working substancemay be in a cylinder with a moving piston
+that transfers mechanical energy to thewheels of a vehicle via a shaft).The basic features of a heat engine areschematically represented in Fig. 12.9.Fig. 12.9Schematic representation of a heat engine.The engine takes heat Q1 from a hotreservoir at temperature T1, releases heatQ2 to a cold reservoir at temperature T2and delivers work W to the surroundings.The cycle is repeated again and again to getuseful work for some purpose. The discipline ofthermodynamics has its roots in the study of heatengines. A basic question relates to the efficiencyof a heat engine. The efficiency () of a heatengine is defined by1QW(12.18)where Q1 is the heat input i.e., the heatabsorbed by the system in one complete cycleand W is the work done on the environment ina cycle. In a cycle, a certain amount of heat (Q2)may also be rejected to the environment. Then,according to the First Law of Thermodynamics,over one complete cycle,W  =  
+Q1 Œ Q2(12.19)i.e.,1Q2Q1(12.20)For Q2 = 0,  = 1, i.e., the engine will have100% efficiency in converting heat into work.Note that the First Law of Thermodynamics i.e.,the energy conservation law does not rule outsuch an engine. But experience shows that
+such an ideal engine with  = 1 is never possible,even if we can eliminate various kinds of lossesassociated with actual heat engines. It turnsout that there is a fundamental limit on theefficiency of a heat engine set by an independent
+principle of nature, called the Second Law of
+Thermodynamics (section 12.11).The mechanism of conversion of heat intowork varies for different heat engines.  Basically,there are two ways : the system (say a gas or a
+mixture of gases) is heated by an external
+furnace, as in a steam engine; or it is heated
+internally by an exothermic chemical reaction
+as in an internal combustion engine. Thevarious steps involved in a cycle also differ fromone engine to another.12.10  REFRIGERATORS AND HEAT PUMPSA refrigerator is the reverse of a heat engine.Here the working substance extracts heat Q2from the cold reservoir at temperature T2, someexternal work W is done on it and heat Q1 isreleased to the hot reservoir at temperature T1(Fig. 12.10).Fig. 12.10Schematic representation of a refrigerator
+or a heat pump, the reverse of a heatengine.
+THERMODYNAMICS309A heat pump is the same as a refrigerator.What term we use depends on the purpose ofthe device.  If the purpose is to cool a portion ofspace, like the inside of a chamber, and higher
+temperature reservoir is surrounding, we callthe device a refrigerator; if the idea is to pumpheat into a portion of space (the room in a
+building when the outside environment is cold),the device is called a heat pump.In a refrigerator the working substance(usually, in gaseous form) goes through the
+following steps : (a) sudden expansion of the gasfrom high to low pressure which cools it and
+converts it into a vapour-liquid mixture, (b)absorption by the cold fluid of heat from theregion to be cooled converting it into vapour, (c)
+heating up of the vapour due to external workdone on the system, and (d) release of heat bythe vapour to the surroundings, bringing it to
+the initial state and completing the cycle.The coefficient of performance () of arefrigerator is given by2QW    (12.21)where Q2 is the heat extracted from the coldreservoir and W is the work done on thesystemŒthe refrigerant. ( for heat pump isdefined as Q1/W) Note that while  by definitioncan never exceed 1,  can be greater than 1.By energy conservation, the heat released to thehot reservoir is
+Q1  = 
+W +  Q2i.e.,212ŒQQQ     
+  (12.22)In a heat engine, heat cannot be fullyconverted to work; likewise a refrigerator cannotwork without some external work done on the
+
+system, i.e., the coefficient of performance in Eq.
+(12.21) cannot be infinite.12.11  SECOND LAW OF THERMODYNAMICS
+The First Law of Thermodynamics is the principleof conservation of energy.  Common experience
+shows that there are many conceivableprocesses that are perfectly allowed by the FirstLaw and yet are never observed.  For example,
+nobody has ever seen a book lying on a tablejumping to a height by itself.  But such a thingPioneers of ThermodynamicsLord Kelvin (William Thomson)  (1824-1907), born in Belfast, Ireland, isamong the foremost British scientists of the nineteenth century.  Thomsonplayed a key role in the development of the law of conservation of energysuggested by the work of James Joule (1818-1889), Julius Mayer (1814-1878) and Hermann Helmholtz (1821-1894). He collaborated with Jouleon the so-called Joule-Thomson effect : cooling of a gas when it expands
+into vacuum.  He introduced the notion of the absolute zero of temperatureand proposed the absolute temperature scale, now called the Kelvin scalein his honour.  From the work of Sadi Carnot (1796-1832), Thomson arrivedat a form of the Second Law of Thermodynamics.  Thomson was a versatilephysicist, with notable contributions to electromagnetic theory andhydrodynamics.Rudolf Clausius (1822-1888), born in Poland, is generally regarded asthe discoverer of the Second Law of Thermodynamics.  Based on the workof Carnot and Thomson, Clausius arrived at the important notion of entropythat led him to a fundamental version of the Second Law ofThermodynamics that states that the entropy of an isolated system cannever decrease. Clausius also worked on the kinetic theory of gases andobtained the first reliable estimates of molecular size, speed, mean freepath, etc.
+PHYSICS310would be possible if the principle of conservationof energy were the only restriction. The tablecould cool spontaneously, converting some of itsinternal energy into an equal amount of
+mechanical energy of the book, which wouldthen hop to a height with potential energy equalto the mechanical energy it acquired.  But this
+never happens. Clearly, some additional basicprinciple of nature forbids the above, eventhough it satisfies the energy conservation
+principle.  This principle, which disallows manyphenomena consistent with the First Law ofThermodynamics is known as the Second Law
+of Thermodynamics.The Second Law of Thermodynamics gives afundamental limitation to the efficiency of a heat
+engine and the co-efficient of performance of a
+refrigerator. In simple terms, it says that
+efficiency of a heat engine can never be unity.
+According to Eq. (12.20), this implies that heat
+released to the cold reservoir can never be made
+zero. For a refrigerator, the Second Law says that
+the co-efficient of performance can never be
+infinite.  According to Eq. (12.21), this implies
+that external work (W) can never be zero. Thefollowing two statements, one due to Kelvin and
+Planck denying the possibility of a perfect heatengine, and another due to Clausius denying
+the possibility of a perfect refrigerator or heat
+pump, are a concise summary of these
+observations.Second Law of ThermodynamicsKelvin-Planck statementNo process is possible whose sole result is theabsorption of heat from a reservoir and thecomplete conversion of the heat into work.Clausius statementNo process is possible whose sole result is thetransfer of heat from a colder object to a hotter
+object.It can be proved that the two statementsabove are completely equivalent.12.12  REVERSIBLE AND IRREVERSIBLEPROCESSESImagine some process in which a thermodynamicsystem goes from an initial state i to a finalstate f. During the process the system absorbsheat Q from the surroundings and performswork W on it. Can we reverse this process andbring both the system and surroundings to theirinitial states with no other effect anywhere?
+Experience suggests that for most processes innature this is not possible. The spontaneousprocesses of nature are irreversible. Severalexamples can be cited. The base of a vessel onan oven is hotter than its other parts. Whenthe vessel is removed, heat is transferred fromthe base to the other parts, bringing the vesselto a uniform temperature (which in due coursecools to the temperature of the surroundings).The process cannot be reversed; a part of thevessel will not get cooler spontaneously andwarm up the base. It will violate the Second Lawof Thermodynamics, if it did. The free expansionof a gas is irreversible. The combustion reactionof a mixture of petrol and air ignited by a sparkcannot be reversed. Cooking gas leaking from agas cylinder in the kitchen diffuses to theentire room. The diffusion process will notspontaneously reverse and bring the gas backto the cylinder. The stirring of a liquid in thermal
+contact with a reservoir will convert the workdone into heat, increasing the internal energyof the reservoir. The process cannot be reversed
+exactly; otherwise it would amount to conversion
+of heat entirely into work, violating the SecondLaw of Thermodynamics. Irreversibility is a rulerather an exception in nature.Irreversibility arises mainly from two causes:one, many processes (like a free expansion, or
+an explosive chemical reaction) take the system
+to non-equilibrium states; two, most processesinvolve friction, viscosity and other dissipativeeffects (e.g., a moving body coming to a stop and
+losing its mechanical energy as heat to the floorand the body; a rotating blade in a liquid comingto a stop due to viscosity and losing its
+mechanical energy with corresponding gain inthe internal energy  of the liquid). Sincedissipative effects are present everywhere and
+can be minimised but not fully eliminated, mostprocesses that we deal with are irreversible.A thermodynamic process  (state i  state f )is reversible if the process can be turned backsuch that both the system and the surroundingsreturn to their original states, with no other
+change anywhere else in the universe. From thepreceding discussion, a reversible process is anidealised notion. A process is reversible only ifit is quasi-static (system in equilibrium with the
+THERMODYNAMICS311surroundings at every stage) and there are nodissipative effects. For example, a quasi-static
+isothermal expansion of an ideal gas in acylinder fitted with a frictionless movable pistonis a reversible process.Why is reversibility such a basic concept inthermodynamics?  As we have seen, one of the
+
+concerns of thermodynamics is the efficiencywith which heat can be converted into work.
+The Second Law of Thermodynamics rules out
+the possibility of a perfect heat engine with 100%
+efficiency. But what is the highest efficiency
+possible for a heat engine working between two
+reservoirs at temperatures T1 and T2? It turnsout that a heat engine based on idealisedreversible processes achieves the highestefficiency possible. All other engines involvingirreversibility in any way (as would be the case
+for practical engines) have lower than this
+limiting efficiency.12.13  CARNOT ENGINESuppose we have a hot reservoir at temperatureT1 and a cold reservoir at temperature T2.  Whatis the maximum efficiency possible for a heatengine operating between the two reservoirs andwhat cycle of processes should be adopted toachieve the maximum efficiency ?  Sadi Carnot,a French engineer, first considered this question
+in 1824. Interestingly, Carnot arrived at thecorrect answer, even though the basic conceptsof heat and thermodynamics had yet to be firmly
+established.We expect the ideal engine operating betweentwo temperatures to be a reversible engine.Irreversibility is associated with dissipativeeffects, as remarked in the preceding section,
+and lowers efficiency. A process is reversible ifit is quasi-static and non-dissipative.  We haveseen that a process is not quasi-static if it
+involves finite temperature difference betweenthe system and the reservoir.  This implies thatin a reversible heat engine operating between
+two temperatures, heat should be absorbed(from the hot reservoir) isothermally andreleased (to the cold reservoir) isothermally.  We
+thus have identified two steps of the reversibleheat engine : isothermal process at temperatureT1 absorbing heat Q1 from the hot reservoir, andanother isothermal process at temperature T2releasing heat Q2 to the cold reservoir. Tocomplete a cycle, we need to take the systemfrom temperature T1 to T2 and then back fromtemperature T2 to T1.  Which processes shouldwe employ for this purpose that are reversible?A little reflection shows that we can only adoptreversible adiabatic processes for thesepurposes, which involve no heat flow from any
+reservoir. If we employ any other process that is
+not adiabatic, say an isochoric process, to take
+the system from one temperature to another, weshall need a series of reservoirs in the
+temperature range T2 to T1 to ensure that at eachstage the process is quasi-static.  (Rememberagain that for a process to be quasi-static andreversible, there should be no finite temperaturedifference between the system and the reservoir.)
+But we are considering a reversible engine that
+operates between only two temperatures. Thus
+adiabatic processes must bring about thetemperature change in the system from T1 to T2and T2 to T1 in this engine.Fig. 12.11Carnot cycle for a heat engine with anideal gas as  the working substance.A reversible heat engine operating betweentwo temperatures is called a Carnot engine.  We
+have just argued that such an engine must havethe following sequence of steps constituting onecycle, called the Carnot cycle, shown in Fig.
+12.11. We have taken the working substance of
+
+the Carnot engine to be an ideal gas.(a)Step 1  2Isothermal expansion of the gas
+taking its  state from (P1, V1, T1)  to(P2, V2, T1).The heat absorbed by the gas (Q1) from thereservoir at temperature T1 is given by
+PHYSICS312Eq. (12.12). This is also the work done (W1  2)by the gas on the environment.W1  2  =  
+Q1 = µ R T1  ln 12VV(12.23)(b)Step 2  3Adiabatic expansion of the gas
+from (P2, V2, T1) to (P3, V3, T2)Work done by the gas, usingEq. (12.16), is  12123R TT
+W       
+   
+(12.24)(c)Step 3  4Isothermal compression of the
+gas from (P3, V3, T2) to (P4, V4, T2).Heat released (Q2) by the gas to the reservoirat temperature T2 is given by Eq. (12.12).  Thisis also the work done (W3  4) on the gas by theenvironment.3224ln3  4
+VWQRT
+V          (12.25)(d)Step 4  1Adiabatic compression of the
+gas from (P4, V4, T2) to (P1,V1, T1).Work done on the gas, [using Eq.(12.16)], is12-14  1
+TTWR 
+           (12.26)From  Eqs. (12.23) to (12.26) total work doneby the gas in one complete cycle isW = W1  2  + 
+W2  3 Œ W3   4 Œ W4  1=  µ RT1  ln 12VV Œ µ RT2  ln
+43VV(12.27)The efficiency  of the Carnot engine is1211WQQQ    
+       
+In1In342121VVTTVV              
+  
+        (12.28)Now since step 2   3 is an adiabatic process,111223
+T VT V
+     i.e.1/(1)
+2231VT= VT          (12.29)Similarly, since step 4  1 is an adiabaticprocess112411
+T VT V
+     i.e.1/1
+1241VT= VT        (12.30)From Eqs. (12.29) and (12.30),1243VV= VV    (12.31)Using Eq. (12.31) in Eq. (12.28), we get121TT      
+  (Carnot engine)(12.32)We have already seen that a Carnot engineis a reversible engine. Indeed it is the onlyreversible engine possible that works between
+two reservoirs at different temperatures.  Each
+step of the Carnot cycle given in Fig. 12.11 can
+be reversed. This will amount to taking heat Q2from the cold reservoir at T2, doing work W onthe system, and transferring heat Q1 to the hotreservoir. This will be a reversible refrigerator.We next establish the important result(sometimes called Carnot™s theorem) that(a) working between two given temperatures T1and T2 of the hot and cold reservoirs respectively,no engine can have efficiency more than that ofthe Carnot engine and (b) the efficiency of the
+Carnot engine is independent of the nature of
+the working substance.To prove the result (a), imagine a reversible(Carnot) engine R and an irreversible engine Iworking between the same source (hot reservoir)and sink (cold reservoir). Let us couple the
+engines, I and R, in such a way so that I actslike a heat engine and R acts as a refrigerator.Let I absorb heat Q1 from the source, deliverwork W  and release the heat Q1- W  to the sink.We arrange so that R returns the same heat Q1to the source, taking heat Q2 from the sink andrequiring work W = Q1 Œ Q2 to be done on it.
+THERMODYNAMICS313SUMMARY1.The zeroth law of thermodynamics states that ‚
+two systems in thermal equilibrium with athird system are in thermal equilibrium with each other™.  The Zeroth Law leads to theconcept of temperature.2.Internal energy of a system is the sum of kinetic energies and potential energies of the
+molecular constituents of the system. It does not include the over-all kinetic energy ofthe system. Heat and work are two modes of energy transfer to the system.  Heat is the
+energy transfer arising due to temperature difference between the system and the
+surroundings. Work is energy transfer brought about by other means, such as movingthe piston of a cylinder containing the gas, by raising or lowering some weight connected
+to it.3.The first law of thermodynamics is the general law of conservation of energy applied to
+any system in which energy transfer from or to the surroundings (through heat and
+work) is taken into account.  It states thatQ  = U  +  Wwhere Q is the heat supplied to the system, W is the work done by the system and Uis the change in internal energy of the system.Now suppose R < I i.e. if R were to actas an engine it would give less work outputthan that of I i.e. W < W for a given Q1. With Racting like a refrigerator, this would mean
+Q2 =  Q1 Œ W >  Q1 Œ W . Thus on the  whole,the coupled I-R system extracts heat(Q1 Œ W) Œ (Q1 Œ W ) = (W  Œ W) from the coldreservoir and delivers the same amount of  work
+in one cycle, without any change in the sourceor anywhere else. This is clearly against theKelvin-Planck statement of the Second Law of
+Thermodynamics.  Hence the assertion I > Ris wrong.  No engine can have efficiency greaterthan that of the Carnot engine. A similarargument can be constructed to show that a
+reversible engine with one particular substance
+cannot be more efficient than the one using
+another substance. The maximum efficiency of
+a Carnot engine given by Eq. (12.32) isindependent of the nature of the system
+performing the Carnot cycle of operations. Thus
+we are justified in using an ideal gas as a system
+in the calculation of efficiency  of a Carnotengine. The ideal gas has a simple equation ofstate, which allows us to readily calculate , butthe final result for , [Eq. (12.32)], is true forany Carnot engine.This final remark shows that in a Carnotcycle,2121TT= QQ(12.33)is a universal relation independent of  the natureof the system.  Here Q1 and Q2 are respectively,the heat absorbed and released isothermally(from the hot and to the cold reservoirs) in aCarnot engine. Equation (12.33), can, therefore,be used as a relation to define a truly universal
+thermodynamic temperature scale that is
+independent of any particular properties of the
+system used in the Carnot cycle.  Of course, foran ideal gas as a working substance, this
+universal temperature is the same as the idealgas temperature introduced in section 12.11.IRWFig. 12.12An irreversible engine (I) coupled to areversible refrigerator (R). If W  > W, thiswould amount to extraction of heatW Œ W from the sink and its fullconversion to work, in contradiction with
+the Second Law of Thermodynamics.
+
+PHYSICS3144.The specific heat capacity of a substance is defined by
+smQT1where m is the mass of the substance and Q is the heat required to change itstemperature by T.  The molar specific heat capacity of a substance is defined by1QCT    where µ is the number  of moles of the substance. For a solid, the law of equipartitionof energy givesC  =  3 Rwhich generally agrees with experiment at ordinary temperatures.Calorie is the old unit of heat. 1 calorie is the amount of heat required to raise thetemperature of 1 g of water from 14.5 °C to 15.5 °C.  1 cal  =  4.186 J.5.For an ideal gas, the molar specific heat capacities at constant pressure and volume
+satisfy the relationCp Œ Cv  = 
+Rwhere R is the universal gas constant.6.Equilibrium states of a thermodynamic system are described by state variables. The
+value of a state variable depends only on the particular state, not on the path used to
+arrive at that state.  Examples of state variables are pressure (P), volume (V), temperature(T), and mass (m).  Heat and work are not state variables.  An Equation of State (likethe ideal gas equation PV  =  
+µ RT) is a relation connecting different state variables.7.A quasi-static process is an infinitely slow process such that the system remains in
+thermal and mechanical equilibrium with the surroundings throughout. In a
+quasi-static process, the pressure and temperature of the environment can differ from
+those of the system only infinitesimally.8.In an isothermal expansion of an ideal gas from volume 
+V1 to V2 at temperature T theheat absorbed (Q) equals the work done (W) by the gas, each given byQ  =  
+W  =   
+µ R T   ln 
+12VV9.In an adiabatic process of an ideal gas
+PV  =  constantwherepvCC  Work done by an ideal gas in an adiabatic change of state from (P1, V1, T1) to (P2, V2, T2)is     Œ 1
+12 R TT
+W    10.Heat engine is a device in which a system undergoes a cyclic process resulting in
+conversion of heat into work. If Q1 is the heat absorbed from the source, Q2 is the heatreleased to the sink, and the work output in one cycle is W, the efficiency  of the engineis:   1  
+211 QWQQ     
+
+THERMODYNAMICS31511.In a refrigerator or a heat pump, the system extracts heat 
+Q2 from the cold reservoir andreleases Q1 amount of heat to the hot reservoir, with work W done on the system.  Theco-efficient of performance of a refrigerator is given by2122QQQ WQ     12.The second law of thermodynamics disallows some processes consistent with the First
+Law of Thermodynamics. It statesKelvin-Planck statementNo process is possible whose sole result is the absorption of heat from a reservoir andcomplete conversion of the heat into work.Clausius statementNo process is possible whose sole result is the transfer of heat from a colder object to ahotter object.Put simply, the Second Law implies that no heat engine can have efficiency  equal to1 or no refrigerator can have co-efficient of performance  equal to infinity.13.A process is reversible if it can be reversed such that both the system and the surroundings
+return to their original states, with no other change anywhere else in the universe.Spontaneous processes of nature are irreversible. The idealised reversible process is a
+quasi-static process with no dissipative factors such as friction, viscosity, etc.14.Carnot engine is a reversible engine operating between two temperatures 
+T1 (source) andT2 (sink). The Carnot cycle consists of two isothermal processes connected by twoadiabatic processes. The efficiency of a Carnot engine is given by12TT    1(Carnot engine)No engine operating between two temperatures can have efficiency greater than that ofthe Carnot engine.15.If Q > 0, heat is added to the system
+If Q < 0, heat is removed to the systemIf W > 0, Work is done by the systemIf W < 0, Work is done on the systemQuantitySymbolDimensionsUnitRemark
+Co-efficienty of volumev[KŒ1]KŒ1v = 3 1expansionHeat supplied to a systemQ[ML2 TŒ2]JQ is not a statevariableSpecific heats[L2 TŒ2 KŒ1]J kg
+Œ1 KŒ1Thermal ConductivityK[MLTŒ3 KŒ1]J s
+Œ1 KŒ1H = Œ KA ddtx
+PHYSICS316POINTS TO PONDER1.Temperature of a body is related to its average internal energy, not to the kinetic energy
+of motion of its centre of mass. A bullet fired from a gun is not at a higher temperaturebecause of its high speed.2.Equilibrium in thermodynamics refers to the situation when macroscopic variables
+describing the thermodynamic state of a system do not depend on time.  Equilibrium ofa system in mechanics means the net external force and torque on the system are zero.3.In a state of thermodynamic equilibrium, the microscopic constituents of a system are
+not in equilibrium (in the sense of mechanics).4.Heat capacity, in general, depends on the process the system goes through when heat is
+supplied.5.In isothermal quasi-static processes, heat is absorbed or given out by the system even
+though at every stage the gas has the same temperature as that of the surroundingreservoir.  This is possible because of the infinitesimal difference in temperature betweenthe system and the reservoir.EXERCISES12.1A geyser heats water flowing at the rate of 3.0 litres per minute from 27 °C to 77 °C.If the geyser operates on a gas burner, what is the rate of consumption of the fuel if
+its heat of combustion is 4.0  10
+4 J/g ?12.2What amount of heat must be supplied to 2.0  10
+Œ2 kg of nitrogen (at roomtemperature) to raise its temperature by 45 °C at constant pressure ? (Molecular
+mass of N2 = 28; R = 8.3 J molŒ1 KŒ1.)12.3Explain why(a)Two bodies at different temperatures 
+T1 and T2 if brought in thermal contact donot necessarily settle to the mean temperature (T1 + T2 )/2.(b)The coolant in a chemical or a nuclear plant (i.e., the liquid used to prevent
+the different parts of a plant from getting too hot) should have high specificheat.(c)Air pressure in a car tyre increases during driving.
+(d)The climate of a harbour town is more temperate than that of a town in a desert
+at the same latitude.12.4A cylinder with a movable piston contains 3 moles of hydrogen at standard temperatureand pressure. The walls of the cylinder are made of a heat insulator, and the piston
+is insulated by having a pile of sand on it. By what factor does the pressure of thegas increase if the gas is compressed to half its original volume ?12.5In changing the state of a gas adiabatically from an equilibrium state A to anotherequilibrium state B, an amount of work equal to 22.3 J is done on the system. If thegas is taken from state A to B via a process in which the net heat absorbed by thesystem is 9.35 cal, how much is the net work done by the system in the latter case ?(Take 1 cal = 4.19 J)12.6Two cylinders A and B of equal capacity are connected to each other via a stopcock.A contains a gas at standard temperature and pressure. B is completely evacuated.The entire system is thermally insulated. The stopcock is suddenly opened. Answerthe following :(a)What is the final pressure of the gas in 
+A and B ?(b)What is the change in internal energy of the gas ?
+(c)What is the change in the temperature of the gas ?
+
+(d)Do the intermediate states of the system (before settling to the final equilibrium
+state) lie on its P-V-T surface ?
+THERMODYNAMICS31712.7A steam engine delivers 5.410
+8J of work per minute and services 3.6  10
+9J of heatper minute from its boiler. What is the efficiency of the engine? How much heat iswasted per minute?12.8An electric heater supplies heat to a system at a rate of 100W. If system performswork at a rate of 75 joules per second. At what rate is the internal energy increasing?12.9A thermodynamic system is taken from an original state to an intermediate state bythe linear process shown in Fig. (12.13)Fig. 12.13Its volume is then reduced to the original value from E to F by an isobaric process.Calculate the total work done by the gas from D to E to F12.10A refrigerator is to maintain eatables kept inside at 90C. If room temperature is 360C,calculate the coefficient of performance.

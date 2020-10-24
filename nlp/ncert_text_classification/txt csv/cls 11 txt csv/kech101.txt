@@ -1,0 +1,132 @@
+1SOME BASIC CONCEPTS OF CHEMISTRYUNIT 1After studying this unit, you will beable to··
+··
+·understand and appreciate therole of chemistry in differentspheres of life;··
+··
+·explain the characteristics ofthree states of matter;··
+··
+·classify different substances intoelements, compounds andmixtures;··
+··
+·define SI base units and list somecommonly used prefixes;··
+··
+·use scientific notations andperform simple mathematical
+operations on numbers;··
+··
+·differentiate between precision andaccuracy;··
+··
+·determine significant figures;··
+
+··
+·convert physical quantities fromone system of units to another;··
+··
+·explain various laws of chemicalcombination;··
+··
+·appreciate significance of atomicmass, average atomic mass,
+molecular mass and formulamass;··
+··
+·describe the terms Œ mole andmolar mass;··
+··
+·calculate the mass per cent ofdifferent elements constituting acompound;··
+··
+·determine empirical formula andmolecular formula for a compoundfrom the given experimental data;··
+··
+·perform the stoichiometriccalculations.SOME BASIC CONCEPTS OF CHEMISTRYChemistry is the science of molecules and theirtransformations. It is the science not so much of the one
+hundred elements but of the infinite variety of molecules that
+may be built from them ...Roald HoffmannChemistry deals with the composition, structure andproperties of matter. These aspects can be best describedand understood in terms of basic constituents of matter:atoms and molecules.  That is why chemistry is calledthe science of atoms and molecules.  Can we see, weigh
+and perceive these entities? Is it possible to count thenumber of atoms and molecules in a given mass of matter
+and have a quantitative relationship between the mass andnumber of these particles (atoms and molecules)? We willlike to answer some of these questions in this Unit. Wewould further describe how physical properties of mattercan be quantitatively described using numerical values
+with suitable units.1.1IMPORTANCE OF CHEMISTRYScience can be viewed as a continuing human effort tosystematize knowledge for describing and understandingnature.  For the sake of convenience science is sub-divided
+into various disciplines: chemistry, physics, biology,geology etc. Chemistry is the branch of science that studiesthe composition, properties and interaction of matter.Chemists are interested in knowing how chemical
+transformations occur.  Chemistry plays a central role inscience and is often intertwined with other branches ofscience like physics, biology, geology etc.  Chemistry alsoplays an important role in daily life.Chemical principles are important in diverse areas, suchas: weather patterns, functioning of brain and operation
+2CHEMISTRYof a computer. Chemical industriesmanufacturing fertilizers, alkalis, acids, salts,dyes, polymers, drugs, soaps, detergents,metals, alloys and other inorganic and organic
+chemicals, including new materials, contributein a big way to the national economy.Chemistry plays an important role in meetinghuman needs for food, health care productsand other materials aimed at improving the
+quality of life.  This is exemplified by the largescale production of a variety of fertilizers,improved varieties of pesticides andinsecticides.  Similarly many life saving drugssuch as cisplatin and taxol, are effective incancer therapy and AZT (Azidothymidine)used for helping AIDS victims, have beenisolated from plant and animal sources orprepared by synthetic methods.With a better understanding of chemicalprinciples it has now become possible to
+design and synthesize new materials havingspecific magnetic, electric and opticalproperties.  This has lead to the production ofsuperconducting ceramics, conducting
+polymers, optical fibres and large scaleminiaturization of solid state devices. In recentyears chemistry has tackled with a fair degreeof success some of the pressing aspects ofenvironmental degradation. Safer alternatives
+to environmentally hazardous refrigerants likeCFCs (chlorofluorocarbons), responsible forozone depletion in the stratosphere, have beensuccessfully synthesised.  However, many bigenvironmental problems continue to bematters of grave concern to the chemists. Onesuch problem is the management of the GreenHouse gases like methane, carbon dioxide etc.Understanding of bio-chemical processes, useof enzymes for large-scale production of
+chemicals and synthesis of new exoticmaterials are some of the intellectual challengesfor the future generation of chemists. Adeveloping country like India needs talentedand creative chemists for accepting suchchallenges.1.2NATURE OF MATTERYou are already familiar with the term matterfrom your earlier classes. Anything which hasmass and occupies space is called matter.Fig. 1.1Arrangement of particles in solid, liquidand gaseous stateEverything around us, for example, book, pen,pencil, water, air, all living beings etc. arecomposed of matter. You know that they havemass and they occupy space.You are also aware that matter can exist inthree physical states viz. solid, liquid and gas.The constituent particles of matter in thesethree states can be represented as shown inFig. 1.1. In solids, these particles are held veryclose to each other in an orderly fashion andthere is not much freedom of movement. In
+liquids, the particles are close to each otherbut they can move around. However, in gases,the particles are far apart as compared to those
+present in solid or liquid states and their
+movement is easy and fast. Because of such
+arrangement of particles, different states of
+matter exhibit the following characteristics:(i)Solids have definite volume and definiteshape.(ii)Liquids have definite volume but not thedefinite shape. They take the shape of thecontainer in which they are placed.(iii)Gases have neither definite volume nordefinite shape. They completely occupy thecontainer in which they are placed.These three states of matter areinterconvertible by changing the conditions oftemperature and pressure.Solid heat
+cool
+
+
+ liquid heat
+cool
+
+
+ GasOn heating a solid usually changes to aliquid and the liquid on further heating
+3SOME BASIC CONCEPTS OF CHEMISTRYMany of the substances present aroundyou are mixtures. For example, sugar solutionin water, air, tea  etc., are all mixtures. A mixturecontains two or more substances present in it(in any ratio) which are called its components.
+A mixture may be homogeneous orheterogeneous. In a homogeneous mixture,the components completely mix with each other
+and its composition is uniform throughout.
+Sugar solution, and air are thus, the examples
+of homogeneous mixtures. In contrast to this,
+in heterogeneous mixtures, the compositionis not uniform throughout and sometimes the
+different components can be observed. For
+example, the mixtures of salt and sugar, grainsand pulses along with some dirt (often stone)
+pieces, are heterogeneous mixtures. You canthink of many more examples of mixtures
+which you come across in the daily life. It is
+worthwhile to mention here that the
+components of a mixture can be separated by
+using physical methods such as simple handpicking, filtration, crystallisation, distillationetc.Pure substances have characteristicsdifferent from the mixtures. They have fixed
+composition, whereas mixtures may containthe components in any ratio and theircomposition is variable. Copper, silver, gold,water, glucose are some examples of puresubstances. Glucose contains carbon,
+hydrogen and oxygen in a fixed ratio and thus,like all other pure substances has a fixed
+composition. Also, the constituents of pure
+substances cannot be separated by simplephysical methods.Pure substances can be further classifiedinto elements and compounds. An elementconsists of only one type of particles. These
+particles may be atoms or molecules. You maybe familiar with atoms and molecules from theprevious classes; however, you will be studyingabout them in detail in Unit 2. Sodium, copper,silver, hydrogen, oxygen etc. are someexamples of elements. They all contain atomsof one type. However, the atoms of differentelements are different in nature. Some elements
+such as sodium or copper, contain singleatoms held together as their constituent
+particles whereas in some others, two or more
+atoms combine to give molecules of theelement. Thus, hydrogen, nitrogen and oxygen
+gases consist of molecules in which two atomscombine to give their respective molecules. Thisis illustrated in Fig. 1.3.When two or more atoms of  differentelements combine, the molecule of a
+compound is obtained. The examples of somecompounds are water, ammonia, carbonFig. 1.3  A representation of atoms and moleculesFig. 1.2  Classification of matterchanges to the gaseous ( or vapour) state. Inthe reverse process, a gas on cooling liquifiesto the liquid and the liquid on further cooling
+freezes to the solid.At the macroscopic or bulk level, mattercan be classified as mixtures or puresubstances. These can be further sub-dividedas shown in Fig. 1.2.
+4CHEMISTRYdioxide, sugar etc. The molecules of water andcarbon dioxide are represented in Fig 1.4.You have seen above that a water moleculecomprises two hydrogen atoms and one
+oxygen atom. Similarly, a molecule of carbon
+dioxide contains two oxygen atoms combinedwith one carbon atom. Thus,  the atoms  ofdifferent elements are present in a compound
+in a fixed and definite ratio and this ratio is
+characteristic of a particular compound. Also,
+the properties of a compound are differentfrom those of its constituent elements. Forexample, hydrogen and oxygen are gases
+whereas the compound formed by their
+combination i.e., water is a liquid. It isinteresting to note that hydrogen burns witha pop sound and oxygen is a supporter ofcombustion, but water is used as a fire
+extinguisher.Moreover, the constituents of a compoundcannot be separated into simpler substancesby physical methods. They can be separatedby chemical methods.1.3PROPERTIES OF MATTER ANDTHEIR MEASUREMENTEvery substance has unique or characteristicproperties. These properties can be classifiedinto two categories Œ physical properties andchemical properties.Physical properties are those propertieswhich can be measured or observed withoutchanging the identity or the composition of thesubstance. Some examples of physical
+properties are colour, odour, melting point,boiling point, density etc. The measurement
+or observation of chemical properties requirea chemical change to occur. The examples ofWater molecule(H2O) Carbon dioxidemolecule (CO2)Fig. 1.4A depiction of molecules of water andcarbon dioxidechemical properties are characteristicreactions of different substances; these includeacidity or basicity, combustibility etc.Many properties of matter such as length,area, volume, etc., are quantitative in nature.
+Any quantitative observation or measurement
+is represented by a number followed by units
+in which it is measured. For example length of
+a room can be represented as  6 m; here 6 is
+the number and m denotes metre Œ the unit inwhich the length is measured.Two different systems of measurement, i.e.the English System and the Metric Systemwere being used in different parts of the world.
+The metric system which originated in France
+in late eighteenth century, was more
+convenient as it was based on the decimal
+system. The need of a common standard
+system was being felt by the scientific
+community. Such a system was established
+in 1960 and is discussed below in detail.1.3.1The International System of Units
+(SI)The International System of Units (in French
+Le Systeme International d™Unités Œabbreviated as SI) was established by the 11th
+General Conference on Weights and Measures(CGPM from Conference Generale des Poidset Measures). The CGPM is an intergovernmental treaty organization created by
+a diplomatic treaty known as Metre Convention
+which was signed in Paris in 1875.The SI system has seven base units andthey are listed in Table 1.1. These units pertain
+to the seven fundamental scientific quantities.
+The other physical quantities such as speed,
+volume, density etc. can be derived from these
+quantities.The definitions of the SI base units are givenin Table 1.2.The SI system allows the use of prefixes toindicate the multiples or submultiples of a unit.
+These prefixes are listed in Table 1. 3.Let us now quickly go through some of thequantities which you will be often using in this
+book.
+5SOME BASIC CONCEPTS OF CHEMISTRYTable 1.1  Base Physical Quantities and their UnitsBase PhysicalSymbolName ofSymbolQuantityforSI Unitfor SIQuantityUnitLengthlmetremMassmkilogramkgTimetsecondsElectric currentIampereAThermodynamicTkelvinKtemperatureAmount of substancenmolemolLuminous intensityIvcandelacdTable 1.2  Definitions of SI Base UnitsUnit of lengthmetreThe metre is the length of the path travelledby light in vacuum during a time interval of1/299 792 458 of a second.Unit of masskilogramThe kilogram is the unit of mass; it is equalto the mass of the international prototype
+of the kilogram.Unit of timesecondThe second is the duration of 9 192 631 770periods of the radiation corresponding to thetransition between the two hyperfine levelsof the ground state of the caesium-133 atom.Unit of electric currentampereThe ampere is that constant current which,if maintained in two straight parallel
+conductors of infinite length, of negligible
+circular cross-section, and placed 1 metre
+apart in vacuum, would produce between
+these conductors a force equal to 2 × 10Œ7newton per metre of length.Unit of thermodynamickelvinThe kelvin, unit of thermodynamictemperaturetemperature, is the fraction 1/273.16 of the
+thermodynamic temperature of the triple
+point of water.Unit of amount of substancemole1. The mole is the amount of substance of asystem which contains as many elementary
+entities as there are atoms in 0.012
+kilogram of carbon-12; its symbol is ﬁmol.ﬂ
+2. When the mole is used, the elementary
+entities must be specified and may be atoms,
+molecules, ions, electrons, other particles,or specified groups of such particles.Unit of luminous intensitycandelaThe candela is the luminous intensity, in agiven direction, of a source that emitsmonochromatic radiation of frequency
+540 × 1012 hertz and that has a radiantintensity in that direction of 1/683 watt per
+steradian.

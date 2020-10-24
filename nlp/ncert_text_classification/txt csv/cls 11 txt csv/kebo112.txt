@@ -1,0 +1,209 @@
+194BIOLOGYThe basic needs of all living organisms are essentially the same. Theyrequire macromolecules, such as carbohydrates, proteins and fats, and
+water and minerals for their growth and development.This chapter focusses mainly on inorganic plant nutrition, whereinyou will study the methods to identify elements essential to growth and
+development of plants and the criteria for establishing the essentiality.
+You will also study the role of the essential elements, their major deficiency
+symptoms and the mechanism of absorption of these essential elements.
+The chapter also introduces you briefly to the significance and the
+mechanism of biological nitrogen fixation.12.1METHODS TO STUDY THE MINERAL REQUIREMENTS OF PLANTSIn 1860, Julius von Sachs, a prominent German botanist, demonstrated,for the first time, that plants could be grown to maturity in a defined
+nutrient solution in complete absence of soil. This technique of growing
+plants in a nutrient solution is known as hydroponics. Since then, anumber of improvised methods have been employed to try and determine
+the mineral nutrients essential for plants. The essence of all these methods
+involves the culture of plants in a soil-free, defined mineral solution. These
+methods require purified water and mineral nutrient salts. Can youexplain why this is so essential?After a series of experiments in which the roots of the plants wereimmersed in nutrient solutions and wherein an element was added /
+removed or given in varied concentration, a mineral solution suitable forMINERAL NUTRITIONCHAPTER  1212.1Methods toStudy the
+Mineral
+Requirements of
+Plants12.2Essential
+Mineral
+Elements12.3Mechanism of
+Absorption of
+Elements12.4Translocation of
+Solutes12.5Soil as Reservoir
+of Essential
+Elements12.6Metabolism of
+Nitrogen
+MINERAL NUTRITION195the plant growth was obtained. By this method,essential elements were identified and their
+deficiency symptoms discovered. Hydroponics has
+been successfully employed as a technique for the
+commercial production of vegetables such as
+tomato, seedless cucumber and lettuce. It must be
+emphasised that the nutrient solutions must be
+adequately aerated to obtain the optimum growth.
+What would happen if solutions were poorly
+aerated? Diagrammatic views of the hydroponic
+technique is given in Figures 12.1 and 12.2.12.2ESSENTIAL MINERAL ELEMENTSMost of the minerals present in soil can enter plantsthrough roots. In fact, more than sixty elements of
+the 105 discovered so far are found in different
+plants. Some plant species accumulate selenium,
+some others gold, while some plants growing near
+nuclear test sites take up radioactive strontium.
+There are techniques that are able to detect the
+minerals even at a very low concentration (10-8 g/mL). The question is, whether all the diverse mineral
+elements present in a plant, for example, gold and
+selenium as mentioned above, are really necessary
+for plants? How do we decide what is essential for
+plants and what is not?12.2.1Criteria for EssentialityThe criteria for essentiality of an element are givenbelow:(a)The element must be absolutely necessary forsupporting normal growth and reproduction.
+In the absence of the element the plants do not
+complete their life cycle or set the seeds.(b)The requirement of the element must be specific
+and not replaceable by another element. In
+other words, deficiency of any one element
+cannot be met by supplying some other
+element.(c)The element must be directly involved in themetabolism of the plant.Figure 12.1 Diagram of a typical set-up fornutrient solution cultureFigure 12.2Hydroponic plant production.
+Plants are grown in a tube ortrough placed on a slightincline. A pump circulates anutrient solution from a
+reservoir to the elevated end ofthe tube. The solution flowsdown the tube and returns tothe reservoir due to gravity.Inset shows a plant whose
+roots are continuously bathedin aerated nutrient solution.The arrows indicates thedirection of the flow.Nutrient
+solutionPump
+196BIOLOGYBased upon the above criteria only a few elements have been found tobe absolutely essential for plant growth and metabolism. These elementsare further divided into two broad categories based on their quantitativerequirements.(i)Macronutrients, and(ii)MicronutrientsMacronutrients are generally present in plant tissues in large amounts(in excess of 10 mmole Kg Œ1 of dry matter). The macronutrients includecarbon, hydrogen, oxygen, nitrogen, phosphorous, sulphur, potassium,
+calcium and magnesium. Of these, carbon, hydrogen and oxygen aremainly obtained from CO2 and H2O, while the others are absorbed fromthe soil as mineral nutrition.Micronutrients or trace elements, are needed in very small amounts(less than 10 mmole Kg Œ1 of dry matter). These include iron, manganese,copper, molybdenum, zinc, boron, chlorine and nickel.In addition to the 17 essential elements named above, there are somebeneficial elements such as sodium, silicon, cobalt and selenium. Theyare required by higher plants.Essential elements can also be grouped into four broad categories onthe basis of their diverse functions. These categories are:(i)Essential elements as components of biomolecules and hence
+structural elements of cells (e.g., carbon, hydrogen, oxygen andnitrogen).(ii)Essential elements that are components of energy-related chemicalcompounds in plants (e.g., magnesium in chlorophyll andphosphorous in ATP).(iii)Essential elements that activate or inhibit enzymes, for example
+Mg2+ is an activator for both ribulose bisphosphate carboxylase-oxygenase and phosphoenol pyruvate carboxylase, both of which
+are critical enzymes in photosynthetic carbon fixation; Zn2+ is anactivator of alcohol dehydrogenase and Mo of nitrogenase duringnitrogen metabolism. Can you name a few more elements thatfall in this category? For this, you will need to recollect some ofthe biochemical pathways you have studied earlier.(iv)Some essential elements can alter the osmotic potential of a cell.
+Potassium plays an important role in the opening and closing ofstomata. You may recall the role of minerals as solutes indetermining the water potential of a cell.12.2.2Role of Macro- and Micro-nutrientsEssential elements perform several functions. They participate in variousmetabolic processes in the plant cells such as permeability of cell
+MINERAL NUTRITION197membrane, maintenance of osmotic concentration of cell sap, electron-transport systems, buffering action, enzymatic activity and act as major
+constituents of macromolecules and co-enzymes.Various forms and functions of essential nutrient elements are givenbelow.Nitrogen : This is the essential nutrient element required by plants in thegreatest amount. It is absorbed mainly as NO3Œ  though some are also takenup as NO2Œ  or NH4+. Nitrogen is required by all parts of a plant, particularlythe meristematic tissues and the metabolically active cells. Nitrogen is one ofthe major constituents of proteins, nucleic acids, vitamins and hormones.Phosphorus: Phosphorus is absorbed by the plants from soil in the formof phosphate ions (either as HPO
+24
+- or HPO
+42-). Phosphorus is aconstituent of cell membranes, certain proteins, all nucleic acids andnucleotides, and is required for all phosphorylation reactions.Potassium: It is absorbed as potassium ion (K+). In plants, this is requiredin more abundant quantities in the meristematic tissues, buds, leavesand root tips. Potassium helps to maintain an anion-cation balance in
+cells and is involved in protein synthesis, opening and closing of stomata,
+activation of enzymes and in the maintenance of the turgidity of cells.Calcium: Plant absorbs calcium from the soil in the form of calcium ions(Ca2+). Calcium is required by meristematic and differentiating tissues.During cell division it is used in the synthesis of cell wall, particularly ascalcium pectate in the middle lamella. It is also needed during the
+formation of mitotic spindle. It accumulates in older leaves. It is involved
+in the normal functioning of the cell membranes. It activates certain
+enzymes and plays an important role in regulating metabolic activities.Magnesium: It is absorbed by plants in the form of divalent Mg2+. Itactivates the enzymes of respiration, photosynthesis and are involved inthe synthesis of DNA and RNA. Magnesium is a constituent of the ring
+structure of chlorophyll and helps to maintain the ribosome structure.Sulphur: Plants obtain sulphur in the form of sulphate ()SO
+42-. Sulphur ispresent in two amino acids Œ cysteine and methionine and is the mainconstituent of several coenzymes, vitamins (thiamine, biotin, Coenzyme A)
+and ferredoxin.Iron: Plants obtain iron in the form of ferric ions (Fe3+). It is required inlarger amounts in comparison to other micronutrients. It is an importantconstituent of proteins involved in the transfer of electrons like ferredoxin
+and cytochromes. It is reversibly oxidised from Fe2+ to Fe3+ during electrontransfer. It activates catalase enzyme, and is essential for the formation of
+chlorophyll.
+198BIOLOGYManganese: It is absorbed in the form of manganous ions (Mn2+). Itactivates many enzymes involved in photosynthesis, respiration andnitrogen metabolism. The best defined function of manganese is in the
+splitting of water to liberate oxygen during photosynthesis.Zinc: Plants obtain zinc as Zn2+ ions. It activates various enzymes,especially carboxylases. It is also needed in the synthesis of auxin.
+Copper: It is absorbed as cupric ions (Cu2+). It is essential for the overallmetabolism in plants. Like iron, it is associated with certain enzymesinvolved in redox reactions and is reversibly oxidised from Cu+ to Cu2+.Boron : It is absorbed as BO
+33- or BO
+47
+2-. Boron is required for uptakeand utilisation of Ca2+, membrane functioning, pollen germination, cellelongation, cell differentiation and carbohydrate translocation.Molybdenum : Plants obtain it in the form of molybdate ions ()MoO
+22+. Itis a component of several enzymes, including nitrogenase and nitratereductase both of which participate in nitrogen metabolism.Chlorine : It is absorbed in the form of chloride anion (ClŒ). Along withNa+ and K+, it helps in determining the solute concentration and the anion-cation balance in cells. It is essential for the water-splitting reaction inphotosynthesis, a reaction that leads to oxygen evolution.12.2.3Deficiency Symptoms of Essential ElementsWhenever the supply of an essential element becomes limited, plant growthis retarded. The concentration of the essential element below which plant
+growth is retarded is termed as critical concentration. The element issaid to be deficient when present below the critical concentration.Since each element has one or more specific structural or functionalrole in plants, in the absence of any particular element, plants show certain
+morphological changes. These morphological changes are indicative of
+certain element deficiencies and are called deficiency symptoms. Thedeficiency symptoms vary from element to element and they disappearwhen the deficient mineral nutrient is provided to the plant. However, if
+deprivation continues, it may eventually lead to the death of the plant. The
+parts of the plants that show the deficiency symptoms also depend on the
+mobility of the element in the plant. For elements that are actively mobilised
+within the plants and exported to young developing tissues, the deficiency
+symptoms tend to appear first in the older tissues. For example, the
+deficiency symptoms of nitrogen, potassium and magnesium are visible
+first in the senescent leaves. In the older leaves, biomolecules containing
+these elements are broken down, making these elements available for
+mobilising to younger leaves.The deficiency symptoms tend to appear first in the young tissueswhenever the elements are relatively immobile and are not transportedout of the mature organs, for example, element like calcium is a part
+MINERAL NUTRITION199of the structural component of the cell and hence is not easily released.This aspect of mineral nutrition of plants is of a great significance andimportance to agriculture and horticulture.The kind of deficiency symptoms shown in plants include chlorosis,necrosis, stunted plant growth, premature fall of leaves and buds, and
+inhibition of cell division. Chlorosis is the loss of chlorophyll leading toyellowing in leaves. This symptom is caused by the deficiency of elementsN, K, Mg, S, Fe, Mn, Zn and Mo. Likewise, necrosis, or death of tissue,
+particularly leaf tissue, is due to the deficiency of Ca, Mg, Cu, K. Lack orlow level of N, K, S, Mo causes an inhibition of cell division. Some elementslike N, S, Mo delay flowering if their concentration in plants is low.You can see from the above that the deficiency of any element cancause multiple symptoms and that the same symptoms may be caused
+by the deficiency of one of several different elements. Hence, to identifythe deficient element, one has to study all the symptoms developed in allthe various parts of the plant and compare them with the availablestandard tables. We must also be aware that different plants also responddifferently to the deficiency of the same element.12.2.4Toxicity of MicronutrientsThe requirement of micronutrients is always in low amounts while theirmoderate decrease causes the deficiency symptoms and a moderate increase
+causes toxicity. In other words, there is a narrow range of concentration at
+which the elements are optimum. Any mineral ion concentration in tissues
+that reduces the dry weight of tissues by about 10 per cent is consideredtoxic. Such critical concentrations vary widely among differentmicronutrients. The toxicity symptoms are difficult to identify. Toxicity levels
+for any element also vary for different plants. Many a times, excess of an
+element may inhibit the uptake of another element. For example, the
+prominent symptom of manganese toxicity is the appearance of brownspots surrounded by chlorotic veins. It is important to know that
+manganese competes with iron and magnesium for uptake and with
+magnesium for binding with enzymes. Manganese also inhibit calcium
+translocation in shoot apex. Therefore, excess of manganese may, in fact,
+induce deficiencies of iron, magnesium and calcium. Thus, what appearsas symptoms of manganese toxicity may actually be the deficiencysymptoms of iron, magnesium and calcium. Can this knowledge be of some
+importance to a farmer? a gardener? or even for you in your kitchen-garden?12.3MECHANISM OF ABSORPTION OF ELEMENTSMuch of the studies on mechanism of absorption of elements by plantshas been carried out in isolated cells, tissues or organs. These studies
+200BIOLOGYrevealed that the process of absorption can be demarcated into two mainphases. In the first phase, an initial rapid uptake of ions into the ‚free
+space™ or ‚outer space™ of cells Œ the apoplast, is passive. In the second
+phase of uptake, the ions are taken in slowly into the ‚inner space™ Œ  the
+symplast of the cells. The passive movement of ions into the apoplast
+usually occurs through ion-channels, the trans-membrane proteins that
+function as selective pores. On the other hand, the entry or exit of ions to
+and from the symplast requires the expenditure of metabolic energy, which
+is an active process. The movement of ions is usually called flux; theinward movement into the cells is influx and the outward movement, efflux.
+You have read the aspects of mineral nutrient uptake and translocation
+in plants in Chapter 11.12.4TRANSLOCATION OF SOLUTESMineral salts are translocated through xylem along with the ascendingstream of water, which is pulled up through the plant by transpirational
+pull. Analysis of xylem sap shows the presence of mineral salts in it. Use
+of radioisotopes of mineral elements also substantiate the view that they
+are transported through the xylem. You have already discussed the
+movement of water in xylem in Chapter 11.12.5SOIL AS RESERVOIR OF ESSENTIAL ELEMENTSMajority of the nutrients that are essential for the growth anddevelopment of plants become available to the roots due to weatheringand breakdown of rocks. These processes enrich the soil with dissolvedions and inorganic salts. Since they are derived from the rock minerals,
+their role in plant nutrition is referred to as mineral nutrition. Soil
+consists of a wide variety of substances. Soil not only supplies minerals
+but also harbours nitrogen-fixing bacteria, other microbes, holds water,
+supplies air to the roots and acts as a matrix that stabilises the plant.
+Since deficiency of essential minerals affect the crop-yield, there is often
+a need for supplying them through fertilisers. Both macro-nutrients(N, P, K, S, etc.) and micro-nutrients (Cu, Zn, Fe, Mn, etc.) form
+components of fertilisers and are applied as per need.12.6METABOLISM OF NITROGEN12.6.1Nitrogen CycleApart from carbon, hydrogen and oxygen, nitrogen is the mostprevalent element in living organisms. Nitrogen is a constituent ofamino acids, proteins, hormones, chlorophylls and many of thevitamins. Plants compete with microbes for the limited nitrogen that
+MINERAL NUTRITION201is available in soil. Thus, nitrogen isa limiting nutrient for both naturaland agricultural eco-systems.Nitrogen exists as two nitrogen atomsjoined by a very strong triple covalentbond (N º N). The process ofconversion of nitrogen (N2) toammonia is termed as nitrogen-fixation. In nature, lightning andultraviolet radiation provide enoughenergy to convert nitrogen to nitrogenoxides (NO, NO2, N2O). Industrialcombustions, forest fires, automobile
+exhausts and power-generatingstations are also sources ofatmospheric nitrogen oxides.Decomposition of organic nitrogen ofdead plants and animals intoammonia is called ammonification.
+Some of this ammonia volatilises andre-enters the atmosphere but most ofit is converted into nitrate by soil
+bacteria in the following steps:Figure 12.3The nitrogen cycle showingrelationship between the three
+main nitrogen pools Œ atmosphericsoil, and biomass23222
+32
+22NHONOHHO
++¾®
+¾++
+-+
+.... (i)2222
+3NOONO
+--+¾®¾
+...... (ii)Ammonia is first oxidised to nitrite by the bacteria Nitrosomonas and/orNitrococcus. The nitrite is further oxidised to nitrate with the help of thebacterium Nitrobacter. These steps are called nitrification (Figure 12.3).These nitrifying bacteria are chemoautotrophs.The nitrate thus formed is absorbed by plants and is transported tothe leaves. In leaves, it is reduced to form ammonia that finally forms theamine group of amino acids. Nitrate present in the soil is also reduced to
+nitrogen by the process of denitrification. Denitrification is carried by
+bacteria Pseudomonas and Thiobacillus.12.6.2Biological Nitrogen FixationVery few living organisms can utilise the nitrogen in the form N2, availableabundantly in the air. Only certain prokaryotic species are capable of
+fixing nitrogen. Reduction of nitrogen to ammonia by living organisms is
+202BIOLOGYcalled biological nitrogen fixation. The enzyme, nitrogenase which iscapable of nitrogen reduction is present exclusively in prokaryotes. Suchmicrobes are called N2- fixers.NN
+NH
+Nitrogenase
+º¾
+®¾¾¾¾¾¾
+3The nitrogen-fixing microbes could be free-living or symbiotic. Examplesof free-living nitrogen-fixing aerobic microbes are Azotobacter andBeijernickia while Rhodospirillum is anaerobic and Bacillus free-living.In addition, a number of cyanobacteria such as Anabaena and Nostocare also free-living nitrogen-fixers.Symbiotic biological nitrogen fixation
+Several types of symbiotic biological nitrogen fixing associations are known.The most prominent among them is the legume-bacteria relationship.Species of rod-shaped Rhizobium has such relationship with the roots ofseveral legumes such as alfalfa, sweet clover, sweet pea, lentils, garden pea,
+broad bean, clover beans, etc.  The most common association on roots isas nodules. These nodules are small outgrowths on the roots. The microbe,
+Frankia, also produces nitrogen-fixing nodules on the roots of non-leguminous plants (e.g., Alnus). Both Rhizobium and Frankia are free-living in soil, but as symbionts, can fix atmospheric nitrogen.Uproot any one plant of a common pulse, just before flowering. Youwill see near-spherical outgrowths on the roots. These are nodules. Ifyou cut through them you will notice that the central portion is red orpink. What makes the nodules pink? This is due to the presence ofleguminous haemoglobin or leg-haemoglobin.Nodule FormationNodule formation involves a sequence of multiple interactions betweenRhizobium and roots of the host plant. Principal stages in the noduleformation are summarised as follows:
+Rhizobia multiply and colonise the surroundings of roots and get attachedto epidermal and root hair cells. The root-hairs curl and the bacteria invadethe root-hair. An infection thread is produced carrying the bacteria intothe cortex of the root, where they initiate the nodule formation in the cortexof the root. Then the bacteria are released from the thread into the cellswhich leads to the differentiation of specialised nitrogen fixing cells. Thenodule thus formed, establishes a direct vascular connection with the hostfor exchange of nutrients. These events are depicted in Figure 12.4.The nodule contains all the necessary biochemical components, suchas the enzyme nitrogenase and leghaemoglobin. The enzyme nitrogenase
+is a Mo-Fe protein and catalyses the conversion of atmospheric nitrogento ammonia, (Figure 12.5) the first stable product of nitrogen fixation.
+MINERAL NUTRITION203The reaction is as follows:Œ232i
+N8e8H16ATP2NHH16ADP16P
+
+The enzyme nitrogenase is highly sensitive to the molecular oxygen; itrequires anaerobic conditions. The nodules have adaptations that ensurethat the enzyme is protected from oxygen. To protect these enzymes, the
+nodule contains an oxygen scavenger called leg-haemoglobin. It is interesting
+to note that these microbes live as aerobes under free-living conditions (where
+nitrogenase is not operational), but during nitrogen-fixing events, they become
+anaerobic (thus protecting the nitrogenase enzyme). You must have noticed
+in the above reaction that the ammonia synthesis by nitrogenease requires aSoilparticlesRoot hairBacteriaInner cortex andpericycle cellsunder divisionInfectionthread
+containingbacteriaMature nodule
+HookBacteriaFigure 12.4Development of root nodules in soyabean : (a) Rhizobium bacteriacontact a susceptible root hair, divide near it, (b) Successful infectionof the root hair causes it to curl, (c) Infected thread carries the bacteriato the inner cortex. The bacteria get modified into rod-shapedbacteroids and cause inner cortical and pericycle cells to divide.Division and growth of cortical and pericycle cells lead to nodule
+formation, (d) A mature nodule is complete with vascular tissuescontinuous with those of the root(a)N+2 HHHHHHHHHHHHHHHHNNNNNNEnzymeSubstrate[nitrogen gas (N)]
+2ReductionReductionReductionBindingof substrate(nitrogenase)
+Product
+[ammonia (NH)]
+3Releaseof products
+Free nitrogenase
+can bind anothermolecule of N2+2 H+2 HNNHHNHNNFigure 12.5Steps of conversion of atmospheric nitrogen to ammonia by nitrogenase
+enzyme complex found in nitrogen-fixing bacteria
+204BIOLOGYvery high input of energy (8 ATP for each NH3 produced). The energy required,thus, is obtained from the  respiration of the host cells.Fate of ammonia: At physiological pH, the ammonia is protonated to formNH
+4+ (ammonium) ion. While most of the plants can assimilate nitrate as wellas ammonium ions, the latter is quite toxic to plants and hence cannotaccumulate in them. Let us now see how the NH
+4+ is used to synthesiseamino acids in plants. There are two main ways in which this can take place:
+(i)Reductive amination : In these processes, ammonia reacts witha-ketoglutaric acid and forms glutamic acid as indicated in theequation given below :(ii)Transamination : It involves the transfer of amino group from oneamino acid to the keto group of a keto acid. Glutamic acid is the mainamino acid from which the transfer of NH2, the amino group takesplace and other amino acids are formed through transamination. The
+enzyme transaminase catalyses all such reactions. For example,a-
+++¾
+®¾¾¾¾¾
++ketoglutaricacidNHNADPH
+Glutamate
+Dehy
+drogenase
+4¾¾¾
+++
+gl
+utamateHONADP
+2The two most important amides Œ asparagine and glutamine Œ found in
+plants are a structural part of proteins. They are formed from two amino
+acids, namely aspartic acid and glutamic acid, respectively, by addition
+of another amino group to each. The hydroxyl part of the acid is replaced
+by another NH2Œ radicle. Since amides contain more nitrogen than theamino acids, they are transported to other parts of the plant via xylem
+vessels. In addition, along  with the transpiration stream the nodules of
+some plants (e.g., soyabean) export the fixed nitrogen as ureides. These
+compounds also have a particularly high nitrogen to carbon ratio.SUMMARYPlants obtain their inorganic nutrients from air, water and soil. Plants absorb awide variety of mineral elements. Not all the mineral elements that they absorb arerequired by plants. Out of the more than 105 elements discovered so far, less than21 are essential and beneficial for normal plant growth and development. Theelements required in large quantities are called macronutrients while those requiredin less quantities or in trace are termed as micronutrients. These elements areeither essential constituents of proteins, carbohydrates, fats, nucleic acid etc.,
+MINERAL NUTRITION205and/or take part in various metabolic processes. Deficiency of each of theseessential elements may lead to symptoms called deficiency symptoms. Chlorosis,necrosis, stunted growth, impaired cell division, etc., are some prominent deficiencysymptoms. Plants absorb minerals through roots by either passive or activeprocesses. They are carried to all parts of the organism through xylem along withwater transport.Nitrogen is very essential for the sustenance of life. Plants cannot useatmospheric nitrogen directly. But some of the plants in association with N2-fixingbacteria, especially roots of legumes, can fix this atmospheric nitrogen into
+biologically usable forms. Nitrogen fixation requires a strong reducing agent andenergy in the form of ATP. N2 -fixation is accomplished with the help of nitrogen-fixing microbes, mainly Rhizobium. The enzyme nitrogenase which plays animportant role in biological N2  fixation is very sensitive to oxygen. Most of theprocesses take place in anaerobic environment. The energy, ATP, required isprovided by the respiration of the host cells. Ammonia produced following N2  fixationis incorporated into amino acids as the amino group.EXERCISES1.‚All elements that are present in a plant need not be essential to its survival™.Comment.2.Why is purification of water and nutrient salts so important in studies involving
+mineral nutrition using hydroponics?3.Explain with examples: macronutrients, micronutrients, beneficial nutrients,
+toxic elements and essential elements.4.Name at least five different deficiency symptoms in plants. Describe them and
+correlate them with the concerned mineral deficiency.5.If a plant shows a symptom which could develop due to deficiency of more than
+one nutrient, how would you find out experimentally, the real deficient mineral
+element?6.Why is that in certain plants deficiency symptoms appear first in younger parts
+of the plant while in others they do so in mature organs?7.How are the minerals absorbed by the plants?8.What are the conditions necessary for fixation of atmospheric nitrogen by
+Rhizobium. What is their role in N2 -fixation?9.What are the steps involved in formation of a root nodule?10.Which of the following statements are true? If false, correct them:(a)Boron deficiency leads to stout axis.(b)Every mineral element that is present in a cell is needed by the cell.(c)Nitrogen as a nutrient element, is highly immobile in the plants.(d)It is very easy to establish the essentiality of micronutrients because theyare required only in trace quantities.

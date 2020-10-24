@@ -1,0 +1,847 @@
+CHAPTER SIXWORK, ENERGY AND POWER6.1  INTRODUCTIONThe terms ‚work™, ‚energy™ and ‚power™ are frequently usedin everyday language. A farmer ploughing the field, aconstruction worker carrying bricks, a student studying for
+a competitive examination, an artist painting a beautiful
+landscape, all are said to be working. In physics, however,the word ‚Work™ covers a definite and precise meaning.Somebody who has the capacity to work for 14-16 hours a
+day is said to have a large stamina or energy. We admire along distance runner for her stamina or energy. Energy is
+thus our capacity to do work. In Physics too, the term ‚energy™is related to work in this sense, but as said above the term
+‚work™ itself is defined much more precisely. The word ‚power™is used in everyday life with different shades of meaning. In
+karate or boxing we talk of ‚powerful™ punches. These are
+delivered at a great speed. This shade of meaning is close tothe meaning of the word ‚power™ used in physics. We shallfind that there is at best a loose correlation between thephysical definitions and the physiological pictures these
+terms generate in our minds. The aim of this chapter is todevelop an understanding of these three physical quantities.Before we proceed to this task, we need to develop a
+mathematical prerequisite, namely the scalar product of twovectors.6.1.1 The Scalar ProductWe have learnt about vectors and their use in Chapter 4.Physical quantities like displacement, velocity, acceleration,force etc. are vectors. We have also learnt how vectors areadded or subtracted. We now need to know how vectors aremultiplied. There are two ways of multiplying vectors which
+we shall come across : one way known as the scalar product
+gives a scalar from two vectors and the other known as the
+vector product produces a new vector from two vectors. Weshall look at the vector product in Chapter 7. Here we take
+up the scalar product of two vectors. The scalar product or
+dot product of any two vectors A and B, denoted as A.B (read6.1Introduction6.2Notions of work and kinetic
+energy : The work-energytheorem6.3Work6.4Kinetic energy6.5Work done by a variableforce6.6The work-energy theorem fora variable force6.7The concept of potentialenergy6.8The conservation of
+mechanical energy6.9The potential energy of aspring6.10Various forms of energy : thelaw of conservation of energy6.11Power6.12CollisionsSummaryPoints to ponder
+ExercisesAdditional exercises
+Appendix 6.1
+A dot B) is defined asA.B = A B cos q(6.1a)where q  is the angle between the two vectors asshown in Fig. 6.1(a). Since A, B and cos q arescalars, the dot product of A and B is a scalarquantity. Each vector, A and B, has a directionbut their scalar product does not have adirection.From Eq. (6.1a), we haveA.B  = A (B cos q )       = B (A cos q )Geometrically, B cos q is the projection of B ontoA in Fig.6.1 (b) and A cos q  is the projection of Aonto B in Fig. 6.1 (c). So, A.B is the product ofthe magnitude of A and the component of B alongA. Alternatively, it is the product of themagnitude of B and the component of A along B.Equation (6.1a) shows that the scalar productfollows the commutative law :A.B = B.AScalar product obeys the distributivelaw:A. (B + C) = A.B + A.CFurther,A. (l B) = l (A.B)where l is a real number.The proofs  of the above equations are left toyou as an exercise.For unit vectors 
+i,j,k
+ we have
+iijjkk
+
+1
+ijjkki
+
+0Given two vectorsAijk
+
+AAA
+xyz
+
+Bijk
+
+BBB
+xyz
+
+their scalar product is    ‹‹‹‹‹‹
+..
+xyzxyz
+AAABBB
+     
+ABijkijk
+ ABABAB
+xxyyzz
+(6.1b)From the definition of scalar product and(Eq. 6.1b) we have :( i )xxyyzz
+AAAAAA
+   
+AA
+   
+ Or,AAAA
+2x2y2z
+2
+(6.1c)sinceA.A = |A ||A| cos 0 = A2.(ii)A.B = 0, if A and B are perpendicular.Example 6.1  Find the angle between forceF = (3 i + 4 j Œ 5 k) 
+
+unit and displacementd = (5 i + 4 j + 3 k) 
+
+unit. Also find theprojection of F on d.Answer F.d=xxyyzz
+FdFdFd
+  
+= 3 (5) + 4 (4) + (Œ 5) (3)= 16 unitHence F.d= cos
+Fd
+  = 16 unitNow F.F= 2222
+  
+xyz
+FFFF
+   
+= 9 + 16 + 25
+= 50 unitand d.d= d2 = 222
+  
+xyz
+ddd
+  
+= 25 + 16 + 9
+= 50 unit  cos  = 1616
+==0.32
+50
+5050
+, = cosŒ1  0.32Fig. 6.1(a) The scalar product of two vectors A and B is a scalar : A.B = A B cos q.  (b) B cos q is the projectionof B onto A. (c) A cos q is the projection of A onto B.WORK, ENERGY AND POWER115u
+PHYSICS116tknown to be proportional to the speed ofthe drop but is otherwise undetermined.
+Consider a drop of mass 1.00 g falling froma height 1.00 km.  It hits the ground witha speed of 50.0 m s-1.  (a) What is the workdone by the gravitational force ? What isthe work done by the unknown resistive
+force?Answer (a) The change in kinetic energy of thedrop is2102Km v
+   
+12105050
+-3
+
+= 1.25 Jwhere we have assumed that the drop is initially
+at rest.Assuming that g is a constant with a value10 m/s2, the work done by the gravitational forceis,Wg = mgh      = 10-3 ´10 ´103      = 10.0 J(b) From the work-energy theoremgr
+K  WW
+     
+where Wr  is the work done by the resistive forceon the raindrop.  ThusWr  = DK - Wg     = 1.25 -10      = - 8.75 Jis negative.t6.3  WORKAs seen earlier, work is related to force and thedisplacement over which it acts.  Consider a
+constant force F acting on an object of mass m.The object undergoes a displacement d in thepositive x-direction as shown in Fig. 6.2.Fig. 6.2An object undergoes a displacement dunder the influence of the force F.6.2 NOTIONS OF WORK AND KINETICENERGY: THE WORK-ENERGY THEOREMThe following relation for rectilinear motion under
+constant acceleration a has been encounteredin Chapter 3,v2 - u2 = 2 aswhere u and v  are the initial and final speedsand s the distance traversed.  Multiplying bothsides by m/2, we have22
+11
+22
+mvmumasFs
+   
+(6.2a)where the last step follows from Newton™s
+Second Law. We can generalise Eq. (6.1)to three dimensions by employing
+vectorsv2 - u2 = 2 a.dOnce again multiplying both sides by m/2 , weobtain22
+11
+22
+mvmum 
+   
+a.dF.d
+(6.2b)The above equation provides a motivation forthe definitions of work and kinetic energy. The
+left side of the equation is the difference in the
+quantity ‚half the mass times the square of the
+speed™ from its initial value to its final value. Wecall each of these quantities the ‚kinetic energy™,
+denoted by K. The right side is a product of thedisplacement and the component of the force
+along the displacement.  This quantity is called
+‚work™ and is denoted by W.
+  Eq. (6.2b) is thenKf -  Ki = W(6.3)where Ki  and Kf  are respectively the initial andfinal kinetic energies of the object. Work refersto the force and the displacement over which it
+acts. Work is done by a force on the body overa certain displacement.Equation (6.2) is also a special case of thework-energy (WE) theorem : The change inkinetic energy of a particle is equal to the
+work done on it by the net force. We shallgeneralise the above derivation to a varying force
+in a later section.Example 6.2  It is well known that araindrop falls under the influence of the
+downward gravitational force and the
+opposing resistive force.  The latter is
+WORK, ENERGY AND POWER117tTable 6.1   Alternative Units of Work/Energy in JExample 6.3  A cyclist comes to a skiddingstop in 10 m.  During this process, the forceon the cycle due to the road is 200 N and
+is directly opposed to the motion.  (a) How
+much work does the road do on the cycle ?
+(b) How much work does the cycle do on
+the road ?Answer  Work done on the cycle by the road isthe work done by the stopping (frictional) forceon the cycle due to the road.
+(a) The stopping force and the displacement makean angle of 180o  (p rad) with each other.Thus, work done by the road,Wr =  Fd cosq     =  200 ´ 10 ´ cos p      = Œ 2000 JIt is this negative work that brings the cycleto a halt in accordance with WE theorem.(b) From Newton™s Third Law an equal andopposite force acts on the road due to thecycle. Its magnitude is 200 N. However, theroad undergoes no displacement.  Thus,
+work done by cycle on the road is zero.            tThe lesson of Example 6.3 is that though theforce on a body A exerted by the body B is always
+equal and opposite to that on B by A (Newton™s
+Third Law); the work done on A by B is notnecessarily equal and opposite to the work doneon B by A.6.4  KINETIC ENERGYAs noted earlier, if an object of mass m hasvelocity v, its kinetic energy K  is2Km mv
+  
+  
+  
+vv
+.                       (6.5)Kinetic energy is a scalar quantity. The kineticenergy of an object is a measure of the work anThe work done by the force is defined to bethe product of component of the force in the
+direction of the displacement and the
+magnitude of this displacement.  ThusW = (F cos q )d = F.d(6.4)We see that if there is no displacement, thereis no work done even if the force is large.  Thus,when you push hard against a rigid brick wall,the force you exert on the wall does no work.  Yetyour muscles are alternatively contracting andrelaxing and internal energy is being used upand you do get tired.  Thus, the meaning of work
+in physics is different from its usage in everyday
+language.No work is done if :(i)the displacement is zero as seen in the
+example above. A weightlifter holding a 150kg mass steadily on his shoulder for 30 sdoes no work on the load during this time.(ii)the force is zero.  A block moving on a smoothhorizontal table is not acted upon by a
+horizontal force (since there is no friction), but
+may undergo a large displacement.(iii)the force and displacement are mutuallyperpendicular. This is so since, for q = p/2 rad(= 90o), cos (p/2) = 0.  For the block moving ona smooth horizontal table, the gravitationalforce mg  does no work since it acts at rightangles to the displacement. If we assume that
+the moon™s orbits around the earth is
+perfectly circular then the earth™sgravitational force does no work.  The moon™sinstantaneous displacement is tangential
+while the earth™s force is radially inwards andq  = p/2.Work can be both positive and negative.  If q  isbetween 0o and 90o, cos q  in Eq. (6.4) is positive.If  q  is  between 90o and 180o,   cos q  is negative.In many examples the frictional force opposes
+displacement and q  = 180o. Then the work doneby friction is negative (cos 180o = Œ1).From Eq. (6.4) it is clear that  work and energyhave the same dimensions,  [ML2TŒ2]. The SI unitof these is joule (J), named after the famous Britishphysicist James Prescott Joule  (1811-1869). Sincework and energy are so widely used as physicalconcepts, alternative units abound and some ofthese are listed in Table 6.1.
+PHYSICS118tobject can do by the virtue of its motion. Thisnotion has been intuitively known for a long time.The kinetic energy of a fast flowing streamhas been used to grind corn. Sailingships employ the kinetic energy of the wind. Table6.2 lists the kinetic energies for various
+objects.Example 6.4  In a ballistics demonstrationa police officer fires a bullet of mass 50.0 gwith speed 200 m s-1 (see Table 6.2) on softplywood of thickness 2.00 cm.  The bullet
+emerges with only 10% of its initial kinetic
+energy.  What is the emergent speed of the
+bullet ?Answer  The initial kinetic energy of the bulletis mv2/2 = 1000 J.  It has a final kinetic energyof 0.1´1000 = 100 J.  If vf  is the emergent speedof the bullet,mv
+f2100 J
+kg 05.0
+ J 1002
+fv                =  63.2 m sŒ1The speed is reduced by approximately 68%
+(not 90%).                                                                      t6.5  WORK DONE BY A VARIABLE FORCEA constant force is rare.  It is the variable force,
+which is more commonly encountered.  Fig. 6.2
+is a plot of a varying force in one dimension.If the displacement Dx is small, we can takethe force F(x)  as approximately constant andthe work done is thenDW =F(x) DxTable 6.2  Typical kinetic energies (K)This is illustrated in Fig. 6.3(a).  Adding
+successive rectangular areas in Fig. 6.3(a) we
+get the total work done as
+
+fixxxxFW
+(6.6)where the summation is from the initial position
+xi  to the final position xf.If the displacements are allowed to approachzero, then the number of terms in the sum
+increases without limit, but the sum approaches
+a definite value equal to the area under the curve
+in Fig. 6.3(b). Then the work done is            
+dfixxFxx
+  (6.7)where ‚lim™ stands for the limit of the sum whenDx  tends to zero.  Thus, for a varying forcethe work done can be expressed as a definite
+integral of force over displacement (see also
+Appendix 3.1).limW=
+lim
+x
+fixxxxF
+0Fig. 6.3(a)
+WORK, ENERGY AND POWER119tFig. 6.3(a) The shaded rectangle represents thework done by the varying force F(x), overthe small displacement Dx,  DW = F(x) Dx.(b) adding the areas of all the rectangles we
+find that for Dx ® 0, the area under the curveis exactly equal to the work done by F(x).Example 6.5  A woman pushes a trunk ona railway platform which has a roughsurface.  She applies a force of 100 N over a
+distance of 10 m.  Thereafter, she getsprogressively tired and her applied force
+reduces linearly with distance to 50 N.  The
+total distance through which the trunk has
+been moved is 20 m.  Plot the force applied
+by the woman and the frictional force, which
+is 50 N versus displacement.  Calculate the
+work done by the two forces over 20 m.AnswerFig. 6.4Plot of the force F applied by the woman andthe opposing frictional force f versusdisplacement.The plot of the applied force is shown in Fig.6.4.  At x  = 20 m, F  = 50 N (¹ 0).  We are giventhat the frictional force f is |f|= 50 N. It opposesmotion and acts in a direction opposite to F.  Itis therefore, shown on the negative side of theforce axis.The work done by the woman isWF ® area of the rectangle ABCD + area ofthe trapezium CEIDWF
+10010
+121005010
+       = 1000 + 750      = 1750 JThe work done by the frictional force isWf ® area of the rectangle AGHIWf  = (-50) ´ 20      = - 1000 JThe area on the negative side of the force axishas a negative sign.t6.6THE WORK-ENERGY THEOREM FOR A
+VARIABLE FORCEWe are now familiar with the concepts of workand kinetic energy to prove the work-energy
+theorem for a variable force.  We confineourselves to one dimension. The time rate of
+change of kinetic energy is2dd1
+dd2
+Km v
+tt
+  
+   
+  
+      ddvmv
+t       v F
+ (from Newton™s Second Law)      ddxFt Thus
+             dK = FdxIntegrating from the initial position  (x i ) to finalposition ( x f ), we havedd
+ff
+ii
+Kx
+Kx
+KFx
+   
+where,  Ki  and K f  are the initial and final kineticenergies corresponding to x i  and  x f.ordfixfi
+xKKFx
+  
+  (6.8a)From Eq. (6.7), it follows that           Kf -  Ki  = W(6.8b)Thus, the WE theorem is proved for a variableforce.While the WE theorem is useful in a variety ofproblems, it does not, in general, incorporate thecomplete dynamical information of Newton™ssecond law. It is an integral form of Newton™ssecond law. Newton™s second law is a relationbetween acceleration and force at any instant oftime. Work-energy theorem involves an integralover an interval of time. In this sense, the temporal
+(time) information contained in the statement ofNewton™s second law is ‚integrated over™ and is
+PHYSICS120tnot available explicitly. Another observation is thatNewton™s second law for two or three dimensions
+is in vector form whereas the work-energy
+theorem is in scalar form. In the scalar form,
+information with respect to directions contained
+in Newton™s second law is not present.Example 6.6  A block of mass m  = 1 kg,moving on a horizontal surface with speedvi = 2 msŒ1 enters a rough patch rangingfrom x = 0.10 m to x = 2.01 m. The retardingforce Fr on the block in this range is inverselyproportional  to x  over this range,Fkxr=- for 0.1 < x < 2.01 m= 0 for x < 0.1m and x > 2.01 mwhere k = 0.5 J.  What is the final kineticenergy and speed vf  of the block as itcrosses this patch ?Answer  From Eq. (6.8a)  d2.01
+fi
+0.1
+kKKx
+x   
+   
+2.01
+0.1
+1ln22imvk x
+  
+  
+1ln2.01/0.1
+22imvk  
+  
+= 2 - 0.5 ln (20.1)= 2 - 1.5  = 0.5 J1sm  1/2
+mKv
+ff
+Here, note that ln is a symbol for the naturallogarithm to the base e and not the logarithm tothe base 10 [ln X = loge X = 2.303 log10 X].t6.7  THE CONCEPT OF POTENTIAL ENERGYThe word potential suggests possibility or
+capacity for action. The term potential energy
+brings to one™s mind ‚stored™ energy. A stretched
+bow-string possesses potential energy. When it
+is released, the arrow flies off at a great speed.
+The earth™s crust is not uniform, but has
+discontinuities and dislocations that are called
+fault lines. These fault lines in the earth™s crustare like ‚compressed springs™. They possess a
+large amount of potential energy. An earthquake
+results when these fault lines readjust. Thus,
+potential energy is the ‚stored energy™ by virtue
+of the position or configuration of a body. The
+body left to itself releases this stored energy in
+the form of kinetic energy. Let us make our notion
+of potential energy more concrete.The gravitational force on a ball of mass m ismg . g may be treated as a constant near the earthsurface. By ‚near™ we imply that the height h  ofthe ball above the earth™s surface is very small
+compared to the earth™s radius RE (h <<RE) so thatwe can ignore the variation of g near the earth™ssurface*. In what follows we have taken theupward direction to be positive. Let us raise the
+ball up to a height h. The work done by the externalagency against the gravitational force is mgh. Thiswork gets stored as potential energy.
+Gravitational potential energy of an object, as a
+function of the height h, is denoted by V(h) and itis the negative of work done by the gravitational
+force in raising the object to that height.V (h) = mghIf h is taken as a variable, it is easily seen thatthe gravitational force F equals the negative ofthe derivative of V(h) with respect to h. Thus,ddFV(h)mg
+h    
+The negative sign indicates that the
+gravitational force is downward. When released,
+the ball comes down with an increasing speed.
+Just before it hits the ground, its speed is given
+by the kinematic relation,v2 = 2ghThis equation can be written asm v2 = m g h
+which shows that the gravitational potential
+energy of the object at height h, when the objectis released, manifests itself as kinetic energy of
+the object on reaching the ground.Physically, the notion of potential energy isapplicable only to the class of forces where work
+done against the force gets ‚stored up™ as energy.When external constraints are removed, itmanifests itself as kinetic energy. Mathematically,
+(for simplicity, in one dimension) the potential*The variation of g with height is discussed in Chapter 8 on Gravitation.
+WORK, ENERGY AND POWER121energy V(x) is defined if the force F(x) can bewritten as  
+ddVFx
+x  
+This implies thatdd
+ff
+ii
+xV
+if
+xV
+F(x)xVVV
+    
+  
+The work done by a conservative force such asgravity depends on the initial and final positionsonly. In the previous chapter we have workedon examples dealing with inclined planes. If anobject of mass m is released from rest, from thetop of a smooth (frictionless) inclined plane of
+height h, its speed at the bottomisgh2irrespective of the angle of inclination.Thus, at the bottom of the inclined plane it
+acquires a kinetic energy, mgh. If the work doneor the kinetic energy did depend on other factors
+such as the velocity or the particular path takenby the object, the force would be called non-conservative.The  dimensions  of  potential  energy are[ML2T Œ2] and the unit is joule (J), the same askinetic energy or work. To reiterate, the changein potential energy, for a conservative force,
+DV  is equal to the negative of the work done bythe forceDV = - F(x) Dx(6.9)In the example of the falling ball considered inthis section we saw how potential energy was
+converted to kinetic energy. This hints at animportant principle of conservation in mechanics,which we now proceed to examine.6.8THE CONSERVATION OF MECHANICALENERGYFor simplicity we demonstrate this importantprinciple for one-dimensional motion. Supposethat a body undergoes displacement Dx underthe action of a conservative force F. Then fromthe WE theorem we have,DK =  F(x) DxIf the force is conservative, the potential energyfunction V(x) can be defined such that- DV  =  F(x) DxThe above equations imply thatDK + DV = 0D(K + V) = 0(6.10)which means that K + V, the sum of the kineticand potential energies of the body is a constant.Over the whole path, x
+i to xf, this means thatKi + V(xi) = Kf  + V(xf)(6.11)The quantity K +V(x), is called the totalmechanical energy of the system.  Individually
+the kinetic energy K  and the potential energyV(x) may vary from point to point,  but the sumis a constant. The aptness of the term‚conservative force™ is now clear.Let us consider some of  the definitions of aconservative force.lA force F(x) is conservative if it can be derivedfrom a scalar quantity V(x) by the relationgiven by Eq. (6.9). The three-dimensionalgeneralisation requires the use of a vector
+derivative, which is outside the scope of this
+book.lThe work done by the conservative forcedepends only on the end points. This can be
+seen from the relation,W = Kf Œ Ki = V (xi) Œ V(xf)which depends on the end points.lA third definition states that the work doneby this force in a closed path is zero.  This isonce  again apparent from Eq. (6.11) since
+xi  = xf .Thus, the principle of conservation of totalmechanical energy can be stated asThe total mechanical energy of a system isconserved if the forces, doing work on it, are
+conservative.The above discussion can be made moreconcrete by considering the example of the
+gravitational force once again and that of the
+spring force in the next section. Fig. 6.5 depicts
+a ball of mass m being dropped from a cliff ofheight H.Fig. 6.5The conversion of potential energy to kineticenergy for a ball of mass m dropped from aheight H.
+PHYSICS122tThe total mechanical energies E0, Eh, and EHof the ball at the indicated heights zero (groundlevel), h and H, areEH   = mgH                          (6.11 a)122hh
+Emghmv
+  
+(6.11 b)E0     = (1/2) mvf2(6.11 c)The constant force is a special case of a spatially
+dependent force F(x). Hence, the mechanicalenergy is conserved.  ThusEH = E0or,122fmgHmv
+ 2fvgH
+ a result that was obtained in section 3.7 for a
+freely falling body.Further,EH = Ehwhich implies,vg(Hh)
+h22
+              (6.11 d)and is a familiar result from kinematics.At the height H, the energy is purely potential.It is partially converted to kinetic at height h  andis fully kinetic at ground level. This illustrates
+the conservation of mechanical energy.Example 6.7  A bob of mass m is suspendedby a light string of length L .  It is imparted ahorizontal velocity vo at the lowest point Asuch that it completes a semi-circular
+trajectory in the vertical plane with the string
+becoming slack only on reaching the topmost
+point, C.  This is shown in Fig. 6.6. Obtain anexpression for (i) vo; (ii)  the speeds at pointsB and C; (iii) the ratio  of  the kinetic energies
+(KB/KC) at B and C. Comment on the natureof the trajectory of the bob after it reaches
+the point C.Fig. 6.6Answer  (i)  There are two external forces onthe bob : gravity and the tension (T) in thestring. The latter does no work since thedisplacement of the bob is always normal to thestring. The potential energy of the bob is thus
+associated with the gravitational force only. Thetotal mechanical energy E  of the system isconserved.  We take the potential energy of thesystem to be zero at the lowest point A. Thus,at A :Emv
+0212(6.12)       LmvmgT
+20A
+   [Newton™s Second Law]where TA is the tension  in the string at A. At thehighest point C, the string slackens, as thetension in the string (TC) becomes zero.Thus, at C2mgLmvE
+c
+21(6.13)Lmvmg2c    [Newton™s Second Law](6.14)where vC is the speed at C. From Eqs. (6.13) and(6.14)5EmgL
+2 Equating this to the energy at A522
+20mmgLv
+ or,50vgL
+ (ii) It is clear from Eq. (6.14)gLv
+CAt B, the energy is122BEmvmgL
+  
+Equating this to the energy at A and employingthe result from (i), namely gLv
+20,11
+22
+22
+B0
+mvmgLmv
+  
+52m g L
+ 
+WORK, ENERGY AND POWER123gLv
+B3
+(iii) The ratio of the kinetic energies at B and C  is : 13  
+2121  
+
+2C2BCBmvmvKKAt point C, the string becomes slack and thevelocity of the bob is horizontal and to the left.  If
+the connecting string is cut at this instant, the
+bob will execute a projectile motion with
+horizontal projection akin to a rock kicked
+horizontally from the edge of a cliff.  Otherwise
+the bob will continue on its circular path andcomplete the revolution.             t6.9  THE POTENTIAL ENERGY OF A SPRINGThe spring force is an example of a variable force
+which is conservative. Fig. 6.7 shows a block
+attached to a spring and resting on a smooth
+horizontal surface.  The other end of the spring
+is attached to a rigid wall. The spring is light
+and may be treated as massless.  In an idealspring, the spring force Fs  is proportional toxwhere x  is the displacement of the block fromthe equilibrium position. The displacement could
+be either positive [Fig. 6.7(b)] or negative
+[Fig. 6.7(c)].  This force law for the spring is called
+Hooke™s law and is mathematically stated asFs =  - kxThe constant k is called the spring constant.  Itsunit is N m-1.  The spring is said to be stiff if k islarge and soft if k is small.Suppose that we pull the block outwards as inFig. 6.7(b). If the extension is xm, the work done bythe spring force isdmxss
+0WF x
+      dmx0kx x
+  
+ 22mx k
+
+         (6.15)This expression may also be obtained byconsidering the area of the triangle as in
+Fig. 6.7(d).  Note that the work done by theexternal pulling force F is positive since itovercomes the spring force.22mx k
+W
+(6.16)Fig. 6.7Illustration of the spring force with a blockattached to the free end of the spring.(a) The spring force Fs is zero when thedisplacement x  from the equilibrium positionis zero. (b) For the stretched spring x > 0and Fs  < 0 (c) For the compressed springx < 0 and  Fs > 0.(d) The plot of Fs  versus x.The area of the shaded triangle represents
+the work done by the spring force. Due to the
+opposing signs of Fs and x, this work done isnegative, Wkx/
+sm2
+2.The same is true when the spring iscompressed with a displacement xc (< 0).  Thespring force does work 2/ 
+2cskxW
+
+ while the
+PHYSICS124Fig. 6.8Parabolic plots of the potential energy V andkinetic energy K of a block attached to aspring obeying Hooke™s law. The two plotsare complementary, one decreasing as theother increases. The total mechanicalenergy E = K + V remains constant.texternal force F does work  kx
+c2/2
+. If the blockis moved from an initial displacement xi  to afinal displacement xf , the work done by thespring force Ws is  22d    
+22
+fixfisxk x
+k x
+Wk x x       
+    
+            (6.17)Thus the work done by the spring force dependsonly on the end points.  Specifically, if the blockis pulled from xi  and allowed to return to xi ;      22
+d    
+22
+iixii
+sxk xk x
+Wk x x        
+    
+        = 0(6.18)The work done by the spring force in a cyclicprocess is zero.  We have explicitly demonstratedthat the spring force (i) is position dependentonly as first stated by Hooke, (Fs = - kx); (ii)does work which only depends on the initial and
+final positions, e.g. Eq. (6.17).  Thus, the spring
+force is a conservative force.We define the potential energy V(x) of the springto be zero when block and spring system is in the
+equilibrium position.  For an extension (or
+compression) x  the above analysis suggests thatV(x)
+kx22(6.19)You may easily verify that - dV/dx = -kx
+, thespring force.  If the block of mass m in Fig. 6.7 isextended to xm and released from rest, then itstotal mechanical energy at any arbitrary point x,where x lies between Œ xm  and + xm, will be given by222mv mx kx k
+212121
+where we have invoked the conservation of
+mechanical energy.  This suggests that the speed
+and the kinetic energy will be maximum at theequilibrium position, x = 0, i.e.,2m2mx k  v m
+2121where vm is the maximum speed.ormmx 
+mkvNote that k/m has the dimensions of [T-2] andour equation is dimensionally correct. The
+kinetic energy gets converted to potential energyand vice versa, however, the total mechanicalenergy remains constant. This is graphically
+depicted in Fig. 6.8.Example 6.8  To simulate car accidents, automanufacturers study the collisions of moving
+cars with mounted springs of different spring
+constants.  Consider a typical simulation with
+a car of mass 1000 kg moving with a speed
+18.0 km/h on a smooth road and colliding
+with a horizontally mounted spring of spring
+constant 6.25 × 103 N mŒ1. What is themaximum compression of the spring ?
+Answer   At maximum compression the kineticenergy of the car is converted entirely into the
+potential energy of the spring.The kinetic energy of the moving car isKmv
+212    5510
+213
+            K  = 1.25 ´ 104 Jwhere we have converted 18 km hŒ1 to 5 m sŒ1  [It isuseful to remember that 36 km hŒ1 = 10 m sŒ1].At maximum compression xm, the potentialenergy V of the spring is equal to the kineticenergy K of the moving car from the principle ofconservation of mechanical energy.2mx k  V
+21
+WORK, ENERGY AND POWER125t                = 1.25 ´ 104 JWe obtainxm = 2.00 mWe note that we have idealised the situation.The spring is considered to be massless. Thesurface has been considered to possess
+negligible friction.tWe conclude this section by making a fewremarks on conservative forces.(i)Information on time is absent from the abovediscussions. In the example consideredabove, we can calculate the compression, butnot the time over which the compression
+occurs.  A solution of Newton™s Second Lawfor this system is required for temporalinformation.(ii)Not all forces are conservative. Friction, for
+example, is a non-conservative force. The
+principle of conservation of energy will haveto be modified in this case. This is illustratedin Example 6.9.(iii)The zero of the potential energy is arbitrary.
+It is set according to convenience.  For the
+spring force we took V(x) = 0, at x = 0, i.e. theunstretched spring had zero potential
+energy.  For the constant gravitational forcemg, we took V = 0  on the earth™s surface.  Ina later chapter we shall see that for the forcedue to the universal law of gravitation, thezero is best defined at an infinite distancefrom the gravitational source. However, oncethe zero of the potential energy is fixed in a
+given discussion, it must be consistently
+adhered to throughout the discussion. Youcannot change horses in midstream !Example 6.9   Consider Example 6.8 takingthe coefficient of friction, m, to be 0.5 andcalculate the  maximum compression of the
+spring.Answer  In presence of friction, both the springforce and the frictional force act so as to opposethe compression of the spring as shown in
+Fig. 6.9.We invoke the work-energy theorem, ratherthan the conservation of mechanical energy.The change in kinetic energy isFig. 6.9  The forces acting on the car.DK  = Kf - Ki 2v m   
+210
+The work done by the net force is122mm
+W   kx  m g x
+   
+Equating we have11
+
+22
+22
+mm
+m v  k x m g x
+  
+Now  mmg  = 0.5 ´ 103 ´ 10 = 5 ´ 103 N (takingg =10.0 ms-2). After rearranging the aboveequation we obtain the following quadraticequation in the unknown xm.222
+mm
+k xm g xm v0
+   
+1/2
+2222
+m m gmgm k v
+xk  
+  
+   
+  
+ where we take the positive square root since xmis positive.  Putting in numerical values weobtainxm  = 1.35 mwhich, as expected, is less than the result in
+Example 6.8.If the two forces on the body consist of aconservative force Fc and a non-conservativeforce  Fnc , the conservation of mechanical energyformula will have to be modified. By the WE
+theorem(Fc+ Fnc) Dx = DKBut    Fc Dx = - DVHence,             D(K + V) = Fnc Dx                       DE    = Fnc Dxwhere E  is the total mechanical energy. Overthe path this assumes the formEf --
+--
+- Ei  = WncWhere Wnc  is the total work done by thenon-conservative forces over the path. Note that
+PHYSICS126unlike the conservative force, Wnc  depends onthe particular path i  to  f.t6.10VARIOUS FORMS OF ENERGY : THE LAWOF CONSERVA
+TION OF ENERGYIn the previous section we have discussed
+mechanical energy.  We have seen that it can beclassified into two distinct categories : one based
+on motion, namely kinetic energy; the other onconfiguration (position), namely potential energy.
+Energy comes in many a forms which transforminto one another in ways which may not oftenbe clear to us.6.10.1  HeatWe have seen that the frictional force is not aconservative force. However, work is associatedwith the force of friction, Example 6.5. A block ofmass m sliding on a rough horizontal surfacewith speed v0 comes to a halt over a distance x0.The work done by the force of kinetic friction fover x0 is Œf x0. By the work-energy theorem2o0
+m v/2  f x.
+  If we confine our scope tomechanics, we would say that the kinetic energy
+of the block is ‚lost™ due to the frictional force.
+On examination of the block and the table we
+would detect a slight increase in their
+temperatures. The work done by friction is not
+‚lost™, but is transferred as heat energy. This
+raises the internal energy of the block and the
+table. In winter, in order to feel warm, wegenerate heat by vigorously rubbing our palms
+together. We shall see later that the internalenergy is associated with the ceaseless, often
+random, motion of molecules. A quantitative idea
+of the transfer of heat energy is obtained by
+noting that 1 kg of water releases about 42000 J
+of energy when it cools by10 °C.6.10.2   Chemical EnergyOne of the greatest technical achievements of
+humankind occurred when we discovered howto ignite and control fire. We learnt to rub twoflint stones together (mechanical energy), got
+them to heat up and to ignite a heap of dry leaves
+(chemical energy), which then provided
+sustained warmth.  A matchstick ignites into a
+bright flame when struck against a specially
+prepared chemical surface. The lighted
+matchstick, when applied to a firecracker,results in a spectacular display of sound and
+light.Chemical energy arises from the fact that themolecules participating in the chemical reaction
+have different binding energies. A stable chemical
+compound has less energy than the separated parts.
+A chemical reaction is basically a rearrangement
+of atoms. If the total energy of the reactants is more
+than the products of the reaction, heat is released
+and the reaction is said to be an exothermicreaction. If the reverse is true, heat is absorbed andthe reaction is endothermic. Coal consists ofcarbon and a kilogram of it when burnt releases
+about 3 ´ 107 J of energy.Chemical energy is associated with the forcesthat give rise to the stability of substances. These
+forces bind atoms into molecules, molecules into
+polymeric chains, etc. The chemical energy
+arising from the combustion of coal, cooking gas,wood and petroleum is indispensable to our dailyexistence.6.10.3  Electrical EnergyThe flow of electrical current causes bulbs toglow, fans to rotate and bells to ring.  There are
+laws governing the attraction and repulsion of
+charges and currents, which we shall learnlater. Energy is associated with an electriccurrent. An urban Indian  household consumesabout 200 J of energy per second on an average.6.10.4  The Equivalence of Mass and EnergyTill the end of the nineteenth century, physicistsbelieved that in every physical and chemicalprocess, the mass of an isolated system isconserved. Matter might change its phase, e.g.
+glacial ice could melt into a gushing stream, butmatter is neither created nor destroyed; AlbertEinstein (1879-1955) however, showed that massand energy are equivalent and are related by
+the relationE = m c2(6.20)where c, the speed of light in vacuum isapproximately 3 ´108 m sŒ1.  Thus, a staggeringamount of energy is associated with a mere
+kilogram of matterE = 1´ (3 ´108)2 J = 9 ´1016 J.This is equivalent to the annual electrical output
+of a large (3000 MW) power generating station.6.10.5  Nuclear EnergyThe most destructive weapons made by man, thefission and fusion bombs are manifestations of
+WORK, ENERGY AND POWER127the above equivalence of mass and energy [Eq.(6.20)]. On the other hand the explanation of thelife-nourishing energy output of the sun is alsobased on the above equation.  In this caseeffectively four light hydrogen nuclei fuse to forma helium nucleus whose mass is less than thesum of the masses of the reactants. This massdifference, called the mass defect Dm  is thesource of energy (Dm)c2.  In fission, a heavynucleus like uranium U23592 
+, is split by a neutroninto lighter nuclei.  Once again the final mass is
+less than the initial mass and the mass differencetranslates into energy, which can be tapped toprovide electrical energy as in nuclear power
+plants (controlled nuclear fission) or can beemployed in making nuclear weapons(uncontrolled nuclear fission). Strictly, the energy
+DE released in a chemical reaction can also berelated to the mass defect Dm = DE/c2. However,for a chemical reaction, this mass defect is muchsmaller than for a nuclear reaction. Table 6.3
+lists the total energies for a variety of events andphenomena.Table 6.3   Approximate energy associated with various phenomenaExample 6.10  Examine Tables 6.1-6.3and express (a) The energy required tobreak one bond in DNA in eV; (b) The
+kinetic energy of an air molecule (10Š21 J)in eV; (c) The daily intake of a human adult
+in kilocalories.Answer  (a) Energy required to break one bondof DNA is20
+19
+10J
+~ 0.06eV
+1.610J/eV
+   Note 0.1 eV = 100 meV (100 millielectron volt).(b) The kinetic energy of an air molecule is21
+19
+10J
+~ 0.0062eV
+1.610J/eV
+   This is the same as 6.2 meV.(c) The average human consumption in a day is310J
+~ 2400 kcal
+4.2×10J/kcal
+t
+PHYSICS128We point out a common misconception createdby newspapers and magazines. They mentionfood values in calories and urge us to restrictdiet intake to below 2400 calories. What theyshould be saying is kilocalories (kcal) and notcalories. A person consuming 2400 calories a
+day will soon starve to death! 1 food calorie is1 kcal.t6.10.6The Principle of Conservation of
+EnergyWe have seen that the total mechanical energyof the system is conserved if the forces doing workon it are conservative. If some of the forces
+involved are non-conservative, part of themechanical energy may get transformed intoother forms such as heat, light and sound.However, the total energy of an isolated systemdoes not change, as long as one accounts for allforms of energy.  Energy may be transformed fromone form to another but the total energy of anisolated system remains constant. Energy canneither be created, nor destroyed.Since the universe as a whole may be viewedas an isolated system, the total energy of the
+universe is constant. If one part of the universeloses energy, another part must gain an equalamount of energy.The principle of conservation of energy cannotbe proved. However, no violation of this principlehas been observed.  The concept of conservationand transformation of energy into various formslinks together various branches of physics,chemistry and life sciences. It provides a
+unifying, enduring element in our scientificpursuits. From engineering point of view allelectronic, communication and mechanicaldevices rely on some forms of energytransformation.6.11  POWEROften it is interesting to know not only the workdone on an object, but also the rate at which
+this work is done. We say a person is physicallyfit if he not only climbs four floors of a building
+but climbs them fast. Power is defined as thetime rate at which work is done or energy is
+transferred.The average power of a force is defined as theratio of the work, W, to the total time t takenPWtav
+The instantaneous power is defined as the
+limiting value of the average power as time
+interval approaches zero,ddWPt (6.21)The work dW done by a force F for a displacementdr is dW = F.
+dr.  The instantaneous power canalso be expressed asddPt F.
+r= F.v(6.22)where v is the instantaneous velocity when theforce is F.Power, like work and energy, is a scalarquantity.  Its dimensions are [ML2TŒ3]. In the SI,its unit is called a watt (W).  The watt is 1 J sŒ1.The unit of power is named after James Watt,one of the innovators of the steam engine in the
+eighteenth century.There is another unit of power, namely thehorse-power (hp)1 hp = 746 WThis unit is still used to describe the output of
+automobiles, motorbikes, etc.We encounter the unit watt when we buyelectrical goods such as bulbs, heaters and
+refrigerators.  A 100 watt bulb which is on for 10
+hours uses 1 kilowatt hour (kWh) of energy.100 (watt) ´ 10 (hour)= 1000 watt hour
+=1 kilowatt hour (kWh)
+= 103 (W) ´ 3600 (s)= 3.6 ´ 106 JOur electricity bills carry the energy
+consumption in units of kWh.  Note that kWh is
+a unit of energy and not of power.Example 6.11  An elevator can carry amaximum load of 1800 kg (elevator +passengers) is moving up with a constantspeed of 2 m sŒ1
+. The frictional force opposingthe motion is 4000 N. Determine theminimum power delivered by the motor to
+the elevator in watts as well as in horse
+power.u
+WORK, ENERGY AND POWER129Answer  The downward force on the elevator isF = m g + Ff = (1800 ´ 10) + 4000 = 22000 NThe motor must supply enough power to balancethis force.  Hence,P = F. v = 22000 ´ 2 = 44000 W = 59 hp         t6.12  COLLISIONSIn physics we study motion (change in position).At the same time, we try to discover physical
+quantities, which do not change in a physical
+process. The laws of momentum and energy
+conservation are typical examples. In this
+section we shall apply these laws to a commonly
+encountered phenomena, namely collisions.
+Several games such as billiards, marbles or
+carrom involve collisions.We shall study thecollision of two masses in an idealised form.Consider two masses m1 and m2.  The particlem1 is moving with speed v1i , the subscript ‚i™implying initial. We can cosider m2  to be at rest.No loss of generality is involved in making such
+a selection. In this situation the  mass m1collides  with  the stationary  mass m2  and  thisis depicted in  Fig. 6.10.Fig. 6.10 Collision of mass m1, with a stationary mass m2.The masses m1 and m2 fly-off in differentdirections.  We shall see that there arerelationships, which connect the masses, thevelocities and the angles.6.12.1  Elastic and  Inelastic CollisionsIn all collisions the total linear momentum isconserved; the initial momentum of the system
+is equal to the final momentum of the system.
+One can argue this as follows.  When two objects
+collide, the mutual impulsive forces acting over
+the collision time Dt cause a change in theirrespective momenta :Dp1 = F12  DtDp2 = F21  Dtwhere F12 is  the force exerted on the first particleby the second particle. F21 is likewise the forceexerted on the second particle by the first particle.
+Now from Newton™s third law, F12 = - F21.  ThisimpliesDp1 + Dp2 =  0The above conclusion is true even though the
+forces vary in a complex fashion during the
+collision time Dt. Since the third law is true atevery instant, the total impulse on the first object
+is equal and opposite to that on the second.On the other hand, the total kinetic energy ofthe system is not necessarily conserved. The
+impact and deformation during collision may
+generate heat and sound. Part of the initial kinetic
+energy is transformed into other forms of energy.
+A useful way to visualise the deformation duringcollision is in terms of a ‚compressed spring™. Ifthe ‚spring™ connecting the two masses regainsits original shape without loss in energy, thenthe initial kinetic energy is equal to the final
+kinetic energy but the kinetic energy during the
+collision time Dt is not constant. Such a collisionis called an elastic collision. On the other handthe deformation may not be relieved and the two
+bodies could move together after the collision. A
+collision in which the two particles move together
+after the collision is called a completely inelasticcollision. The intermediate case where thedeformation is partly relieved and some of the
+initial kinetic energy is lost is more common and
+is appropriately called an inelastic collision.6.12.2  Collisions in One DimensionConsider first a completely inelastic collisionin one dimension. Then,  in Fig. 6.10, q 1 = q 2 = 0 m1v1i = (m1+m2)vf    (momentum conservation) 1112
+fi
+mvv
+mm
+                              (6.23)The loss in kinetic energy on collision is22
+112
+11
+22
+1if
+Kmvmmv
+    
+()
+    222
+1111
+12
+11
+22
+ii
+mmvv
+ mm
+  
+     [using Eq. (6.23)]21
+11
+12
+112immv
+mm
+  
+  
+  
+   
+
+PHYSICS130t212
+112
+12imm
+vmm
+  which is a positive quantity as expected.Consider next an elastic collision.  Using theabove nomenclature with q1 = q2 = 0, themomentum and kinetic energy conservationequations arem1v1i = m1v1f + m2v2f(6.24)222
+111122
+iff
+mvmvmv
+  
+(6.25)From  Eqs. (6.24)  and (6.25) it follows that,11211121
+()()
+ifi
+fff
+mvvvmvvv
+   
+or,22
+21111
+()
+fifif
+vvvvv
+   
+1111
+()()
+ifif
+vvvv
+   
+Hence, 211
+fif
+vvv
+   
+(6.26)Substituting this in Eq. (6.24), we obtain12
+11
+12
+()
+fi
+mm
+vv
+mm
+   (6.27)and11
+212
+2ifmv
+vmm
+  (6.28)Thus, the ‚unknowns™ {v1f, v2f} are obtained interms of the ‚knowns™ {m1, m2, v1i}. Special casesof our analysis are interesting.Case I : If the two masses are equalv1f = 0v2f =  v1iThe first mass comes to rest and pushes off thesecond mass with its initial speed on collision.Case II : If one mass dominates, e.g. m2 > > m1v1f  ~ - v1i      v2f ~ 0The heavier mass is undisturbed while thelighter mass reverses its velocity.Example 6.12  Slowing down of neutrons:In a nuclear reactor a neutron of high
+speed (typically 107 m sŒ1) must be slowedAn experiment on head-on collisionIn performing an experiment on collision on a horizontal surface, we face three difficulties.
+One, there will be friction and bodies will not travel with uniform velocities. Two, if two bodies
+of different sizes collide on a table, it would be difficult to arrange them for a head-on collision
+unless their centres of mass are at the same height above the surface. Three, it will be fairly
+difficult to measure velocities of the two bodies just before and just after collision.By performing this experiment in a vertical direction, all the three difficulties vanish. Taketwo balls, one of which is heavier (basketball/football/volleyball) and the other lighter (tennis
+ball/rubber ball/table tennis ball). First take only the heavier ball and drop it vertically from
+some height, say 1 m. Note to which it rises. This gives the velocities near the floor or ground,just before and just after the bounce (by using 22vgh
+). Hence youwill get the coefficient of restitution.Now take the big ball and a small ball and hold them in yourhands one over the other, with the heavier ball below the lighterone, as shown here. Drop them together, taking care that they remaintogether while falling, and see what happens. You will find that theheavier ball rises less than when it was dropped alone, while thelighter one shoots up to about 3 m. With practice, you will be able to
+hold the ball properly so that the lighter ball rises vertically up and
+does not fly sideways. This is head-on collision.You can try to find the best combination of balls which gives youthe best effect. You can measure the masses on a standard balance.We leave it to you to think how you can determine the initial andfinal velocities of the balls.
+WORK, ENERGY AND POWER131tto 103 m sŒ1 so that it can have a highprobability of interacting with isotope 92
+235
+Uand causing it to fission. Show that aneutron can lose most of its kinetic energy
+in an elastic collision with a light nuclei
+like deuterium or carbon which has a mass
+of only a few times the neutron mass.  The
+material making up the light nuclei, usually
+heavy water (D2O) or graphite, is called amoderator.Answer  The initial kinetic energy of the neutronis2111
+12ii
+Kmv
+ while its final kinetic energy from Eq. (6.27)22212
+11111
+12
+11
+22
+ff
+imm
+Kmv    m
+vmm
+   
+  
+  
+   
+The fractional kinetic energy lost is2112
+1112
+fiKmm
+fKmm
+  
+   
+  
+   
+while the fractional kinetic energy gained by the
+moderating nuclei K2f /K1i  isf2 = 1 - f1 (elastic collision)  
+12
+212
+4mm
+mm
+  One can also verify this result by substituting
+from Eq. (6.28).For deuterium m2 = 2m1 and we obtainf1 = 1/9  while f2 = 8/9.  Almost 90% of theneutron™s energy is transferred to deuterium. For
+carbon f1 = 71.6% and f2 = 28.4%.  In practice,however, this number is smaller since head-oncollisions are rare.tIf the initial velocities and final velocities ofboth the bodies are along the same straight line,
+then it is called a one-dimensional collision, or
+head-on collision. In the case of small sphericalbodies, this is possible if the direction of travel
+of body 1 passes through the centre of body 2
+which is at rest. In general, the collision is two-
+dimensional, where the initial velocities and the
+final velocities lie in a plane.6.12.3  Collisions in Two DimensionsFig. 6.10 also depicts the collision of a movingmass m1 with the stationary mass m2. Linearmomentum is conserved in such a collision.
+Since momentum is a vector this implies threeequations for the three directions {x, y, z}.Consider the plane determined by the final
+velocity directions of m1 and m2 and choose it tobe the x-y plane. The conservation of thez-component of the linear momentum impliesthat the entire collision is in the x-y plane. Thex- and y-component equations arem1v1i = m1v1f cos q 1 + m2v2f cos q 2     (6.29)0  = m1v1f  sin q1 -  m2v2f sin q2        (6.30)One knows {m1, m2, v1i} in most situations.  Thereare thus four unknowns {v1f, v2f, q1 and q2}, andonly two equations. If q 1 = q 2 = 0, we regainEq. (6.24) for one dimensional collision.If, further the collision is elastic,222
+1111
+22
+111
+222
+iff
+mvmvmv
+  
+(6.31)We obtain an additional equation. That stillleaves us one equation short.  At least one ofthe four unknowns, say q 1, must be made knownfor the problem to be solvable. For example, q1can be determined by moving a detector in an
+angular fashion from the x  to the y  axis. Given{m1, m2, v1i, q1} we can determine {v1f, v2f, q2}from Eqs. (6.29)-(6.31).Example 6.13  Consider the collisiondepicted in Fig. 6.10 to be between two
+billiard balls with equal masses m1 = m2.The first  ball  is  called the cue while the
+second ball is called the target. The
+billiard player wants to ‚sink™ the targetball in a corner pocket, which is at an
+angle q2 = 37°. Assume that the collisionis elastic and that friction and rotational
+motion are not important.  Obtain q 1.Answer   From momentum conservation, sincethe masses are equal2f1f1i
+vvv
+
+or    
+1i
+v    
+vvvv
+
+          22
+1212
+2.
+ffff
+vv
+   
+vv
+
+PHYSICS132    22
+12121
+ 2cos 37 
+ffff
+vvvv
+      
+(6.32)Since the collision is elastic and m1 = m2 it followsfrom conservation of kinetic energy that222
+112
+ iff
+vvv
+  
+(6.33)Comparing Eqs. (6.32) and (6.33), we getcos (q1 + 37°) = 0orq1 + 37° = 90°Thus,    q1 = 53°This proves the following result :  when two equalmasses undergo a glancing elastic collision with
+one of them at rest, after the collision, they will
+move at right angles to each other.                tThe matter simplifies greatly if we considerspherical masses with smooth surfaces, andassume that collision takes place only when thebodies touch each other. This is what happensin the games of marbles, carrom and billiards.In our everyday world, collisions take place onlywhen two bodies touch each other. But considera comet coming from far distances to the sun, or
+alpha particle coming towards a nucleus andgoing away in some direction. Here we have todeal with forces involving action at a distance.Such an event is called scattering. The velocitiesand directions in which the two particles go awaydepend on their initial velocities as well as the
+type of interaction between them, their masses,shapes and sizes.SUMMARY1.The work-energy theorem states  that  the change in kinetic energy of a body is the workdone by the net force on the body.Kf - Ki = Wnet2.A  force is conservative if (i) work done by it on an object is path  independent anddepends only on the end points {xi, xj}, or (ii) the work done by the force is zero for anarbitrary closed path taken by the object such that it returns to its initial position.3.For a conservative force in one dimension, we may define a potential energy function V(x)such thatFx
+Vx
+x()=-
+()
+ddorVV=Fx x
+if
+xxif-()òd4.The principle of conservation of mechanical energy states that the total mechanicalenergy of a body remains constant if the only forces that act on the body are conservative.5.The gravitational potential energy of a particle of mass m at a height x  about the earth™ssurface isV(x) = m g xwhere the variation of g with height is ignored.6.The elastic potential energy of a spring of force constant k  and extension x isVx   k x
+()=1227.The scalar or dot product of two vectors A and B is written as A.B  and is a scalarquantity given by :A.B = AB cos q,  where q  is the angle between A and B.  It can bepositive, negative or zero depending upon the value of q. The scalar product of twovectors can be interpreted as the product of magnitude of one vector and componentof the other vector along the first vector. For unit vectors :‹‹‹‹‹‹
+iijjkk
+×=×=×=
+1 and ‹‹‹‹‹‹
+ijjkki
+×=×=×=
+0Scalar products obey the commutative and  the distributive laws.
+WORK, ENERGY AND POWER133POINTS TO PONDER1.The phrase ‚calculate the work done™ is incomplete. We should refer (or implyclearly by context) to the work done by a specific force or a group of forces on a
+given  body over a certain displacement.2.Work done is a scalar quantity. It can be positive or negative unlike mass andkinetic energy which are positive scalar quantities. The work done by the frictionor viscous force on a moving body is negative.3.For two bodies, the sum of the mutual forces exerted between them is zero fromNewton™s Third Law,F12  +  F21  =  0But the sum of the work done by the two forces need not always cancel, i.e.W12  + W21  ¹  0However, it may sometimes be true.4.The work done by a force can be calculated sometimes even if the exact nature of
+the force is not known. This is clear from Example 6.2 where the WE theorem isused in such a situation.5.The WE theorem is not independent of Newton™s Second Law. The WE theoremmay be viewed as a scalar form of the Second Law. The principle of conservation
+of mechanical energy may be viewed as a consequence of the  WE theorem for
+conservative forces.6.The WE theorem holds in all inertial frames. It can also be extended to non-
+inertial frames provided we include the pseudoforces in the calculation of the
+net force acting on the body under consideration.7.The potential energy of a body subjected to a conservative force is always
+undetermined upto a constant. For example, the point where the potentialenergy is zero is a matter of choice. For the gravitational  potential energy mgh,the zero of the potential energy is chosen to be the ground. For the spring
+potential energy kx2/2 , the zero of the potential energy is the equilibrium positionof the oscillating mass.8.Every force encountered in mechanics does not have an associated potential
+energy. For example, work done by friction over a closed path is not zero and nopotential energy can be associated with friction.9.During a collision : (a) the total linear momentum is conserved at each instant ofthe collision ; (b) the kinetic energy conservation (even if the collision is  elastic)applies after the collision is over and does not hold at every instant of the collision.
+In fact the two colliding objects are deformed and may be momentarily at restwith respect to each other.
+PHYSICS134EXERCISES6.1The sign of work done by a force on a body is important to understand.  State carefullyif the following quantities are positive or negative:(a)work done by a man in lifting a bucket out of a well by means of a rope tied to thebucket.(b)work done by gravitational force in the above case,(c)work done by friction on a body
+sliding down an inclined plane,(d)work done by an applied force on
+a body moving on a rough
+horizontal plane with uniformvelocity,(e)work done by the resistive force ofair on a vibrating pendulum in
+bringing it to rest.6.2A body of mass 2 kg initially at restmoves under the action of an appliedhorizontal force of 7 N on a table withcoefficient of kinetic friction = 0.1.
+Compute the
+(a)work done by the applied force in10 s,(b)work done by friction in 10 s,(c)work done by the net force on thebody in 10 s,(d)change in kinetic energy of thebody in 10 s,and interpret your results.6.3Given in Fig. 6.11 are examples of somepotential energy functions in one
+dimension. The total energy of theparticle is indicated by a cross on theordinate axis. In each case, specify the
+regions, if any, in which the particle
+cannot be found for the given energy.
+Also, indicate the minimum totalenergy the particle must have in eachcase. Think of simple physical contexts
+for which these potential energy shapes
+are relevant.Fig. 6.11
+WORK, ENERGY AND POWER1356.4The potential energy function for aparticle executing linear simpleharmonic motion is given by V(x) =kx2/2, where k  is the force constantof the oscillator.  For k  = 0.5 N m-1,the graph of V(x)  versus  x  is shownin Fig. 6.12.  Show that a particle of
+total energy 1 J moving under thispotential must ‚turn back™ when it
+reaches x  = ± 2 m.6.5Answer the following :(a)The casing of a rocket in flightburns up due to friction.  At
+whose expense is the heat
+energy required for burning
+obtained?  The rocket or theatmosphere?(b)Comets move around the sunin highly elliptical orbits.  The
+gravitational force on thecomet due to the sun is notnormal to the comet™s velocityin general.  Yet the work done by the gravitational force over every complete orbitof the comet is zero.  Why ?(c)An artificial satellite orbiting the earth in very thin atmosphere loses its energy
+gradually due to dissipation against atmospheric resistance, however small. Whythen does its speed increase progressively as it comes closer and closer to the earth ?(d)In Fig. 6.13(i) the man walks  2 m carrying a mass of 15 kg on his hands. In Fig.
+6.13(ii), he walks the same distance pulling the rope behind him. The rope goes
+over a pulley, and a mass of 15 kg hangs at its other end. In which case is the work
+done greater ?6.6Underline the correct alternative :
+(a)When a conservative force does positive work on a body, the potential energy of
+the body increases/decreases/remains unaltered.(b)Work done by a body against friction always results in a loss of its kinetic/potentialenergy.(c)The rate of change of total momentum of a many-particle system is proportional
+to the external force/sum of the internal forces on the system.(d)In an inelastic collision of two bodies, the quantities which do not change after
+the collision are the total kinetic energy/total linear momentum/total energy of
+the system of two bodies.6.7State if each of the following statements is true or false.  Give reasons for your answer.(a)In an elastic collision of two bodies, the momentum and energy of each body is
+conserved.(b)Total energy of a system is always conserved, no matter what internal and external
+forces on the body are present.(c)Work done in the motion of a body over a closed loop is zero for every force innature.(d)In an inelastic collision, the final kinetic energy is always less than the initial
+kinetic energy of the system.6.8Answer carefully, with reasons :(a)In an elastic collision of two billiard balls, is the total kinetic energy conservedduring the short time of collision of the balls (i.e. when they are in contact) ?(b)Is the total linear momentum conserved during the short time of an elastic collision
+of two balls ?Fig. 6.13Fig. 6.12
+PHYSICS136(c)What are the answers to (a) and (b) for an inelastic collision ?(d)If the potential energy of two billiard balls depends only on the separation distancebetween their centres, is the collision elastic or inelastic ?  (Note, we are talkinghere of potential energy corresponding to the force during collision, not gravitational
+potential energy).6.9A body is initially at rest. It undergoes one-dimensional motion with constant
+acceleration.  The power delivered to it at time t is proportional to(i) t1/2 (ii) t(iii) t3/2(iv)   t26.10A body is moving unidirectionally under the influence of a source of constant power.Its displacement in time t is proportional to(i) t1/2 (ii) t(iii) t3/2(iv)   t26.11A body constrained to move along the z-axis of a coordinate system is subject to aconstant force F given byN‹ 3
+‹ 2
+‹ kjiF
+
+where k ,j ,i
+‹‹‹ are unit vectors along the x-, y- and z-axis of the system respectively.What is the work done by this force in moving the body a distance of 4 m along thez-axis ?6.12An electron and a proton are detected in a cosmic ray experiment, the first with kinetic
+energy 10 keV, and the second with 100 keV.  Which is faster, the electron or theproton ? Obtain the ratio of their speeds. (electron mass = 9.11´10-31 kg, proton mass= 1.67´10Œ27 kg, 1 eV = 1.60 ´10Œ19 J).6.13A rain drop of radius 2 mm falls from a height of 500 m above the ground.  It falls with
+decreasing acceleration (due to viscous resistance of the air) until at half its original
+height, it attains its maximum (terminal) speed, and moves with uniform speed
+thereafter.  What is the work done by the gravitational force on the drop in the firstand second half of its journey ? What is the work done by the resistive force in the
+entire journey if its speed on reaching the ground is 10 m sŒ1  ?6.14A molecule in a gas container hits a horizontal wall with speed 200 m sŒ1 and angle 30°with the normal, and rebounds with the same speed.  Is momentum conserved in the
+collision ?  Is the collision elastic or inelastic ?6.15A pump on the ground floor of a building can pump up water to fill a tank of volume 30 m3in 15 min.  If the tank is 40 m above the ground, and the efficiency of the pump is 30%,
+how much electric power is consumed by the pump ?6.16Two identical ball bearings in contact with each other and resting on a frictionless
+table are hit head-on by another ball bearing of the same mass moving initially with aspeed V.  If the collision is elastic, which of the following  (Fig. 6.14) is a possible resultafter collision ?Fig. 6.14
+WORK, ENERGY AND POWER1376.17The bob A of a pendulum released from 30o to thevertical hits another bob B of the same mass at reston a table as shown in Fig. 6.15.  How high doesthe bob A rise after the collision? Neglect the size ofthe bobs and assume the collision to be elastic.6.18The bob of a pendulum is released from a horizontal
+position. If the length of the pendulum is 1.5 m,what is the speed with which the bob arrives at thelowermost point, given that it dissipated 5% of its
+initial energy against air resistance ?6.19A trolley of mass 300 kg carrying a sandbag of 25 kg
+is moving uniformly with a speed of 27 km/h on africtionless track.  After a while, sand starts leakingout of a hole on the floor of the trolley at the rate of
+0.05 kg sŒ1.  What is the speed of the trolley after the entire sand bag is empty ?6.20A body of mass 0.5 kg travels in a straight line with velocity  v =a x3/2  where a = 5 mŒ1/2  sŒ1.What is the work done by the net force during its displacement from x = 0 tox = 2 m ?6.21The blades of a windmill sweep out a circle of area A.  (a) If the wind flows at avelocity v  perpendicular to the circle, what is the mass of the air passing through itin time t?  (b) What is the kinetic energy of the air ?  (c) Assume that the windmillconverts 25% of the wind™s energy into electrical energy, and that A = 30 m2, v = 36km/h and the density of air is 1.2 kg mŒ3.  What is the electrical power produced ?6.22A person trying to lose weight (dieter) lifts a 10 kg mass, one thousand times, to a
+height of  0.5 m each time. Assume that the potential energy lost each time shelowers the mass is dissipated. (a) How much work does she do against the gravitationalforce ?  (b) Fat supplies 3.8 × 107J of energy per kilogram which is converted tomechanical energy with a 20% efficiency rate.  How much fat will the dieter use up?6.23A family uses 8 kW of power. (a) Direct solar energy is incident on the horizontalsurface at an average rate of 200 W per square meter.  If 20% of this energy can beconverted  to  useful  electrical  energy, how large an area is needed to supply 8 kW?
+(b) Compare this area to that of the roof of a typical house.Additional Exercises6.24A bullet of mass 0.012 kg and horizontal speed 70 m sŒ1 strikes a block of wood ofmass 0.4 kg and instantly comes to rest with respect to the block. The block issuspended from the ceiling by means of thin wires. Calculate the height to whichthe block rises.  Also, estimate the amount of heat produced in the block.6.25Two inclined frictionless tracks, one gradual and the other steep meet at A from
+where two stones are allowed to slide down from rest, one on each track (Fig. 6.16).
+Will the stones reach the bottom at the same time? Will they reach there with thesame speed?  Explain. Given q1 = 300, q2 = 600, and h = 10 m, what are the speeds andtimes taken by the two stones ?Fig. 6.16Fig. 6.15
+PHYSICS1386.26A 1 kg block situated on a rough incline is connected to a spring of spring constant 100N mŒ1 as shown in Fig. 6.17.  The block is released from rest with the spring in theunstretched position. The block moves 10 cm down the incline before coming to rest.
+Find the coefficient of friction between the block and the incline. Assume that the
+spring has a negligible mass and the pulley is frictionless.Fig. 6.176.27A bolt of mass 0.3 kg falls from the ceiling of an elevator moving down with an uniform
+speed of 7 m sŒ1.  It hits the floor of the elevator (length of the elevator = 3 m) and doesnot rebound. What is the heat produced by the impact ? Would your answer be differentif the elevator were stationary ?6.28A trolley of mass 200 kg moves with a uniform speed of 36 km/h on a frictionless track.
+A child of mass 20 kg runs on the trolley from one end to the other (10 m away) with a
+speed of 4 m sŒ1 relative to the trolley in a direction opposite to the its motion, andjumps out of the trolley. What is the final speed of the trolley ? How much has the
+trolley moved from the time the child begins to run ?6.29Which of the following potential energy curves in Fig. 6.18 cannot possibly describe theelastic collision of two billiard balls ?  Here r is the distance between centres of the balls.Fig. 6.186.30Consider the decay of a free neutron at rest :  n gp + eŒ
+WORK, ENERGY AND POWER139Show that the two-body decay of this type must necessarily give an electron of fixedenergy and, therefore, cannot account for the observed continuous energy distributionin the b-decay of a neutron or a nucleus (Fig. 6.19).Fig. 6.19[Note: The simple result of this exercise was one among the several arguments advanced by W.Pauli to predict the existence of a third particle in the decay products of b-decay.  Thisparticle is known as neutrino.  We now know that it is a particle of intrinsic spin ½  (likeeŠ, p or n), but is neutral, and either massless or having an extremely small mass(compared to the mass of electron) and which interacts very weakly with matter. Thecorrect decay process of neutron is : n g p + eŒ + n ]
+PHYSICS140APPENDIX 6.1 : POWER CONSUMPTION IN WALKINGThe table below lists the approximate power expended by an adult human of mass 60 kg.Table 6.4 Approximate power consumptionMechanical work must not be confused with the everyday usageof the term work.  A woman standing with a very heavy load onher head may get very tired.  But no mechanical work is involved.
+That is not to say that mechanical work cannot be estimated in
+ordinary human activity.Consider a person walking with constant speed v0. The mechanical work he does may be estimated simplywith the help of the work-energy theorem. Assume :
+(a)The major work done in walking is due to the acceleration and deceleration of the legs with each stride
+(See Fig. 6.20).(b)Neglect air resistance.(c)Neglect the small work done in lifting the legs against gravity.(d)Neglect the swinging of hands etc. as is common in walking.As we can see in Fig. 6.20, in each stride the leg is brought from rest to a speed, approximately equal to the
+speed of walking, and then brought to rest again.Fig. 6.20An illustration of a single stride in walking. While the first leg is maximally off the round, the second legis on the ground and vice-versaThe work done by one leg in each stride is 20l
+v m
+  by the work-energy theorem. Here m
+l  is the mass of the leg.Note 2/
+20l
+v m
+ energy is expended by one set of leg muscles to bring the foot from rest to speed v0 while anadditional 2/
+20l
+v m
+  is expended by a complementary set of leg muscles to bring the foot to rest from speed v0.Hence work done by both legs in one stride is (study Fig. 6.20 carefully)20ls
+v mW
+2(6.34)Assuming ml€= 10 kg and slow running of a nine-minute mile which translates to 3 m s-1 in SI units, we obtainWs180
+ J
+/stride
+If we take a stride to be 2 m long, the person covers 1.5 strides per second at his speed of  3 m s-1.  Thus thepower expended     secondstride1.5strideJ180P        =  270 WWe must bear in mind that this is a lower estimate since several avenues of power loss (e.g. swinging of hands,air resistance etc.) have been ignored.  The interesting point is that we did not worry about the forces involved.
+The forces, mainly friction and those exerted on the leg by the muscles of the rest of the body, are hard to
+estimate. Static friction does no work and we bypassed the impossible task of estimating the work done by the
+muscles by taking recourse to the work-energy theorem. We can also see the advantage of a wheel. The wheelpermits smooth locomotion without the continual starting and stopping in mammalian locomotion.

@@ -1,0 +1,160 @@
+MCQ I4.1The angle between ‹‹
+=+
+Aij
+ and ‹‹
+=-
+Bij
+is(a)45° (b) 90° (c) Œ45° (d) 180°4.2Which one of the following statements is true?(a)A scalar quantity is the one that is conserved in a process.(b)A scalar quantity is the one that can never take negative values.(c)A scalar quantity is the one that does not vary from one pointto another in space.(d)A scalar quantity has the same value for observers withdifferent orientations of the axes.4.3Figure 4.1 shows the orientation of two vectors u and v in the XYplane.If ‹‹
+ab
+=+
+uij
+ and‹‹
+pq
+=+
+vij
+Chapter FourMOTION IN A PLANEuYXvOFig. 4.1
+Exemplar ProblemsŒPhysics20which of the following is correct?(a)a and p are positive while b and q are negative.(b)a, p and b are positive while q is negative.(c)a, q and b are positive while p is negative.(d)a, b, p and q are all positive.4.4The component of a vector r along X-axis will have maximum valueif
+(a)r is along positive Y-axis(b)r is along positive X-axis(c)r makes an angle of 45° with the X-axis(d)r is along negative Y-axis4.5The horizontal range of a projectile fired at an angle of 15° is 50 m.If it is fired with the same speed at an angle of 45°, its range willbe
+(a) 60 m(b) 71 m(c) 100 m(d) 141 m4.6Consider the quantities, pressure, power, energy, impulse,gravitational potential, electrical charge, temperature, area. Outof these, the only vector quantities are(a) Impulse, pressure and area(b) Impulse and area(c) Area and gravitational potential(d) Impulse and pressure4.7In a two dimensional motion, instantaneous speed v0 is a positiveconstant. Then which of the following are necessarily true?(a)The average velocity is not zero at any time.(b)Average acceleration must always vanish.(c)Displacements in equal time intervals are equal.(d)Equal path lengths are traversed in equal intervals.4.8In a two dimensional motion, instantaneous speed v0 is a positiveconstant. Then which of the following are necessarily true?(a)The acceleration of the particle is zero.(b)The acceleration of the particle is bounded.(c)The acceleration of the particle is necessarily in the plane ofmotion.(d)The particle must be undergoing a uniform circular motion
+Motion in a Plane214.9Three vectors A,B and C  add up to zero. Find which is false.(a)(A×B) × C is not zero unless B,C are parallel(b)(A×B).C is not zero unless B,C are parallel(c)If A,B,C define a plane, (A×B)×C is in that plane(d)(A×B).C=|A||B||C|®®®®® C2=A2+B24.10It is found that |A+B|=|A|.This necessarily implies,(a)B = 0(b)A,B are antiparallel(c)A,B are perpendicular(d)A.B £ 0MCQ II4.11Two particles are projected in air with speed vo  at angles q1 and q2(both acute) to the horizontal, respectively. If the height reachedby the first particle is greater than that of the second, then tickthe right choices(a)angle of projection : q1 > q2(b)time of flight : T1 > T2(c)horizontal range : R1 > R2(d)total energy : U1 > U2.4.12A particle slides down a frictionless parabolic(y = x2) track (A Œ B Œ C) starting from rest atpoint A (Fig. 4.2). Point B is at the vertex of
+parabola and point C is at a height less thanthat of point A. After C, the particle moves freelyin air as a projectile. If the particle reacheshighest point at P, then(a)KE at P = KE at B(b)height at P = height at A(c)total energy at P = total energy at A(d)time of travel from A to B = time of travel fromB to P.4.13Following are four differrent relations about displacement, velocityand acceleration for the motion of a particle in general. Choose
+the incorrect one (s) :(a)[]
+12
+1()()
+2av
+tt
+=+
+vvv
+(b)21
+21
+()()
+av
+tt
+tt
+-=-rr
+vAy-x2-x1B-xo(0)
+x =PxCvoFig. 4.2
+Exemplar ProblemsŒPhysics22(c)()
+2121
+1()()()
+2tttt
+=--
+rvv
+(d)21
+21
+()()
+av
+tt
+tt
+-=-vv
+a4.14For a particle performing uniform circular motion, choose the correctstatement(s) from the following:(a)Magnitude of particle velocity (speed) remains constant.(b)Particle velocity remains directed perpendicular to radius vector.(c)Direction of acceleration keeps changing as particle moves.(d)Angular momentum is constant in magnitude but directionkeeps changing.4.15For two vectors A and B, +=-
+AB AB 
+ is always true when(a)0=¹
+AB 
+(b)^AB
+(c)0=¹
+AB 
+and A and B are parallel or anti parallel(d)when either Aor B 
+is zero.VSA4.16A cyclist starts from centre O of a circular park of radius 1km andmoves along the path OPRQO as shown Fig. 4.3. If he maintains
+constant speed of 10msŒ1, what is his acceleration at point R inmagnitude and direction?4.17A particle is projected in air at some angle to the horizontal,
+moves along parabola as shown in Fig. 4.4, where x and yindicate horizontal and vertical directions, respectively. Show
+in the diagram, direction of velocity and acceleration at pointsA, B and C.Fig. 4.3Fig. 4.4yxAHBCQRPO
+Motion in a Plane234.18A ball is thrown from a roof top at an angle of 45° above thehorizontal. It hits the ground a few seconds later. At what pointduring its motion, does the ball have(a)greatest speed.(b)smallest speed.(c)greatest acceleration?Explain4.19A football is kicked into the air vertically upwards. What is its(a) acceleration, and (b) velocity at the highest point?4.20A, B and C are three non-collinear, non co-planar vectors.Whatcan you say about direction of A × (B × C)?SA4.21A boy travelling in an open car moving on a levelled road withconstant speed tosses a ball vertically up in the air and catches itback. Sketch the motion of the ball as observed by a boy standing
+on the footpath. Give explanation to support your diagram.4.22A boy throws a ball in air at 60° to the horizontal along a road witha speed of 10 m/s (36km/h). Another boy sitting in a passing bycar observes the ball. Sketch the motion of the ball as observed bythe boy in the car, if car has a speed of (18km/h). Give explanationto support your diagram.4.23In dealing with motion of projectile in air, we ignore effect of airresistance on motion. This gives trajectory as a parabola as youhave studied. What would the trajectory look like if air resistanceis included? Sketch such a trajectory and explain why you have
+drawn it that way.4.24A fighter plane is flying horizontally at an altitude of 1.5 km with
+speed 720 km/h. At what angle of sight (w.r.t. horizontal) whenthe target is seen, should the pilot drop the bomb in order toattack the target?4.25(a)Earth can be thought of as a sphere of radius 6400 km. Anyobject (or a person) is performing circular motion around theaxis of earth due to earth™s rotation (period 1 day). What isacceleration of object on the surface of the earth (at equator)towards its centre? what is it at latitude q? How does theseaccelerations compare with  g = 9.8 m/s2?
+Exemplar ProblemsŒPhysics24(b)Earth also moves in circular orbit around sun once every yearwith on orbital radius of 11
+1.510
+m´. What is the acceleration ofearth (or any object on the surface of the earth) towards thecentre of the sun? How does this acceleration compare withg = 9.8 m/s2?22
+24VR
+Hint:acceleration
+RT
+p
+=
+
+4.26Given below in column I are the relations between vectors a, b andc and in column II are the orientations of a, b and c in the XYplane. Match the relation in column I to correct orientations incolumn II.Column IColumn II(a)+=
+abc
+(b)a Œ c = b(c)b Œ a = c(d)a + b + c = 0(ii)(iii)(iv)(i)
+Motion in a Plane254.27If 2and4
+==
+AB
+, then match the relations in column I withthe angle qbetween and
+AB
+ in column II.Column IColumn II(a)A.B = 0(i)q = 0(b)A.B = +8(ii)q = 90°(c)A.B = 4(iii)q = 180°(d)A.B = Œ8(iv)q = 60°4.28If 2and4
+==
+AB
+, then match the relations in column I withthe angle q between A and B in column IIColumn IColumn II(a)0´=
+AB
+(i)q = 30°(b)8´=
+AB
+(ii)q = 45°(c)4´=
+AB
+(iii)q = 90°(d)42
+´=
+AB
+(iv)q = 0°LA4.29A hill is 500 m high. Supplies are to be sent across the hill using acanon that can hurl packets at a speed of 125 m/s over the hill.The canon is located at a distance of 800m from the foot of hill andcan be moved on the ground at a speed of 2 m/s; so that its distance
+from the hill can be adjusted. What is the shortest time in which a
+packet can reach on the ground across the hill ? Take g =10 m/s2.4.30A gun can fire shells with maximum speed ovand themaximum horizontal range that can be achieved is 2ovRg=.vovoPTxRqqhFig 4.5
+Exemplar ProblemsŒPhysics26qLPIf a target farther away by distance xD(beyond R) has tobe hit with the same gun (Fig 4.5), show that it could beachieved by raising the gun to a height at least1xhx
+RD
+=D
++
+
+(Hint : This problem can be approached in two different ways:(i)Refer to the diagram: target T  is  at horizontal distancex = R + Dx and below point of projection  y = Œ h.(ii)From point P in the diagram: Projection at speed ov at  anangle q below horizontal with height h and horizontalrange Dx.)4.31A particle is projected in air at an anglebto a surface which itself is inclined atan angle a to the horizontal (Fig. 4.6).(a)Find an expression of range on theplane surface (distance on the plane
+from the point of projection at which
+particle will hit the surface).(b)Time of flight.(c)bat which range will be maximum.(Hint :  This problem can be solved in two different ways:(i)Point P at which particle hits the plane can be seen asintersection of its trajectory (parobola) and straight line.Remember particle is projected at an angle ()ab
++ w.r.t.horizontal.(ii)We can take x-direction along the plane andy-direction perpendicular to the plane. In that case resolve g(acceleration due to gravity) in two differrent components, gxalong the plane and gy perpendicular to the plane. Now theproblem can be solved as two independent motions in x andy directions respectively with time as a common parameter.)4.32A particle falling vertically from a height hits a plane surface inclinedto horizontal at an angle q with speed ov and rebounds elastically(Fig 4.7). Find the distance along the plane where if will hit
+second time.Fig. 4.6Fig 4.7
+Motion in a Plane27NEBA3m/s(Hint:(i)After rebound, particle still has speed oV to start.(ii)Work out angle particle speed has with horizontal after itrebounds.(iii)Rest is similar to if particle is projected up the incline.)4.33A girl riding a bicycle with a speed of 5 m/s towards north direction,observes rain falling vertically down. If she increases her speed to
+10 m/s, rain appears to meet her at 45° to the vertical. What is thespeed of the rain? In what direction does rain fall as observed by a
+ground based observer?(Hint: Assume north to be ‹i direction and vertically downward tobe ‹-j. Let the rain velocity rv be ‹‹
+ab
++ij
+. The velocity of rain asobserved by the girl is always rgirl
+-vv
+. Draw the vector diagram/sfor the information given and find a and b. You may draw all vectorsin the reference frame of ground based observer.)4.34A river is flowing due east with a speed 3m/s. Aswimmer can swim in still water at a speed of 4 m/s
+(Fig. 4.8).(a)If swimmer starts swimming due north, what willbe his resultant velocity (magnitude and direction)?(b)If he wants to start from point A on south bank andreach opposite point B on north bank,(a) which direction should he swim?(b) what will be his resultant speed?(c)From two different cases as mentioned in (a) and (b)above, in which case will he reach opposite bank in
+shorter time?4.35A cricket fielder can throw the cricket ball with a speed vo. If hethrows the ball while running with speed u at an angle q to thehorizontal, find(a)the effective angle to the horizontal at which the ball is projectedin air as seen by a spectator.(b)what will be time of flight?(c)what is the distance (horizontal range) from the point ofprojection at which the ball will land?Fig. 4.8
+Exemplar ProblemsŒPhysics28(d)find q at which he should throw the ball that would maximisethe horizontal range as found in (iii).(e)how does q for maximum range change if u >vo, u = vo, u < vo?(f)how does q in (v) compare with that for u = 0 (i.e.45o)?4.36Motion in two dimensions, in a plane can be studied by expressingposition, velocity and acceleration as vectors in Cartesianco-ordinates Aij
+=+
+AA
+xy
+‹‹
+ where ‹‹
+ij
+and
+ are unit vector alongx and y directions, respectively and Ax and Ay are correspondingcomponents of A (Fig. 4.9). Motion can also be studied byexpressing vectors in circular polar co-ordinates as Ar
+=+
+AA
+r‹‹qqq
+where ‹‹‹
+rrij
+==+
+rcossin
+qq
+and ‹‹‹
+qq
+=-+
+sincos
+qq
+ij
+ are unitvectors along direction in which ‚r™ and ‚q™ are increasing.Fig. 4.10Fig. 4.9P (x, y) = (r,)
+qvYyrjiXxqq(a)Express ‹‹
+and
+ij
+ in terms of ‹‹and
+rqqq
+q.(b)Show that both ‹‹rand
+qq
+ are unit vectors and areperpendicular to each other.(c)Show that ddt
+‹‹r()=
+wqq
+  wherewq=ddt
+ and ddt
+(‹)qq
+ = -w‹r(d)For a particle moving along a spiral given byrr
+=aq‹, where a = 1 (unit), find dimensions of ‚a™.(e)Find velocity and acceleration in polar vectorrepresention for particle moving along spiral
+described in (d) above.4.37A man wants to reach from A to the opposite corner of thesquare C (Fig. 4.10). The sides of the square are 100 m. Acentral square of 50m × 50m is filled with sand. Outside
+this square, he can walk at a speed 1 m/s. In the central
+square, he can walk only at a speed of v m/s (v < 1). What issmallest value of v for which he can reach faster via a straightpath through the sand than any path in the square outside
+the sand?

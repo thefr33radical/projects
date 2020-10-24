@@ -1,0 +1,132 @@
+MCQ I2.1The number of significant figures in 0.06900 is(a)5
+(b)4
+(c)2
+(d)3
+2.2The sum of the numbers 436.32, 227.2 and 0.301 in appropriatesignificant figures is(a)663.821
+(b)664
+
+(c)663.8
+
+(d)663.82
+2.3The mass and volume of a body are 4.237 g and 2.5 cm3,respectively. The density of the material of the body in correctsignificant figures isChapter TwoUNITS ANDMEASUREMENTS
+Exemplar ProblemsŒPhysics6(a)1.6048 g cm
+Œ3(b)1.69 g cm
+Œ3(c)1.7 g cm
+Œ3(d)1.695 g cm
+Œ32.4The numbers 2.745 and 2.735 on rounding off to 3 significantfigures will give(a)2.75 and 2.74
+(b)2.74 and 2.73
+(c)2.75 and 2.73
+(d)2.74 and 2.74
+2.5The length and breadth of a rectangular sheet are 16.2 cm and10.1cm, respectively. The area of the sheet in appropriate significant
+figures and error is(a)164 ± 3 cm
+2(b)163.62  ± 2.6 cm
+2(c)163.6  ± 2.6 cm
+2(d)163.62   ± 3 cm
+22.6Which of the following pairs of physical quantities does not havesame dimensional formula?(a)Work and torque.
+(b)Angular momentum and Planck™s constant.
+(c)Tension and surface tension.
+
+(d)Impulse and linear momentum.
+2.7Measure of two quantities along with the precision of respectivemeasuring instrument isA = 2.5 m sŒ1 ±  0.5 m sŒ1B = 0.10 s ± 0.01 sThe value of A B will be(a)(0.25 ± 0.08) m
+(b)(0.25 ± 0.5) m
+(c)(0.25 ± 0.05) m
+(d)(0.25 ± 0.135) m
+2.8You measure two quantities as
+ A = 1.0 m ± 0.2 m, B = 2.0 m ± 0.2 m.
+We should report correct value for            as:
+(a)1.4 m ± 0.4 m
+(b)1.41m ± 0.15 m
+
+(c)1.4m ± 0.3 m
+(d)1.4m ± 0.2 m
+AB
+Units and Measurements72.9Which of the following measurements is most precise?(a)5.00 mm
+(b)5.00 cm
+
+(c)5.00 m
+(d)5.00 km.
+2.10The mean length of an object is 5 cm. Which of the followingmeasurements is most accurate?(a)4.9 cm
+(b)4.805 cm
+(c)5.25 cm
+(d)5.4 cm
+2.11Young™s modulus of steel is 1.9 × 10
+11 N/m2. When expressed
+in CGS units of dynes/cm2, it will be equal to (1N = 105 dyne,1m2 = 104 cm2)(a)1.9 × 10
+10(b)1.9 × 10
+11(c)1.9 × 10
+12(d)1.9 × 10
+132.12If momentum (P), area (A) and time (T) are taken to befundamental quantities, then energy has the dimensional formula(a)(P
+1 AŒ1 T1)(b)(P
+2 A1 T1)(c)(P
+1 AŒ1/2 T1)(d)(P
+1 A1/2 TŒ1)MCQ II2.13On the basis of dimensions, decide which of the following relationsfor the displacement of a particle undergoing simple harmonic
+motion is not correct:(a)y = a sin 2/tT(b)y = a sin vt.(c)y = sin
+atTa
+(d)y = 222sincos
+ttaTT2.14If P, Q, R
+ are physical quantities, having different dimensions, which
+of the following combinations can never be a meaningful quantity?(a)(
+P Œ Q)/R(b)PQ Œ R
+Exemplar ProblemsŒPhysics8(c)PQ/R(d)(
+PR Œ Q2)/R(e)(
+R + Q)/P2.15Photon is quantum of radiation with energy E = h where isfrequency and h is Planck™s constant. The dimensions of h are thesame as that of(a)Linear impulse
+(b)Angular impulse
+(c)Linear momentum
+(d)Angular momentum
+2.16If Planck™s constant (h ) and speed of light in vacuum (c ) are takenas two fundamental quantities, which one of the following can, inaddition, be taken to express length, mass and time in terms ofthe three chosen fundamental quantities?(a)Mass of electron (
+me )(b)Universal gravitational constant (
+G )(c)Charge of electron (
+e )(d)Mass of proton (
+mp )2.17Which of the following ratios express pressure?
+(a)Force/ Area
+(b)Ener
+gy/ Volume
+(c)Energy/ Area
+(d)Force/ Volume
+2.18Which of the following are not a unit of time?(a)Second
+(b)Parsec
+
+(c)Year
+(d)Light year
+VSA2.19Why do we have different units for the same physical quantity?2.20The radius of atom is of the order of 1 Å and radius of nucleus isof the order of fermi. How many magnitudes higher is the volumeof atom as compared to the volume of nucleus?2.21Name the device used for measuring the mass of atoms andmolecules.
+Units and Measurements92.22Express unified atomic mass  unit in kg.2.23A function f () is defined as:234
+ 1Œ +  Œ  +  
+2!3!4!
+fWhy is it necessary for q to be a dimensionless quantity?2.24Why length, mass and time are chosen as base quantitiesin mechanics?SA2.25(a)The earth-moon distance is about 60 earth radius. What will
+be the diameter of the earth (approximately in degrees) as seenfrom the moon?(b)Moon is seen to be of (½)
+°diameter from the earth. What mustbe the relative size compared to the earth?(c)From parallax measurement, the sun is found to be at a
+distance of about 400 times the earth-moon distance. Estimatethe ratio of sun-earth diameters.2.26Which of the following time measuring devices is most precise?(a)A wall clock.
+(b)A stop watch.
+
+(c)A digital watch.
+
+(d)An atomic clock.
+Give reason for your answer.
+2.27The distance of a galaxy is of the order of 1025 m. Calculate theorder of magnitude of time taken by light to reach us fromthe galaxy.2.28The vernier scale of a travelling microscope has 50 divisions whichcoincide with 49 main scale divisions. If each main scale divisionis 0.5 mm, calculate the minimum inaccuracy in  the measurement
+of distance.2.29During a total solar eclipse the moon almost entirely covers thesphere of the sun. Write the relation between the distances and
+sizes of the sun and moon.2.30If the unit of force is 100 N, unit of length is 10 m and unit of timeis 100 s, what is the unit of mass in this system of units?
+Exemplar ProblemsŒPhysics102.31Give an example of(a)a physical quantity which has a unit but no dimensions.
+(b)a physical quantity which has neither unit nor dimensions.
+
+(c)a constant which has a unit.
+(d)a constant which has no unit.
+2.32Calculate the length of the arc of a circle of radius 31.0 cm whichsubtends an angle of 6 at the centre.2.33Calculate the solid angle subtended by the periphery of an area of1cm2 at a point situated symmetrically at a distance of 5 cm fromthe area.2.34The displacement of a progressive wave is represented byy = A sin(wt Œ k x ), where x is distance and t is time. Write the
+dimensional formula of (i)  and (ii) k.2.35Time for 20 oscillations of a pendulum is measured as 
+t1= 39.6 s;t2=  39.9 s; t3= 39.5 s. What is the precision in the measurements?What is the accuracy of the measurement?LA2.36A new system of units is proposed in which unit of mass is kg,unit of length m and unit of time  s. How much will 5 J measurein  this new system?2.37The volume of a liquid flowing out per second of a pipe of length land radius r is written by a student as48Prvlwhere P is the pressure difference between the two ends of thepipe and  is coefficent of viscosity of the liquid having dimensionalformula MLŒ1 TŒ1.Check whether the equation is dimensionally correct.2.38A physical quantity X is related to four measurable quantities a,b, c and d as follows:X = a2 b3 c5/2 dŒ2.The percentage error in the measurement of a, b, c and d are 1%,2%, 3% and 4%, respectively. What is the percentage error in
+Units and Measurements11quantity X ? If the value of X calculated on the basis of the aboverelation is 2.763, to what value should you round off the result.2.39In the expression P = E l 2 mŒ5 GŒ2, E, m, l and G denote energy,mass, angular momentum and gravitational constant, respectively.Show that P is a dimensionless quantity.2.40If velocity of light c, Planck™s constant h and gravitational contantG are taken as fundamental quantities then express mass, lengthand time in terms of dimensions of these quantities.2.41An artificial satellite is revolving around a planet of mass M andradius R, in a circular orbit of radius 
+r. From Kepler™s Third lawabout the period of a satellite around a common central body,square of the period of revolution T is proportional to the cube ofthe radius of the orbit r. Show using dimensional analysis, that3krTRg,where k is a dimensionless constant and g is acceleration dueto gravity.2.42In an experiment to estimate the size of a molecule of oleic acid1 mL of oleic acid is dissolved in 19 mL of alcohol. Then 1 mL ofthis solution is diluted to 20 mL by adding alcohol. Now 1 drop ofthis diluted solution is placed on water in a shallow trough. The
+solution spreads over the surface of water forming one molecule
+thick layer. Now, lycopodium powder is sprinkled evenly over the
+film and its diameter is measured. Knowing the volume of the dropand area of the film we can calculate the thickness of the film whichwill give us the size of oleic acid molecule.Read the passage carefully and answer the following questions:(a)Why do we dissolve oleic acid in alcohol?
+(b)What is the role of lycopodium powder?
+(c)What would be the volume of oleic acid in each mL of solution
+prepared?(d)How will you calculate the volume of  
+n drops of this solutionof oleic acid?(e)What will be the volume of oleic acid in one drop of this
+solution?2.43(a)How many astronomical units (A.U.) make 1 parsec?
+(b)Consider a sunlike star at a distance of 2 parsecs. When it is
+seen through a telescope with 100 magnification, what shouldbe the angular size of the star? Sun appears to be (1/2)° from
+Exemplar ProblemsŒPhysics12the earth. Due to atmospheric fluctuations, eye can™t resolveobjects smaller than 1 arc minute.(c)Mars has approximately half of the earth™s diameter. When it
+is closest to the earth it is at about 1/2 A.U. from the earth.Calculate what size it will appear when seen through the sametelescope.(Comment : This is to illustrate why a telescope can magnify planets butnot stars.)2.44Einstein™s mass - energy relation emerging out of his famoustheory of relativity relates mass (m ) to energy (E ) as E = mc 2,where c is speed of light in vacuum. At the nuclear level, themagnitudes of energy are very small. The energy at nuclearlevel is usually measured in MeV, where 1 MeV= 1.6×10Œ13J;the masses are measured in unified atomic mass unit (u) where1u = 1.67 × 10Œ27 kg.(a)Show that the energy equivalent of 1 u is 931.5 MeV.
+(b)A student writes the relation as 1 u = 931.5 MeV. The teacher
+points out that the relation is dimensionally incorrect. Write
+the correct relation.

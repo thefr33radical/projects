@@ -1,0 +1,5 @@
+CIRCLESCHAPTER 9(A) Main Concepts and ResultsŁThe meaning of a tangent and its point of contact on a circle.ŁTangent is perpendicular to the radius through the point of contact.
+ŁOnly two tangents can be drawn to a circle from an external point.ŁLengths of tangents from an external point to a circle are equal.(B) Multiple Choice QuestionsChoose the correct answer from the given four options:Sample Question 1 : If angle between two radii of a circle is 130º, the angle betweenthe tangents at the ends of the radii is :(A) 90º(B) 50º (C) 70º
+(D) 40ºSolution : Answer (B)Sample Question 2 : In Fig. 9.1, the pair oftangents AP and AQ drawn from an external pointA to a circle with centre O are perpendicular toeach other and length of each tangent is 5 cm.Then the radius of the circle is(A) 10 cm(B) 7.5 cm
+(C) 5 cm(D) 2.5 cm
+Solution: Answer (C)

@@ -1,0 +1,133 @@
+Science58Carbon and itsCompounds4CHAPTERIn the last Chapter, we came to know many compounds of importanceto us. In this Chapter we will be studying about some more interestingcompounds and their properties. Also we shall be learning about carbon,an element which is of immense significance to us in both its elementalform and in the combined form.Things madeThings made
+Othersof metalof glass/clayActivity 4.1Activity 4.1Activity 4.1Activity 4.1Activity 4.1nMake a list of ten things you haveused or consumed since the morning.nCompile this list with the lists made
+by your classmates and then sort theitems into the following Table.nIf there are items which are made upof more than one material, put theminto both the relevant columns.Look at the items that come in the last column Œ your teacher will beable to tell you that most of them are made up of compounds of carbon.Can you think of a method to test this? What would be the product if acompound containing carbon is burnt? Do you know of any test toconfirm this?Food, clothes, medicines, books, or many of the things that you listedare all based on this versatile element carbon. In addition, all living
+structures are carbon based. The amount of carbon present in the earth™scrust and in the atmosphere is quite meagre. The earth™s crust has only0.02% carbon in the form of minerals (like carbonates, hydrogen-carbonates, coal and petroleum) and the atmosphere has 0.03% of carbon
+dioxide. In spite of this small amount of carbon available in nature, theimportance of carbon seems to be immense. In this Chapter, we will belooking at the properties of carbon which lead to this anomaly.4.1 BONDING IN CARBON Œ THE COVALENT BONDIn the previous Chapter, we have studied the properties of ioniccompounds. We saw that ionic compounds have high melting and boilingpoints and conduct electricity in solution or in the molten state. We also
+Carbon and its Compounds59saw how the nature of bonding in ionic compounds explains theseproperties. Let us now study the properties of some carbon compounds.Melting and boiling points of some carbon compounds are given inTable 4.1.Most carbon compounds are poorconductors of electricity as we have seenin Chapter 2. From the data on the
+boiling and melting points of the above
+compounds, we can conclude that the
+forces of attraction between these
+molecules are not very strong. Since
+these compounds are largely non-
+conductors of electricity, we can conclude
+that the bonding in these compounds
+does not give rise to any ions.In Class IX, we learnt about thecombining capacity of various elements and how it depends on the
+number of valence electrons. Let us now look at the electronic
+configuration of carbon. The atomic number of carbon is 6. What wouldbe the distribution of electrons in various shells for carbon? How manyvalence electrons will carbon have?We know that the reactivity of elements is explained as their tendencyto attain a completely filled outer shell, that is, attain noble gas
+configuration. Elements forming ionic compounds achieve this by either
+gaining or losing electrons from the outermost shell. In the case of carbon,
+it has four electrons in its outermost shell and needs to gain or lose four
+electrons to attain noble gas configuration. If it were to gain or lose
+electrons Œ(i)It could gain four electrons forming C4Œ anion. But it would be difficultfor the nucleus with six protons to hold on to ten electrons, that is,
+four extra electrons.(ii)It could lose four electrons forming C4+ cation. But it would requirea large amount of energy to remove four electrons leaving behind a
+carbon cation with six protons in its nucleus holding on to just two
+electrons.Carbon overcomes this problem by sharing its valence electrons withother atoms of carbon or with atoms of other elements. Not just carbon,
+but many other elements form molecules by sharing electrons in this
+manner. The shared electrons ‚belong™ to the outer shells of both theatoms and lead to both atoms attaining the noble gas configuration.
+Before going on to compounds of carbon, let us look at some simple
+molecules formed by the sharing of valence electrons.The simplest molecule formed in this manner is that of hydrogen.As you have learnt earlier, the atomic number of hydrogen is 1. Hencehydrogen has one electron in its K shell and it requires one more electron
+to fill the K shell. So two hydrogen atoms share their electrons to form a
+molecule of hydrogen, H2. This allows each hydrogen atom to attain theTable 4.1Melting points and boiling points of somecompounds of carbonCompoundMeltingBoilingpoint (K)point (K)
+Acetic acid (CH3COOH)290391
+Chloroform (CHCl3)209334
+Ethanol (CH3CH2OH)156351
+Methane (CH4)90111
+Science60Figure 4.4Triple bond betweentwo nitrogen atomsFigure 4.3
+Double bond between
+two oxygen atomselectronic configuration of the nearest noble gas,helium, which has two electrons in its K shell. We candepict this using dots or crosses to represent valenceelectrons (Fig. 4.1).The shared pair of electrons is said to constitute asingle bond between the two hydrogen atoms. A single
+bond is also represented by a line between the two
+atoms, as shown in Fig. 4.2.The atomic number of chlorine is 17. What would be its electronicconfiguration and its valency? Chlorine forms a diatomic molecule, Cl2.Can you draw the electron dot structure for this molecule? Note thatonly the valence shell electrons need to be depicted.In the case of oxygen, we see the formation of a double bond betweentwo oxygen atoms. This is because an atom of oxygen has six electrons
+in its L shell (the atomic number of oxygen is eight) and it requires two
+more electrons to complete its octet. So each atom of oxygen shares two
+electrons with another atom of oxygen to give us the structure shown in
+Fig. 4.3. The two electrons contributed by each oxygen atom give rise to
+two shared pairs of electrons. This is said to constitute a double bond
+between the two atoms.Can you now depict a molecule of water showing the natureof bonding between one oxygen atom and two hydrogen
+atoms? Does the molecule have single bonds or double bonds?What would happen in the case of a diatomic molecule ofnitrogen? Nitrogen has the atomic number 7. What would be
+its electronic configuration and its combining capacity? In
+order to attain an octet, each nitrogen atom in a molecule of
+nitrogen contributes three electrons giving rise to three shared
+pairs of electrons. This is said to constitute a triple bond
+between the two atoms. The electron dot structure of N2 andits triple bond can be depicted as in Fig. 4.4.A molecule of ammonia has the formula NH3. Can you drawthe electron dot structure for this molecule showing how all
+four atoms achieve noble gas configuration? Will the molecule
+have single, double or triple bonds?Let us now take a look at methane, which is a compoundof carbon. Methane is widely used as a fuel and is a major
+component of bio-gas and Compressed Natural Gas (CNG). It
+is also one of the simplest compounds formed by carbon.
+Methane has a formula CH4. Hydrogen, as you know, has avalency of 1. Carbon is tetravalent because it has four valence
+electrons. In order to achieve noble gas configuration, carbon
+shares these electrons with four atoms of hydrogen as shown
+in Fig. 4.5.Such bonds which are formed by the sharing of an electron pairbetween two atoms are known as covalent bonds. Covalently bonded
+molecules are seen to have strong bonds within the molecule, but inter-molecular forces are small. This gives rise to the low melting and boilingFigure 4.1A molecule of hydrogenFigure 4.2
+Single bond between
+two hydrogen atoms
+Carbon and its Compounds61These two different structures result in diamond and graphite having very differentphysical properties even though their chemical properties are the same. Diamond isthe hardest substance known while graphite is smooth and slippery. Graphite is also
+a very good conductor of electricity unlike other non-metals that you studied in theprevious Chapter.Diamonds can be synthesised by subjecting pure carbon to very high pressure and
+temperature. These synthetic diamonds are small but are otherwise indistinguishablefrom natural diamonds.
+Fullerenes form another class of carbon allotropes. The first one to be identified wasC-60 which has carbon atoms arranged in the shape of a football. Since this lookedlike the geodesic dome designed by the US architect Buckminster Fuller, the moleculewas named fullerene.The structure of graphiteThe structure of diamondThe structure of C-60BuckminsterfullereneQUESTIONS?1.What would be the electron dot structure of carbon dioxide which has
+the formula CO2?2.What would be the electron dot structure of a molecule of sulphur whichis made up of eight atoms of sulphur? (Hint Œ The eight atoms of sulphurare joined together in the form of a ring.)Figure 4.5Electron dot structure formethanepoints of these compounds. Since the electrons are shared betweenatoms and no charged particles are formed, such covalent compounds
+are generally poor conductors of electricity.Allotropes of carbonThe element carbon occurs in different forms in nature with
+widely varying physical properties. Both diamond andgraphite are formed by carbon atoms, the difference lies inthe manner in which the carbon atoms are bonded to oneanother. In diamond, each carbon atom is bonded to fourother carbon atoms forming a rigid three-dimensionalstructure. In graphite, each carbon atom is bonded to threeother carbon atoms in the same plane giving a hexagonal array.One of these bonds is a double-bond, and thus the valency of
+carbon is satisfied. Graphite structure is formed by thehexagonal arrays being placed in layers one above the other.More to Know!
+Science624.2 VERSATILE NATURE OF CARBONWe have seen the formation of covalent bonds by the sharing ofelectrons in various elements and compounds. We have also seen thestructure of a simple carbon compound, methane. In the beginningof the Chapter, we saw how many things we use contain carbon. Infact, we ourselves are made up of carbon compounds. The numbers
+of carbon compounds whose formulae are known to chemists wasrecently estimated to be about three million! This outnumbers by alarge margin the compounds formed by all the other elements put
+together. Why is it that this property is seen in carbon and no otherelement? The nature of the covalent bond enables carbon to form a
+large number of compounds. Two factors noticed in the case ofcarbon are Œ(i)Carbon has the unique ability to form bonds with other atoms ofcarbon, giving rise to large molecules. This property is calledcatenation. These compounds may have long chains of carbon,branched chains of carbon or even carbon atoms arranged in rings.In addition, carbon atoms may be linked by single, double or triplebonds. Compounds of carbon, which are linked by only single
+bonds between the carbon atoms are called saturated compounds.Compounds of carbon having double or triple bonds between theircarbon atoms are called unsaturated compounds.No other element exhibits the property of catenation to the extentseen in carbon compounds. Silicon forms compounds with
+hydrogen which have chains of upto seven or eight atoms, but thesecompounds are very reactive. The carbon-carbon bond is very strongand hence stable. This gives us the large number of compoundswith many carbon atoms linked to each other.(ii)Since carbon has a valency of four, it is capable of bonding withfour other atoms of carbon or atoms of some other mono-valent
+element. Compounds of carbon are formed with oxygen, hydrogen,nitrogen, sulphur, chlorine and many other elements giving rise tocompounds with specific properties which depend on the elements
+other than carbon present in the molecule.Again the bonds that carbon forms with most other elements arevery strong making these compounds exceptionally stable. Onereason for the formation of strong bonds by carbon is its small size.This enables the nucleus to hold on to the shared pairs of electronsstrongly. The bonds formed by elements having larger atoms are
+much weaker.
+Carbon and its Compounds63Organic compoundsThe two characteristic features seen in carbon, that is, tetravalency and catenation, puttogether give rise to a large number of compounds. Many have the same non-carbonatom or group of atoms attached to different carbon chains. These compounds wereinitially extracted from natural substances and it was thought that these carbon
+compounds or organic compounds could only be formed within a living system. That is,it was postulated that a ‚vital force™ was necessary for their synthesis. Friedrich Wöhlerdisproved this in 1828 by preparing urea from ammonium cyanate. But carbon
+compounds, except for oxides of carbon, carbonate and hydrogencarbonate salts continue
+to be studied under organic chemistry.4.2.1 Saturated and Unsaturated Carbon Compounds4.2.1 Saturated and Unsaturated Carbon Compounds4.2.1 Saturated and Unsaturated Carbon Compounds4.2.1 Saturated and Unsaturated Carbon Compounds4.2.1 Saturated and Unsaturated Carbon CompoundsWe have already seen the structure of methane. Another compoundformed between carbon and hydrogen is ethane with a formula of C2H6.In order to arrive at the structure of simple carbon
+compounds, the first step is to link the carbon atomstogether with a single bond (Fig. 4.6a) and then use thehydrogen atoms to satisfy the remaining valencies of carbon
+(Fig. 4.6b). For example, the structure of ethane is arrivedin the following steps ŒCŠCStep 1Figure 4.6 (a) Carbon atoms linked together with a single bondThree valencies of each carbon atom remain unsatisfied,so each is bonded to three hydrogen atoms giving:Step 2Figure 4.6 (b) Each carbon atom bonded to three hydrogen atomsThe electron dot structure of ethane is shown in Fig. 4.6(c).Can you draw the structure of propane, which has the molecularformula C3H8 in a similar manner? You will see that the valencies of allthe atoms are satisfied by single bonds between them. Such carboncompounds are called saturated compounds. These compounds arenormally not very reactive.However, another compound of carbon and hydrogen has the formulaC2H4 and is called ethene. How can this molecule be depicted? We followthe same step-wise approach as above.Each carbon atom gets two hydrogen atoms to give ŒWe see that one valency per carbon atom remains unsatisfied. Thiscan be satisfied only if there is a double bond between the two carbons
+giving us ŒFigure 4.6(c) Electron dot structure ofethaneMore to Know!Step 2Step 3CŠC        Step 1
+Science64The electron dot structure for ethene is given in Fig. 4.7.Yet another compound of hydrogen and carbon has the formulaC2H2 and is called ethyne. Can you draw the electron dotstructure for ethyne? How many bonds are necessary betweenthe two carbon atoms in order to satisfy their valencies? Suchcompounds of carbon having double or triple bonds betweenthe carbon atoms are known as unsaturated carbon compounds
+and they are more reactive than the saturated carboncompounds.4.2.2 Chains, Branches and RingsIn the earlier section, we mentioned the carbon compounds methane,ethane and propane, containing respectively 1, 2 and 3 carbon atoms.Such ‚chains™ of carbon atoms can contain tens of carbon atoms. The
+names and structures of six of these are given in Table 4.2.Figure 4.7Structure of etheneTable 4.2 Formulae and structures of saturated compounds of carbon and hydrogenNo. of CNameFormulaStructureatoms1MethaneCH42EthaneC2H63PropaneC3H84ButaneC4H105PentaneC5H126HexaneC6H14
+Carbon and its Compounds65But, let us take another look at butane. If we make the carbon‚skeleton™ with four carbon atoms, we see that two different ‚skeletons™are possible ŒCŠCŠCŠCFigure 4.8 (a) Two possible carbon-skeletonsFilling the remaining valencies with hydrogen gives us ŒFigure 4.8 (b) Complete molecules for two structures with formula C4H10We see that both these structures have the same formula C4H10. Suchcompounds with identical molecular formula but different structuresare called structural isomers.In addition to straight and branched carbon chains, some compoundshave carbon atoms arranged in the form of a ring. For example, cyclohexane
+has the formula C6H12 and the following structure Œ(a)(b)Figure 4.9 Structure of cyclohexane (a) carbon skeleton (b) complete moleculeCan you draw the electron dot structure for cyclohexane? Straightchain, branched chain and cyclic carbon compounds, all may be saturated
+or unsaturated. For example, benzene, C6H6, has the following structure ŒBenzene Š C6H6Figure 4.10 Structure of benzeneAll these carbon compounds which contain just carbon and hydrogenare called hydrocarbons. Among these, the saturated hydrocarbons are
+called alkanes. The unsaturated hydrocarbons which contain one ormore double bonds are called alkenes. Those containing one or moretriple bonds are called alkynes.4.2.3 Will you be my Friend?Carbon seems to be a very friendly element. So far we have been looking
+at compounds of carbon and hydrogen. But carbon also forms bonds
+Science66with other elements such as halogens, oxygen, nitrogen and sulphur. In ahydrocarbon chain, one or more hydrogens can be replaced by these elements,such that the valency of carbon remains satisfied. In such compounds, the
+element replacing hydrogen is referred to as a heteroatom. These heteroatomsare also present in somegroups as given in Table4.3. These heteroatoms
+and the group containing
+these confer specific
+properties to the
+compound, regardless
+of the length and nature
+of the carbon chain and
+hence are called
+functional groups. Someimportant functional
+groups are given in the
+Table 4.3. Free valency orvalencies of the group
+are shown by the singleline. The functional group
+is attached to the
+carbon chain through
+this valency by replacing
+one hydrogen   atom oratoms.4.2.4 Homologous SeriesYou have seen that carbon atoms can be linked together to form chainsof varying lengths. In addition, hydrogen atom or atoms on these carbon
+chains can be replaced by any of the functional groups that we sawabove. The presence of a functional group such as alcohol dictates theproperties of the carbon compound, regardless of the length of the carbonchain. For example, the chemical properties of CH3OH, C2H5OH, C3H7OHand C4H9OH are all very similar. Hence, such a series of compounds inwhich the same functional group substitutes for hydrogen in a carbon
+chain is called a homologous series.Let us look at the homologous series that we saw earlier in Table4.2. If we look at the formulae of successive compounds, say ŒCH4 and C2H6Šthese differ by a ŒCH2- unitC2H6 and C3H8Šthese differ by a ŒCH2- unitWhat is the difference between the next pair Œ propane and butane (C4H10)?Can you find out the difference in molecular masses between thesepairs (the atomic mass of carbon is 12 u and the atomic mass of hydrogenis 1 u)?Similarly, take the homologous series for alkenes. The first memberof the series is ethene which we have already come across in
+Section 4.2.1. What is the formula for ethene? The succeeding members
+have the formula C3H6, C4H8 and C5H10. Do these also differ by a ŒCH2ŒTable 4.3 Some functional groups in carbon compoundsHeteroFunctionalFormula ofatomgroupfunctional groupCl/BrHalo- (Chloro/bromo)ŠCl, ŠBr(substitutes forhydrogen atom)Oxygen1. AlcoholŠOH2. Aldehyde3. Ketone4. Carboxylic acid
+Carbon and its Compounds67unit? Do you see any relation between the number of carbon andhydrogen atoms in these compounds? The general formula for alkenes
+can be written as CnH2n, where n = 2, 3, 4. Can you similarly generate thegeneral formula for alkanes and alkynes?As the molecular mass increases in any homologous series, agradation in physical properties is seen. This is because the melting and
+boiling points increase with increasing molecular mass. Other physical
+properties such as solubility in a particular solvent also show a similargradation. But the chemical properties, which are determined solely bythe functional group, remain similar in a homologous series.Activity 4.2Activity 4.2Activity 4.2Activity 4.2Activity 4.24.2.5 Nomenclature of Carbon CompoundsThe names of compounds in a homologous series are based on the nameof the basic carbon chain modified by a ﬁprefixﬂ ﬁphrase beforeﬂ or ﬁsuffixﬂﬁphrase afterﬂ indicating the nature of the functional group. For example,the names of the alcohols taken in Activity 4.2 are methanol, ethanol,
+propanol and butanol.
+Naming a carbon compound can be done by the following method Œ(i)Identify the number of carbon atoms in the compound. Acompound having three carbon atoms would have the namepropane.(ii)In case a functional group is present, it is indicated in the
+name of the compound with either a prefix or a suffix (as given
+in Table 4.4).(iii)If the name of the functional group is to be given as a suffix, the
+name of the carbon chain is modified by deleting the final ‚e™ and
+adding the appropriate suffix. For example, a three-carbon chain
+with a ketone group would be named in the following manner Œ
+Propane Œ ‚e™ = propan + ‚one™ = propanone.(iv)If the carbon chain is unsaturated, then the final ‚ane™ in the name
+of the carbon chain is substituted by ‚ene™ or ‚yne™ as given in
+Table 4.4. For example, a three-carbon chain with a double bond
+would be called propene and if it has a triple bond, it would be
+called propyne.nCalculate the difference in the formulae and molecular massesfor (a) CH3OH and C2H5OH (b) C2H5OH and C3H7OH, and (c) C3H7OHand C4H9OH.nIs there any similarity in these three?nArrange these alcohols in the order of increasing carbon atoms to
+get a family. Can we call this family a homologous series?nGenerate the homologous series for compounds containing up to
+four carbons for the other functional groups given in Table 4.3.

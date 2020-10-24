@@ -1,0 +1,11 @@
+CLIENT-SIDESCRIPTING USINGJAVASCRIPTIn Chapter 9 we learnt how to create web pagesusing HTML. The HTML documents consist of manytags, which tell the browser, how to display the
+text or graphics. Also, we have learnt to createstatic web pages; which are not interactive. Tomake the HTML document interactive anddynamic, there is a need to include some specialcodes (scripts) along with HTML. One suchscripting language is JavaScript.In this Chapter, we will learn about basics ofJavaScript and how to add dynamic effects in web
+pages using expression, operators, popup boxes,
+conversion functions, conditional statements,
+looping statements, object manipulation
+statements and JavaScript functions.Introduction10ObjectivesAfter completing this Chapter, thestudent will be able to:Łdefine JavaScript,Łexplain the basics of JavaScript,Łembed  JavaScript code into aHTML document,Łcompare declare and use ofvariables,Łuse variables and literals inexpressions,Łdescribe  different data types
+and values,Łappreciate the  use of branching
+and loop statements,Łperform iteration with for loop,Łdistinguish between while anddo–while loops,Łbreak and continue the loops,Łdiscuss some object manipulation
+statements andŁconsider defining and calling of
+functions.Content creation should not be recondite*. It shouldnot be this bizarre* arcana* that only experts and
+gold-plated computer science gurus can do.Brendan EichCreator of JavaScript* recondite- complex, bizarre- strange/ unusual , arcana- deep secret10.1 ABOUT JAVASCRIPTJavaScript was created by Brendan Eich and itcame into existence in September 1995, whenNetscape 2.0 (a web browser) was released.

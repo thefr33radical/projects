@@ -1,0 +1,596 @@
+EXERCISE 1.11.   (i),(iv),  (v),  (vi),  (vii)  and  (viii) are sets.
+2.(i)  (ii)   (iii) (vi)   (v)   (vi) 3.(i)A  = {Œ3, Œ2, Œ1, 0, 1, 2, 3, 4, 5, 6 }
+(ii)B = 
+{1, 2, 3, 4, 5}(iii)C = 
+{17, 26, 35, 44, 53, 62, 71, 80}(iv)D = 
+{2, 3, 5}(v)E = {T,  R, I, G, O, N, M, E, Y}(vi)F = 
+{B, E, T, R}
+4.(i){ 
+x : x = 3n, nN and 1  n  4 }(ii){ 
+x : x = 2n, nN and 1  n  5 }(iii){ 
+x : x = 5n, nN and 1 
+ n  4  }(iv){ 
+x : x is an even natural number}(v){ 
+x : x = n2, nN and 1  n  10 }5.(i)A = {1, 3, 5, . . . }
+(ii)B = 
+{0, 1, 2, 3, 4 }(iii)C  = { 
+Œ2, Œ1, 0, 1, 2 }(iv)D = { L, O, Y, A }
+(v)E = { February, April, June, September, November }
+(vi)F = {
+b, c, d, f, g, h, j }6.(i)(c)  (ii)  (a)  (iii) (d)  (iv)  (b)EXERCISE 1.21.(i),(iii),   (iv)2.(i)Finite
+(ii)Infinite(iii)Finite(iv)
+Infinite(v)
+Finite3.(i)Infinite
+(ii)Finite(iii)Infinite(iv)
+Finite(v)
+Infinite4.(i)Yes(ii)No(iii)Yes
+(iv)No
+5.(i)No(ii)Yes
+         6.  
+B= D, E = GEXERCISE 1.31.(i)(ii)(iii)(iv)(v)    (vi) (vii)2.(i)False
+(ii)True(iii)
+False(iv)True(v)
+False    (vi) True
+3.  (i),(v),(vii),(viii),   (ix),(xi)4.(i) { a }(ii) 
+ { a }, { b }, { a, b }(iii), { 1 }, { 2 }, { 3 }, { 1, 2 },  { 1, 3 }, { 2, 3 }, { 1, 2, 3 }    (iv) 
+5.16.(i)(Œ 4,  6](ii)(Œ 
+12, Œ10)(iii)[ 0, 7 )
+(iv)[ 3, 4 ]
+7.(i){ 
+x : x  R, Œ 3 < x < 0 }(ii){ 
+x : x  R, 6  x  12 }(iii){ 
+x : x  R, 6 < x  12 }(iv){ 
+x  R : Œ 23  x < 5 }9.(iii)ANSWERS
+434MATHEMATICS
+EXERCISE 1.41.(i)X 
+ Y = {1, 2, 3, 5 }
+(ii)A 
+ B = { a, b, c, e, i, o, u }(iii) A 
+ B = {x : x = 1, 2, 4, 5 or a multiple of 3  }(iv)A 
+ B = {x : 1 < x < 10, x  N}(v)A 
+ B = {1, 2, 3 }2.Yes, A 
+ B = { a, b, c }3.B4.(i){ 1, 2, 3, 4, 5, 6 }(ii)
+{1, 2, 3, 4, 5, 6, 7,8 }(iii){3, 4, 5, 6, 7, 8 }
+(iv){3, 4, 5, 6, 7, 8, 9, 10}(v) {1, 2, 3, 4, 5, 6, 7, 8 }
+(vi){1, 2, 3, 4, 5, 6, 7, 8, 9, 10}(vii){ 3, 4, 5, 6, 7, 8, 9, 10 }
+5.(i)X 
+ Y = { 1, 3 }(ii)A 
+  B = { a }(iii){ 3 }
+(iv)(v)6.(i){ 7, 9, 11 }(ii){ 11, 13 }(iii)
+(iv) {11}
+(v)(vi){ 7, 9, 11 }
+(vii)(viii){ 7, 9, 11 }
+(ix){7, 9, 11 }(x){ 7, 9, 11, 15 }
+7.(i)B(ii)C(iii)D
+(iv)(v){ 2 }(vi){ 
+x : x is an odd prime number }  8.
+(iii)9.(i){3, 6, 9, 15, 18, 21}(ii){3, 9, 15, 18, 21 }(iii){3, 6, 9, 12, 18, 21}
+(iv){4, 8, 16, 20 )(v){ 2, 4, 8, 10, 14, 16 }(vi){ 5, 10, 20 }
+(vii){20}                      
+(viii){ 4, 8, 12, 16 }(ix){ 2, 6, 10, 14}
+(x){ 5, 10, 15 }
+(xi)  
+{2, 4, 6, 8, 12, 14, 16}(xii){5, 15, 20}
+10.(i){ 
+a, c }(ii){
+f, g } (iii){ 
+b , d  }11.
+Set of irrational numbers12.  (i) F     (ii) F    (iii) T   (iv)T
+EXERCISE 1.51.(i){ 5, 6, 7, 8, 9}(ii)
+{1, 3, 5, 7, 9 }(iii){7, 8, 9 }(iv){ 5, 7, 9 }(v){ 1, 2, 3, 4 }(vi){ 1, 3, 4, 5, 6, 7, 9 }
+2.(i){ 
+d, e, f, g, h}(ii){ 
+a, b, c, h }(iii){ 
+b, d , f, h }(iv){ 
+b, c, d, e )3.(i){ 
+x : x is an odd natural number }(ii){ 
+x : x  is an even natural number }(iii){ 
+x : x  N and x is not a multiple of 3 }(iv){ 
+x : x is a positive composite number and x = 1 ]
+  ANSWERS            435(v){ 
+x : x is a positive integer which is not divisible by 3 or not divisible by 5}(vi){ 
+x : x N and x is not a perfect square }(vii){ 
+x : x N and x is not a perfect cube }(viii){ 
+x : x N and x 3 }(ix){ 
+x : x N and x  2 }(x){ 
+x : x N and x < 7 }(xi){ 
+x : x N and x  92}6.A' is the set of all equilateral triangles.7.(i)U(ii)A(iii)
+(iv)EXERCISE 1.61.22.53.504.425.306.197.25, 358.60Miscellaneous Exercise on Chapter 11.A   B,  A 
+ C,  B  C,  D  A,  D 
+ B,  D  C2.(i)False
+(ii)False(iii)True
+(iv)False(v)False
+(vi)True
+7.False12.We may take A = { 1, 2 }, B = { 1, 3 }, C = { 2 , 3 }
+13.32514.12515.(i) 52, (ii) 3016.11EXERCISE 2.11.x = 2 and y = 12.The number of elements in A × B is 9.
+3.G × H = {(7, 5), (7, 4), (7, 2), (8, 5), (8, 4), (8, 2)}H × G = {(5, 7), (5, 8), (4, 7), (4, 8), (2, 7), (2, 8)}4.(i)False
+P × Q = {(m, n), (m, m), (n, n), (n, m)}(ii)True
+(iii)True
+5.A × A = {(Œ 1, Œ 1), (Œ 1, 1), (1, Œ 1), (1, 1)}
+A × A × A = {(Œ1, Œ1, Œ1), (Œ1, Œ1, 1), (Œ1, 1, Œ1), (Œ1, 1, 1), (1, Œ1, Œ1), (1, Œ1, 1),
+(1, 1, Œ1), (1, 1, 1)}6.A = {a, b}, B = {x, y}8.A × B = {(1, 3), (1, 4), (2, 3), (2, 4)}
+A × B will have 24 = 16 subsets.9. A = {x, y, z} and B = {1,2}
+436MATHEMATICS
+10.A = {Œ1, 0, 1}, remaining elements ofA × A are (Œ1, Œ1), (Œ1, 1), (0, Œ1), (0, 0), (1, Œ1), (1, 0), (1, 1)
+EXERCISE 2.21.R = {(1, 3), (2, 6), (3, 9), (4, 12)}Domain of R = {1, 2, 3, 4}Range of R = {3, 6, 9, 12}Co domain of R = {1, 2, ..., 14}2.R = {(1, 6), (2, 7), (3, 8)}Domain of R  = {1, 2, 3}Range of R = {6, 7, 8}3.R = {(1, 4), (1, 6), (2, 9), (3, 4), (3, 6), (5, 4), (5, 6)}4.(i)R = {(
+x, y) : y = x Œ 2 for x = 5, 6, 7}(ii)R = 
+{(5,3), (6,4), (7,5)}. Domain of R = {5, 6, 7}, Range of  R = {3, 4, 5}5.(i)R = {(1, 1), (1,2), (1, 3), (1, 4), (1, 6), (2 4), (2, 6), (2, 2), (4, 4), (6, 6),
+(3, 3), (3, 6)}(ii)Domain of R = {1, 2, 3, 4, 6}(iii)Range of  R = {1, 2, 3, 4, 6}6.Domain of R = {0, 1, 2, 3, 4, 5,}7.   R = {(2, 8), (3, 27), (5, 125), (7, 343)}Range of R = {5, 6, 7, 8, 9, 10}8.No. of relations from A into B = 2
+69.   Domain of R = Z    Range of R = ZEXERCISE 2.31.(i)yes, Domain = {2, 5, 8, 11, 14, 17}, Range = {1}
+(ii)yes, Domain = (2, 4, 6, 8, 10, 12, 14}, Range = {1, 2, 3, 4, 5, 6, 7}(iii) No.
+2.(i)Domain = 
+R, Range =  (Œ , 0](ii)Domain of function = {x : Œ3  x  3}Range of function = {x : 0  x  3}3.(i)f (0) = Œ5(ii)   
+f (7) = 9(iii)f (Œ3) = Œ11
+4.(i)t (0) = 32(ii)   
+t (28) = 412
+5(iii)t (Œ10) = 14    (iv)   100
+5.(i)Range = (Œ 
+, 2)(ii)
+Range = [2, )(iii)
+Range = R
+  ANSWERS            437Miscellaneous Exercise on Chapter 22.2.13.  Domain of function is set of real numbers except 6 and 2.4.Domain  = [1, ), Range = [0, )5.Domain = R,  Range = non-negative real numbers6.Range = Any positive real number 
+x such that 0  x < 17.(f + g) x = 3x Œ 28. a = 2, b = Œ 19. (i) No   (ii) No
+(iii) No(f Œ g) x = Œ x + 413,232
+fxxxgx10.(i)Yes, (ii) No
+11.
+ No12.Range of  f = {3, 5, 11, 13 }
+EXERCISE 3.11.(i)536(ii) 1972Œ(iii)  43(iv) 2692.(i)39
+° 22 30(ii) Œ229° 5 29     (iii)  300°(iv) 210°3.12         4.
+ 12° 365. 2036.   5 : 47.(i)215(ii) 15 (iii) 725EXERCISE 3.21.321
+sincosecsec2tan3cot
+233x,xŒ,x,x,x
+
+2.54534
+coseccossectancot
+35443
+x,xŒ,x,x,x
+
+3.45354
+sincoseccossectan
+54533
+x,xŒ,x,x,x
+
+4.12135125
+sincoseccostancot
+131213512
+x,xŒ,x,x,x
+
+
+438MATHEMATICS
+5.513121312
+sincoseccosseccot
+13513125
+x,x,x,x,x
+
+6.127.   2     8.
+ 3    9.
+ 32 10.  1EXERCISE 3.35.(i)3122    (ii)2 Œ 
+3EXERCISE 3.41.4+333
+,,n
+, n  Z2.52333
+,,n
+, n  Z3.5115666
+,,n
+, n  Z4.7117(Œ1)
+666
+n,,n
+, n  Z5.3nxor x = n, n  Z6.(21)or2
+43xn,n
+
+, n  Z7.7(1)or(21)
+62nxnn
+
+, n  Z8.3=or
+228
+nnx,, n  Z9. =or
+33nx,n
+,n  ZMiscellaneous Exercise on Chapter 38.525
+55,, 29.63233,Œ,Œ
+10.82158215
+415
+44,,
+  ANSWERS            439EXERCISE  5.1
+1.32.03.i4.14 + 28 i5.2 Œ 7 i6.1921
+510
+i7.175
+33i8. Œ 49.2422627i10.22107
+327
+i11.
+432525
+i12.531414
+i13.i14.722ŒiEXERCISE 5.21.1.1.1.1.223,2.2.2.2.2.526,3.2cossin
+44ŒŒi4.332cossin
+44i5.332cossin
+44i6.3 (cosi sin7.7.7.7.7.2cossin
+66i8.8.8.8.8.cossin
+22iEXERCISE  5.31.3i2.174i3.333
+2i4.172ŒiŒ5.311
+2i6.172i7.1722i8.234
+23i9.  1221
+2   
+i10.1722i
+440MATHEMATICS
+Miscellaneous Exercise on Chapter 51.2 Œ 2 i3.307599
+442
+i5.(i)332cossin
+44i,  (ii) 332cossin
+44i
+  6.
+2433i7.7.7.7.7.212i8.8.8.8.8.522727
+i9.9.9.9.9.214
+321
+i10.212.2(i)(ii)0
+5,13.1342,14.x = 3, y = Œ 315.217.118.020.4EXERCISE 6.1  1.
+(i){1, 2, 3, 4}
+(ii){... Œ 3, Œ 2, Œ1, 0, 1,2,3,4,}  2.
+(i)No Solution
+(ii){... Œ 4, Œ 3}  3.
+(i){... Œ 2, Œ 1, 0, 1}(ii)(Œ
+, 2)  4.
+(i){Œ1, 0, 1, 2, 3, ...}
+(ii)(Œ2, )  5.
+(Œ4, )6.(Œ , Œ3)7.(Œ, Œ3]8.(Œ, 4]9.(Œ , 6)10.(Œ, Œ6)11.
+(Œ, 2]12.(Œ , 120]13.(4, )14.(Œ, 2]15.(4, )16.(Œ, 2]17.x < 3,     18. x  Œ1,     19. x > Œ 1,  20.x  27Œ,   21.Greater than or equal to 3522.Greater than or equal to 8223.(5,7), (7,9)24.(6,8), (8,10), (10,12)25.9 cm26.Greater than or equal to 8 but less than or equal to 22
+
+  ANSWERS            441EXERCISE 6.21.2.
+3.4.
+5.6.
+
+442MATHEMATICS
+7.8.
+9.10.
+EXERCISE 6.31.2.
+
+  ANSWERS            4433.     4.
+5.6.
+7.8.
+
+444MATHEMATICS
+9.10.
+11.12.
+13.14.
+
+  ANSWERS            44515.Miscellaneous Exercise on Chapter 61.[2, 3]2.(0, 1]3.[Œ4,2]
+4.(Œ 23, 2]5.8010
+33ŒŒ,6.1113,7.(Œ5, 5)8.(Œ1, 7)9.(5, )10.[Œ 7, 11]
+11.
+Between 20°C and 25°C12.More than 320 litres but less than 1280 litres.13.More than 562.5 litres but less than 900 litres.14.9.6  MA  16.8EXERCISE 7.11.(i) 125, (ii) 60.2.  1083.50404.3365.86.   20
+
+446MATHEMATICS
+EXERCISE 7.21.(i) 40320, (ii) 182.30, No3.284.645.(i) 30, (ii) 15120EXERCISE 7.31.5042.45363.604.120, 485.566.97.(i) 3,  (ii) 48.403209.(i) 360,  (ii) 720,  (iii) 24010.3381011.
+(i) 1814400, (ii) 2419200, (iii) 25401600EXERCISE 7.41.452.(i) 5, (ii) 63.2104.405.20006.7783207.39608.2009.35Miscellaneous Exercise on Chapter 71.36002.14403.(i) 504,  (ii) 588,  (iii) 16324.9072005.1206.504007.4208.4C1×48C49.288010.22C7+22C1011.
+151200EXERCISE 8.11.1Œ10x + 40x2 Œ 80x3 + 80x4 Œ 32x52.53533240205
+5832
+xxxxxx     
+3.64 x6 Œ576 x5 + 2160 x4 Œ 4320 x3 + 4860 x2 Œ 2916 x + 7294.53355101051
+24381279
+3xxxxxx
+5.642
+246
+1561
+61520
+xxx
+xxx      
+6.8847367.11040808032
+8.1040604019.950990049910.(1.1)10000  > 100011.
+8(a3b + ab3); 406
+12.2(x6 + 15x4 + 15x2 + 1), 198
+  ANSWERS            447EXERCISE 8.21.15122. Œ 1013763.6122
+1Crrrr.x.
+y4.1224
+1Crrrr.x.
+y5.Œ 1760 x9y36.185647.912
+10535
+848
+x;x8.61236 x5y510.n = 7; r = 312.m = 4Miscellaneous Exercise on Chapter 81.a = 3; b = 5; n = 62.a = 973. 1715.39666.2a8 + 12a6 Œ 10a4 Œ 4a2 + 27.0.95108.n  = 109.234
+234
+1683216
+452216
+xxx
+xxxxx
+
+10.27x6 Œ 54ax5 + 117
+a2x4 Œ 116
+a3x3 + 117
+a4x2 Œ 54a5x + 27a6EXERCISE 9.11.3, 8, 15, 24, 352.12345
+23456
+,,,,
+3.2, 4, 8, 16 and 324.11157
+and66266
+,,,
+5.25, Œ125, 625, Œ3125, 156256.392175
+21and
+2222
+,,,
+7.65, 938.49128
+9.72910.3602311.
+3, 11, 35, 107, 323;      3 + 11 + 35 + 
+107 + 323 + ...12.11111111
+1126241202624120
+,,,,;Œ...
+
+
+
+
+
+
+448MATHEMATICS
+13.2, 2, 1, 0, Œ1;         2 + 2 + 1 + 0 + (Œ1) + ...14.358
+12and
+235
+,,,
+EXERCISE 9.21.10020012.984504.5 or 206.47.572nn8.2q9.179
+321
+10.013.2714.11, 14, 17, 20 and 23
+15.116.1417.Rs 24518.9EXERCISE 9.31.205522n,2.30724.Œ 21875.(a) 13th ,   (b) 12th,   (c) 9th6.± 17.201101
+6.8.273131
+2n9.11naa10.32211nxxx11.
+1132231
+212.522552
+or;Termsare1or1
+255225
+r,,,,
+13.414.1616
+;2;21
+77n15.205916.4816
+or48163264
+333
+,,,...,,,,,..
+
+18.808
+101
+819
+nn19.49620.rR21.3, Œ6, 12, Œ2426.9 and 2727.12Œn30.120, 480, 30 (2n)31.Rs 500 (1.1)1032.x2 Œ16x + 25 = 0EXERCISE 9.41.
+123nnn2.123
+4nnnn
+
+
+  ANSWERS            4493.21351
+6nnnn
+
+4.1nn5.28406.3n (n + 1) (n + 3)7.
+21212nnn
+8.2132334
+12nnnn9.
+121221
+6nnnn
+10.
+2121
+3nnnMiscellaneous Exercise on Chapter 92.5, 8, 11
+4.87295.30506.12107.48.160; 69.± 310.8, 16, 3211.
+412.1121.(i) 505
+101
+819
+nn ,    (ii) 22110
+327
+nn22.168023.2353nnn25.22913
+24nnn27.Rs 1668028.Rs 3910029.Rs 4369030.Rs 17000; 20,00031.Rs 512032.25 daysEXERCISE 10.11.121squareunit.
+22.(0, a), (0, Œ a) and 30a,or (0, a), (0, Œ a), and 30a,3.(i) 21yy,(ii) 21xx4.1502,5.127.3Œ8.x = 110.135°11.
+1 and 2, or 12 and 1, or Œ 1 and Œ2, or 12 and Œ 114.12, 104.5 Crores
+450MATHEMATICS
+EXERCISE 10.21.y = 0 and x = 02.  x Œ 2y + 10 = 03.y = mx4.3131431
+xyŒ
+5.2x + y + 6 = 06.3230
+xy
+7. 5x + 3y + 2 = 08.310
+xy9. 3x Œ 4y + 8 = 010.5x Œ y + 20 = 011.
+(1 + n)x + 3(1 + n)y = n +11
+12.x + y = 513.x + 2y Œ 6 = 0, 2x + y Œ 6 = 014.320and320
+xyxy
+
+15.2x Œ 9y + 85 = 016.192
+LC20124942
+90..
+17.1340 litres.19.2kx + hy = 3kh.EXERCISE 10.31.(i)1100;
+77yx,,
+
+ (ii) 5522;
+33yx,,
+
+ (iii) y = 0x + 0, 0, 02.(i)146
+46xy,,;
+ (ii) 312;
+3222xy,,
+(iii)23y, intercept with y-axis = 2
+3 and no intercept with x-axis.3.(i)x cos 120° + y sin 120° = 4, 4, 120° (ii) x cos 90° + y sin 90° = 2, 2, 90°;
+   (iii)x cos 315° + y sin 315° = 22, 22, 315°          4.
+   5 units5.(Œ 2, 0) and (8, 0)6.(i) 651
+units,(ii)units.
+172prl7.3x Œ 4y + 18 = 08.y + 7x  = 21  9.
+ 30° and 150°10.22912. 32231831
+xŒy
+
+or32123183
+xyŒ
+
+
+  ANSWERS            45113.2x + y = 514.6849
+2525
+,15.1522m,c
+17.y Œ x = 1, 2Miscellaneous Exercise on Chapter 101.(a) 3, (b) ± 2, (c) 6 or 12.716,3.236326
+xy,xy
+
+4.832
+0033,,,
+
+
+
+5.sin(
+)2sin
+2  ŒŒ6.522x7.2x Œ 3y + 18 = 08.k2 square units9.511.
+3x Œ y = 7,   x + 3y = 912.13x + 13y = 614.1 : 215.235
+units1816.The line is parallel to x - axis or parallel to y-axis17.x = 1,   y = 1.18.(Œ1, Œ 4).19.152
+721.18x + 12y + 11 = 0
+22.1305,24.119
+x + 102y = 125EXERCISE 11.1
+1.x2 + y2 Œ 4y = 02.x2  + y2 + 4x Œ 6y Œ3 = 03.36x2  + 36y2 Œ 36x Œ 18y + 11 = 0
+4.x2 + y2 Œ 2x Œ 2y = 05.x2 + y2  + 2
+ax + 2by + 2b2 = 06.c(Œ5, 3), r = 67.c(2, 4), r = 658.c(4, Œ 5), r = 539.c (14, 0) ; r  = 1410.x2 + y2 Œ 6x Œ 8y + 15 = 011.
+x2 + y2 Œ 7x + 5y Œ 14 = 012.x2 + y2 + 4x Œ 21 = 0 &  x2 + y2 Œ 12x + 11 = 0
+
+452MATHEMATICS
+13.x2 + y2 Œ ax Œ by  = 014. x2 + y2 Œ 4x Œ 4y  = 5
+15.Inside the circle; since the distance of the point to the centre of the circle is lessthan the radius of the circle.EXERCISE 11.2
+1.F (3, 0), axis - x - axis, directrix x = Œ 3, length of the Latus rectum = 122.F (0, 32), axis - y - axis, directrix y = Œ  3
+2,  length of the Latus rectum = 63.F (Œ2, 0), axis - x - axis, directrix x =  2, length of the Latus rectum = 84.F (0, Œ4), axis - y - axis, directrix y  =  4, length of the Latus rectum = 165.F (52, 0) axis - x - axis, directrix  x = Œ 52, length of the Latus rectum = 106.F (0, 94Œ) , axis - y - axis, directrix y =  94, length of the Latus rectum = 97.y2 = 24x8.x2 = Œ 12y9.y2 = 12x10.y2 = Œ8x11.
+2y2 = 9x12.2x2 = 25yEXERCISE 11.3
+1.F (±20,0); V (± 6, 0); Major axis = 12; Minor axis = 8 , e  = 206, Latus rectum = 1632.F (0, ±21); V (0, ± 5); Major axis = 10; Minor axis = 4 , e  =  215;Latus rectum = 853.F (±7, 0); V (± 4, 0); Major axis = 8; Minor axis = 6 , e  = 74 ;Latus rectum =  92
+  ANSWERS            4534.F (0, ±75); V (0,± 10); Major axis = 20; Minor axis = 10 , e = 32 ;Latus rectum = 55.F (±13,0); V (± 7, 0); Major axis =14 ; Minor axis = 12 , e  = 137;Latus rectum = 7276.F (0, ±103
+); V (0,± 20); Major axis =40 ; Minor axis = 20 , e  = 32 ;Latus rectum = 107.F (0, ± 42); V (0,± 6); Major axis =12 ; Minor axis = 4 , e  = 223;Latus rectum =438.F015
+,; V (0,± 4); Major axis = 8 ; Minor axis = 2 , e = 154;Latus rectum =129.F (±5,0); V (± 3, 0); Major axis = 6 ; Minor axis = 4 , e = 53;Latus rectum =8310.221259
+xy11.
+221144169
+xy12.2213620
+xy13.22194xy14.22115xy15.221169144
+xy16. 22164100
+xy17.221167
+xy18.221259
+xy
+454MATHEMATICS
+19.2211040
+xy20.x2 + 4y2 = 52 or 2215213
+xyEXERCISE 11.4
+1.Foci (± 5, 0), Vertices (
+± 4, 0); e = 4; Latus rectum  = 922.Foci (0 ± 6), Vertices (0, 
+± 3);  e = 2; Latus rectum = 183.Foci (0,  ±13), Vertices (0, 
+± 2); e = 132; Latus rectum 94.Foci (± 10, 0), Vertices (
+± 6, 0); e =53; Latus rectum 6435.Foci (0,±214
+5), Vertices (0,
+±65); e =143; Latus rectum 4536.Foci (0, ±65), Vertices (0, 
+± 4); e =654; Latus rectum 4927.22145xy8.2212539
+yx9.221916
+yx10.221169
+xy11.
+22125144
+yx12.2212520
+xy13.221412
+xy14.229149343
+xy15.22155yxMiscellaneous Exercise on Chapter 11
+1.Focus is at the mid-point of the given diameter.
+2.2.23 m (approx.)3.9.11 m (approx.)
+4.1.56m (approx.)5.221819
+xy6.18 sq units7.221259
+xy8.83a
+  ANSWERS            455EXERCISE 12.11.y and z - coordinates are zero2.y - coordinate is zero3.I, IV, VIII, V, VI, II, III, VII
+4.(i) XY - plane
+(ii)(
+x, y, 0)(iii)
+EightEXERCISE 12.21.(i)25(ii)43(iii)226(iv)25
+4.x Œ 2z = 05.9x2 + 25y2 + 25z2 Œ 225 = 0EXERCISE 12.31.4127
+(i)(ii)8173
+555
+,,,,
+2.1 : 23.2 : 35.(6, Œ 4, Œ 2), (8, Œ 10, 2)Miscellaneous Exercise on Chapter 121.(1, Œ 2, 8)2.7347
+,,3.a = Œ 2,   b = 163,  c = 24.(0, 2, 0) and (0, Œ 6, 0)5.(4, Œ 2, 6)6.2222
+109
+272
+2kŒxyzxyz
+
+EXERCISE 13.11.62.227
+3.4.1925.126.57.1148.108
+79.b10.211.
+112.1413.ab14.ab15.116.1
+456MATHEMATICS
+17.418.1ab19.020.121.022.223.3, 624.Limit does not exist at x = 125.Limit does not exist at x = 026.Limit does not exist at x = 027.028.a = 0, b = 429.1lim
+xa  f (x) = 0 and lim
+xa f (x) = (
+a Œ a1) (a Œ a2) ... (
+a Œ ax)30.lim
+xa f (x) exists for all a  0.31.232.For 0lim
+x f (x) to exists, we need m = n; 1lim
+x f (x) exists for any integral valueof m and n.EXERCISE 13.21.202.993.14.(i) 3x2(ii)2
+x Œ 3(iii)
+32x(iv)221x6.12231
+(1)(2)
+nnnn
+nxanxanx...a
+
+
+7.(i) 2xab(ii)24axaxb
+ (iii)2abxb8.8.8.8.8.12nnnn
+nxanxxa
+xa
+9.9.9.9.9.(i)   2(ii)20
+x3 Œ 15x2 + 6x Œ 4(iii)
+4352xx(iv)15
+x4 + 524x(v)510
+1236
+Œxx  (vi) 222(32)
+(31)
+1ŒxxŒ
+ŒxŒx10.  Œ sin x11.
+(i)cos 2
+x(ii)sec x tan x(iii)5sec x tan x Œ 4sin x(iv)Œ 
+cosec x cot x(v)Œ 3cosec
+2 x Œ 5 cosec x cot x(vi)5cos x+ 6sin x(vii)2sec2 x Œ 7sec x tan x
+  ANSWERS            457Miscellaneous Exercise on Chapter 131.(i) Œ 1  (ii) 
+21x   (iii) cos (x + 1)   (iv) sin
+8x  2.
+   13.2qrpsx  4.2c (ax+b) (cx + d) + a (cx + d)25.  2adbc
+cxd
+  6.22011,x,
+xŒ  7.
+      222axb
+axbxc
+    8.2222apxbpxarbq
+pxqxr
+
+9.   222apxbpxbqar
+axb
+   
+ 10.  5342sin
+   abxxx11.
+2x12.1nnaaxb
+13.
+11nmaxbcxdmcaxbnacxd
+
+14.  cos (x+a)15.Œ cosec3 x Œ cosec x cot2 x16.  11sin
+  x17.  22sincos
+  xx18.  22sectan
+sec1
+ xxx19.  n sinnŒ1x cos x20.  2cossin
+cos   bcxadxbd
+cdx
+21.2coscos
+ax22.  35cos3sin20sin12cos
+   
+xxxxxxx
+23.2sinsin2cos
+   
+xxxxx
+24.      
+2sincos2cos
+     
+qsinxaxxpqxaxx
+25.      
+2tancostan1sin
+     
+xxxxxx
+26.  23515cos28cos28sin15sin
+37cos
+    
+ xxxxxx
+xx
+458MATHEMATICS
+27.  2cos2sincos
+4sin
+ xxxx
+x28.  221tansec
+1tan
+xxxx   29.        
+2sec1sectan1sectan
+     
+xxxxx.xx
+30.1sincos
+sin  nxnxx
+xEXERCISE 14.11.(i)This sentence is always false because the maximum number of days in a
+month is 31. Therefore, it is a statement.(ii)This is not a statement because for some people mathematics can be easyand for some others it can be difficult.(iii)This sentence is always true because the sum is 12 and it is greater than 10.Therefore, it is a statement.(iv)This sentence is sometimes true and sometimes not true. For example thesquare of  2 is even number and the square of 3 is an odd number. Therefore,
+
+it is not a statement.(v)This sentence is sometimes true and sometimes false. For example, squares
+and rhombus have equal length whereas rectangles and trapezium have
+unequal length. Therefore, it is not a statement.(vi)It is an 
+order and therefore, is not a statement.(vii)This sentence is false as the product is (Œ8). Therefore, it is a statement.(viii)This sentence is always 
+true and therefore, it is a statement.(ix)It is 
+not clear from the context which day is referred and therefore, it is nota statement.(x)This is a true statement because all real numbers can be written in the form
+a + i × 0.2.The three examples can be:(i)Everyone in this room is bold. This is not a statement because from the
+context it is not clear which room is referred here and the term bold is notprecisely defined.(ii)She is an engineering student. This is also not a statement because who‚she™ is.(iii)ﬁcos2 is always greater than 1/2ﬂ. Unless, we know what  is, we cannotsay whether the sentence is true or not.

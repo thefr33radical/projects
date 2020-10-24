@@ -1,0 +1,820 @@
+365HYDROCARBONSUNIT 13After studying this unit, you will beable to•••••name hydrocarbons according toIUPAC system of nomenclature;•••••recognise and write structures
+of isomers of alkanes, alkenes,
+alkynes and aromatichydrocarbons;•••••learn about various methods ofpreparation of hydrocarbons;•••••distinguish between alkanes,alkenes, alkynes and aromatichydrocarbons on the basis ofphysical and chemical properties;•••••draw and differentiate betweenvarious conformations of ethane;•••••appreciate the role ofhydrocarbons as sources ofenergy and for other industrialapplications;•••••predict the formation of theaddition products ofunsymmetrical alkenes and
+alkynes on the basis of electronicmechanism;•••••comprehend the structure ofbenzene, explain aromaticityand understand mechanismof electrophilic substitution
+reactions of benzene;•••••predict the directive influence of
+substituents in monosubstituted
+benzene ring;•••••learn about carcinogenicity and
+
+toxicity.HYDROCARBONSThe term ‚hydrocarbon™ is self-explanatory which meanscompounds of carbon and hydrogen only. Hydrocarbons
+play a key role in our daily life. You must be familiar withthe terms ‚LPG™ and ‚CNG™ used as fuels. LPG is theabbreviated form of liquified petroleum gas whereas CNG
+stands for compressed natural gas. Another term ‚LNG™
+(liquified natural gas) is also in news these days. This is
+also a fuel and is obtained by liquifaction of natural gas.Petrol, diesel and kerosene oil are obtained by the fractional
+distillation of petroleum found under the earth™s crust.
+Coal gas is obtained by the destructive distillation of coal.
+Natural gas is found in upper strata during drilling of oil
+wells. The gas after compression is known as compressed
+natural gas. LPG is used as a domestic fuel with the leastpollution. Kerosene oil is also used as a domestic fuel butit causes some pollution. Automobiles need fuels like petrol,
+diesel and CNG. Petrol and CNG operated automobiles
+cause less pollution. All these fuels contain mixture of
+hydrocarbons, which are sources of energy. Hydrocarbons
+are also used for the manufacture of polymers like
+polythene, polypropene, polystyrene etc. Higherhydrocarbons are used as solvents for paints. They are also
+used as the starting materials for manufacture of manydyes and drugs. Thus, you can well understand theimportance of hydrocarbons in your daily life. In this unit,
+you will learn more about hydrocarbons.13.1CLASSIFICATION
+Hydrocarbons are of different types. Depending upon the
+types of carbon-carbon bonds present, they can beclassified into three main categories Œ (i) saturatedHydrocarbons are the important sources of energy.
+366CHEMISTRY(ii) unsaturated and (iii) aromatichydrocarbons. Saturated hydrocarbons
+contain carbon-carbon and carbon-hydrogensingle bonds. If different carbon atoms arejoined together to form open chain of carbon
+atoms with single bonds, they are termed as
+alkanes as you have already studied in
+Unit 12. On the other hand, if carbon atomsform a closed chain or a ring, they are termed
+as cycloalkanes. Unsaturated hydrocarbons
+contain carbon-carbon multiple bonds Œ
+double bonds, triple bonds or both. Aromatic
+hydrocarbons are a special type of cyclic
+compounds. You can construct a large numberof models of such molecules of both types(open chain and close chain) keeping in mind
+that carbon is tetravalent and hydrogen is
+monovalent. For making models of alkanes,
+you can use toothpicks for bonds and
+plasticine balls for atoms. For alkenes, alkynes
+and aromatic hydrocarbons, spring models can
+be constructed.13.2  ALKANESAs already mentioned, alkanes are saturatedopen chain hydrocarbons containing
+carbon - carbon single bonds. Methane (CH4)is the first member of this family. Methane is a
+gas found in coal mines and marshy places. Ifyou replace one hydrogen atom of methane bycarbon and join the required number of
+hydrogens to satisfy the tetravalence of the
+other carbon atom, what do you get? You get
+C2H6. This hydrocarbon with molecularformula C2H6 is known as ethane. Thus youcan consider C2H6 as derived from CH4 byreplacing one hydrogen atom by -CH3 group.Go on constructing alkanes by doing thistheoretical exercise i.e., replacing hydrogenatom by ŒCH3 group. The next molecules willbe C3H8, C4H10 –These hydrocarbons are inert undernormal conditions as they do not react withacids, bases and other reagents. Hence, theywere earlier known as paraffins (latin : parum,little; affinis, affinity). Can you think of thegeneral formula for alkane family orhomologous series? The general formula foralkanes is CnH2n+2,  where n stands for numberof carbon atoms and 2n+2 for number ofhydrogen atoms in the molecule. Can yourecall the structure of methane? According toVSEPR theory (Unit 4), methane has a
+tetrahedral structure (Fig. 13.1) which is
+multiplanar, in which carbon atom lies at the
+centre and the four hydrogen atoms lie at thefour corners of a regular tetrahedron.  All
+H-C-H  bond angles are of 109.5°.In alkanes, tetrahedra are joined togetherin which C-C and C-H bond lengths are154 pm and 112 pm respectively (Unit 12). Youhave already read that CŒC and CŒH  bondsare formed by head-on overlapping of sp3hybrid orbitals of carbon and 1s orbitals ofhydrogen atoms.13.2.1Nomen
+clature and IsomerismYou have already read about nomenclatureof different classes of organic compounds in
+Unit 12. Nomenclature and isomerism inalkanes can further be understood with thehelp of a few more examples. Common names
+are given in parenthesis. First three alkanes
+Œ methane, ethane and propane have only
+one structure but higher alkanes can havemore than one structure. Let us write
+structures for C4H10. Four carbon atoms ofC4H10 can be joined either in a continuouschain or with a branched chain in thefollowing two ways :Fig. 13.1  Structure of methaneButane (n- butane), (b.p. 273 K)
+I
+367HYDROCARBONSIn how many ways, you can join fivecarbon atoms and twelve hydrogen atoms ofC5H12? They can be arranged in three ways asshown in structures IIIŒVstructures, they are known as structuralisomers. It is also clear that structures I andIII have continuous chain of carbon atoms butstructures II, IV and V have a branched chain.Such structural isomers which differ in chain
+of carbon atoms are known as chain isomers.Thus, you have seen that C4H10 and C5H12have two and three chain isomers respectively.Problem 13.1Write structures of different chain isomersof alkanes corresponding to the molecular
+formula C6H14. Also write their IUPACnames.Solution(i)CH
+3 Œ CH2 Œ CH2 Œ CH2Œ CH2Œ CH3n-Hexane2-Methylpentane3-Methylpentane2,3-Dimethylbutane2,2 - DimethylbutaneBased upon the number of carbon atomsattached to a carbon atom, the carbon atom istermed as primary (1°), secondary (2°), tertiary(3°) or quaternary (4°). Carbon atom attachedto no other carbon atom as in methane or to
+only one carbon atom as in ethane is calledprimary carbon atom. Terminal carbon atomsare always primary. Carbon atom attached to
+two carbon atoms is known as secondary.Tertiary carbon is attached to three carbonatoms and neo or quaternary carbon is
+attached to four carbon atoms. Can you identify1°, 2°, 3° and 4° carbon atoms in structures III2-Methylpropane (isobutane)(b.p.261 K)
+Structures I and II possess samemolecular formula but differ in their boilingpoints and other properties. Similarly
+structures III, IV and V possess the same
+molecular formula but have different
+properties. Structures I and II are isomers of
+butane, whereas structures III, IV and V are
+isomers of pentane. Since difference in
+properties is due to difference in theirIIIPentane (n-pentane)(b.p. 309 K)
+2-Methylbutane (isopentane)(b.p. 301 K)
+IV2,2-Dimethylpropane (neopentane)(b.p. 282.5 K)
+V
+368CHEMISTRYto V ? If you go on constructing structures for
+higher alkanes, you will be getting still larger
+number of isomers. C6H14 has got five isomersand C7H16 has nine. As many as 75 isomersare possible for C10H22.In structures II, IV and V, you observedthat ŒCH3 group is attached to carbon atomnumbered as 2. You will come across groups
+like ŒCH3, ŒC2H5, ŒC3H7 etc. attached to carbonatoms in alkanes or other classes ofcompounds.  These groups or substituents areknown as alkyl groups as they are derived fromalkanes by removal of one hydrogen atom.General formula for alkyl groups is CnH2n+1(Unit 12).Let us recall the general rules fornomenclature already discussed in Unit 12.Nomenclature of substituted alkanes canfurther be understood by considering thefollowing problem:Problem 13.2Write structures of different isomeric alkyl groups corresponding to the molecular formulaC5H11. Write IUPAC names of alcohols obtained by attachment of  ŒOH groups at differentcarbons of the chain.SolutionStructures of Œ C5H11 groupCorresponding alcoholsName of alcohol
+ (i)CH
+3 Œ CH2 Œ CH2 Œ CH2Œ CH2 ŒCH
+3 Œ CH2 Œ CH2 Œ CH2Œ CH2 Œ OHPentan-1-ol
+(ii)CH
+3 Œ CH Œ CH2 Œ CH2 Œ CH3CH3 Œ CH Œ CH2 Œ CH2Œ CH3Pentan-2-ol||OH(iii) CH3 Œ CH2 Œ CH Œ CH2 Œ CH3CH3 Œ CH2 Œ CH Œ CH2Œ CH3Pentan-3-ol           ||
+OHCH3CH33-Methyl-||butan-1-ol
+(iv)CH
+3 Œ CH Œ CH2 Œ CH2 ŒCH
+3 Œ CH Œ CH2 Œ CH2Œ OH CH3CH3              
+2-Methyl- ||butan-1-ol
+(v)CH
+3 Œ CH2 Œ CH Œ CH2 ŒCH
+3 Œ CH2 Œ CH Œ CH2Œ OHCH3CH32-Methyl-||butan-2-ol
+(vi)CH
+3 Œ C Œ CH2 Œ CH3CH3 Œ C Œ CH2 Œ CH3||OHCH3CH32,2- Dimethyl-||propan-1-ol
+(vii) CH3 Œ C Œ CH2 ŒCH
+3 Œ C Œ CH2OH                 ||
+  CH
+3CH3CH3CH3OH3-Methyl-
+|       |||       butan-2-ol
+(viii) CH3 Œ CH Œ CH ŒCH3CH3 Œ CH Œ CH ŒCH3
+369HYDROCARBONSRemarksLowest sum andalphabetical
+arrangementLowest sum andalphabetical
+arrangementsec is not consideredwhile arrangingalphabetically;
+isopropyl is taken
+as one wordFurther numberingto the substituents
+of the side chainAlphabeticalpriority orderTable 13.1  Nomenclature of a Few Organic Compoundsimportant to write the correct structure fromthe given IUPAC name. To do this, first of all,the longest chain of carbon atomscorresponding to the parent alkane is written.Then after numbering it, the substituents areattached to the correct carbon atoms and finallyvalence of each carbon atom is satisfied byputting the correct number of hydrogen atoms.This can be clarified by writing the structureof 3-ethyl-2, 2Œdimethylpentane in the
+following steps :i)Draw the chain of five carbon atoms:
+C Œ C Œ C Œ C Œ Cii)Give number to carbon atoms:
+C1Œ C2Œ C3Œ C4Œ C5Structure and IUPAC Name (a)1CH3Œ2CH Œ 3CH2 Œ 4CH Œ 5CH2 Œ 6CH3(4 Œ Ethyl Œ 2 Œ methylhexane)          (b)8CH3 Œ 7CH2 Œ 6CH2 Œ 5CH Œ 4CH Œ    3C   Œ 2CH2 Œ 1CH3 (3,3-Diethyl-5-isopropyl-4-methyloctane) (c)1CH3Œ2CH2Œ3CH2Œ4CHŒ5CHŒ6CH2Œ7CH2Œ8CH2Œ9CH2Œ10CH35-secŒ Butyl-4-isopropyldecane(d)1CH3Œ2CH2Œ3CH2Œ4CH2Œ5CHŒ6CH2Œ7CH2Œ8CH2Œ9CH35-(2,2Œ Dimethylpropyl)nonane(e)1CH3 Œ 2CH2 Œ 3CH Œ 4CH2 Œ 5CH Œ 6CH2 Œ 7CH33ŒEthylŒ5ŒmethylheptaneProblem 13.3Write IUPAC names of the followingcompounds :(i)(CH
+3)3 C CH2C(CH3)3(ii)(CH
+3)2 C(C2H5)2(iii)tetra Œ tert-butylmethaneSolution
+(i)2, 2, 4, 4-Tetramethylpentane
+
+(ii)3, 
+3-Dimethylpentane(iii)3,3-Di-tert-butyl -2, 2, 4, 4 -tetramethylpentaneIf it is important to write the correct IUPACname for a given structure, it is equally
+370CHEMISTRYiii)Attach ethyl group at carbon 3 and twomethyl groups at carbon 2         3CH|C1 Œ 2C Œ 3C Œ 4C Œ 5C         3|CH25|CHiv)Satisfy the valence of each carbon atom by
+putting requisite number of hydrogen
+atoms :   3CH|CH3  Œ  C  Œ   CH Œ CH2 Œ CH3   3|CH 25|CHThus we arrive at the correct structure. Ifyou have understood writing of structure from
+the given name, attempt the followingproblems.Problem 13.4Write structural formulas of the followingcompounds :(i)3, 4, 4, 5ŒTetramethylheptane
+
+(ii)2,5-DimethyhexaneSolution(i)CH
+3 Œ CH2 Œ CH  Œ  C  Œ    CHŒ CH Œ CH3(ii)CH
+3 Œ CH Œ CH2 Œ CH2 Œ CH Œ CH3Problem 13.5Write structures for each of the followingcompounds. Why are the given namesincorrect? Write correct IUPAC
+names.(i)2-Ethylpentane
+(ii)5-Ethyl Œ 3-methylheptaneSolution(i)CH
+3 Œ CH Œ CH2Œ CH2 Œ CH3Longest chain is of six carbon atoms andnot that of five. Hence, correct name is
+3-Methylhexane.7654321
+(ii)CH
+3 Œ CH2 Œ CH Œ CH2 Œ CH Œ CH2 Œ CH3 Numbering is to be started from the end
+which gives lower number to ethyl group.
+Hence, correct name is 3-ethyl-5-methylheptane.13.2.2Preparation
+Petroleum and natural gas are the mainsources of alkanes. However, alkanes can be
+prepared by following methods :1. From unsaturated hydrocarbonsDihydrogen gas adds to alkenes and alkynes
+in the presence of finely divided catalysts like
+platinum, palladium or nickel to form alkanes.This process is called hydrogenation. Thesemetals adsorb dihydrogen gas on their surfacesand activate the hydrogen Œ hydrogen bond.
+Platinum and palladium catalyse the reaction
+at room temperature but relatively highertemperature and pressure are required with
+nickel catalysts.
+22233
+Pt/Pd/Ni
+CHCHHCHCH
+EtheneEthane
+   (13.1)322323
+Pt/Pd/Ni
+CHCHCHHCHCHCH
+PropenePropane
+
+
+(13.2)32323
+Pt/Pd/Ni
+CHCCH2HCHCHCH
+PropynePropane
+
+
+(13.3)2. From alkyl halidesi)Alkyl halides (except fluorides) on
+reduction with zinc and dilute hydrochloricacid give alkanes.324
+Zn, H
+CHClHCH HCl
+
+    (13.4)Chloromethane              Methane
+371HYDROCARBONS25226
+Zn,H
+CHClHCHHCl
+
+Chloroethane                    Ethane           (13.5)3222323
+Zn,H
+CHCHCHClHCHCHCHHCl
+
+1-Chloropropane                     Propane(13.6)ii)Alkyl halides on treatment with sodium
+metal in dry ethereal (free from moisture)solution give higher alkanes. This reaction
+is known as Wurtz reaction and is usedfor the preparation of higher alkanes
+containing even number of carbonatoms.
+
+3333
+dry ether
+CHBr2NaBrCHCHCH2NaBr
+BromomethaneEthane
+(13.7)
+25252525
+dry ether
+CHBr2NaBrCHCHCH
+Bromoethanen-Butane
+(13.8)What will happen if two different alkyl halidesare taken?3. From carboxylic acids
+i)Sodium salts of carboxylic acids on heating
+with soda lime (mixture of sodium
+hydroxide and calcium oxide) give alkanescontaining one carbon atom less than thecarboxylic acid. This process of elimination
+of carbon dioxide from a carboxylic acid is
+known as decarboxylation.CaO
+3423
+ŒCHCOONaNaOHCHNaCO
+
+Sodium ethanoateProblem 13.6Sodium salt of which acid will be neededfor the preparation of propane ? Write
+chemical equation for the reaction.SolutionButanoic acid,322
+32323
+CaOCHCHCHCOONa NaOH
+CHCHCHNaCO
+
+ii)Kolbe™s electrolytic method An aqueoussolution of sodium or potassium salt of acarboxylic acid on electrolysis gives alkanecontaining even number of carbon atomsat the anode.323322
+Electrolysis
+2CHCOONa2HO
+Sodiumacetate
+CHCH2COH2NaOH
+
+(13.9)The reaction is supposed to follow thefollowing path :33O||i)2CHCOONa2CHCO2Na
+                      
+
+ii)At anode:Œ3332
+Œ2e
+OO||||2CHCO2CHCO2CH2CO
+
+
+
+:Acetate ion    
+Acetate         Methyl free                                free radical     radicaliii)3333
+HCCHHCCH
+
+
+iv)At cathode :ŒŒ22HOeOHH
+2HH
+
+Methane cannot be prepared by thismethod. Why?13.2.3PropertiesPhysical propertiesAlkanes are almost non-polar moleculesbecause of the covalent nature of C-C and C-H
+bonds and due to very little difference of
+electronegativity between carbon and
+hydrogen atoms. They possess weak van der
+Waals forces. Due to the weak forces, the first
+four members, C1 to C4 are gases, C5 to C17 areliquids and those containing 18 carbon atoms
+or more are solids at 298 K. They are colourless
+and odourless. What do you think about
+solubility of alkanes in water based upon non-
+polar nature of alkanes? Petrol is a mixture of
+hydrocarbons and is used as a fuel forautomobiles. Petrol and lower fractions ofpetroleum are also used for  dry cleaning of
+clothes to remove grease stains. On the basis
+of this observation, what do you think about
+the nature of the greasy substance? You arecorrect if you say that grease (mixture of higher
+372CHEMISTRYalkanes) is non-polar and, hence, hydrophobicin nature. It is generally observed that in
+relation to solubility of substances in solvents,polar substances are soluble in polar solvents,whereas the non-polar ones in non-polar
+solvents i.e., like dissolves like.Boiling point (b.p.) of different alkanes aregiven in Table 13.2 from which it is clear thatthere is a steady increase in boiling point with
+increase in molecular mass. This is due to the
+fact that the intermolecular van der Waals
+forces increase with increase of the molecular
+size or the surface area of the molecule.You can make an interesting observationby having a look on the boiling points of
+three isomeric pentanes viz., (pentane,
+2-methylbutane and 2,2-dimethylpropane). It
+is observed (Table 13.2) that pentane having a
+continuous chain of five carbon atoms has the
+highest boiling point (309.1K) whereas
+2,2 Œ dimethylpropane boils at 282.5K. With
+increase in number of branched chains, the
+molecule attains the shape of a sphere. This
+results in smaller area of contact and therefore
+weak intermolecular forces between spherical
+molecules, which are overcome at relatively
+lower temperatures.Chemical propertiesAs already mentioned, alkanes are generallyinert towards acids, bases, oxidising andreducing agents. However, they undergo thefollowing reactions under certain
+conditions.1. Substitution reactionsOne or more hydrogen atoms of alkanes canbe replaced by halogens, nitro group andsulphonic acid group. Halogenation takesplace either at higher temperature(573-773 K) or in the presence of diffusedsunlight or ultraviolet light. Lower alkanes donot undergo nitration and sulphonationreactions. These reactions in which hydrogenatoms of alkanes are substituted are knownas substitution reactions. As an example,chlorination of methane is given below:
+Halogenation423
+CHClCHClHCl
+
+hChloromethane(13.10)3222
+CHClClCHCl   HCl
+
+hDichloromethane(13.11)2223
+CHClClCHCl HCl
+
+hTrichloromethane(13.12)324
+CHClClCCl HCl
+
+hTetrachloromethane (13.13)Table 13.2 Variation of Melting Point and Boiling Point in AlkanesMolecularNameMolecularb.p./(K)m.p./(K)
+formulama
+ss/uCH4Methane16
+111.090.5
+C2H6Ethane30
+184.4101.0
+C3H8Propane44
+230.985.3
+C4H10Butane58
+272.4134.6
+C4H102-Methylpropane58
+261.0114.7
+C5H12Pentane72
+309.1143.3
+C5H122-Methylbutane72
+300.9113.1
+C5H122,2-Dimethylpropane72
+282.5256.4
+C6H14Hexane86
+341.9178.5
+C7H16Heptane100
+371.4182.4
+C8H18Octane114
+398.7216.2
+C9H20Nonane128
+423.8222.0
+C10H22Decane142
+447.1243.3
+C20H42Eicosane282
+615.0236.2
+
+373HYDROCARBONS33232
+CH-CHClCHCHCl  HCl
+
+
+h           Chloroethane   (13.14)It is found that the rate of reaction of alkaneswith halogens is F2 > Cl2 > Br2 > I2. Rate ofreplacement of hydrogens of alkanes is :3° > 2° > 1°. Fluorination is too violent to becontrolled. Iodination is very slow and areversible reaction. It can be carried out in the
+presence of oxidizing agents like HIO3 or HNO3.423
+CHICHIHI
+(13.15)322
+HIO5HI 3I3HO
+(13.16)Halogenation is supposed to proceed viafree radical chain mechanism involving threesteps namely initiation, propagation and
+termination as given below:Mechanism(i)Initiation : The reaction is initiated byhomolysis of chlorine molecule in the presenceof light or heat. The ClŒCl bond is weaker thanthe CŒC and CŒH bond and hence, is easiest tobreak.homolysis
+ClClClCl
+Chlorine free radicals
+
+h(ii)Propagation
+ : Chlorine free radical attacksthe methane molecule and takes the reactionin the forward direction by breaking the C-Hbond to generate methyl free radical with the
+formation of H-Cl.
+43a)ClCHHCl
+(CH     
+
+
+hThe methyl radical thus obtained attacksthe second molecule of chlorine to formCH3 Œ Cl with the liberation of another chlorinefree radical by homolysis of chlorine molecule.h33(b)CHClClCHClCl
+Chlorine
+free radical
+
+
+The chlorine and methyl free radicals
+generated above repeat steps (a) and (b)respectively and thereby setup a chain ofreactions. The propagation steps (a) and (b) arethose which directly give principal products,but many other propagation steps are possibleand may occur. Two such steps given belowexplain how more highly haloginated products
+are formed.32222
+CHClClCHClHCl
+CHClClClCHClCl
+
+
+(iii)Termination: The reaction stops aftersome time due to consumption of reactantsand / or due to the following side reactions :The possible chain terminating steps are :(a)ClClClCl
+
+(b)3333
+HCCHHCCH
+
+(c)33HCClHCCl
+
+Though in (c), CH3 Œ Cl,  the one of theproducts is formed but free radicals are
+consumed and the chain is terminated. Theabove mechanism helps us to understand thereason for the formation of ethane as a
+byproduct during chlorination of methane.2. CombustionAlkanes on heating in the presence of air ordioxygen are completely oxidized to carbon
+dioxide and water with the evolution of largeamount of heat.4222
+1cCH(g)2O(g)CO(g)2HO(l);
+890kJmol
+
+
+H(13.17)410222
+1cCH(g)13/2 O(g)4CO(g)5HO(l);
+2875.84 kJ mol
+
+
+H(13.18)The general combustion equation for anyalkane is :n2n2222
+3n1
+CHOnCO(n1)HO
+2
+(13.19)Due to the evolution of large amount ofheat during combustion, alkanes are usedas fuels.During incomplete combustion ofalkanes with insufficient amount of air or
+dioxygen, carbon black is formed which isused in the manufacture of ink, printer ink,black pigments and as filters.
+374CHEMISTRY422
+Incomplete
+combustion
+CH(g)O(g)C(s)2HO(l)
+
+(13.20)3. Controlled oxidationAlkanes on heating with a regulated supply ofdioxygen or air at high pressure and in the
+presence of suitable catalysts give a variety ofoxidation products.423
+Cu/523K/100atm
+(i)2CHO2CHOH
+    Methanol
+
+(13.21)422
+23MoO
+(ii)CHOHCHOHO
+ Methanal
+(13.22)3323
+232(CHCOO)Mn
+(iii)2CHCH3O2CHCOOH
+Ethanoic acid
+2HO
+ 
+(13.23)(iv)Ordinarily alkanes resist oxidation but
+alkanes having tertiary H atom can beoxidized to corresponding alcohols by
+potassium permanganate. 3333
+4KMnOOxidation
+2-Methylpropane2-Methylpropan-2-o
+l(CH)CH(CH)COH
+
+(13.24)4. Isomerisationn-Alkanes on heating in the presence ofanhydrous aluminium chloride and hydrogenchloride gas isomerise to branched chainalkanes. Major products are given below. Someminor products are also possible which you
+can think over. Minor products are generally
+not reported in organic reactions.3243
+32233223
+333Anhy. AlCl/HCl
+2-Methylpentane 3-Methylpentane
+CH(CH)CH
+-Hexane
+CHCH(CH)CHCHCHCHCHCH
+||CHCH
+
+
+n(13.25)5. Aromatizationn-Alkanes having six or more carbon atomson heating to 773K at 10-20 atmosphericpressure in the presence of oxides ofvanadium, molybdenum or chromium
+supported over alumina get dehydrogenatedand cyclised to benzene and its homologues.
+This reaction is known as aromatization orreforming.(13.26)Toluene (C7H8) is methyl derivative ofbenzene. Which alkane do you suggest forpreparation of toluene ?6. Reaction with steamMethane reacts with steam at 1273 K in the
+presence of nickel catalyst to form carbon
+monoxide and dihydrogen. This method isused for industrial preparation of dihydrogengas422
+NiCHHOCO3H
+
+(13.27)7. PyrolysisHigher alkanes on heating to highertemperature decompose into lower alkanes,
+alkenes etc. Such a decomposition reactioninto smaller fragments by the application ofheat is called pyrolysis or cracking.(13.28)Pyrolysis of alkanes is believed to be afree radical reaction. Preparation of oil gas orpetrol gas from kerosene oil or petrol involvesthe principle of pyrolysis. For example,
+dodecane, a constituent of kerosene oil on
+heating to 973K in the presence of platinum,
+palladium or nickel gives a mixture of heptaneand pentene.1226716510
+Pt/Pd/Ni
+973K
+other
+CHCHCH 
+products
+DodecaneHeptane   Pentene
+
+
+(13.29)
+375HYDROCARBONS13.2.4Confor
+mationsAlkanes contain carbon-carbon sigma ()bonds. Electron distribution of the sigmamolecular orbital is symmetrical around theinternuclear axis of the CŒC bond which isnot disturbed due to rotation about its axis.
+This permits free rotation about CŒC singlebond. This rotation results into differentspatial arrangements of atoms in space which
+can change into one another. Such spatialarrangements of atoms which can beconverted into one another by rotation around
+a C-C single bond are called conformationsor conformers or rotamers. Alkanes can thushave infinite number of conformations byrotation around C-C single bonds. However,it may be remembered that rotation arounda C-C single bond is not completely free. It is
+hindered by a small energy barrier of1-20 kJ molŒ1 due to weak repulsiveinteraction between the adjacent bonds. Sucha type of repulsive interaction is calledtorsional strain.Conformations of ethane : Ethanemolecule (C2H6) contains a carbon Œ carbonsingle bond with each carbon atom attachedto three hydrogen atoms.  Considering theball and stick model of ethane, keep onecarbon atom stationary and rotate the other
+carbon atom around the C-C axis. Thisrotation results into infinite number of spatialarrangements of hydrogen atoms attached to
+one carbon atom with respect to the hydrogenatoms attached to the other carbon atom.These are called conformational isomers(conformers). Thus there are infinite numberof conformations of ethane. However, there aretwo extreme cases. One such conformation inwhich hydrogen atoms attached to twocarbons are as closed together as possible iscalled eclipsed conformation and the otherin which hydrogens are as far apart aspossible is known as the staggeredconformation. Any other intermediateconformation is called a skew conformation.Itmay be remembered that in all the
+conformations, the bond angles and the bond
+lengths remain the same. Eclipsed and thestaggered conformations can be representedby Sawhorse and Newman projections.1. Sawhorse projectionsIn this projection, the molecule is viewed alongthe molecular axis. It is then projected on paper
+by drawing the central CŒC bond as asomewhat longer straight line. Upper end ofthe line is  slightly tilted towards right or left
+hand side. The front carbon is shown at the
+lower end of the line, whereas the rear carbon
+is shown at the upper end. Each carbon hasthree lines attached to it corresponding to three
+hydrogen atoms. The lines are inclined at an
+angle of 120° to each other. Sawhorse projectionsof eclipsed and staggered conformations of
+ethane are depicted in Fig. 13.2.2. Newman projectionsIn this projection, the molecule is viewed at theCŒC bond head on. The carbon atom nearer tothe eye is represented by a point. Threehydrogen atoms attached to the front carbonatom are shown by three lines drawn at anangle of 120° to each other. The rear carbonatom (the carbon atom away from the eye) isrepresented by a circle and the three hydrogenatoms are shown attached to it by the shorterlines drawn at an angle of 120° to each other.
+The Newman™s projections are depicted inFig. 13.3.Fig. 13.2  Sawhorse projections of ethaneFig. 13.3  Newman™s projections of ethane
+376CHEMISTRYRelative stability of conformations: Asmentioned earlier, in staggered form of ethane,the electron clouds of carbon-hydrogen bondsare as far apart as possible. Thus, there areminimum repulsive forces, minimum energyand maximum stability of the molecule. On the
+other hand, when the staggered form changesinto the eclipsed form, the electron clouds ofthe carbon Œ hydrogen bonds come closer to
+each other resulting in increase in electroncloud repulsions. To check the increasedrepulsive forces, molecule will have to possess
+more energy and thus has lesser stability. Asalready mentioned, the repulsive interactionbetween the electron clouds, which affects
+stability of a conformation, is called torsionalstrain.  Magnitude of torsional strain dependsupon the angle of rotation about CŒC bond.
+This angle is also called dihedral angle ortorsional angle. Of all the conformations ofethane, the staggered form has the leasttorsional strain and the eclipsed form, themaximum torsional strain. Thus it may beinferred that rotation around CŒC bond inethane is not completely free.  The energy
+difference between the two extreme forms is ofthe order of 12.5 kJ molŒ1, which is very small.Even at ordinary temperatures, the ethanemolecule gains thermal or kinetic energysufficient enough to overcome this energybarrier of 12.5 kJ molŒ1 through intermolecularcollisions. Thus, it can be said that rotationabout carbon-carbon single bond in ethane isalmost free for all practical purposes. It has
+not been possible to separate and isolatedifferent conformational isomers of ethane.13.3ALKENES
+Alkenes are unsaturated hydrocarbonscontaining at least one double bond. Whatshould be the general formula of alkenes? Ifthere is one double bond between two carbonatoms in alkenes, they must possess twohydrogen atoms less than alkanes. Hence,
+general formula for alkenes is CnH2n. Alkenesare also known as olefins (oil forming) sincethe first member, ethylene or ethene (C2H4) wasfound to form an oily liquid on reaction withchlorine.
+13.3.1Structure of Double BondCarbon-carbon double bond in alkenesconsists of one strong sigma () bond (bondenthalpy about 397 kJ molŒ1) due to head-onoverlapping of sp2 hybridised orbitals and oneweak pi () bond (bond enthalpy about 284 kJmolŒ1) obtained by lateral or sidewaysoverlapping of the two 2p orbitals of the twocarbon atoms. The double bond is shorter in
+bond length (134 pm) than the CŒC single bond(154 pm). You have already read that the pi ()bond is a weaker bond due to poor sidewaysoverlapping between the two 2p orbitals. Thus,the presence of the pi () bond makes alkenesbehave as sources of loosely held mobile
+electrons. Therefore, alkenes are easily attackedby reagents or compounds which are in searchof electrons. Such reagents are called
+electrophilic reagents. The presence ofweaker -bond makes alkenes unstablemolecules in comparison to alkanes and thus,alkenes can be changed into single bondcompounds by combining with theelectrophilic reagents. Strength of the double
+bond (bond enthalpy, 681 kJ molŒ1) is greaterthan that of a carbon-carbon single bond inethane (bond enthalpy, 348 kJ molŒ1). Orbitaldiagrams of ethene molecule are shown inFigs. 13.4 and 13.5.Fig. 13.4Orbital picture of ethene depicting bonds only13.3.2Nomenclature
+For nomenclature of alkenes in IUPAC system,
+the longest chain of carbon atoms containing
+the double bond is selected. Numbering of thechain is done from the end which is nearer tothe double bond. The suffix ‚ene™ replaces ‚ane™
+377HYDROCARBONSof alkanes. It may be remembered that  firstmember of alkene series is: CH2 (replacing nby 1 in CnH2n) known as methene but has avery short life. As already mentioned, first
+stable member of alkene series is C2H4 knownas ethylene (common) or ethene (IUPAC).
+IUPAC names of a few members of alkenes aregiven below :StructureIUPAC nameCH3 Œ CH = CH2PropeneCH3 Œ CH2 Œ CH = CH
+2But Œ l - eneCH3 Œ CH = CHŒCH3But-2-eneCH2 = CH Œ CH = CH2Buta Œ 1,3 - dieneCH2 = C Œ CH32-Methylprop-1-ene           |           CH
+3CH2 = CH Œ CH Œ CH33-Methylbut-1-ene         |         CH
+3Problem  13.7Write IUPAC names of the followingcompounds:(i)(CH
+3)2CH Œ CH =  CH Œ CH2 Œ CH                             CH
+3 Œ CH Œ CH  |  C2H5(ii)(iii)CH
+2 = C (CH2CH2CH3)2(iv)CH
+3 CH2 CH2 CH2  CH
+2CH3||    CH
+3 Œ CHCH = C Œ CH2 Œ CHCH3  |  CH3Solution(i)2,8-Dimethyl-3, 6-decadiene;
+
+(ii)1,3,5,7 Octatetraene;
+(iii)2-
+n-Propylpent-1-ene;(iv)4-Ethyl-2,6-dimethyl-dec-4-ene;Problem 13.8Calculate number of sigma () and pi ()bonds in the above structures (i-iv).Solution bonds : 33,  bonds : 2 bonds : 17,  bonds : 4bonds : 23,  bond : 1 bonds : 41,  bond : 113.3.3 IsomerismAlkenes show both structural isomerism andgeometrical isomerism.Structural isomerism : As in alkanes, ethene(C2H4) and propene (C3H6) can have only onestructure but alkenes higher than propenehave different structures. Alkenes possessing
+C4H8 as molecular formula can be written inthe following three ways:I.1234
+CH2 = CH Œ CH2 Œ CH3But-1-ene(C4H8)II. 1 2 3 4
+CH3 Œ CH = CH Œ CH3But-2-ene
+(C4H8)Fig. 13.5Orbital picture of ethene showing formation of (a) -bond, (b) -cloud and (c) bond anglesand bond lengths
+378CHEMISTRYIII. 
+ 1  2  3
+  CH
+2 = C Œ CH3 |  CH
+32-Methyprop-1-ene      (C
+4H8)Structures I and III, and II and III are theexamples of chain isomerism whereasstructures I and II are position isomers.Problem 13.9Write structures and IUPAC names ofdifferent structural isomers of alkenes
+corresponding to C5H10.Solution(a)CH
+2 = CH Œ CH2 Œ CH2 Œ CH3Pent-1-ene(b)CH
+3 Œ CH=CH  Œ CH2 Œ CH3Pent-2-ene(c)CH
+3 Œ C = CH Œ CH3| CH32-Methylbut-2-ene(d)CH
+3 Œ CH Œ CH = CH2|CH33-Methylbut-1-ene(e)CH
+2 = C Œ CH2 Œ CH3|
+CH32-Methylbut-1-eneGeometrical isomerism: Doubly bondedcarbon atoms have to satisfy the remaining twovalences by joining with two atoms or groups.
+If the two atoms or groups attached to each
+carbon atom are different, they can berepresented by YX C = C XY like structure.
+YX C = C XY can be represented in space in the
+following two ways :In (a), the two identical atoms i.e., both theX or both the Y lie on the same side of thedouble bond but in (b) the two X or two Y lie
+across the double bond or on the opposite
+sides of the double bond. This results in
+different geometry of (a) and (b) i.e. disposition
+of atoms or groups in space in the two
+arrangements is different. Therefore, they arestereoisomers. They would have the samegeometry if atoms or groups around C=C bond
+can be rotated but rotation around C=C bond
+is not free. It is restricted. For understanding
+this concept, take two pieces of strong
+cardboards and join them with the help of two
+nails. Hold one cardboard in your one hand
+and try to rotate the other. Can you really rotate
+the other cardboard ? The answer is no. The
+rotation is restricted. This illustrates that the
+restricted rotation of atoms or groups around
+the doubly bonded carbon atoms gives rise to
+different geometries of such compounds. The
+stereoisomers of this type are called
+geometrical isomers. The isomer of the type(a), in which two identical atoms or groups lie
+on the same side of the double bond is called
+cis  isomer and the other isomer of the type(b), in which identical atoms or groups lie on
+the opposite sides of the double bond is calledtrans isomer . Thus cis and trans isomershave the same structure but have different
+configuration (arrangement of atoms or groups
+in space). Due to different arrangement of
+atoms or groups in space, these isomers differin their properties like melting point, boiling
+point, dipole moment, solubility etc.
+Geometrical or cis-trans isomers of but-2-ene
+are represented below :Cis form of alkene is found to be more polarthan the trans form. For example, dipolemoment of cis-but-2-ene is 0.33 Debye,whereas, dipole moment of the trans formis almost zero or it can be said that
+379HYDROCARBONStrans-but-2-ene is non-polar. This can beunderstood by drawing geometries of the twoforms as given below from which it is clear thatin the trans-but-2-ene, the two methyl groupsare in opposite directions, Threfore, dipolemoments of C-CH3 bonds cancel, thus  makingthe trans form non-polar.(ii)CH
+2 = CBr2(iii) C6H5CH = CH Œ CH3(iv)CH
+3CH = CCl CH3Solution(iii) and (iv). In structures (i) and (ii), twoidentical groups are attached to one of thedoubly bonded carbon atom.13.3.4Preparation
+1.From alkynes: Alkynes on partialreduction with calculated amount ofdihydrogen in the presence of palladisedcharcoal partially deactivated with poisons
+like sulphur compounds or quinoline givealkenes. Partially deactivated palladised
+charcoal is known as Lindlar™s catalyst.Alkenes thus obtained are having cisgeometry. However, alkynes on reduction
+with sodium in liquid ammonia form transalkenes.(13.30)(13.31)iii)222
+Pd/C
+CHCHHCHCH
+
+      (13.32)   Ethyne   Ethene
+iv)3232
+Pd/C
+CHCCHHCHCHCH
+
+
+        Propyne       Propene
+(13.33)Will propene thus obtained show
+geometrical isomerism? Think for the
+reason in support of your answer.2.From alkyl halides: Alkyl halides (R-X)on heating with alcoholic potash
+(potassium hydroxide dissolved in alcohol,
+In the case of solids, it is observed thatthe trans isomer has higher melting pointthan the cis form.Geometrical or cis-trans isomerismis also shown by alkenes of the typesXYC = CXZ  and XYC = CZWProblem 13.10Draw cis and trans isomers of thefollowing compounds. Also write theirIUPAC names :(i)CHCl = CHCl
+
+(ii)C
+2H5CCH3 = CCH3C2H5SolutionProblem 13.11Which of the following compounds willshow cis-trans isomerism?(i)(CH
+3)2C = CH Œ C
+2H5cis-But-2-ene(µ = 0.33D)trans-But-2-ene(µ = 0)
+380CHEMISTRYsay, ethanol) eliminate one molecule ofhalogen acid to form alkenes. This reaction
+is known as dehydrohalogenation i.e.,removal of halogen acid. This is example of-elimination reaction, since hydrogenatom is eliminated from the  carbon atom(carbon atom next to the carbon to whichhalogen is attached).(13.34)Nature of halogen atom and the alkylgroup determine rate of the reaction. It isobserved that for halogens, the rate is:
+iodine > bromine > chlorine, while for alkyl
+groups it is : tert > secondary > primary.3.From vicinal dihalides: Dihalides inwhich two halogen atoms are attached totwo adjacent carbon atoms are known as
+vicinal dihalides. Vicinal dihalides ontreatment with zinc metal lose a molecule
+of ZnX2 to form an alkene. This reaction isknown  as dehalogenation.22222
+CHBrCHBrZnCHCHZnBr
+
+
+(13.35)3232
+2CHCHBrCHBrZnCHCHCH
+ZnBr
+(13.36)4.From alcohols by acidic dehydration:You have read during nomenclature ofdifferent homologous series in Unit 12 that
+alcohols are the hydroxy derivatives of
+alkanes. They are represented by RŒOH
+where, R is CnH2n+1. Alcohols on heatingwith concentrated sulphuric acid formalkenes with the elimination of one watermolecule. Since a water molecule iseliminated from the alcohol molecule in the
+presence of an acid, this reaction is known
+as acidic dehydration of alcohols. Thisreaction is also the example of-elimination reaction since ŒOH grouptakes out one hydrogen atom from the-carbon atom.(13.37)13.3.5PropertiesPhysical propertiesAlkenes as a class resemble alkanes in physicalproperties, except in types of isomerism and
+difference in polar nature. The first threemembers are gases, the next fourteen areliquids and the higher ones are solids. Ethene
+is a colourless gas with a faint sweet smell. All
+other alkenes are colourless and odourless,
+insoluble in water but fairly soluble in non-polar solvents like benzene, petroleum ether.
+They show a regular increase in boiling point
+with increase in size i.e., every Œ CH2 groupadded increases boiling point by 20Œ30 K. Likealkanes, straight chain alkenes have higherboiling point than isomeric branched chaincompounds.Chemical propertiesAlkenes are the rich source of loosely heldpi () electrons, due to which they showaddition reactions in which the electrophilesadd on to the carbon-carbon double bond toform the addition products.  Some reagents
+also add by free radical mechanism. There are
+cases when under special conditions, alkenes
+also undergo free radical substitutionreactions. Oxidation and ozonolysis reactions
+are also quite prominent in alkenes. A brief
+description of different reactions of alkenes is
+given  below:1.Addition of dihydrogen: Alkenes add upone molecule of dihydrogen gas in thepresence of finely divided nickel, palladium
+or platinum to form alkanes (Section 13.2.2)2.Addition of halogens : Halogens likebromine or chlorine add up to alkene to
+form vicinal dihalides. However, iodine
+does not show addition reaction under
+381HYDROCARBONSnormal conditions. The reddish orangecolour of bromine solution in carbontetrachloride is discharged when bromineadds up to an unsaturation site. Thisreaction is used as a test for unsaturation.Addition of halogens to alkenes is anexample of electrophilic addition reactioninvolving cyclic halonium ion formationwhich you will study in higher classes.(13.38)3232
+(ii)CHCHCHClClCHCHCH
+||ClCl
+Propene1,2-Dichloropropane
+
+
+(13.39)3.Addition of hydrogen halides:Hydrogen halides (HCl, HBr,HI) add up toalkenes to form alkyl halides. The order of
+reactivity of the hydrogen halides is
+HI > HBr > HCl. Like addition of halogens
+to alkenes, addition of hydrogen halides is
+also an example of electrophilic additionreaction. Let us illustrate this by taking
+addition of HBr to symmetrical andunsymmetrical alkenesAddition reaction of HBr to symmetricalalkenesAddition reactions of HBr to symmetrical
+alkenes (similar groups attached to double
+bond) take place by electrophilic additionmechanism.2232
+CHCHHŒBrCHŒCHŒBr
+
+  (13.40)33323
+CHŒCHCHŒCHHBrCHŒCHŒCHCH
+|Br
+(13.41)Addition reaction of HBr tounsymmetrical alkenes (Markovnikov
+Rule)How will H Œ Br add to propene ? The two
+possible products are I and II.(13.42)Markovnikov, a Russian chemist made a
+generalisation in 1869 after studying suchreactions in detail. These generalisations led
+Markovnikov to frame a rule called
+Markovnikov rule. The rule states thatnegative part of the addendum (adding
+molecule) gets attached to that carbon atomwhich possesses lesser number of hydrogen
+atoms. Thus according to this rule, product I
+i.e., 2-bromopropane is expected. In actualpractice, this is the principal product of the
+reaction. This generalisation of Markovnikov
+rule can be better understood in terms of
+mechanism of the reaction.MechanismHydrogen bromide provides an electrophile, H+,which attacks the double bond to formcarbocation as shown below :(i)The secondary carbocation (b) is more
+stable than the primary carbocation (a),
+therefore, the former predominates becauseit is formed at a faster rate.(ii)The carbocation (b) is attacked by BrŒ ionto form the  product as follows :2-Bromopropane(major product)(a) less stableprimary carbocation(b) more stable secondary carbocation
+382CHEMISTRYAnti Markovnikov addition or peroxideeffect or Kharash effectIn the presence of peroxide, addition of HBrto unsymmetrical alkenes like propene takes
+place contrary to the Markovnikov rule. Thishappens only with HBr but not with HCl andHl. This addition reaction was observedby M.S. Kharash and F.R. Mayo in 1933 atthe University of Chicago. This reactionis known as peroxide or Kharash effector addition reaction anti to Markovnikovrule.3232
+2622
+5(CHCO)O
+CHŒCHCHHBr CHŒCH
+CHBr
+1-Bromopropane
+
+(13.43)Mechanism : Peroxide effect proceeds via freeradical chain mechanism as given below:(ii)6566
+Homolysis
+CHHŒBrCHBr
+
+The secondary free radical obtained in theabove mechanism (step iii) is more stable thanthe primary. This explains the formation of1-bromopropane as the major product. It maybe noted that the peroxide effect is not observed
+in addition of HCl and HI. This may be due
+to the fact that the HŒCl bond being
+stronger (430.5 kJ molŒ1) than HŒBr bond(363.7 kJ molŒ1), is not cleaved by the  freeradical, whereas the HŒI bond is weaker(296.8 kJ molŒ1) and iodine free radicalscombine to form iodine molecules instead of
+adding to the double bond.Problem 13.12Write IUPAC names of the productsobtained by addition reactions of HBr tohex-1-ene(i)in the absence of peroxide and
+(ii)in the presence of peroxide.
+Solution4.Addition of sulphuric acid : Coldconcentrated sulphuric acid adds toalkenes in accordance with Markovnikovrule to form alkyl hydrogen sulphate bythe electrophilic addition reaction.(i)
+383HYDROCARBONS(13.44)(13.45)5.Addition of water : In the presence of afew drops of concentrated sulphuric acidalkenes react with water to form alcohols,
+in accordance with the Markovnikov rule.(13.46)6.Oxidation: Alkenes on reaction with cold,dilute, aqueous solution of potassium
+permanganate (Baeyer™s reagent) produce
+vicinal glycols. Decolorisation of KMnO4solution is used as a test for unsaturation.(13.47)(13.48)b)Acidic potassium permanganate or acidic
+potassium dichromate oxidises alkenes toketones and/or acids depending upon thenature of the alkene and the experimental
+conditions(13.49)333
+4KMnO/H
+CHŒCHCHŒCH2CHCOOH
+But-2-eneEthanoic acid
+
+(13.50)7.Ozonolysis : Ozonolysis of alkenes involvesthe addition of ozone molecule to alkene toform ozonide, and then cleavage of the
+ozonide by Zn-H2O to smaller molecules.This reaction is highly useful in detectingthe position of the double bond in alkenesor other unsaturated compounds.(13.51)(13.52)8.Polymerisation:
+ You are familiar withpolythene bags and polythene sheets.Polythene is obtained by the combination
+of large number of ethene molecules at high
+temperature, high pressure and in the
+presence of a catalyst. The large moleculesthus obtained are called polymers. Thisreaction is known as polymerisation. Thesimple compounds from which polymers
+
+384CHEMISTRYare made are called monomers. Otheralkenes also undergo polymerisation.2222n
+High temp./pressure
+Catalyst
+n(CHCH)Š
+(CHŒCHŠ
+)Polythene
+
+(13.53)322n
+3High temp./pressure
+Catalyst
+n(CHŒCHCH)Š
+(CHŒCH
+Š)CHPolypropene
+
+
+(13.54)Polymers are used for the manufacture ofplastic bags, squeeze bottles, refrigerator dishes,toys, pipes, radio and T.V. cabinets etc.Polypropene is used for the manufacture of milk
+crates, plastic buckets and other moulded
+articles. Though these materials have now
+become common, excessive use of polytheneand polypropylene is a matter of great concern
+for all of us.13.4ALKYNES
+Like alkenes, alkynes are also unsaturatedhydrocarbons. They contain at least one triple
+bond between two carbon atoms. The numberof hydrogen atoms is still less in alkynes ascompared to alkenes or alkanes. Their general
+formula is CnH2nŒ2.The first stable member of alkyne seriesis ethyne which is popularly known as
+acetylene. Acetylene is used for arc welding
+purposes in the form of oxyacetylene flame
+obtained by mixing acetylene with oxygen gas.
+Alkynes are starting materials for a large
+number of organic compounds. Hence, it isinteresting to study this class of organic
+compounds.13.4.1Nomenclature and IsomerismIn common system, alkynes are named asderivatives of acetylene. In IUPAC system, theyare named as derivatives of the correspondingalkanes replacing ‚ane™ by the suffix ‚yne™. Theposition of the triple bond is indicated by the
+first triply bonded carbon. Common and
+IUPAC names of a few members of alkyne series
+are given in Table 13.2.You have already learnt that ethyne andpropyne have got only one structure but there
+are two possible structures for butyne Œ
+(i) but-1-yne and (ii) but-2-yne. Since these two
+compounds differ in their structures due to the
+position of the triple bond, they are known as
+position isomers. In how many ways, you canconstruct the structure for the next homologuei.e., the next alkyne with molecular formula
+C5H8? Let us try to arrange five carbon atomswith a continuous chain and with a side chain.Following are the possible structures :StructureIUPAC nameI.22312345
+HCCŒCHŒCHŒCH
+PentŒ1-yneII.323
+12345
+HCŒCCŒCHŒCH
+PentŒ2-yneIII.34321
+HCŒCHŒCCH
+           3-Methyl butŒ1-yne
+|CH3Structures I and II are position isomers andstructures I and III or II and III are chainisomers.Problem 13.13Write structures of different isomerscorresponding to the 5th member ofalkyne series. Also write IUPAC names ofall the isomers. What type of isomerism isexhibited by different pairs of isomers?Solution5th member of alkyne has the molecularformula C6H10. The possible isomers are:Table 13.2 Common and IUPAC Names of Alkynes (CnH2nŒ2)Value of nFormulaStructureCommon nameIUPAC name2C2H2 H-CCHAcetyleneEthyne
+3C3H4 CH3-CCHMethylacetylenePropyne
+4C4H6 CH3CH2-CCHEthylacetyleneBut-1-yne
+4C4H6 CH3-CC-CH3DimethylacetyleneBut-2-yne
+
+385HYDROCARBONS(a)HC 
+ C Œ CH2 Œ CH2 Œ CH2 Œ CH3Hex-1-yne(b)CH
+3 Œ C C Œ CH2 Œ CH2 Œ CH3Hex-2-yne(c)CH
+3 Œ CH2 Œ CC Œ CH2Œ CH3Hex-3-yne3-Methylpent-1-yne4-Methylpent-1-yne4-Methylpent-2-yne    3,3-Dimethylbut-1-ynePosition and chain isomerism shown bydifferent pairs.13.4.2  Structure of Triple Bond
+Ethyne is the simplest molecule of alkyneseries. Structure of ethyne is shown inFig. 13.6.Each carbon atom of ethyne has two sphybridised orbitals. Carbon-carbon sigma ()bond is obtained by the head-on overlappingof the two sp hybridised orbitals of the twocarbon atoms. The remaining sp hybridisedorbital of each carbon atom undergoesoverlapping along the internuclear axis withthe 1s orbital of each of the two hydrogen atomsforming two C-H sigma bonds. H-C-C bondangle is of 180°. Each carbon has twounhybridised p orbitals which areperpendicular to each other as well as to theplane of the C-C sigma bond. The 2p orbitalsof one carbon atom are parallel to the 2
+porbitals of the other carbon atom, whichundergo lateral or sideways overlapping to
+form two pi () bonds between two carbonatoms. Thus ethyne molecule consists of one
+CŒC  bond,  two CŒH  bonds and two CŒC bonds. The strength of CC bond (bondenthalpy 823 kJ mol-1) is more than those ofC=C bond (bond enthalpy 681 kJ molŒ1) andCŒC bond (bond enthalpy 348 kJ molŒ1). TheCC bond length is shorter (120 pm) than thoseof C=C (133 pm) and CŒC (154 pm). Electroncloud between two carbon atoms iscylindrically symmetrical about the
+internuclear axis. Thus, ethyne is a linear
+molecule.13.4.3Preparation
+1.From calcium carbide: On industrialscale, ethyne is prepared by treating calciumcarbide with water. Calcium carbide is
+prepared by heating quick lime with coke.Quick lime can be obtained by heatinglimestone as shown in the following
+reactions:32CaCOCaOCO
+(13.55)Fig. 13.6Orbital picture of ethyne showing(a) sigma overlaps (b) pi overlaps.
+386CHEMISTRY2CaO3CCaCCO
+(13.56)Calcium                      carbide22222
+CaC2HOCa(OH)CH
+    
+(13.57)2.From vicinal dihalides : Vicinaldihalides on treatment with alcoholicpotassium hydroxide undergodehydrohalogenation. One molecule of
+hydrogen halide is eliminated to form
+alkenyl halide which on treatment withsodamide gives alkyne.13.4.4PropertiesPhysical propertiesPhysical properties of alkynes follow the sametrend of alkenes and alkanes. First threemembers are gases, the next eight are liquidsand the higher ones are solids. All alkynes arecolourless. Ethyene has characteristic odour.Other members are odourless. Alkynes are
+weakly polar in nature. They are lighter thanwater and immiscible with water but solublein organic solvents like ethers, carbon
+tetrachloride and benzene. Their  melting point,boiling point and density increase withincrease in molar mass.Chemical propertiesAlkynes show acidic nature, addition reactionsand polymerisation reactions as follows :A.Acidic character of alkyne: 
+Sodiummetal and sodamide (NaNH2) are strong bases.They react with ethyne to form sodiumacetylide with the liberation of dihydrogen gas.These reactions have not been observed in caseof ethene and ethane thus indicating thatethyne is acidic in nature in comparison to
+ethene and ethane. Why is it so ? Has itsomething to do with their structures and thehybridisation ? You have read that hydrogenatoms in ethyne are attached to the sphybridised carbon atoms whereas they areattached to sp2 hybridised carbon atoms inethene and sp3 hybridised carbons in ethane.Due to the maximum percentage of s character(50%), the sp hybridised orbitals of carbonatoms in ethyne molecules have  highestelectronegativity; hence, these attract the
+shared electron pair of the C-H bond of ethyne
+to a greater extent than that of the sp2hybridised orbitals of carbon in ethene and thesp3 hybridised orbital of carbon in ethane.Thus in ethyne, hydrogen atoms can be
+liberated as protons more easily as comparedto ethene and ethane. Hence, hydrogen atomsof ethyne attached to triply bonded carbon
+atom are acidic in nature. You may note that
+the hydrogen atoms attached to the triply
+bonded carbons are acidic but not all thehydrogen atoms of alkynes.Œ2HCCHNaHCCNa½H
+Monosodium 
+ethynide
+
+(13.59)ŒŒŒ2HCCNaNaNaCCNa½H
+Disodium ethynide
+
+
+(13.60)Œ32Œ33CHŒCCHNaNH
+CHŒCCNaNH
+Sodium propynide
+
+(13.61)These reactions are not shown by alkenesand alkanes, hence used for distinctionbetween alkynes, alkenes and alkanes. What
+about the above reactions with but-1-yne andbut-2-yne ? Alkanes, alkenes and alkynes
+follow the following trend in their acidic
+behaviour :i)2233
+HCCH > HCCH>CHŒCH
+ii)333
+HCCHCHŒCCHCHŒCCŒCH
+
+B.Addition reactions
+: Alkynes contain atriple bond, so they add up, two molecules ofdihydrogen, halogen, hydrogen halides etc.
+387HYDROCARBONSFormation of the addition product takes placeaccording to the following steps.The addition product formed depends uponstability of vinylic cation. Addition inunsymmetrical alkynes takes place accordingto Markovnikov rule. Majority of the reactionsof alkynes are the examples of electrophilic
+addition reactions. A few addition reactions aregiven below:(i)Addition of dihydrogen
+
+22223
+3HPt/Pd/Ni
+HCCHH[HCCH]CHŒCH
+(13.62)3232
+2323Pt/Pd/Ni
+CHŒCCHH[CHŒCHCH]
+PropynePropene
+HCHŒCHŒCH
+Propane
+
+(13.63)(ii)Addition of halogens(13.64)Reddish orange colour of the solution ofbromine in carbon tetrachloride is decolourised.
+This is used as a test for unsaturation.(iii)Addition of hydrogen halidesTwo molecules of hydrogen halides (HCl, HBr,HI) add to alkynes to form gem dihalides (inwhich two halogens are attached to the samecarbon atom)223HŒCCŒHHŒBr[CHCHŒBr]CHBr
+Bromoethene
+CH1,1-Dibromoethan
+e
+
+(13.65)(13.66)(iv)  Addition of waterLike alkanes and alkenes, alkynes are alsoimmiscible and do not react with water.However, one molecule of water adds to alkynes
+on warming with mercuric sulphate and dilute
+sulphuric acid at 333 K to form carbonylcompounds.(13.67)(13.68)(v)Polymerisation
+(a)Linear polymerisation: Under suitableconditions, linear polymerisation of ethynetakes place to produce polyacetylene or
+polyethyne which is a high molecular weight
+polyene containing repeating units of(CH = CH Œ CH =  CH ) and can be represented
+as Š(CH = CH Œ CH = CH)
+nŠ Under specialconditions, this polymer conducts electricity.
+388CHEMISTRYThin film of polyacetylene can be used aselectrodes in batteries. These films are good
+conductors, lighter and cheaper than the metalconductors.(b)Cyclic polymerisation: Ethyne on passingthrough red hot iron tube at 873K undergoescyclic polymerization. Three moleculespolymerise to form benzene, which is the
+starting molecule for the preparation of
+derivatives of benzene, dyes, drugs and large
+number of other organic compounds. This is
+the best route for entering from aliphatic to
+aromatic compounds as discussed below:(13.69)Problem 13.14How will you convert ethanoic acid intobenzene?Solution13.5 AROMATIC HYDROCARBONThese hydrocarbons are also known as‚arenes™. Since most of them possess pleasantodour (Greek; aroma meaning pleasantsmelling), the class of compounds was namedas ‚aromatic compounds™. Most of suchcompounds were found to contain benzenering. Benzene ring is highly unsaturated butin a majority of reactions of aromaticcompounds, the unsaturation of benzene ring
+is retained. However, there are examples of
+aromatic hydrocarbons which do not contain
+a benzene ring but instead contain other highly
+unsaturated ring.  Aromatic compounds
+containing benzene ring are known as
+benzenoids and those not containing abenzene ring are known as non-benzenoids.Some examples of arenes are given
+below:    Benzene        Toluene
+NaphthaleneBiphenyl13.5.1 Nomenclature and IsomerismThe nomenclature and isomerism of aromatichydrocarbons has already been discussed inUnit 12. All six hydrogen atoms in benzene areequivalent; so it forms one and only one typeof monosubstituted product. When twohydrogen atoms in benzene are replaced by
+two similar or different monovalent atoms orgroups, three different position isomers arepossible. The 1, 2 or 1, 6 is known as the ortho(oŒ), the 1, 3 or 1, 5 
+as meta (mŒ) and the 1, 4
+as para (pŒ) disubstituted compounds. A few
+examples of derivatives of benzene are given
+below:Methylbenzene1,2-Dimethylbenzene
+(Toluene)(
+o-Xylene)
+389HYDROCARBONS1,3 Dimethylbenzene1,4-Dimethylbenzene
+(m-Xylene)(
+ p-Xylene)13.5.2 Structure of BenzeneBenzene was isolated by Michael Faraday in1825. The molecular formula of benzene,
+C6H6, indicates a high degree of unsaturation.This molecular formula did not account for its
+relationship to corresponding alkanes, alkenesand alkynes which you have studied in earliersections of this unit. What do you think about
+its possible structure? Due to its unique
+properties and unusual stability, it took several
+years to assign its structure. Benzene wasfound to be a stable molecule and found to
+form a triozonide which indicates the presence
+of three double bonds. Benzene was furtherfound to produce one and only one
+monosubstituted derivative which indicated
+that all the six carbon and six hydrogen atoms
+of benzene are identical. On the basis of this
+observation August Kekulé in 1865 proposedthe following structure for benzene having
+cyclic arrangement of six carbon atoms with
+alternate single and double bonds and one
+hydrogen atom attached to each carbon
+atom. The Kekulé structure indicatesthe possibility of two isomeric1, 2-dibromobenzenes. In one of the isomers,the bromine atoms are attached to the doublybonded carbon atoms whereas in the other,
+they are attached to the singly bonded carbons.Friedrich August Kekulé,a German chemist was born in 1829 at Darmsdt inGermany. He became Professor in 1856 and Fellow of Royal Society in 1875. Hemade major contribution to structural organic chemistry by proposing in 1858 thatcarbon atoms can join to one another to form chains and later in 1865,he found ananswer to the challenging problem of benzene structure by suggesting that thesechains can close to form rings. He gave the dynamic structural  formula to benzene
+which forms the basis for its modern electronic structure. He described the discoveryof benzene structure later as:ﬁI was sitting writing at my text book,but the work did not progress; my thoughtswere elsewhere.I turned my chair to the fire, and dozed. Again the atoms were
+gambolling before my eyes. This time the smaller groups kept modestly in thebackground. My mental eye, rendered more acute by repeated visions of this kind,could now distinguish larger structures of manifold  conformations; longrows,sometimes more closely fitted together; all twisting and turning in snake like motion. But look! Whatwas that? One of the snakes had seized hold of it™s own tail, and the form whirled mockingly before my eyes.
+As if by a flash of lightning I woke;.... I spent the rest of the night working out the consequences of thehypothesis. Let us learn to dream, gentlemen, and then perhaps we shall learn the truth but let us beware ofmaking our dreams public before they have been approved by the waking mind.ﬂ( 1890).One hundred years later, on the occasion of Kekulé™s centenary celebrations a group of compounds havingpolybenzenoid structures have been named as Kekulenes.FRIEDRICHAUGUST KEKULÉ(7th September1829Œ13th July1896)

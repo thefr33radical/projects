@@ -1,0 +1,13 @@
+(A) Main Concepts and ResultsŁTwo linear equations in the same two variables are said to form a pair of linear
+equations in two variables.ŁThe most general form of  a pair of linear equations isa1x + b1 y + c1 = 0a2x + b2 y  + c2 = 0,where a1, a2, b1, b2, c1, c2 are real numbers, such that2222
+1122
+0,0
+abab
+    
+.Ł   A pair of linear equations is consistent if it has a solution Œ either a unique or
+infinitely many.
+In case of infinitely many solutions, the pair of linear equations is also said to bedependent. Thus, in this case, the pair of linear equations is dependent and consistent.Ł   A pair of linear equations is inconsistent, if it has no solution.
+ŁLet a pair of linear equations in two variables be a1x + b1y + c1 = 0 anda2x + b2y + c2 = 0.(I)If  
+1122abab , thenPAIR OF LINEAR EQUA
+TIONS IN TWO VARIABLES
+CHAPTER 3

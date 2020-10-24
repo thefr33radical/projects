@@ -1,0 +1,113 @@
+CHAPTER SEVENSYSTEMS OF PARTICLES AND ROTATIONAL MOTION7.1 INTRODUCTIONIn the earlier chapters we primarily considered the motionof a single particle. (A particle is represented as a point mass.It has practically no size.)  We applied the results of ourstudy even to the motion of bodies of finite size, assumingthat motion of such bodies can be described in terms of themotion of a particle.Any real body which we encounter in daily life has afinite size.  In dealing with the motion of extended bodies
+(bodies of finite size) often the idealised model of a particle is
+inadequate.  In this chapter we shall try to go beyond this
+inadequacy.  We shall attempt to build an understanding ofthe motion of extended bodies.  An extended body, in the
+first place, is a system of particles.  We shall begin with theconsideration of motion of the system as a whole.  The centreof mass of a system of particles will be a key concept here.We shall discuss the motion of the centre of mass of a systemof particles and usefulness of this concept in understanding
+the motion of extended bodies.A large class of problems with extended bodies can besolved by considering them to be rigid bodies.  Ideally arigid body is a body with a perfectly definite and
+unchanging shape.  The distances between all pairs of
+particles of such a body do not change. It is evident fromthis definition of a rigid body that no real body is truly rigid,since real bodies deform under the influence of forces. But inmany situations the deformations are negligible.  In a numberof situations involving bodies such as wheels, tops, steel
+beams, molecules and planets on the other hand, we can ignorethat they warp, bend or vibrate and treat them as rigid.7.1.1 What kind of motion can a rigid body have?Let us try to explore this question by taking some examplesof the motion of rigid bodies.  Let us begin with a rectangularblock sliding down an inclined plane without any sidewise7.1Introduction7.2Centre of mass7.3Motion of centre of mass7.4Linear momentum of a
+system of particles7.5Vector product of twovectors7.6Angular velocity and itsrelation with linear velocity7.7Torque and angularmomentum7.8Equilibrium of a rigid body7.9Moment of inertia7.10Theorems of perpendicularand parallel axes7.11Kinematics of rotationalmotion about a fixed axis7.12Dynamics of rotationalmotion about a fixed axis7.13Angular momentum in case
+of rotation about a fixed axis7.14Rolling motionSummaryPoints to Ponder
+ExercisesAdditional exercises
+142PHYSICSmovement.  The block is a rigid body.  Its motiondown the plane is such that all the particles of
+the body are moving together, i.e. they have thesame velocity at any instant of time.  The rigid
+body here is in pure translational motion(Fig. 7.1).In pure translational motion at anyinstant of time all particles of the body have
+the same velocity.Consider now the rolling motion of a solidmetallic or wooden cylinder down the same
+inclined plane (Fig. 7.2). The rigid body in this
+problem, namely the cylinder, shifts from thetop to the bottom of the inclined plane, and thus,
+has translational motion.  But as Fig. 7.2 shows,
+all its particles are not moving with the samevelocity at any instant. The body therefore, isnot in pure translation.  Its motion is translationplus ‚something else.™In order to understand what this ‚somethingelse™ is, let us take a rigid body so constrained
+that it cannot have translational motion.  The
+most common way to constrain a rigid body sothat it does not have translational motion is to
+fix it along a straight line. The only possible
+motion of such a rigid body is rotation. Theline along which the body is fixed is termed asits axis of rotation. If you look around, youwill come across many examples of rotationabout an axis, a ceiling fan, a potter™s wheel, a
+giant wheel in a fair, a merry-go-round and soon (Fig 7.3(a) and (b)).(a)(b)Fig. 7.3Rotation about a fixed axis(a) A ceiling fan
+(b) A potter™s wheel.Let us try to understand what rotation is,what characterises rotation.  You may noticethat in rotation of a rigid body about a fixedFig 7.1Translational (sliding) motion of a block downan inclined plane.
+(Any point like P1 or P2 of the block moveswith the same velocity at any instant of time.)Fig. 7.2Rolling motion of a cylinder It is not puretranslational motion. Points P1, P2, P3 and P4have different velocities (shown by arrows)at any instant of time. In fact, the velocity ofthe point of contact P3 is zero at any instant,if the cylinder rolls without slipping.
+SYSTEMS OF PARTICLES AND ROTATIONAL MOTION143axis, every particle of the body moves in acircle, which lies in a plane perpendicular tothe axis and has its centre on the axis.  Fig.7.4 shows the rotational motion of a rigid bodyabout a fixed axis (the z-axis of the frame ofreference).  Let P1 be a particle of the rigid body,arbitrarily chosen and at a distance r1 from fixedaxis.  The particle P1 describes a circle of radiusr1 with its centre C1 on the fixed axis.  The circlelies in a plane perpendicular to the axis. Thefigure also shows another particle P2 of the rigidbody, P2 is at a distance r2 from the fixed axis.The particle P2 moves in a circle of radius r2 andwith centre C2 on the axis. This circle, too, liesin a plane perpendicular to the axis.  Note that
+the circles described by P1 and P2 may lie indifferent planes; both these planes, however,are perpendicular to the fixed axis.  For anyparticle on the axis like P3, r = 0. Any suchparticle remains stationary while the bodyrotates.  This is expected since the axis is fixed.Fig. 7.5 (a)A spinning top(The point of contact of the top with the
+ground, its tip O, is fixed.)Fig. 7.5 (b)An oscillating table fan. The pivot of thefan, point O, is fixed.In some examples of rotation, however, theaxis may not be fixed.  A prominent example ofthis kind of rotation is a top spinning in place[Fig. 7.5(a)].  (We assume that the top does notslip from place to place and so does not havetranslational motion.)  We know from experiencethat the axis of such a spinning top moves
+around the vertical through its point of contactwith the ground, sweeping out a cone as shownin Fig. 7.5(a).  (This movement of the axis of the
+top around the vertical is termed precession.)Note, the point of contact of the top withground is fixed. The axis of rotation of the topat any instant passes through the point ofcontact. Another simple example of this kind of
+rotation is the oscillating table fan or a pedestalfan.  You may have observed that the axis ofFig. 7.4A rigid body rotation about the z-axis(Each point of the body such as P1 orP2 describes a circle with its centre (C1or C2) on the axis.  The radius of thecircle (r1or r2) is the perpendiculardistance of the point (P1 or P2) from theaxis. A point on the axis like P3 remainsstationary).
+144PHYSICSrotation of such a fan has an oscillating(sidewise) movement in a horizontal plane aboutthe vertical through the point at which the axisis pivoted (point O in Fig. 7.5(b)).While the fan rotates and its axis movessidewise, this point is fixed.  Thus, in moregeneral cases of rotation, such as the rotationof a top or a pedestal fan, one point and notone line, of the rigid body is fixed. In this casethe axis is not fixed, though it always passes
+through the fixed point. In our study, however,we mostly deal with the simpler and special case
+of rotation in which one line (i.e. the axis) isfixed.  Thus, for us rotation will be about a fixedaxis only unless stated otherwise.The rolling motion of a cylinder down aninclined plane is a combination of rotation abouta fixed axis and translation.  Thus, the
+‚something else™ in the case of rolling motionwhich we referred to earlier is rotational motion.You will find Fig. 7.6(a) and (b) instructive fromthis point of view. Both these figures showmotion of the same body along identical
+translational trajectory. In one case, Fig. 7.6(a),
+the motion is a pure translation; in the othercase [Fig. 7.6(b)] it is a combination of
+translation and rotation. (You may try toreproduce the two types of motion shown usinga rigid object like a heavy book.)We now recapitulate the most importantobservations of the present section: The motionof a rigid body which is not pivoted or fixed
+in some way is either a pure translation or a
+combination of translation and rotation. The
+motion of a rigid body which is pivoted or
+fixed in some way is rotation.  The rotationmay be about an axis that is fixed (e.g. a ceiling
+fan) or moving (e.g. an oscillating table fan).  Weshall, in the present chapter, consider rotationalmotion about a fixed axis only.7.2  CENTRE OF MASSWe shall first see what the centre of mass of asystem of particles is and then discuss itssignificance. For simplicity we shall start with
+a two particle system. We shall take the linejoining the two particles to be the x- axis.Fig. 7.7Let the distances of the two particles be x1and x2 respectively from some origin O. Let m1and m2 be respectively the masses of the twoFig. 7.6(a)Motion of a rigid body which is puretranslation.Fig. 7.6(b) Motion of a rigid body which is acombination of translation and
+rotation.Fig 7.6 (a) and 7.6 (b) illustrate different motions ofthe same body. Note P is an arbitrary point of thebody; O is the centre of mass of the body, which isdefined in the next section. Suffice to say here thatthe trajectories of O are the translational trajectoriesTr
+1 and Tr2 of the body. The positions O and P atthree different instants of time are shown by O1, O2,and O3, and P1, P2 and P3, respectively, in bothFigs. 7.6 (a) and (b) . As seen from Fig. 7.6(a), at anyinstant the velocities of any particles like O and P ofthe body are the same in pure translation. Notice, inthis case the orientation of OP, i.e. the angle OP makeswith a fixed direction, say the horizontal, remainsthe same, i.e. a1 = a2 = a3. Fig. 7.6 (b) illustrates acase of combination of translation and rotation. Inthis case, at any instants the velocities of O and P
+differ. Also, a1, a2 and a3 may all be different.
+SYSTEMS OF PARTICLES AND ROTATIONAL MOTION145particles. The centre of mass of the system isthat   point C which is at a distance X from O,where X is given by
+
+
+
+(7.1)In Eq. (7.1), X can be regarded as the mass-weighted mean of  x1 and x2. If the two particleshave the same mass m1 = m2 = m, then
+
+
+
+
+Thus, for two particles of equal mass thecentre of mass lies exactly midway betweenthem.If we have n particles of masses m1, m2,...mn respectively, along a straight line taken asthe x- axis, then by definition the position ofthe centre of the mass of the system of particlesis given by
+
+
+
+
+
+
+
+
+
+
+
+
+    (7.2)where  x1, x2,...xn are the distances of theparticles from the origin; X is also measuredfrom the same origin. The symbol (the Greekletter sigma) denotes summation, in this caseover n particles. The sum
+is the total mass of the system.Suppose that we have three particles, notlying in a straight line. We may define x and y-axes in the plane in which the particles lie andrepresent the positions of the three particles bycoordinates (x1,y1), (x2,y2) and (x3,y3) respectively.Let the masses of the three particles be m1, m2and m3 respectively. The centre of mass C ofthe system of the three particles is defined andlocated by the coordinates (X, Y) given by
+
+
+
+
+
+(7.3a)
+
+
+
+
+
+(7.3b)For the particles of equal mass m = m1 = m2= m3,
+
+
+
+
+
+
+
+
+
+
+
+Thus, for three particles of equal mass, thecentre of mass coincides with the centroid ofthe triangle formed by the particles.Results of Eqs. (7.3a) and (7.3b) aregeneralised easily to a system of n particles, notnecessarily lying in a plane, but distributed inspace. The centre of mass of such a system isat (X, Y, Z ), where
+
+(7.4a)
+
+(7.4b)and  
+
+(7.4c)Here M = is the total mass of thesystem. The index i runs from 1 to n; mi is themass of the ith particle and the position of theith particle is given by (xi, yi, zi).Eqs. (7.4a), (7.4b) and (7.4c) can becombined into one equation using the notationof position vectors. Let   be the position vectorof the ith particle and R be the position vector ofthe centre of mass: 
+
+
+
+
+and 
+
+
+
+Then  
+(7.4d)The sum on the right hand side is a vectorsum.Note the economy of expressions we achieveby use of vectors. If the origin of the 

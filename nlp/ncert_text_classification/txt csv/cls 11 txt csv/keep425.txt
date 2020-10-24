@@ -1,0 +1,214 @@
+156BIOLOGY, EXEMPLAR PROBLEMSCHAPTER 25MODEL QUESTION PAPERThe chapter deals with the design of Model Question Paper for Biology Class XI. This is based  onmodel question paper for Biology Class XII placed on NCERT web site (www.ncert.nic.in) and also
+keeping in view the question paper developed by  CBSE for their board examination 2007. Very
+Short Answer (VSA) type questions of two marks are included in the present design and MultipleChoice Question (MCQ) of one mark each is also suggested. This chapter is divided into three
+headings, such as Design of the Question Paper, Model Questions and Answers with Marking Scheme.
+DESIGN OF THE QUESTION PAPERIn order to develop a balanced question paper various parameters are taken into consideration.They are the type of questions, marks allocation, number of questions, time allocation, unit/
+chapterwise distribution, difficulty level etc. An attempt has been made to provide proper weightageto these parameters under four separate sub-headings.Type of Question and Marking1.Multiple Choice Question 
+(MCQ)(1)  mark2.Very Short Answer Type Question 
+(VSA)(2) marks3.Short Answer Type Question 
+(SA)(3) marks4.Long Answer Type Question 
+(LA)(5) marksNumber, Mar
+ks and Time Allocation to Each Type of Questions
+Type & MarksTime in MinutesNumberM
+arks distributionTime distribution
+of questionsMCQ -1 mark21414 × 1 = 1414 × 2 = 28
+VSA -2 marks51010 × 2 = 2010 × 5 = 50
+
+SA -3 marks877 × 3 = 217 × 8 = 56
+LA  - 5 marks1233 × 5 = 153 × 12 = 36
+   Total34 Questions70 Marks170 minutes
+
+157157157157157157157157157157157157MODEL QUESTION PAPERUnit-wise Distribution of the Questions and MarksUnitUnit wise Questions ofUnit wise Distribution of
+each type and marks in( )total question and marks
+MCQVSASALATotal QuestionTotal Marks
+Diversity in the Living World121-48
+(1)(4)(3)
+Structural Organisation in31-1510
+Plants and Animals(3)(2)(5)
+Cell: Structure and Functions321-610
+(3)(4)(3)
+Plant Physiology3321920
+(3)(6)(6)(5)
+Human Physiology42311022
+(4)(4)(9)(5)
+Total1410733470
+Difficulty Level of the QuestionEasy (E) - 20%= 14 marks
+Average (A) - 60%= 42 marks
+Difficult (D) - 20%= 14 marks
+MODEL QUESTIONSMCQ‚SMark 01
+ Tick the correct statement1.The term ‚systematics™ refers to:
+a.Identification and classification of plants and animals
+b.Nomenclature and identification of plants and animals
+c.Diversity of kinds of organisms and their relationship
+d.Different kinds of organisms and their classification
+
+158BIOLOGY, EXEMPLAR PROBLEMS2.Venation is a term used to describe the pattern of arrangment of
+a.Floral organs
+b.Flower in infloresence
+c.Veins and veinlets in a lamina
+d.All of them
+3.Interfascicular cambium and cork cambium are formed due to
+a.Cell division
+b.Cell differentiation
+c.Cell dedifferentiation
+d.Redifferentiation
+4.Which one of the following is not a connective tissue
+a.Bone
+b.Cartilage
+c.Blood
+d.Muscles
+5.Which of the following statements is true for a secretory cell?
+a.Golgi apparatus is absent
+b.Rough Endoplasmic Reticulum (RER) is easily observed in the cell
+c.Only Smooth Endoplasmic Reticulum (SER) is present
+d.Secretory granules are formed in nucleus.
+6.Many organic substances are negatively charged e.g., acetic acid, while
+others are positively charged e.g., ammonium ion. An aminoacid undercertain conditions would have both positive and negative chargessimultaneously in the same molecule. Such a form of aminoacid is calleda.Positively charged form
+b.Negatively charged form
+c.Neutral form
+d.Zwitterionic form
+7.Mark the correct event during anaphase-I of meiosis
+a.Homologous chromosomes separate
+b.Non-homologous chromosomes separate
+c.Sister chromatids separate
+d.Non-sister chromatids  separate
+
+159159159159159159159159159159159159MODEL QUESTION PAPER8.The form of sugar transported through phloem is
+a.Glucose
+b.Fructose
+c.Sucrose
+d.Ribose
+9.Reactions carried out by N
+2 fixing microbes includea.2NH
+3 + 3O2   2NO2- + 2H+ + 2H2O (i)b.2NO
+2- + O2    2NO3- (ii)Which of the following statements about these equations is not truea.Step (i) is carried out by 
+Nitrosomonas or Nitrococcusb.Step (ii) is carried out by 
+Nitrobacterc.Both steps (i) and (ii) can be called nitrification
+d.Bacteria carrying out these steps are usually photoautotrophs
+10.PEP is primary CO
+2 acceptor ina.C
+4 plantsb.C
+3 plantsc.C
+2 plantsd.Both C
+3 + C4 plants11.Glycogen is a homopolymer made of
+a.Glucose units
+b.Galactose units
+c.Ribose units
+d.Aminoacids
+12.One of the common symptoms observed in people infected with Dengue
+fever isa.significant decrease in RBC count
+b.significant decrease in WBC count
+c.significant decrease in platelets count
+d.significant increase in platelets count
+
+160BIOLOGY, EXEMPLAR PROBLEMS13.Which one of the following statements is incorrect?
+a.The medullary zone of kidney is divided into a few cortical masses
+called medullary pyramids projecting into the calyces.b.Inside the kidney the cortical region extends in between the
+medullary pyramids as renal pelvis.c.Glomerulus alongwith Bowman™s capsule is called the renal
+corpuscle.d.Renal corpuscle, proximal convoluted tabule (PCT) and distal
+convoluted tubule (DCT) of the nephron are situated in the corticalregion of kidney.14.Mary is about to face an interview. But during the first five minutes
+before the interview she experiences sweating, increased rate of heart
+beat, respiration etc. Which hormone is responsible for her restlessness?a.Estrogen and progesterone
+b.Oxytocin and vasopressin
+c.Adrenaline and noradrenaline
+d.Insulin and glucagon
+VSAMarks 02
+15.Suppose you accidentally find an old preserved permanent slide without
+a label. In your effort to identify it,  you place the slide under microscopeand observe the following features :-a.Unicellular
+b.Well defined nucleus
+c.BiflagellateŒone flagellum lying longitudinally and the other
+transversely.What would you identify it as? Can you name the kingdom it belongs to?16.Identify the phylum in which adults exhibit radial symmetry and larva
+exhibit bilateral symmetry.17.Identify the sex of a frog in which sound producing vocal sacs are present.
+18.What is the feature of a metacentric chromosome?
+19.Reaction given below is catalysed by oxidoreductase between two
+substrates A and A™, complete the reaction.A reduced + A™ oxidised 
+161161161161161161161161161161161161MODEL QUESTION PAPER20.A flowering plant is planted in an earthen pot and irrigated. Urea is
+added to make the plant grow faster, but after some time the plant dies.
+Give reason.21.Identify the process occurring in II and III.
+22.Where is NADP reductase enzyme located in the chloroplast? What is
+the role of this enzyme in proton gradient development?23.Cigarette smoking causes emphysema. Suggest reasons.
+24.Arrange the following in the order of reception and transmission of sound
+wave from the external auditory canal:Cochlear nerve, ear drum, stapes, incus, malleus, cochlea.SAMarks 03
+25.The heterosporous pteridophytes show certain characteristics, which
+are precursor to the seed habit in gymnosperms. Explain.26.The following events occur during the various phases of the cell cycle,
+Write the phase against each of the events.a.Appearance of 
+nucleolus_________________________
+b.Division of 
+centromere_________________________
+c.Replication of DNA_________________________
+27.How is sulphur important for plants? Name on amino acids in which it
+is present.
+162BIOLOGY, EXEMPLAR PROBLEMS28.What is the mechanism underlying the phenomenon by which the
+terminal/apical bud suppresses the growth of lateral buds? Suggestmeasures to overcome this phenomenon.29.While eating peach or pear it is usually seen that some stone like
+structures get entangled in the teeth, what are these stone like structurescalled?30.Succulents are known to keep their stomata closed during the day to
+check transpiration. How do they meet their photosynthetic CO2requirements?31.How are the activities of gastro-intestinal tract regulated?
+LAMarks 05
+32.The arrangement of ovules within the ovary is known as placentation.
+What does the term placenta refer to? Name the different types ofplacentation seen in plants. Draw any three types of placentation inflowers as seen in T.S.33.Give the biochemical events occurring in the root nodule of a pulse plant.
+What is the end product? What is its fate?orIt is observed that deficiency of a particular element showed itssymptoms initially in older leaves and then in younger leaves.a.Does it indicate that the element is actively mobilized or relatively
+immobile?b.Name two elements which are highly mobile and two which are
+relatively immobile.c.How is the aspect of mobility of elements important to horticulture
+and agriculture?34.Discuss the role of Ca
+2+ ions in muscle contraction. Draw neat sketchesto illustrate your answer.orA milkman is very upset one morning as his cow refuses to give anymilk. The milkman™s wife gets the calf from the shed. On fondling by thecalf, the milkman got sufficient milk. Describe the role of endocrine glandand hormone associated with this response with suitable diagram.
+163163163163163163163163163163163163MODEL QUESTION PAPERAnswers with Marking SchemeAnswersMCQ1.cŠDiversity of kinds of organisms and their relationship
+2.cŠ Veins and veinlets in a lamina
+3.aŠCell division
+4.dŠMuscles
+5.bŠRough Endoplasmic Reticulum (RER) is easily observed in the cell
+6.dŠZwitterionic form
+
+7.aŠHomologus chromosomes separate
+8.aŠSucrose
+9.dŠBacteria carrying out these steps are usually photoautotrophs
+10.aŠC
+4 plants11.aŠGlucose units
+12.dŠSignificant increase in platelets count
+13.bŠInside the kidney the cortical region extends inbetween the medullary
+pyramids as renal pelvis.14.cŠAdrenaline and noradrenaline
+VSA15.Dinoflagellates
+Kingdom:Protista hereas larvae show bilateral symmetry.16.In Phylum Echinodermeta, adults show radial symmetry whereas larvae
+show bilateral symmetry.17.Male Frog.
+18.The metacentric chromosome has a centromere in the middle region
+with two equal arms of the chromosome19.A reduced + A
+ oxidised  A oxidised + A reduced20.Exosmosis
+21.IIŠAntiport
+IIIŠSymportMarks  11111
+11111
+11111+11+121+1 221+1
+164BIOLOGY, EXEMPLAR PROBLEMS1+1+13331+1+11+1+122.NADP reductase enzyme is located on the stroma side of thylakoid
+membrane.This helps in reduction of NADP+ is NADPH + H+ to create a proton gradientacross thylakoid membrane leading to release of energy.23.Cigarette smoking causes damage of the alveolar walls leading to
+decreased respiratory surfaces for exchange of gases.24.Ear drum,  malleus, incus, stapes, cochlea,  chochlear nerve.
+SA25.All seed plants including gymnosperms are heterosporous producing
+megaspores and microspores that give rise respectively tomegagametophytes and microgametophytes, a condition required forseed production. Production of seed is an extreme form of heterospory,in which ovule is formed, the structure which develops into seed. Theseed has replaced the spore of lower plants as the unit of dispersal. The
+presence of heterospory in pteridophytes indicates the evolution ofgymnosperms from pteridophytes.26.aŠTelophase
+bŠAnaphasecŠInter
+phase27.Sulphur, besi
+des being present in some amino acids essential for protein
+synthesis, is also a constituent of several coenzymes, vitamins andferrodoxin which are involved in some biochemical pathway. It is presentin amino acid cystein.28.The phenomenon by which the terminal apical bud suppresses the
+growth of lateral buds is referred to as apical dominance. This is because
+of the hormone auxin synthesised in the apical bud that inhibits lateralbud development.This can be overcome by removing the apical bud (decapitating) andyoung leaves which will increase branching. It may also be possible to
+overcome this phenomena by application of cytokinin and antiauxinslike ethylene chlorohydrin, DCA (dichloroanisole) etc.29.The structures that get entangled in the teeth while eating fruits like
+peach and pear are actually the stone cells or brachysclereids which areunbranched, short and isodiametric type of sclereids. These stone cells
+usually occur in groups and provide grit or stone like hardness that getentangled in the spaces between teeth.30.Succulents (water storing) plants fix CO
+2 into organic compound usingPEP carboxylase at night, when the stomata are open.1+1223
+165165165165165165165165165165165165MODEL QUESTION PAPERPEP + CO2  OAAOAA      Malic acidThe organic compound (malic acid) accumulates throughoutthe night and is decarboxylated during the day to produceCO2.31.The activities of gastro-intestinal tract are regulated by the
+hormones and neural signals.The sight and smell of food stimulates secretion of salivaorThe muscular acitivities of the alimentry canal are moderatedby neural signals.Hormones produced by the gastric and intestinal mucosaregulates the secretion of digestive juices.LA32.The ovlues are female reproductive structures and borne in
+the ovary of the flower. Their number, structure, position in
+the ovary varies in different plants. They also differ in their
+mode of attachment with the the ovary wall. At the point ofattachement there is a cellular ridge or cushion of cells calledplacenta. The mode of attachment of ovule to the placenta isknown as placentation which is of the following types:(a) Parietal (b) Marginal (c) Axile (d) Free Central (e) Basal(b)(c)(d)Axile        Parietal
+Free central   Placentation    Placentation
+Placentation   33. (i)Root nodu
+les are the site of N2 fixation. The fixation of nitrogenis done by Nitrogenase enzyme, an Mo-Fe protein present inthe nodule. The process requires a source of electrons, protons
+and ATP molecules.Nitrogen is bound to the enzyme surfaceand is reduced in stepwise reaction to ammonia. This stepwisereduction of N2 to NH3 is catalyzed by nitrogenase with the1+1+11+1+33
+166BIOLOGY, EXEMPLAR PROBLEMShelp of reducing agents and hydrolysis of ATP. When eight
+electrons (and 8H+) are accepted by N2, 2 NH3 are releasedfrom the enzyme. The biochemical pathway can besummarized by the reaction below:N2 + 8eŒ + 8H+ + 16 ATP  2 NH3 + 12ADP + 12 Pi(ii) The end product of this reaction is ammonia.(iii)At ph
+ysiological pH, the ammonia is protonated toform NH4+ (ammonium) ion which is used to synthesizeamino acids in plants. The synthesis of amino acids takeplace by two main ways viz. Reductive amination andtransamination.oraŠIt is actively mobilizedbŠHighly mobile- Nitrogen, magnesium
+     Relatively immobile- Sulphur, Calcium
+cŠSymptoms of deficiency of mobile elements are morepronounced in older leaves and symptoms of deficiency ofrelatively immobile element appear first in younger leaves.This information can be utilised by horticulturist and
+agriculturist to get a broad idea of the deficiency elementsin plants.34.Muscle contraction is initiated by a neural signal, which after
+reaching neuromuscular junction or motor end platereleases  a neurotransmitter, which generates an action
+
+potential in the sarcolemma. Action potential spreadsthrough muscle fibre and causes the release of calcium ionsinto the sarcoplasm. Increase in Ca2+ level leads to thebinding of calcium with a subunit of troponin on actinfilaments and thereby removes the masking of active sites
+for myosin. Utilising the energy from ATP hydrolysis, themyosin head now binds to the exposed active site on actinto form a cross-bridge. This pulls the attached actin filamentstowards the centre of ‚A™ band. The ‚Z™ line attached to theseactins are also pulled inwards thereby causing shortening
+of the sarcomere, i.e., contraction.A new ATP binds to myosin head and the cross-bridge isbroken. The  ATP is again hydrolysed by the myosin headand the cycle of cross-bridge formation and breakage is½1½1223½+1½
+167167167167167167167167167167167167MODEL QUESTION PAPERrepeated causing further sliding. The process continues tillthe Ca++ ions are pumped back to the sarcoplasmic cisternaeresulting in masking of actin filaments and breakage of allcross bridges. This cause the return of  ‚Z™ lines along withfilaments  back to their original position, i.e., relaxation.orSucking by the calf creates a neuroendocrine reflex which resultsin release of oxytocin from the neurohypophysis. Oxytocin bringsabout contraction of smooth muscle of the udder resulting inmilk flow. A direct intra-udder injection of oxytocin like hormonewould do the same function.2½+2½

@@ -1,0 +1,254 @@
+MATHEMATICSEXEMPLAR PROBLEMSClass X
+FOREWORDThe National Curriculum Framework (NCF) Œ 2005 initiated a new phase of developmentof syllabi and textbooks for all stages of school education. Conscious effort has beenmade to discourage rote learning and to diffuse sharp boundaries between differentsubject areas. This is well in tune with the NPE  Œ 1986 and Learning Without Burden-1993 that recommend child centred system of education. The textbooks for ClassesIX and XI were released in 2006 and for Classes X and XII in 2007. Overall the books
+have been well received by students and teachers.NCFŒ2005 notes that treating the prescribed textbooks as the sole basis ofexamination is one of the key reasons why other resources and sites of learning areignored. It further reiterates that the methods used for teaching and evaluation willalso determine how effective these textbooks proves for making children™s life at school
+
+a happy experience, rather than source of stress or boredom. It calls for reform inexamination system currently prevailing in the country.The position papers of the National Focus Groups on Teaching of Science,
+Teaching of Mathematics and Examination Reform 
+envisage that the mathematicsquestion papers, set in annual examinations conducted by the various Boards do not
+really assess genuine understanding of the subjects. The quality of question papers isoften not up to the mark. They usually seek mere information based on rote
+
+memorization, and fail to test higher-order skills like reasoning and analysis, let along
+lateral thinking, creativity, and judgment. Good unconventional questions, challenging
+problems and experiment-based problems rarely find a place in question papers. In
+order to address to the issue, and also to provide additional learning material, theDepartment of Education in Science and Mathematics (DESM) has made an attemptto develop resource book of exemplar problems in different subjects at secondary and
+higher-secondary stages. Each resource book contains different types of questions of
+
+varying difficulty level. Some questions would require the students to apply
+simultaneously understanding of more than one chapters/units. These problems arenot meant to serve merely as question bank for examinations but are primarily meantto improve the quality of teaching/learning process in schools. It is expected that theseproblems would encourage teachers to design quality questions on their own. Studentsand teachers should always keep in mind that examination and assessment should test
+comprehension, information recall, analytical thinking and problem-solving ability,
+creativity and speculative ability.
+A team of experts and teachers with an understanding of the subject and aproper role of examination worked hard to accomplish this task. The material wasdiscussed, edited and finally included in this source book.NCERT 
+will welcome suggestions from students, teachers and parents whichwould help us to further improve the quality of material in subsequent editions.Professor Yash PalNew Delhi 
+Chairperson21 May 2008          National Steering Committee     National Council of Educational       Research and Training
+(iv)
+PREFACEThe Department of Education in Science and Mathematics (DESM), National
+Council of Educational Research and Training (NCERT), initiated the
+development of ‚Exemplar Problems™ in science and mathematics for secondaryand higher secondary stages after completing the preparation of textbooks basedon National Curriculum FrameworkŒ2005.The main objective of the book on ‚Exemplar Problems in Mathematics™ is toprovide the teachers and students a large number of quality problems with varyingcognitive levels to facilitate teaching learning of concepts in mathematics that arepresented through the textbook for Class X. It is envisaged that the problems includedin this volume would help the teachers to design tasks to assess effectiveness of theirteaching and to know about the achievement of their students besides facilitatingpreparation of balanced question papers for unit and terminal tests. The feedback
+based on the analysis of students™ responses may help the teachers in further improvingthe quality of classroom instructions. In addition, the problems given in this book arealso expected to help the teachers to perceive the basic characteristics of good qualityquestions and motivate them to frame similar questions on their own. Students canbenefit themselves by attempting the exercises given in the book for self assessment
+and also in mastering the basic techniques of problem solving. Some of the questionsgiven in the book are expected to challenge the understanding of the concepts ofmathematics of the students and their ability to applying them in novel situations.The problems included in this book were prepared through a series of workshopsorganised by the DESM for their development and refinement involving practicing
+teachers, subject experts from universities and institutes of higher learning, and themembers of the mathematics group of the DESM whose names appear separately.
+We gratefully acknowledge their efforts and thank them for their valuable contribution
+in our endeavour to provide good quality instructional material for the school system.I express my gratitude to Professor Krishna Kumar, 
+Director
+ and ProfessorG. Ravindra, 
+Joint Director
+, NCERT for their valuable motivation and guidiance from
+time to time. Special thanks are also due to Dr. R.P.Maurya, 
+Reader in Mathematics,DESM for coordinating the programme, taking pains in editing and refinement of problemsand for making the manuscript pressworthy.
+We look forward to feedback from students, teachers and parents for further
+improvement of the contents of this book.Hu kum SinghProfessor and Head
+DEVELOPMENT TEAMEXEMPLAR PROBLEMS Œ MATHEMATICSMEMBERSB.S. Upadhyaya, Profesor
+, RIE, MysoreG. P. Dikshit, 
+Professor (Retd.), Lucknow University, Lucknow
+Hukum Singh, Professor and Head, DESM, NCERT, New Delhi
+J.C. Nijhawan, Principal (Retd.), Directorate of Education, DelhiMahendra Shankar, 
+Lecturer
+ (S.G.) 
+(Retd.), DESM, NCERT, 
+New DelhiP. Sinclair, 
+Professor
+ and Pro Vice Chancellor
+, IGNOU, New DelhiP.K. Tiwari, 
+Assistant Commissioner (Retd.), K.V. Sangathan, New Delhi
+Ram Avtar, 
+Professor (Retd.), DESM, NCERT, New Delhi
+Sanjay Mudgal, Lecturer
+, DESM, NCERT, New Delhi
+Vandita Kalra, 
+Lecturer
+, Sarvodaya Kanya Vidyalaya, Vikaspuri, New Delhi
+V. Madhvi, T.G.T., Sanskriti School, Chanakyapuri, New Delhi
+V.P. Singh, 
+Reader, DESM, NCERT, New Delhi
+MEMBER - COORDINATOR
+R.P. Maurya, 
+Reader, DESM, NCERT, New Delhi
+
+ACKNOWLEDGESMENTSThe Council gratefully acknowledges the valuable contributions of the followingparticipants of the Exemplar Problems Workshop:Mohammad Qasim, TGT, Anglo 
+Arabic Senior Secondary School, Ajmeri Gate,
+Delhi; Ajay Kumar Singh, TGT, Ramjas Senior Secondary School No. 3, ChandaniChowk, Delhi; Jharna De, TGT, Dev Samaj Higher Secondary School, Nehru Nagar,New Delhi; Shailja Tiwari, 
+PGT, K.V., NSG Campus, Manesar, Gurgaon, Haryana and
+Rashmi Bhartiya, TGT, DPS, Mathura Road, New Delhi,Special thanks are due to Professor Hukum Singh, Head, DESM, NCERT for his
+support during the development of this book.The Council also acknowledges the efforts of  Deepak Kapoor, 
+Incharge
+, ComputerStation; Mrs. Praveen, Rakesh Kumar, 
+Ishwar Singh and Narender Verma, DTPOperators; Abhimanu Mohanty, 
+Proof Reader
+.The contribution of APC Office, 
+Administration of  DESM, Publication Departmentand Secretariat of NCERT is also duly acknowledged.
+
+STUDENTS™ EVALUATION IN MATHEMATICSAT THE SECONDARY STAGEA. IntroductionThe fascinating world of mathematics provides an unlimited scope to mathematiciansto perceive problems pertaining to three situations visualised in the forms of concrete,abstraction and intuition. However, due to abstraction and intuition, sometimes some
+of the mathematical concepts become quite complicated even for teachers who areactively engaged in mathematics teaching at various stages. This needs the exhaustivetraining in methods/pedagogy as well as in contents. This also needs the clarifications
+of mathematical concepts using instructional materials, experimentation, observationand practicals etc. to avoid the abstraction at various stages of schooling. Goodmathematics instruction requires good teachers, and good teachers are those with
+pedagogical content knowledge who, in turn, are predominantly those with good content.Improvement of school mathematics education therefore begins with teaching teachersthe mathematics they need. In other words, the most difficult demand for becoming a
+good teacher is to achieve a firm mastery of the mathematical content . Without such
+
+a mastery, good pedagogy is difficult. A firm mastery of the content opens up the
+world of pedagogy and offers many more effective pedagogical possibilities. Evenbest pedagogy lavished on incorrect mathematics may result in poor quality in teaching.Mathematics as a science of abstract objects, relies on logic rather than on observation,yet it employs observation, simulation, and even experiments as means of discoveringtruth. The ability to reason and think clearly is extremely useful in our daily life, that is,
+developing children™s abilities for 
+mathematisation is the main goal of mathematicseducation as 
+has been  
+emphasised in National Curriculum Framework-2005
+(NCF-2005). It is 
+in this 
+context that NCF-2005 has set two distinct targets formathematics education at school  level viz. narrow
+ and higher. The narrow aim of
+school mathematics is to develop useful capabilities, particularly those relating tonumeracy- number, number operations, measurements, decimals and percentages.The higher aim is to develop the child™s resources to think and reason mathematically,
+
+to pursue assumptions to their logical conclusions and to handle abstractions. It includesa way of doing things, and the ability and the attitude to formulate and solve problems.This calls for curriculum to be ambitious in the sense that it seeks to achieve the higher
+aim mentioned above, rather than only the narrow aim. It should be coherent in the
+sense that the variety of methods and skills available piecemeal (in arithmetic, algebra,geometry) cohere into an ability to address problems that come from other domainssuch as sciences and in social studies at secondary stage. It should be important in thesense that students feel the need to solve such problems.Evaluation is a very comprehensive term which, in general, includes evaluating anyobject, individual, event, trend, etc. A most common type of individual evaluation is the
+
+evaluation of a student. It includes the assessments of the performance of the student
+in the areas of her personality development in terms of intellectual, social and emotional
+developments after she has been provided learning experiences through classroom
+processes. Besides the factors like quality of teaching curricular materials, instructional
+technology, school infrastructure and societal support also influence the learning and
+experiences. In educational terminology, these areas of personality development are
+called scholastic and co-scholastic areas. Due to its wider applications in various other
+fields, mathematics is the most important scholastic area. It is for this reason,
+mathematics is a compulsory subject up to the secondary stage from quite a long time.
+This is the stage which acts as a bridge between the students who will continue with
+Mathematics in higher classes. Therefore, evaluation of Mathematics at 
+this stagerequires special attention. This evaluation is done to assess whether the main aim or objectives
+laid down in NCF-2005 have been achieved by the students or not?
+B. Purposes of EvaluationThere are various purposes of evaluation. Some of these are to know the answers forthe following questions:(i)How has the teaching been effective?
+
+(ii)Which method is more suitable for teaching a particular topic or concept?(iii)To 
+what extent students are ready to learn a particular topic?(iv)What type of learning difficulties are faced by the students?(v)Do the students require remedial measures?
+(vi)Which students are to be provided some enrichment materials?(vii)Which topics are more difficult for the student?(viii)Is 
+there a need to make a change in the teaching strategy for a particular topic?(ix)How can the result of the evaluation can be utilised for the all round developmentof students?(ix)
+C. Types of Evaluation
+Evaluation is mainly of two types namely(i)  Summative and  (ii) Formative(i)Summative Evaluation: It is done at the end of the course or a term. It involvesa formal testing of the student™s achievements and is used for grading, ranking
+and certifying the achievements of the students.(ii)Formative Evaluation: It is in-built in the teaching learning process. It is acontinuous process going on throughout the course. The purpose of such evaluationis to obtain feedback so that teaching or instructional strategies could be improved.
+Further, on 
+the basis of the feedback, strategies and weaknesses of the studentscan be assessed.NCF-2005 has also given more stress on continuous and comprehensive evaluationin comparison to the summative evaluation. For this, a mathematics teacher may(i)ask some questions to know to what extent the students understand about the
+new concept to be taught before it is started.(ii)ask questions at regular intervals to check the understanding of students duringthe presentation of a concept.(iii)assess students by the questions asked by them during the teaching of a chapter.
+(iv)assess the students during class work.(v)assess students on the basis of the home assignments given to them.
+(vi)assess students by asking some questions at the end of the chapter.
+(vii)encourage peer group members (students) to evaluate one another. This may be
+called as Peer Evaluation. This evaluation can bring out the hidden talents amongthe students.Thus, whatever may be the way of evaluation, it is done through some well thoughtquestions, which may be referred to as good questions.D. Characteristics of a Good QuestionQuality of a question depends on the situation where it is to be used. In general,following are some of the characteristics of a ‚good question™:(i)Validity:
+ A question is said to be valid, if it serves the purpose for which it has
+been framed.Thus, for a question to be valid, it must be based on (a) a specified content areaand also on (b) a predetermined aim or objective.In case it is not valid, it will be treated as a question ‚out of course or syllabus™.(x)
+(ii)Reliability: A question is said to be reliable, if its answer gives the true  achievement
+of the student. In other words, the achievement of the student must be free fromchance errors. These errors, generally, occur due to vagueness of language or
+
+direction provided in the question. They may occur (1) at the time when thestudent is answering the question and (2) at the time when the teacher is evaluatingthe answer. In view of the above, following steps can ensure higher reliability of
+a question:(a)The question should admit of one and only one interpretation.
+
+(b)The scope of the answer must be clear.
+(c)The directions to the question must be clear.
+(d)A well thought marking scheme should be provided for the question.
+(iii)  Difficulty Level: Difficulty level is a very important characteristic of a question.     In different situations, questions of different difficulty levels are needed. Forexample, for assessing the achievement of Minimum Level of Learning, therewill always be a need of questions of lower difficulty level. Difficulty level of aquestion may be categorised in the following three types:       (a)
+Difficult: Which could be done by about less than 30% of the students.       (b)
+Average
+: Which could be done by 
+30% but  70% of the students.       (c)
+Easy: Which could be done by more than 70% of the students.These levels can be decided by the question framer herself on the basis of her ownexperiences.(iv)  Language: Language of a question must be simple and within the comprehensionlevel of the student™s vocabulary. It should not lead to different answers. However,
+if necessary, the same 
+question can be presented before the students at differentdifficulty levels, by using a little different language or wordings.(v)  Form: There are different forms of questions and each form is more suitable thanthe other depending upon the situations. There may be several factors for choosinga particular form of questions. These  may be one or more of the following:(a) Economy (b) Facility in printings (c) Ease in scoring and so on.E. Different Forms of QuestionsIn general, the questions are of the following two forms:
+(1)   Free Response Type and (2) Fixed Response Type
+
+1.   Free Response Questions: In a free response question, a student formulatesand organizes her own answer. These type of questions are very much in use in the
+present system of examination. These are of two types, namely(xi)
+(a)  Long Answer Questions
+A question which requires comparatively a lengthy answer is called a long answertype question. These questions require the student to select relevant  facts, organise
+them and write answers in her own words. In these type of questions, there is a verylittle scope of guessing. However, if there are more number of long answer questions,
+then the possibility of covering the whole content area in the examination will become
+less. To overcome this difficulty, we may choose such long answer type questions
+which involve more than one content areas.(b)  Short Answer Questions
+A question in which a student is expected to write the answer in 3 or 4 lines is calleda short answer type question. In these questions, the coverage of content areas ismore specific and definite. It may be noted that a question whose answer may be a
+simple diagram is also considered to be a short answer type question.2.    Fixed Response Questions: In these type of questions, the answer is fixed anddefinite. These type of questions are being encouraged due to their objectivity in scoring.They are also of two types, namely(a)  Very Short 
+Answer QuestionsA question in which a student is expected to give the answer in just one word or aphrase is called a very short answer type question. In mathematics, by a word or aphrase, we generally mean a group of symbols or numbers (numerals). It is expectedto take 1 to 3 minutes to answer such a question. Fill in the blanks question is one of
+the examples of such type of questions.(b)  Objective QuestionsAn objective type question is one in which alternate answers are given and studenthas to just indicate the correct answer. These questions can also be answered in just
+1 to 3 minutes. They can be further classified into the following forms:(i)   True-False Type: 
+In these type of questions, a statement or formula is given andthe student is expected to write whether it is ‚True™ or ‚False™.
+(ii)  Matching T
+ype: These type of questions consist of two columns. The student
+has to pair each item of first column with some item of the second column on the basisof some criterion. The number of items in the second column may be more than that of
+the first column.(iii) Sentence Completion Type:
+ In these type of questions, the student has to completethe given sentence using one or more words given in brackets along with the question.(iv) Multiple Choice Type: 
+ In these type of questions, number of alternatives (usuallycalled distracters), only one is appropriate or correct. The student is expected to writeor tick () the correct alternative.(xii)
+In the fixed response questions, the scope of guess work is very high. However,
+this can be minimised by attaching some element of reasoning in such questions. We
+may call these questions as Short 
+Answer Questions with Reasoning.F. Instructional Objectives
+As already stated, a question is said to be valid if it also based on a predeterminedobjective. The word ‚objective™ is a wider term. Objectives are divided into two groups,
+namely (1) educational objectives and (2) instructional objectives. Educational objectivesplay a directive role in the process of education, while instructional objectives arethose goals for the achievement of which all educational efforts are directed.
+Mathematics is a special language with its own vocabulary and grammar. The
+
+vocabulary consists of concepts, terms, facts, symbols, assumptions, etc., while the
+grammar relates to principles, processes, functional relationships, etc. Knowledge and
+understanding of these and their applications to new situations have helped mankind to
+achieve tremendous progress in various fields. Therefore, the main instructional
+objectives for mathematics are as follows:1.   Knowledge with SpecificationsThe students1.1recall or reproduce terms, facts, etc.
+
+1.2recognise terms, symbols, concepts, etc.
+2.   Understanding with Specifications
+The students2.1give illustrations for terms, definitions, etc.
+
+2.2detect conceptual errors (and correct) in definitions, statements, formulae, etc.
+
+2.3compare concepts, quantities, etc.
+
+2.4discriminate between closely related concepts
+
+2.5translate verbal statements into mathematical statements and vice-versa
+2.6verify the results arrived at
+
+2.7classify data as per criteria
+
+2.8find relationships among the given data
+
+2.9interpret the data
+3.   Application with SpecificationThe students3.1analyse and find out what is given and what is required to be done
+
+3.2find out the adequecy, superflousity and relevancy of data
+
+3.3estabish relationship among the data
+(xiii)
+3.4reason out deductively
+3.5select appropriate methods for solutions of problems
+
+3.6suggest alternative methods for solving problems
+3.7generalise from particular situations
+4.   Skill with Specifications
+The students4.1Carry out calculation easily and quickly
+4.2Handle geometrical instruments properly
+
+4.3Draw figure accurately and to the scale
+4.4Read tables and graphs properly
+4.5Interpret graphs correctly
+As far as the main goal or objective in the NCF-2005 is concerned, it is todevelop abilities in the student for mathematisation. It also states (1) the narrow aimsof school mathematics, which concern with decimals and percents and (2) the higheraims, which are for developing the child resources to think and reason mathematically,
+to pursue assumption to their logical conclusions and to handle abstractions. Keeping
+this in view, at this stage, the stress is only on the higher aims. These higher aims may
+
+be considered as the instructional objectives. Objective based questions and objective
+type questions are often confused with each other. When a question is framed keeping
+a definite aim or objective in mind, it is called an objective based question, while if aquestion is framed to measure the students achievement which is objective rather than
+subjective is called objective type question. It may also be noted that determination of
+the objective of a question varies from person to person. For example, a question may
+appear to be of ‚knowledge™ type to one teacher who may think that the answer of thequestion is known to the students, but the same question may appear to be ofunderstanding type to another teacher if she thinks that the question is completely
+unknown to the same group of students. In the light of the views expressed in
+NCF-2005, the following types of questions are suggested:1.Long answer questions
+2.Short answer questions
+3.Short answer questions with reasoning
+
+4.Multiple choice questions
+It is hoped that these questions along with the questions in the textbookwould be effectively able to evaluate the Classes IX and X students in mathematics.(xiv)
+CONTENTSFOREWORDiiiPREFACE
+vSTUDENTS™ EVALUATION
+ IN MATHEMATICS
+ AT SECONDARY
+ STAGE
+viiiCHAPTER 1Real Numbers1CHAPTER 2Polynomials8CHAPTER 3Pair of Linear Equations in Two Variables
+16CHAPTER 4Quadratic Equations35CHAPTER 5Arithmetic Progressions44CHAPTER 6Triangles
+59CHAPTER 7Coordinate Geometry77CHAPTER 8Introduction to Trigonometry 
+and its Applications
+87CHAPTER 9Circles101CHAPTER10Constructions113
+CHAPTER11Area Related to Circles119
+CHAPTER12Surface Areas and 
+Volumes
+136CHAPTER13Statistics and Probability153Answers183Design of the Question Paper , Set-I203Design of the Question Paper, 
+Set-II219
+

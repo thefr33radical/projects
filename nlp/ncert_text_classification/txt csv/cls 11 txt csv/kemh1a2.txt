@@ -1,0 +1,20 @@
+A.2.1  IntroductionMuch of our progress in the last few centuries has made it necessary to apply
+mathematical methods to real-life problems arising from different fields Œ be it Science,
+Finance, Management etc. The use of Mathematics in solving real-world problems
+has become widespread especially due to the increasing computational power of digital
+computers and computing methods, both of which have facilitated the handling of
+lengthy and complicated problems. The process of translation of a real-life problem
+into a mathematical form can give a better representation and solution of certain
+problems. The process of translation is called Mathematical Modelling.Here we shall familiaries you with the steps involved in this process throughexamples. We shall first talk about what a mathematical model is, then we discuss thesteps involved in the process of modelling.A.2.2  PreliminariesMathematical modelling is an essential tool for understanding the world. In olden days
+the Chinese, Egyptians, Indians, Babylonians and Greeks indulged in understanding
+and predicting the natural phenomena through their knowledge of mathematics. The
+architects, artisans and craftsmen based many of their works of art on geometric
+prinicples.Suppose a surveyor wants to measure the height of a tower. It is physically verydifficult to measure the height using the measuring tape. So, the other option is to find
+out the factors that are useful to find the height. From his knowledge of trigonometry,he knows that if he has an angle of elevation and the distance of the foot of the tower
+to the point where he is standing, then he can calculate the height of the tower.So, his job is now simplified to find the angle of elevation to the top of the towerand the distance from the foot of the tower to the point where he is standing. Both of
+which are easily measurable. Thus, if he measures the angle of elevation as 40° andthe distance as 450m, then the problem can be solved as given in Example 1.2AppendixMATHEMATICAL MODELLING
+422MATHEMATICSExample 1 The angle of elevation of the top of a tower from a point O on the ground,which is 450 m away from the foot of the tower, is 40°. Find the height of the tower.Solution We shall solve this in different steps.Step 1 We first try to understand the real problem. In the problem a tower is given andits height is to be measured. Let h denote the height. It is given that the horizontaldistance of the foot of the tower from a particular point O on the ground is 450 m. Let
+d denotes this distance. Then d = 450m. We also know that the angle of elevation,denoted by q, is 40°.The real problem is to find the height h of the tower using the known distance dand the angle of elevation q.Step 2 The three quantities mentioned in the problem are height,distance and angle of elevation.So we look for a relation connecting these three quantities.This is obtained by expressing it geometrically in the following
+way (Fig 1).AB denotes the tower. OA gives the horizontal distancefrom the point O to foot of the tower. ÐAOB is the angle ofelevation. Then we havetan q = hd or h = d tan q... (1)This is an equation connecting q, h and d.Step 3 W
+e use Equation (1) to solve h. We have q = 40°. and d = 450m. Then we geth = tan 40° × 450 = 450 × 0.839 = 377.6mStep 4  Thus we got that the height of the tower approximately 378m.Let us now look at the different steps used in solving the problem. In step 1, wehave studied the real problem and found that the problem involves three parameters
+height, distance and angle of elevation. That means in this step we have studied thereal-life problem and identified the parameters.In the Step 2, we used some geometry and found that the problem can berepresented geometrically as given in Fig 1. Then we used the trigonometric ratio forthe ﬁtangentﬂ function and found the relation ash = d tan qSo, in this step we formulated the problem mathematically. That means we foundan equation representing the real problem.Fig 1

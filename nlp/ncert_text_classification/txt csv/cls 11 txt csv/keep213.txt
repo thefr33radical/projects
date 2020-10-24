@@ -1,0 +1,596 @@
+13.1 Overview13.1.1  Limits of a functionLet f be a function defined in a domain which we take to be an interval, say, 
+I. We shall
+study the concept of limit of f at a point ‚a™ in I.We say 
+Œlim()
+xafx is the expected value of f at x = a given the values of f near to theleft of a. This value is called the left hand limit of f at a.We say 
+lim()
+xafx is the expected value of f at x = a given the values of f near to theright of a. This value is called the right hand limit of f at a.If the right and left hand limits coincide, we call the common value as the limit of f atx = a and denote it by lim()
+xafx.Some properties of limitsLet f and g be two functions such that both lim()
+xafx and lim()
+xagx exist. Then(i)lim[()()]lim()lim()
+xaxaxa
+fxgxfxgx
+
+
+(ii)lim[()()]lim()lim()
+xaxaxa
+fxgxfxgx
+
+
+(iii)For every real number lim()()lim()
+xaxa
+fxfx
+
+(iv)lim[()()][lim()lim()]
+xaxaxa
+fxgxfxgx
+
+lim()
+()lim()lim()
+xaxaxafxfxgxgx
+, provided g (x)   0Chapter13LIMITS AND DERIVATIVES
+
+226    EXEMPLAR PROBLEMS Œ MATHEMATICSLimits of polynomials and rational functionsIf f is a polynomial function, then lim()
+xafx exists and is given bylim()()
+xafxfa
+An Important limitAn important limit which is very useful and used in the sequel is given below:1limnnnxaxanaxaRemark  The above expression remains valid for any rational number provided ‚a™ ispositive.Limits of trigonometric functionsTo evaluate the limits of trigonometric functions, we shall make use of the following
+limits which are given below:(i)0sin
+limxxx = 1(ii)
+0limcos1
+xx(iii)0limsin0
+xx13.1.2  Derivatives  Suppose f is a real valued function, thenf (x) =0()()
+limhfxhfx
+h... (1)is called the derivative of  f  at x, provided the limit on the R.H.S. of (1) exists.Algebra of derivative of functions  Since the very definition of derivatives involvelimits in a rather direct fashion, we expect the rules of derivatives to follow closely thatof limits as given below:Let f and g be two functions such that their derivatives are defined in a commondomain. Then :(i)Derivative of the sum of two function is the sum of the derivatives of the functions.
+()()
+dfxgx
+dx =()()
+ddfxgx
+dxdx
+(ii)Derivative of the difference of two functions is the difference of the derivativesof the functions.()()
+dfxgx
+dx =()()
+ddfxgx
+dxdx
+
+LIMITS AND DERIVATIVES    227
+(iii)Derivative of the product of two functions is given by the following product
+rule.()()
+dfxgx
+dx =()()()()
+ddfxgxfxgx
+dxdx
+
+
+
+
+This is referred to as Leibnitz Rule for the product of two functions.(iv)Derivative of quotient of two functions is given by the following quotient rule(wherever the denominator is non-zero).()()dfx
+dxgx
+ =2()()()()
+()ddfxgxfxgx
+dxdx
+gx
+
+13.2  Solved ExamplesShort 
+Answer Type
+Example 1  Evaluate 32212(23)
+lim232
+xxxxxx
+Solution  We have
+32212(23)
+lim232
+xxxxxx
+ =212(23)
+lim2(1)(2
+xxxxxx
+
+=2(1)2(23)
+lim(1)(2)
+xxxx
+xxx
+
+=2256lim(1)(2)
+xxxxxx
+=2(2)(3)
+lim(1)(2)
+xxxxxx
+
+ [x Œ 2  0]=231lim(1)2
+xxxx
+228    EXEMPLAR PROBLEMS Œ MATHEMATICSExample 2  Evaluate 022limxxxSolution  Put y = 2 + x so that when x  0, y  2. Then022limxxx =112222lim2yyy=11122111(2)2
+2222
+
+Example 3  Find the positive integer n so that 33lim108
+3nnxxx.Solution  We have
+33lim3nnxxx
+ =n(3)n Œ 1Therefore,n(3)n Œ 1 =108 = 4 (27) = 4(3)
+4 Œ 1Comparing, we getn =4Example 4  Evaluate 2lim(sectan)
+xxxSolution  Put y = 2x. Then y  0 as x  2. Therefore2lim(sectan)
+xxx =0lim[sec()tan()]
+22yyy
+=0lim(coseccot)
+yyy=01cos
+limsinsin
+yyyy=01cos
+limsin
+yyy
+LIMITS AND DERIVATIVES    229
+=   202sin
+2lim2sincos
+22yyyy21cos
+since,sin
+22sin2sincos
+22yyyyy
+=02limtan
+2yy = 0Example 5  Evaluate  0sin(2)sin(2)
+limxxxx
+Solution  (i) We have
+0sin(2)sin(2)
+lim
+xxxx
+ = 0(22)(22)2cossin
+22limxxxxx
+x
+=02cos2sin
+limxxx=2 cos
+ 2 0sin
+lim2cos2
+xxx 0sin
+aslim1
+xxxExample 6 Find the derivative of f(x) = ax + b, where a and b are non-zero constants,by first principle.Solution  By definition,f(x) =0()()
+limhfxhfx
+h=0()()
+limhaxhbaxb
+h
+ = 0limhbhh = bExample 7  Find the derivative of f(x) = ax2 + bx + c, where a, b and c are none-zeroconstant, by first principle.Solution  By definition,f(x) =0()()
+limhfxhfx
+h
+230    EXEMPLAR PROBLEMS Œ MATHEMATICS=220()()lim
+haxhbxhcaxbxc
+h
+= 202limhbhahaxh
+h =0limh ah 
++ 2ax + b = b + 2axExample 8 Find the derivative of f(x) = x3, by first principle.Solution  By definition,f(x) =0()()
+limhfxhfx
+h=330()limhxhxh=333
+03()
+limhxhxhxhx
+h
+=0limh(h2 + 3x (x + h)) = 3x2Example 9 Find the derivative of f(x) = 1x by first principle.Solution  By definition,f(x) =0()()
+limhfxhfx
+h=0111
+limhhxhx
+=0lim()hhhxhx
+ = 21x.Example 10  Find the derivative of f(x) = sin x, by first principle.Solution  By definition,f(x) =0()()
+limhfxhfx
+h
+LIMITS AND DERIVATIVES    231
+=0sin()sin
+limhxhxh=022cossin
+22lim22hxhhh=00sin
+(2)
+2limcoslim
+22hhhxhh=cos 
+x.1 = cos xExample 11 
+ Find the derivative of f(x) = xn, where n is positive integer, by first
+principle.Solution  By definition,f(x) =()()
+fxhfx
+h=()nnxhxhUsing Binomial theorem, we have (x + h)n = nC0 xn + nC1 xn Œ 1 h + ... + nCn hnThus,f(x) =0()limnnhxhxh=110(...]
+limnnhhnxh
+h = nxn Œ 1.Example 12  Find the derivative of 2x4 + x.Solution  Let y = 2x4 + xDifferentiating both sides with respect to x, we getdydx =4(2)()
+ddxxdxdx
+=2 × 4
+x4 Œ 1 + 1x0
+232    EXEMPLAR PROBLEMS Œ MATHEMATICS=8x3 + 1Therefore,4(2)
+dxxdx =8x3 + 1.Example 13  Find the derivative of x2 cosx.Solution  Let y = x2 cosxDifferentiating both sides with respect to x, we getdydx =2(cos)
+dxxdx=22(cos)cos()
+ddxxxx
+dxdx
+=x2 (Œ sinx) + cosx (2x)=2x cosx Œ x2 sinxLong Answer Type
+Example 14  Evaluate 2262sinsin1
+lim2sin3sin1
+xxxxxSolution  Note that2 sin2 x + sin x Œ 1 =(2 sin 
+x Œ 1) (sin x + 1)2 sin2 x Œ 3 sin x + 1 =(2 sin 
+x Œ 1) (sin x Œ 1)Therefore,2262sinsin1
+lim2sin3sin1
+xxxxx =6(2sin1)(sin1)
+lim(2sin1)(sin1)
+xxxxx
+=6sin1
+limsin1
+xxx
+(as 2 sin x Œ 1  0)=1sin
+6sin1
+6 = Œ3
+LIMITS AND DERIVATIVES    233
+Example 15  Evaluate 30tansin
+limsin
+xxxxSolution  We have
+30tansin
+limsin
+xxxx =301sin1
+cos
+limsin
+xxxx=201cos
+limcossin
+xxxx=20222sin
+2limcos4sincos
+22xxxxx = 12.Example 16  Evaluate 23lim32xaaxx
+axx
+Solution  We have 
+23lim32xaaxx
+axx
+=2323
+lim3223
+xaaxxaxx
+axxaxx
+
+
+=23lim3223
+xaaxx
+axxaxx
+
+=()32
+lim233232
+xaaxaxx
+axxaxxaxx
+
+
+=()32
+lim2334
+xaaxaxx
+axxaxx
+
+
+
+234    EXEMPLAR PROBLEMS Œ MATHEMATICS=4323aa = 223
+933.Example 17  Evaluate 0coscos
+limcos1
+xaxbx
+cxSolution  We have 
+20()()
+2sinsin
+22limsin
+22xababx
+xcx=2202()()
+2sinsin
+22limsin
+2xabxabx
+xcxx= 22024()()
+sinsin
+222lim()2
+()2
+sin
+222xcxabxabx
+cabxcx
+abx
+abab=2422abab
+c = 222abcExample 18  Evaluate 220()sin()sin
+limhahahaa
+h
+Solution  We have 
+220()sin()sin
+limhahahaa
+h
+= 222
+0(2)[sincoscossin]sin
+limhahahahahaa
+h
+       = 
+220sin(cos1)cossin
+lim[
+haahaah
+hh(2)(sincoscossin)]
+haahah
+
+
+LIMITS AND DERIVATIVES    235
+=2222000
+sin(2sin)
+cossin
+2limlimlim(2)sin()
+22hhh
+haahaah
+haah
+hh
+
+= a2 sin a × 0 + a2 cos a (1) + 2a sin a= a2 cos a + 2a sin a.Example 19  Find the derivative of f(x) = tan (ax + b), by first principle.Solution  We have 
+f(x) = 0()()
+limhfxhfx
+h=0tan()tan()
+limhaxhbaxb
+h
+=0sin()sin()
+cos()cos()
+limhaxahbaxb
+axahbaxb
+h
+
+=0sin()cos()sin()cos()
+limcos()cos()
+haxahbaxbaxbaxahb
+haxbaxahb
+
+
+=0sin()
+limcos()cos()
+haah
+ahaxbaxahb
+
+=00sin
+limlim
+cos()cos()
+hah
+aah
+axbaxahbah
+
+ [as h  0 ah  0]=2cos()
+aaxb
+ = a sec2 (ax + b).Example 20  Find the derivative of ()sin
+fxx
+, by first principle.Solution  By definition,f(x) = 0()()
+limhfxhfx
+h
+236    EXEMPLAR PROBLEMS Œ MATHEMATICS=0sin()sin
+limhxhxh=0sin()sinsin()sin
+limsin()sin
+hxhxxhx
+hxhx
+
+=0sin()sin
+limsin()sin
+hxhx
+hxhx
+=022cossin
+22lim2sin()sin
+2hxhh
+hxhx
+=cos
+2sin
+xx  = 
+1cotsin
+2xxExample 21  Find the derivative of  cos
+1sin
+xx.Solution  Let y = cos
+1sin
+xxDifferentiating both sides with respects to x, we getdydx =cos
+1sin
+dxdxx
+   =2(1sin)(cos)cos(1sin)
+(1sin)
+ddxxxx
+dxdx
+x
+=2(1sin)(sin)cos(cos)
+(1sin)
+xxxx
+x
+
+LIMITS AND DERIVATIVES    237
+=222sinsincos
+(1sin)
+xxxx
+=2(1sin)
+(1sin)
+xx = 11sin
+xObjective Type QuestionsChoose the correct answer out of the four options given against each Example 22 to 28(M.C.Q.).Example22  0sin
+lim(1cos)
+xxxx is equal to(A)0(B)
+12(C)1(D)Œ1
+Solution  (B)  is the correct answer, we have0sin
+lim(1cos)
+xxxx =022sincos
+22lim2cos
+2xxxxx=0tan
+12lim22xxx = 12Example23  21sin
+limcos
+xxx is equal to(A)0(B)Œ1(C)1(D)does not exit
+Solution  (A) is the correct answer, since21sin
+limcos
+xxx =01sin
+2limtaking
+2cos
+2yyxyy
+238    EXEMPLAR PROBLEMS Œ MATHEMATICS=01cos
+limsin
+yyy = 202sin
+2lim2sincos
+22yyyy=0limtan
+2yy = 0Example 24  0||limxxx is equal to(A)1(B)Œ1(C)0(D)does not exists
+Solution  (D) is the correct answer, sinceR.H.S =0||lim1
+xxxxxandL.H.S =
+Œ0||lim1
+xxxxx
+Example 25  1lim[1]
+xx, where [.] is greatest integer function, is equal to(A)1(B)2(C)0(D)does not exists
+Solution  (D) is the correct answer, sinceR.H.S =1lim[1]0
+xxandL.H.S =
+1lim[1]Œ1
+xxExample 26  01limsin
+xxx is equals to(A)0(B)1(C)
+12(D)does not exist
+Solution  (A) is the correct answer, since0lim0
+xx and Œ1  1sin
+x  1, by Sandwitch Theorem, we have
+LIMITS AND DERIVATIVES    239
+01limsin
+xxx =0Example 27  2123...
+limnnn
+,  n  N, is equal to(A)0(B)1(C)
+12(D)1
+4Solution  (C) is the correct answer. As  
+2123...
+limxnn
+= 2(1)
+lim2nnnn =111
+lim1
+22xnExample 28  If f(x) = x sinx, then 2f is equal to(A)0(B)1(C)Œ1(D)
+12Solution  (B) is the correct answer. As  
+f (x) = x cosx + sinxSo,2f =cossin1
+222
+
+13.3   EXERCISEShort 
+Answer Type
+Evaluate :1.239lim3xxx2.21241lim21xxx3.0limhxhxh4.11
+330(2)2
+limxxx5.621(1)1
+lim(1)1
+xxx
+6.5522(2)(2)
+limxaxaxa
+
+240    EXEMPLAR PROBLEMS Œ MATHEMATICS7.41lim1xxxx8.224lim322
+xxxx
+9.4224lim328
+xxxx10.7532121lim32xxxxx11.
+332011limxxxx
+12.35327lim243
+xxx13.22128341
+lim2141
+xxxxx14.Find ‚n™, if 22lim80
+2nnxxx, n  N15.sin3
+limsin7
+xaxx16.220sin2
+limsin4
+xxx17.201cos2
+limxxx18.302sinsin2
+limxxxx19.01cos
+lim1cos
+xmxnx20.31cos6
+lim23xxx21.4sincos
+lim4xxxx22.63sincos
+lim6xxxx23.0sin23
+lim2tan3
+xxxxx24.sinsin
+limxaxaxa25.26cot3
+limcosec2
+xxx26.2021cos
+limsin
+xxx27.0sin2sin3sin5
+limxxxxx28.If 433
+2211limlim
+1xxk
+xxkxxk, then find the value of k.Differentiate each of the functions w. r. to 
+x in Exercises 29 to 42.29.4321xxx
+x
+30.31xx31.(3x + 5) (1 + tanx)
+LIMITS AND DERIVATIVES    241
+32.(sec x Œ 1) (sec x + 1)33.234579
+xxx34.5cos
+sin
+xxx35.2cos
+4sin
+xx 36.(ax2 + cotx) (p + q cosx)37.sin
+cos
+abx
+cdx
+38.(sin x + cosx)239.(2x Œ 7)2 (3x + 5)340.x2 sinx + cos2x41.sin3x cos3x42.21axbxc
+Long Answer Type
+Differentiate each of the functions with respect to ‚x™ in Exercises 43 to 46 using firstprinciple.43.cos (x2 + 1)44.axb
+cxd
+45.23x46.x cosxEvaluate each of the following limits in Exercises 47 to 53.47.0()sec()sec
+limyxyxyxx
+y
+48.0(sin()sin()sin2)
+limcos2cos2
+xxxx
+xxx
+
+49.34tantan
+limcos
+4xxxx50.1sin
+2limcoscossin
+244
+xxxxx51.Show that  4|4|
+lim4xxx does not exists
+242    EXEMPLAR PROBLEMS Œ MATHEMATICS52.Let  f(x) = cos
+when
+2232kxxxx and if 2lim()()
+2xfxf
+,find the value of k.53.Let  f(x) = 22Œ1
+1xxcxx
+ , find ‚c™ if Œ1lim()
+xfx exists.Objective Type QuestionsChoose the correct answer out of 4 options given against each Exercise 54 to 76(M.C.Q).54.sin
+limxxx is(A)1(B)2(C)Œ1(D)Œ2
+55.20cos
+lim1cos
+xxxx is(A)2(B)
+32(C)32(D)1
+56.0(1)1
+limnxxx is(A)n(B)1(C)Œ
+n(D)0
+57.11lim1mnxxx is(A)1(B)
+mn(C)mn(D)22mn58.01cos4
+lim1cos6
+x is
+LIMITS AND DERIVATIVES    243
+(A)49(B)1
+2(C)12(D)Œ1
+59.0coseccot
+limxxxx is(A)12(B)1(C)
+12(D)1
+60.0sin
+lim11xxxx
+ is(A)2(B)0(C)1(D)Œ1
+61.24sec2
+limtan1
+xxx is(A)3(B)1(C)0(D)
+262.21123
+lim23xxxxx is(A)110(B)110(C)1(D)None of these
+63.If f (x) = sin[]
+,[]0
+[]0,[]0
+xxxx,  where [.] denotes the greatest integer function ,
+then 0lim()
+xfx is equal to(A)1(B)0(C)Œ1(D)None of these
+64.0|sin|
+limxxx is(A)1(B)Œ1(C)does not exist(D)None of these
+65.Let f (x) = 21,02
+23,23
+xxxx
+
+, the quadratic equation whose roots are Œ2lim()
+xfx and2lim()
+xfx is
+244    EXEMPLAR PROBLEMS Œ MATHEMATICS(A)x2 Œ 6x + 9 = 0(B)
+x2 Œ 7x + 8 = 0(C)x2 Œ 14x + 49 = 0(D)
+x2 Œ 10x + 21 = 066.0tan2
+lim3sin
+xxxxx is(A)2(B)
+12(C)12(D)1
+467.Let f (x) = x Œ [x];  R, then 12f is(A)32(B)1(C)0(D)Œ1
+68.If y = 1xx, then dydx at x = 1 is(A)1(B)
+1
+2(C)12(D)0
+69.If f (x) = 42xx, then f(1) is(A)5
+4(B)4
+5(C)1(D)0
+70.If 221111xyx, then dydx is(A)224(1)
+xx(B)241xx(C)214xx(D)241xx71.If sincos
+sincos
+xxyxx, then dy
+dx at x = 0 is
+LIMITS AND DERIVATIVES    245
+(A)Œ2(B)0(C)
+12(D)does not exist
+72.If sin(9)
+cos
+xyx, then dydx at x = 0 is(A)cos 9(B)sin 9(C)0(D)1
+73.If f (x) = 2100
+1...
+2100
+xxx
+, then 
+f(1) is equal to(A)1100
+               (B)100        (C)  does not exist(D)0
+74.If ()nnxafxxa for some constant ‚a™, then f(a) is(A)1(B)0           (C) does not exist(D)
+1
+275.If f (x) = x100 + x99 + ... + x + 1, then f(1) is equal to(A)5050(B)5049(C)5051(D)50051
+76.If f (x) = 1 Œ x + x2 Œ x3 ... Œ x99 + x100, then f(1) is euqal to(A)150(B)Œ50(C)Œ150(D)50
+Fill in the blanks in Exercises 77 to 80.77.If  f (x) = tan
+xx, then lim()
+xfx = ______________78.0limsincot2
+3xxmx, then m =  ______________79.if 231...
+1!2!3!
+xxx
+y
+, then dydx =  ______________80.3lim[]xxx = ______________

@@ -1,0 +1,106 @@
+MCQ I12.1An ideal gas undergoes four different processes from thesame initial state (Fig. 12.1). Four processes are adiabatic,isothermal, isobaric and isochoric. Out of 1, 2, 3 and 4 which
+one is adiabatic.(a)4
+(b)3
+(c)2
+(d)1
+12.2If an average person jogs, hse produces 14.5 × 103 cal/min. This isremoved by the evaporation of sweat. The amount of sweat evaporatedper minute (assuming 1 kg requires 580 × 103 cal for evaparation) is(a)0.25 kg
+(b)2.25 kg
+
+(c)0.05 kg
+(d)0.20 kg
+Chapter TwelveTHERMODYNAMICSFig. 12.1P1234V
+Exemplar ProblemsŒPhysics8412.3Consider P-V diagram for an ideal gas shown in Fig 12.2.Out of the following diagrams (Fig. 12.3), which representsthe T-P diagram?(a)(iv)
+(b)(ii)
+
+(c)(iii)
+
+(d)(i)
+12.4An ideal gas undergoes cyclic process ABCDA as shown in givenP-V diagram (Fig. 12.4).The amount of work done bythe gas is(a)6
+PoVo(b)Œ2 
+PoVo(c)+ 2 
+PoVo(d)+ 4 
+PoVoFig 12.4Fig. 12.3Fig. 12.2P12VConstant
+P=VT12TP(i)T12PT(ii)T12PT(iii)T12PT(iv)
+Thermodynamics8512.5Consider two containers A and B containing identical gases atthe same pressure, volume and temperature. The gas in container
+A is compressed to half of its original volume isothermally whilethe gas in container B is compressed to half of its original valueadiabatically. The ratio of final pressure of gas in B to that of gasin A is(a)12(b)112(c)211(d)211
+12.6Three copper blocks of masses M1, M2 and M3 kg respectively arebrought into thermal contact till they reach equilibrium. Before
+contact, they were at T1, T2, T3 (T1 > T2 > T3 ). Assuming there is noheat loss to the surroundings, the equilibrium temprature 
+T  is(s is specific heat of copper)(a)1233TTT
+T(b)112233
+123
+MTMTMT
+TMMM
+(c)112233
+1233MTMTMT
+TMMM
+(d)112233
+123MTsMTsMTs
+TMMM
+MCQ II12.7Which of the processes described below are irreversible?(a)The increase in temprature of an iron rod by hammering it.
+
+(b)A gas in a small cantainer at a temprature 
+T1 is brought incontact with a big reservoir at a higher temprature T2 whichincreases the temprature of the gas.(c)A quasi-static isothermal expansion of an ideal gas in cylinder
+fitted with a frictionless piston.
+Exemplar ProblemsŒPhysics86PVBIIVAIIIII(d)An ideal gas is enclosed in a piston cylinder arrangement
+with adiabatic walls. A weight W is added to the piston,resulting in compression of gas.12.8An ideal gas undergoes isothermal process from some initial statei to final state  f. Choose the correct alternatives.(a)d
+U = 0(b)d
+Q= 0(c)d
+Q = dU(d)d
+Q = dW12.9Figure 12.5 shows the P-V diagram of an ideal gas undergoing achange of state from A to B. Four different parts I, II, III and IV asshown in the figure may lead to the same change of state.(a)Change in internal energy is same in IV and III cases, but not in I
+and II.(b)Change in internal energy is same in all the four cases.
+(c)Work done is maximum in case I
+
+(d)Work done is minimum in case II.
+12.10Consider a cycle followed by an engine (Fig. 12.6)1 to 2 is isothermal2 to 3 is adiabatic3 to 1 is adiabaticSuch a process does not exist because(a)heat is completely converted to mechanical energy in such a
+process, which is not possible.(b)mechanical energy is completely converted to heat in this
+process,which is not possible.(c)curves representing two adiabatic processes don™t intersect.
+(d)curves representing an adiabatic process and an isothermal
+process don™t intersect.12.11Consider a heat engine as shown inFig. 12.7. Q1 and Q2 are heat added to heatbath T1 and heat taken from T2 in one cycleof engine. W is the mechanical work doneon the engine.If W > 0, then possibilities are:(a)Q
+1 > Q2 > 0(b)Q
+2 > Q1 > 0(c)Q
+2 < Q1 < 0(d)Q
+1 < 0, Q2 > 0Fig. 12.5Fig .12.7Fig. 12.6
+Thermodynamics87VSA12.12Can a system be heated and its temperature remains constant?12.13A system goes from P to Q by two different paths in the P-Vdiagram as shown in Fig. 12.8. Heat given to the system inpath 1 is 1000 J. The work done by the system along path 1 is
+more than path 2 by 100 J. What is the heat exchanged by the
+system in path 2?12.14If a refrigerator™s door is kept open, will the room become cool orhot? 
+Explain.12.15Is it possible to increase the temperature of a gas without adding
+heat to it? Explain.12.16Air pressure in a car tyre increases during driving. Explain.SA12.17Consider a Carnot™s cycle operating between 1500K
+T andT2=300K producing 1 k J of mechanical work per cycle. Find theheat transferred to the engine by the reservoirs.12.18A person of mass 60 kg wants to lose 5kg by going up and downa 10m high stairs. Assume he burns twice as much fat whilegoing up than coming down. If 1 kg of fat is burnt on expending7000 kilo calories, how many times must he go up and down toreduce his weight by 5 kg?12.19Consider a cycle tyre being filled with air by a pump. Let V be thevolume of the tyre (fixed) and at each stroke of the pump ()VVof air is transferred to the tube adiabatically. What is the workdone when the pressure in the tube is increased from P1 to P2?12.20In a refrigerator one removes heat from a lower temperatureand deposits to the surroundings at a higher temperature. Inthis process, mechanical work has to be done, which is providedby an electric motor. If the motor is of 1kW power, and heat is
+transferred from Œ3°C to 27°C, find the heat taken out of therefrigerator per second assuming its efficiency is 50% of aperfect engine.Fig. 12.8
+Exemplar ProblemsŒPhysics88PBCDAV=V
+ABV=V
+CDVFig. 12.91(PV, T
+1,11
+)2()
+PV, T
+2,22
+V1V2VPPV= constant
+1/212.21If the co-efficient of performance of a refrigerator is 5 and operatesat the room temperature (27 °C), find the temperature inside the
+refrigerator.
+12.22The initial state of a certain gas is (Pi, Vi, Ti). It undergoesexpansion till its volume becoms Vf . Consider the following twocases:(a)the expansion takes place at constant temperature.
+(b)the expansion takes place at constant pressure.
+Plot the P-V diagram for each case. In which of the two cases, isthe work done by the gas more?LA12.23Consider a P-V diagram in which the path followed by one mole
+of perfect gas in a cylindrical container is shown in Fig. 12.9.(a)Find the work done when the gas is taken from state 1 to
+state 2.(b)What is the ratio of temperature 
+T1/T2, if V2 = 2V1?(c)Given the internal energy for one mole of gas at temperature 
+Tis (3/2) RT, find the heat supplied to the gas when it is takenfrom state 1 to 2, with V2 = 2V1.12.24A cycle followed by an engine (made of one mole of perfect gas ina cylinder with a piston) is shown in Fig. 12.10.A to B : volume constantB to C : adiabaticC to D : volume constantD to A : adiabatic22CDAB
+VVVV
+
+(a)In which part of the cycle heat is supplied to the engine from
+outside?(b)In which part of the cycle heat is being given to the
+surrounding by the engine?(c)What is the work done by th
+e engine in one cycle? Write your
+answer in term of PA, PB, VA.(d)What is the efficiency of the engine?
+[53 for the gas], (32vCRfor one mole)Fig. 12.10
+Thermodynamics8912.25A cycle followed by an engine (made of one mole of an ideal gasin a cylinder with a piston) is shown in Fig. 12.11. Find heat
+exchanged by the engine, with the surroundings for each sectionof the cycle. (Cv = (3/2) R)AB:constant volume
+BC:constant pressure
+CD:adiabatic
+DA:constant pressure
+12.26Consider that an ideal gas (n moles) is expanding in a processgiven by P = f ( V ), which passes through a point (V0, P0 ). Showthat the gas is absorbing heat at (P0, V0 ) if the slope of the curveP = f (V ) is larger than the slope of the adiabat passingthrough (P0, V0  ).12.27Consider one mole of perfect gas in a cylinder of unit cross sectionwith a piston attached (Fig. 12.12). A spring (spring constant k)is attached (unstretched length L ) to the piston and to the bottomof the cylinder. Initially the spring is unstretched and the gas is
+in equilibrium. A certain amount of heat Q is supplied to the gas
+causing an increase of volume from V
+o to V1.(a)What is the initial pressure of the system?
+(b)What is the final pressure of the system?
+(c)Using the first law of thermodynamics, write down a relation
+between Q, Pa, V, Vo and k.Fig. 12.12Fig. 12.11

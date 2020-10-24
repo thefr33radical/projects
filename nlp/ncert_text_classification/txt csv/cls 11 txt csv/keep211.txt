@@ -1,0 +1,293 @@
+11.1 Overview
+11.1.1 
+Sections of a cone  Let l be a fixed vertical line and m be another line intersectingit at a fixed point V and inclined to it at an angle 
+ (Fig. 11.1).
+Fig. 11.1
+Suppose we rotate the line m around the line l in such a way that the angle  remainsconstant.  Then the surface generated is a double-napped right circular hollow coneherein after referred as cone and extending indefinitely in both directions (Fig. 11.2).Fig. 11.2Fig. 11.3
+Chapter11CONIC SECTIONS
+The point V is called the vertex; the line l is the axis of the cone. The rotating line m iscalleda 
+generator of the cone.  The vertex separates the cone into two parts callednappes.If we take the intersection of a plane with a cone, the section so obtained is called aconic section. Thus, conic sections are the curves obtained by intersecting a rightcircular cone by a plane.We obtain different kinds of conic sections depending on the position of the intersecting
+plane with respect to the cone and the angle made by it with the vertical axis of the
+cone. Let  be the angle made by the intersecting plane with the vertical axis of thecone (Fig.11.3).The intersection of the plane with the cone can take place either at the vertex of thecone or at any other part of the nappe either below or above the vertex.When the plane cuts the nappe (other than the vertex) of the cone, we have thefollowing situations:(a)When 
+ = 90o,  the section is a circle
+.(b)When 
+ <  <  90o, the section is an ellipse.(c)When 
+ = ; the section is a parabola.(In each of the above three situations, the plane cuts entirely across one nappeof the cone).(d)When 0 
+  < ; the plane cuts through both the nappes and the curves ofintersection is a hyperbola.Indeed these curves are important tools for present day exploration of outer space andalso for research into the behaviour of atomic particles.We take conic sections as plane curves. For this purpose, it is convenient to use equivalent
+definition that refer only to the plane in which the curve lies, and refer to special pointsand lines in this plane called foci and directrices. According to this approach, parabola,
+ellipse and hyperbola are defined in terms of a fixed point (called focus) and fixed line
+(called directrix) in the plane.If S is the focus and l is the directrix, then the set of all points in the plane whosedistance from S bears a constant ratio e called eccentricity to their distance from l is aconic section.
+As special case of ellipse, we obtain circle for which e = 0 and hence we study itdifferently.
+11.1.2  
+Circle  A circle is the set of all points in a plane which are at a fixed distance
+from a fixed point in the plane. The fixed point is called the centre of the circle and thedistance from centre to any point on the circle is called the radius of the circle.CONIC SECTIONS    187
+188    EXEMPLAR PROBLEMS Œ MATHEMATICSFig. 11.4
+The equation of a circle with radius r havingcentre (h, k) is given by (x Œ h)2 + (y Œ k)2 = r2The general equation of the circle is given byx2 + y2 + 2gx + 2fy + c = 0, where g, f and c areconstants.(a)The centre of this circle is (Œ 
+g, Œ f)(b)The radius of the circle is 
+22gfcThe general equation of the circle passing through
+the origin is given by x2 + y2 + 2gx + 2fy = 0.General equation of second degree i.e., ax2 + 2hxy + by2 + 2gx + 2fy + c = 0 representa circle if (i) the coefficient of x2 equals the coefficient of y2, i.e., a = b  0 and (ii) thecoefficient of xy is zero, i.e., h = 0.The parametric equations of the circle x2 + y2 = r2 are given by x = r cos, y = r sinwhere  is the parameter and the parametric equations of the circle (x Œ h)2 + (y Œ k)2 = r2are given byx Œ h =r cos, y Œ k = r sinorx =h + r cos, y = k + r sin.Fig. 11.5
+Note:The general equation of the circle involves threeconstants which implies that at least three conditions are
+required to determine a circle uniquely.
+11.1.3  
+ParabolaA parabola is the set of points P whose distances from a
+fixed point F in the plane are equal to their distances froma fixed line l in the plane. The fixed point F is called focusand the fixed line l the directrix of the parabola.Fig. 11.6
+
+CONIC SECTIONS    189Standard equations of parabola
+The four possible forms of parabola are shown below in Fig. 11.7 (a) to (d)
+
+The latus rectum of a parabola is a line segment perpendicular to the axis of the
+parabola, through the focus and whose end points lie on the parabola (Fig. 11.7).Fig. 11.7
+Main facts about the parabolaForms of Parabolasy2 = 4axy
+2 = Œ 4axx
+2 = 4ayx
+2 = Œ 4ayAxisy = 0y = 0x = 0x = 0Directixx = Œ ax = ay = Œ ay = aVertex
+(0, 0)(0, 0)(0, 0)(0, 0)
+Focus(a, 0)(Œ 
+a, 0)(0, 
+a)(0, Œ 
+a)Length of latus4a4a4a4arectum
+Equations of latusx = ax 
+= Œ ay = ay = Œ arectum
+190    EXEMPLAR PROBLEMS Œ MATHEMATICSFocal distance of a pointLet the equation of the parabola be y2 = 4ax and P(x, y) be a point on it. Then thedistance of P from the focus (a, 0) is called the focal distance of the point, i.e.,FP =22()xay=2()4
+xaax
+=2()xa=| 
+x + a |11.1.4 
+Ellipse  An ellipse is the set of points in a plane, the sum of whose distancesfrom two fixed points is constant. Alternatively, an ellipse is the set of all points in the
+plane whose distances from a fixed point in the plane bears a constant ratio, less than,
+to their distance from a fixed line in the plane. The fixed point is called focus, the fixed
+line a directrix and the constant ratio (e) the centricity of the ellipse.We have two standard forms of the ellipse, i.e.,
+(i)22221xyaband(ii)
+22221xyba,In both cases a > b and b2 = a2(1 Œ e2), e < 1.In (i) major axis is along x-axis and minor along y-axis and in (ii) major axis is along y-axis and minor along x-axis as shown in Fig. 11.8 (a) and (b) respectively.Main facts about the EllipseFig. 11.8
+
+CONIC SECTIONS    191Forms of the ellipse22221xyab22221xybaa > ba > bEquation of major axisy = 0x = 0Length of major axis2a 2aEquation of Minor axisx = 0y = 0Length of Minor axis2b2bDirectricesx =  aey =  a
+eEquation of latus rectumx =  aey
+ =  aeLength of latus rectum22b
+a22b
+aCentre(0, 0)(0, 0)
+Focal DistanceThe focal distance of a point (x, y) on the ellipse 22221xyab isa Œ e | x | from the nearer focusa + e | x | from the farther focusSum of the focal distances of any point on an ellipse is constant and equal to the lengthof the major axis.11.1.5 
+Hyperbola  A hyperbola is the set of all points in a plane, the difference of
+whose distances from two fixed points is constant. Alternatively, a hyperbola is the set
+
+of all points in a plane whose distances from a fixed point in the plane bears a constantratio, greater than 1, to their distances from a fixed line in the plane. The fixed point iscalled a focus, the fixed line a directrix and the constant ratio denoted by e, the ecentricityof the hyperbola.We have two standard forms of the hyperbola, i.e.,
+(i)22221xyab     and(ii)
+22221yxab
+192    EXEMPLAR PROBLEMS Œ MATHEMATICSHere b2 = a2 (e2 Œ 1), e > 1.In (i) transverse axis is along x-axis and conjugate axis along 
+y-axis where as in (ii)transverse axis 
+is along y-axis and conjugate axis along x-axis.Fig. 11.9
+Main facts about the HyperbolaForms of the hyperbola22221xyab22221yxabEquation of transverse axisy = 0x = 0Equation of conjugate axisx = 0y = 0Length of transverse axis2a2aFoci( ae, 0)(0, 
+ ae)Equation of latus rectumx =  aey
+ =  aeLength of latus rectum22ba22b
+aCentre(0, 0)(0, 0)
+
+CONIC SECTIONS    193Focal distanceThe focal distance of any point (x, y) on the hyperbola 22221xyab ise | x | Œ a from the nearer focuse | x | + a from the farther focusDifferences of the focal distances of any point on a hyperbola is constant and equal tothe length of the transverse axis.Parametric equation of conicsConicsParametric equations(i)Parabola : 
+y2 = 4axx
+ = at2, y = 2at; Œ  < t < (ii)Ellipse : 22221xyabx = a cos, y = b sin; 0    2(iii)Hyperbola : 22221xyabx = a sec, y = b tan,  where;22
+ 322
+
+11.2  Solved Examples
+Short 
+Answer Type
+Example 1  Find the centre and radius of the circle x2 + y2 Œ 2x + 4y = 8Solution we write the given equation in the form (x2 Œ 2x) + (
+y2 + 4y) = 8Now, completing the squares, we get
+(x2 Œ 2x + 1) + (
+y2 + 4y + 4) = 8 + 1 + 4(x Œ 1)2 + (y + 2)2 = 13Comparing it with the standard form of the equation of the circle, we see that thecentre of the circle is (1, Œ2) and radius is 13.Example 2  If the equation of the parabola is x2 = Œ 8y, find coordinates of the focus,the equation of the directrix and length of latus rectum.Solution The given equation is of the form x2 = Œ 4ay where a is positive.Therefore, the focus is on y-axis in the negative direction and parabola opens downwards.
+194    EXEMPLAR PROBLEMS Œ MATHEMATICSComparing the given equation with standard form, we get a = 2.Therefore, the coordinates of the focus are (0, Œ2) and the the equation of directrix isy = 2 and the length of the latus rectum is 4a, i.e., 8.Example 3 Given the ellipse with equation 9x2 + 25y2 = 225, find the major and minoraxes, eccentricity, foci and vertices.Solution We put the equation in standard form by dividing by 225 and get
+22259
+xy =1This shows that a = 5 and b = 3. Hence 9 = 25(1 Œ e2), so e = 45. Since the denominatorof x2 is larger, the major axis is along x-axis, minor axis along y-axis, foci are (4, 0) and(Œ 4, 0) and vertices are (5, 0) and (Œ5, 0).Example 4  Find the equation of the ellipse with foci at ( 5, 0) and x = 365 as one ofthe directrices.Solution We have 
+ae = 5, 365a
+e which give a2 = 36 or a = 6. Therefore, 
+e = 5
+6.Now b = 22516111
+36ae
+. Thus, the equation of the ellipse is 2213611
+xy.Example 5 For the hyperbola 9x2 Œ 16y2 = 144, find the vertices, foci and eccentricity.
+Solution The equation of the hyperbola can be written as 22Œ1169
+xy, so a = 4, b = 3and 9 = 16 (e2 Œ 1), so that  e2 = 925
+11616
+, which gives e = 54. Vertices are (± 
+a, 0) =(± 4, 0) and foci are (± ae, 0) = (± 5, 0).
+Example 6  Find the equation of the hyperbola with vertices at (0, ± 6) and e = 53.Find its foci.Solution Since the vertices are on the y-axes (with origin at the mid-point), the equationis of the form 2221yxab.
+CONIC SECTIONS    195As vertices are (0, ± 6), a = 6, b2 = a2 (e2 Œ 1) = 36 25164
+9, so the requiredequation of the hyperbola is 2213664
+yx and the foci are (0, ± ae) = (0, ± 10).Long Answer Type
+Example 7  Find the equation of the circle which passes through the points (20, 3),(19, 8) and (2, Œ9). Find its centre and radius.Solution By substitution of coordinates in the general equation of the  circle given byx2 + y2 + 2gx + 2fy + c = 0, we have40g + 6f + c =Œ 409
+38g + 16 f + c =Œ 425
+4g Œ 18 f + c =Œ 85
+From these three equations, we getg = Œ 7, f = Œ 3 and c = Œ111
+Hence, the equation of the circle isx2 + y2 Œ 14x Œ 6y Œ 111 =0
+or(
+x Œ 7)2 + (y Œ 3)2 =13
+2Therefore, the centre of the circle is (7, 3) and radius is 13.Example 8  An equilateral triangle is inscribed in the parabola y2 = 4ax whose onevertex is at the vertex of the parabola. Find the length of the side of the triangle.Solution As shown in the figure APQ denotes the equilateral triangle with its equalsides of length l (say).HereAP =
+l so AR = 
+l cos30°=32lAlso,PR =
+l sin 30° = 2l.Thus 3,22ll are the coordinates of the point P lying on theparabola y2 = 4ax.Fig. 11.10
+
+196    EXEMPLAR PROBLEMS Œ MATHEMATICSTherefore,24l =4a 32l  l = 8 a3.Thus, 8 3a is the required length of the side of the equilateral triangle inscribed inthe parabola y2 = 4
+ax.Example 9  Find the equation of the ellipse which passes through the point (Œ3, 1) andhas eccentricity 25, with x-axis as its major axis and centre at the origin.Solution  Let 22221xyab be the equation of the ellipse passing through the point (Œ3, 1).Therefore, we have             22911ab.or9
+b2 + a2 =a2 b2or9
+a2 (a2 Œ e2) + a2 =a2 a2 (1 Œ e2)(Using 
+b2 = a2 (1 Œ e2)ora2 =323Againb2 =a2 (1 Œ e2) = 323 232
+155Hence, the required equation of the ellipse is223232
+35xy =1or3
+x2 + 5y2 =32.
+Example 10  Find the equation of the hyperbola whose vertices are (± 6, 0) and one ofthe directrices is x = 4.Solution  As the vertices are on the 
+x-axis and their middle point is the origin, theequation is of the type          22221xyab.Here b2 = a2 (e2 Œ 1), vertices are (± a, 0) and directrices are given by x = ± a
+e.
+CONIC SECTIONS    197Thus  a = 6, ae = 4 and so 3
+2e which gives b2 = 36 914 = 45Consequently, the 
+required equation of the hyperbola is 2213645
+xyObjective Type QuestionsEach of the examples from 11 to 16, has four possible options, out of which one iscorrect. Choose the correct answer from the given four options (M.C.Q.)Example 11 
+ The equation of the circle in the first quadrant touching each coordinateaxis at a distance of one unit from the origin is:(A)x2 + y2 Œ 2x Œ 2y + 1= 0(B)
+x2 + y2 Œ 2x Œ 2y Œ 1 = 0(C)x2 + y2  Œ 2x Œ 2y = 0(C)
+x2 + y2 Œ 2x + 2y Œ 1 = 0Solution The correct choice is (A), since the equation can be written as (
+x Œ 1)2 +(y Œ 1)2 = 1 which represents a circle touching both the axes with its centre (1, 1) and
+radius one unit.Example 12  The equation of the circle having centre (1, Œ2) and passing through thepoint of intersection of the lines 3x + y = 14 and 2x + 5y = 18 is(A)x2 + y2 Œ 2x + 4y Œ 20 = 0(B)
+x2 + y2 Œ 2x Œ 4y Œ 20 = 0(C)x2 + y2 + 2x Œ 4y Œ 20 = 0(D)
+x2 + y2 + 2x + 4y Œ 20 = 0Solution The correct option is (A). The point of intersection of 3x + y Œ 14 = 0 and 2x+ 5y Œ 18 = 0 are x = 4, y = 2, i.e., the point (4, 2)Therefore, the radius is = 9165
+ and hence the equation of the circle is given by(x Œ 1)2 + (y + 2)2 =25
+orx2 + y2 Œ 2x + 4y Œ 20 =0.
+Example 13 The area of the triangle formed by the lines joining the vertex of theparabola x2 = 12y to the ends of its latus rectum is(A)12 sq. units
+(B)16 sq. units
+(C)18 sq. units
+(D)24 sq. units
+Solution The correct option is (C). From thefigure, OPQ represent the triangle whose areais to be determined. The area of the triangle=12 PQ × OF = 1
+2 (12 × 3) = 18Fig. 11.11
+
+198    EXEMPLAR PROBLEMS Œ MATHEMATICSExample 14 The equations of the lines joining the vertex of the parabola y2 = 6x to thepoints on it which have abscissa  24 are(A)y ± 2x = 0(B)2
+y ± x = 0(C)x ± 2y = 0(D)2
+x ± y = 0Solution  (B) is the correct choice. Let P and Q bepoints on the parabola y2 = 6x and OP, OQ be the lines
+joining the vertex O to the points P and Q whoseabscissa are 24.Thusy2 =6 × 24 = 144
+ory =± 12.
+Therefore  the coordinates of the points P and Q are(24, 12) and (24, Œ12) respectively. Hence the lines are
+y =± 
+12224xyx
+.Example 15  The equation of the ellipse whose centre is at the origin and the x-axis,the major axis, which passes through the points (Œ3, 1) and (2, Œ2) is(A)5
+x2 + 3y2  32(B)3
+x2 + 5y2 = 32(C)5
+x2 Œ 3y2 = 32(D)3
+x2 + 5y2 + 32 = 0Solution (B) is the correct choice. Let 22221xyab be the equation of the ellipse.Then according to the given conditions, we have22911aband22111
+4abwhich givesa2 = 323andb2 = 325.Hence, required equation of ellipse is 3x2 + 5y2 = 32.Example 16  The length of the transverse axis along x-axis with centre at origin of ahyperbola is 7 and it passes through the point (5, Œ2). The equation of the hyperbola isFig. 11.12
+
+CONIC SECTIONS    199(A)224196
+14951
+xy(B)224951
+14196
+xy(C)22451
+149196
+xy(D)none of these
+Solution  (C) is the correct choice. Let 22221xyab represent the hyperbola. Thenaccording to the given condition, the length of transverse axis, i.e., 2a = 7  a = 7
+2.Also, the point (5, Œ2) lies on the hyperbola, so, we have244(25)Œ
+49b = 1which gives
+b2 = 196
+51. Hence, the equation of the hyperbola is22451
+49196
+xy = 1State whether the statements in Examples 17 and 18 are correct or not. Justify.
+Example 17  Circle on which the coordinates of any point are (2 + 4 cos, Œ1 +4 sin) where  is parameter is given by (x Œ 2)2 + (y + 1)2 = 16.Solution True. From given conditions, we have
+x = 2 + 4 cos
+ (x Œ 2) = 4 cosandy = Œ1 + 4 sin
+ y + 1 = 4 sin.Squaringand adding, we get (x Œ 2)2 + (y + 1)2 = 16.Example 18  A bar of given length moves with its
+extremities on two fixed straight lines at right angles.Any point of the bar describes an ellipse.Solution True. Let P (
+x, y) be any point on the barsuch that PA = 
+a and PB = b, clearly from theFig. 11.13.
+Fig. 11.13
+
+200    EXEMPLAR PROBLEMS Œ MATHEMATICSx =OL = 
+b cos andy =PL = 
+a sinThese give2222xyba =1,   which is an ellipse.
+Fill in the blanks in Examples 19 to 23.Example 19  The equation of the circle which passes through the point (4, 5) andhas its centre at (2, 2) is 
+________________ .Solution As the circle is passing through the point (4, 5) and its centre is (2, 2) so itsradius is 22(42)(52)13
+
+. Therefore the required answer is(x Œ 2)2 + (y Œ 2)2 = 13.Example 20  A circle has radius 3 units and its centre lies on the line  
+y = x Œ 1. If itpasses through the point (7, 3), its equation is ________________ .Solution Let (h, k) be the centre of the circle. Then k = h Œ 1. Therefore, the equationof the circle is given by (x Œ h)2 + [y Œ (h Œ 1)]2 = 9... (1)
+Given that the circle passes through the point (7, 3) and hence we get(7 Œ h)2 + (3 Œ (h Œ 1))2 =9or(7 Œ 
+h)2 + (4 Œ h)2 =9orh2 Œ 11
+h + 28 =0
+ which gives (h Œ 7) (h Œ 4) =0
+ h = 4 or h = 7Therefore, the required equations of the circles are x2 + y2 Œ 8x Œ 6y + 16 = 0orx2 + y2 Œ 14x Œ 12y + 76 =0
+Example 21 If the latus rectum of an ellipse with axis along x-axis and centre at originis 10, distance between foci = length of minor axis, then the equation of the ellipse is________________ .Solution Given that 2210ba and 2ae = 2b  b = aeAgain, we know thatb2 =a2 (1 Œ e2)or2
+a2e2 =a2  e = 12(using b = ae)Thusa =b2
+CONIC SECTIONS    201Again22ba =10
+orb =52.Thus we get 
+a = 10Therefore, the required equation of the ellipse is2210050
+xy =1Example 22
+ The equation of the parabola whose focus is the point (2, 3) anddirectrix is 
+the line x Œ 4y + 3 = 0 is ________________ .
+Solution Using the definition of parabola, we have22(2)(Œ3)
+xy =4317xySquaring, we get17 (x2 + y2 Œ 4x Œ 6y + 13) =x2 + 16y2 + 9 Œ 8xy Œ 24y + 6xor16
+x2 + y2 + 8xy Œ 74x Œ 78y + 212 =0
+Example 23 
+ The eccentricity of 
+the hyperbola 22221xyab which passes throughthe points (3, 0) and (3
+2, 2) is ________________ .
+Solution Given that the hyperbola 22221xyab is passing through the points (3, 0) and(32,2)
+, so we get a2 = 9 and b2 = 4.Again, we know that b2 = a2 (e2 Œ 1). This gives4 =9 (
+e2 Œ 1)ore2 =139ore =13
+3.
+202    EXEMPLAR PROBLEMS Œ MATHEMATICS11.3   EXERCISE
+Short 
+Answer Type
+1.Find the equation of the circle which touches the both axes in first quadrant andwhose radius is a.2.Show that the point (x, y) given by x = 221att and 22(1)
+1atyt lies on a circlefor all real values of t such that Œ1 <  t 
+< 1 where 
+a is any given real numbers.3.If a circle passes through the point (0, 0) (a, 0), (0, b) then find the coordinates ofits centre.4.Find the equation of the circle which touches x-axis and whose centre is (1, 2).5.If the lines 3x Œ 4y + 4 = 0 and 6x Œ 8y Œ 7 = 0 are tangents to a circle, then findthe radius of the circle.[Hint: Distance between given parallel lines gives the diameter of the circle.]6.Find the equation of a circle which touches both the axes and the line 3x Œ 4y + 8 = 0and lies in the third quadrant.[Hint: Let a be the radius of the circle, then (Œ a, Œ a) will be centre andperpendicular distance from the centre to the given line gives the radius of thecircle.]7.If one end of a diameter of the circle x2 + y2 Œ 4x Œ 6y + 11 = 0 is (3, 4), then find
+the coordinate of the other end of the diameter.
+8.Find the equation of the circle having (1, Œ2) as its centre and passing through
+3x + y = 14, 2x + 5y = 189.If the line y = 3 x + k touches the circle x2 + y2 = 16, then find the value of k.[Hint: Equate perpendicular distance from the centre of the circle to its radius].10.Find the equation of a circle concentric with the circle x2 + y2 Œ 6x + 12y + 15 = 0and has double of its area.[Hint: concentric circles have the same centre.]11.
+If the latus rectum of an ellipse is equal to half of minor axis, then find itseccentricity.
+12.Given the ellipse with equation 9x2 + 25y2 = 225, find the eccentricity and foci.13.If the eccentricity of an ellipse is 58and the distance between its foci is 10, thenfind latus rectum of the ellipse.
+CONIC SECTIONS    20314.Find the equation of ellipse whose eccentricity is 23, latus rectum is 5 and thecentre is (0, 0).15.Find the distance between the directrices of the ellipse 2213620
+xy.16.Find the coordinates of a point on the parabola y2 = 8x whose focal distance is 4.17.Find the length of the line-segment joining the vertex of the parabola y2 = 4axand a point on the parabola where the line-segment makes an angle  to the x-axis.18.If the points (0, 4) and (0, 2) are respectively the vertex and focus of a parabola,then find the equation of the parabola.19.If the line y = mx + 1 is tangent to the parabola y2 = 4x then find the value of m.[Hint: Solving the equation of line and parabola, we obtain a quadratic equationand then apply the tangency condition giving the value of m].20.If the distance between the foci of a hyperbola is 16 and its eccentricity is 2,then obtain the equation of the hyperbola.21.Find the eccentricity of the hyperbola 9y2 Œ 4x2 = 36.22.Find the equation of the hyperbola with eccentricity 32 and foci at (± 2, 0).Long Answer Type
+23.If the lines 2x Œ 3y = 5 and 3x Œ 4y = 7 are the diameters of a circle of area 154square units, then obtain the equation of the circle.24.Find the equation of the circle which passes through the points (2, 3) and (4, 5)and the centre lies on the straight line y Œ 4x + 3 = 0.25.Find the equation of a circle whose centre is (3, Œ1) and which cuts off a chord
+of length 6 units on the line 2x Œ 5y + 18 = 0.[Hint: To determine the radius of the circle, find the perpendicular distance
+from the centre to the given line.]26.Find the equation of a circle of radius 5 which is touching another circlex2 + y2 Œ 2x Œ 4y Œ 20 = 0 at (5, 5).27.Find the equation of a circle passing through the point (7, 3) having radius 3 unitsand whose centre lies on the line y = x Œ 1.28.Find the equation of each of the following parabolas(a)Directrix 
+x = 0, focus at (6, 0)(b)Vertex at (0, 4), focus at (0, 2)
+(c)Focus at (Œ1, Œ2), directrix 
+x Œ 2y + 3 = 0
+204    EXEMPLAR PROBLEMS Œ MATHEMATICS29.Find the equation of the set of all points the sum of whose distances from thepoints (3, 0) and (9, 0) is 12.30.Find the equation of the set of all points whose distance from (0, 4) are 23 oftheir distance from the line y = 9.31.Show that the set of all points such that the difference of their distances from (4, 0)and (Œ 4, 0) is always equal to 2 represent a hyperbola.32.Find the equation of the hyperbola with(a)Vertices (± 5, 0), foci (± 7, 0)(b)Vertices (0, ± 7), 
+e = 43(c)Foci (0, ± 
+10), passing through (2, 3)Objective Type QuestionsState 
+Whether the statements in each of the Exercises from 33 to 40 are True or False.
+Justify33.The line x + 3y = 0 is a diameter of the circle x2 + y2 + 6x + 2y = 0.34.The shortest distance from the point (2, Œ7) to the circle x2 + y2 Œ 14x Œ 10y Œ 151 = 0is equal to 5.
+[Hint: The shortest distance is equal to the difference of the radius and thedistance between the centre and the given point.]35.If the line lx + my = 1 is a tangent to the circle x2 + y2 = a2, then the point (l, m)lies on a circle.[Hint: Use that distance from the centre of the circle to the given line is equal toradius of the circle.]36.The point (1, 2) lies inside the circle x2 + y2 Œ 2x + 6y + 1 = 0.37.The line lx + my + n = 0 will touch the parabola y2 = 4ax if ln = am2.38.If P is a point on the ellipse 2211625
+xy whose foci are S and S, then PS + PS = 8.39.The line 2x + 3y = 12 touches the ellipse 22294xy at the point (3, 2).40.The locus of the point of intersection of lines 3430
+xyk
+
+ and
+CONIC SECTIONS    2053kxky
+ Œ 430
+ for different value of k is a hyperbola whose eccentricityis 2.[Hint:Eliminate k between the given equations]Fill in the Blank in Exercises from 41 to 46.41.The equation of the circle having centre at (3, Œ 4) and touching the line5x + 12y Œ 12 = 0 is  ________________ .[Hint: To determine radius find the perpendicular distance from the centre of
+the circle to the line.]42.The equation of the circle circumscribing the triangle whose sides are the lines
+y = x + 2, 3y = 4x, 2y = 3x is ________________ .43.An ellipse is described by using an endless string which is passed over two pins.
+If the axes are 6 cm and 4 cm, the length of the string and distance between thepins are ____________.44.The equation of the ellipse having foci (0, 1), (0, Œ1) and minor axis of length 1 is________________ .45.The equation of the parabola having focus at (Œ1, Œ2) and the directrix
+x Œ 2y + 3 = 0 is ________________ .46.The equation of the hyperbola with vertices at (0, ± 6) and eccentricity 53 is______________ and its foci are ________________ .Choose the correct answer out of the given four options (M.C.Q.) in Exercises 47 to 59.47.The area of the circle centred at (1, 2) and passing through (4, 6) is(A)5
+(B)10
+(C)25
+(D)none of these
+48.Equation of a circle which passes through (3, 6) and touches the axes is(A)x2 + y2 + 6x + 6y + 3 = 0(B)
+x2 + y2 Œ 6x Œ 6y Œ 9 = 0(C)x2 + y2 Œ 6x Œ 6y + 9 = 0(D)none of these
+49.Equation of the circle with centre on the y-axis and passing through the originand the point (2, 3) is(A)x2 + y2 + 13y = 0(B)3
+x2 + 3y2 + 13x + 3 = 0(C)6
+x2 + 6y2 Œ 13x = 0(D)
+x2 + y2 + 13x + 3 = 0
+206    EXEMPLAR PROBLEMS Œ MATHEMATICS50.The equation of a circle with origin as centre and passing through the vertices ofan equilateral triangle whose median is of length 3a is(A)x2 + y2 = 9a2(B)x2 + y2 = 16a2(C)x2 + y2 = 4a2(D)x2 + y2 = a2[Hint: Centroid of the triangle coincides with the centre of the circle and theradius of the circle is 23 of the length of the median]51.If the focus of a parabola is (0, Œ3) and its directrix is y = 3, then its equation is(A)x2 = Œ12y(B)x2 = 12y(C)y2 = Œ12x(D)y2 = 12x52.If the parabola y2 = 4ax passes through the point (3, 2), then the length of its latusrectum is(A)23(B)4
+3(C)1
+3(D)4
+53.If the vertex of the parabola is the point (Œ3, 0) and the directrix is the line x + 5 = 0,then its equation is(A)y2 = 8 (x + 3)(B)
+x2 = 8 (y + 3)(C)y2 = Œ 8 (x + 3)(D)
+y2 = 8 ( x + 5)54.The equation of the ellipse whose focus is (1, Œ1), the directrix the line x Œ y Œ 3= 0 and eccentricity 12 is(A)7
+x2 + 2xy + 7y2 Œ 10x + 10y + 7 = 0(B)7
+x2 + 2xy + 7y2 + 7 = 0(C)7
+x2 + 2xy + 7y2 + 10x Œ 10y Œ 7 = 0(D)none
+55.The length of the latus rectum of the ellipse 3x2 + y2 = 12 is(A)4(B)3(C)8(D)
+4356.If e is the eccentricity of the ellipse 22221xyab (a < b), then(A)b2 = a2 (1 Œ e2)(B)
+a2 = b2 (1 Œ e2)(C)a2 = b2 (e2 Œ 1)(D)
+b2 = a2 (e2 Œ 1)
+CONIC SECTIONS    20757.The eccentricity of the hyperbola whose latus rectum is 8 and conjugate axis isequal to half of the distance between the foci is(A)43(B)43(C)23(D)none of these
+58.The distance between the foci of a hyperbola is 16 and its eccentricity is 2. Itsequation is(A)x2 Œ y2 = 32(B)
+22149xy(C)2
+x Œ 3y2 = 7(D)none of these
+59.
+Equation of the hyperbola with eccentricty 32 and foci at (± 2, 0) is(A)224459
+xy(B)224999
+xy(C)22149xy(D)none of these
+

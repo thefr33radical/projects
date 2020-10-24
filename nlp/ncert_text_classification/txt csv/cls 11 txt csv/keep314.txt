@@ -1,0 +1,111 @@
+MCQ I14.1The displacement of a particle is represented by the equationy = 3 cos 24t.The motion of the particle is(a)simple harmonic with period  2p/w.
+(b)simple harmonic with period 
+(c)periodic but not simple harmonic.
+(d)non-periodic.
+14.2The displacement of a particle is represented by the equation3sin
+yt. The motion is
+(a)non-periodic.
+(b)periodic but not simple harmonic.
+(c)simple harmonic with period  2
+/(d)simple harmonic with period 
+/Chapter FourteenOSCILLATIONS
+Exemplar ProblemsŒPhysics9814.3The relation between acceleration and displacement of fourparticles are given below:(a)ax = + 2x.(b)ax = + 2x2.(c)ax = Œ 2x2.(d)ax = Œ 2x.Which one of the particles is executing simple harmonic motion?14.4Motion of an oscillating liquid column in a U-tube is(a)periodic but not simple harmonic.
+(b)non-periodic.
+(c)simple harmonic and time period is independent of the density
+of the liquid.(d)simple harmonic and time-period is directly proportional to
+the density of the liquid.14.5A particle is acted simultaneously by mutually perpendicularsimple hormonic motions x = a cos 
+t and y = a sin t . Thetrajectory of motion of the particle will be(a)an ellipse.
+(b)a parabola.
+(c)a circle.
+(d)a straight line.
+14.6The displacement of a particle varies with time according to therelationy = a sin t + b cos t.(a)The motion is oscillatory but not S.H.M.
+(b)The motion is S.H.M. with amplitude 
+a + b.(c)The motion is S.H.M. with amplitude 
+a2 + b2.(d)The motion is S.H.M. with amplitude 
+22ab.14.7Four pendulums A, B, C and D are suspended from the sameFig. 14.1
+Oscillations99elastic support as shown in Fig. 14.1. A and C are of the samelength, while B is smaller than A and D is larger than A. If A is
+given a transverse displacement,(a)D will vibrate with maximum amplitude.
+(b)C will vibrate with  maximum amplitude.
+(c)B will vibrate with  maximum amplitude.
+(d)All the four will oscillate with equal amplitude.
+14.8Figure 14.2. shows the circular motion of a particle. The radiusof the circle, the period, sense of revolution and the initial positionare indicated on the figure. The simple harmonic motion of thex-projection of the radius vector of the rotating particle P is(a)x (t) = B sin 230t.(b)x (t) = B cos15t.(c)x (t) = B sin 152
+t.(d)x (t) = B cos 152
+t.14.9The equation of motion of a particle is x = a cos ( t)2.The motion is(a)periodic but not oscillatory.
+(b)periodic and oscillatory.
+
+(c)oscillatory but not periodic.
+(d)neither periodic nor oscillatory.
+14.10A particle executing S.H.M. has a maximum speed of 30 cm/sand a maximum acceleration of 60 cm/s2. The period ofoscillation is(a) s.(b)2 s.(c)2
+ s.(d)t s.14.11When a mass  m is connected individually to two springs S1 andS2,  the oscillation frequencies are 1 and 2. If the same mass isFig. 14.2yPt(= 0)
+T= 30sxBo
+Exemplar ProblemsŒPhysics100displacement01234567time (s)attached to the two springs as shown in Fig. 14.3, the oscillationfrequency would be(a)1 + 2.(b)2212.(c)11211.(d)2212.MCQ II14.12The rotation of earth about its axis is(a)periodic motion.
+(b)simple harmonic motion.
+(c)periodic but not simple harmonic motion.
+(d)non-periodic motion.
+14.13Motion of a ball bearing inside a smooth curved bowl, whenreleased from a point slightly above the lower point is(a)simple harmonic motion.
+(b)non-periodic motion.
+
+(c)periodic motion.
+
+(d)periodic but not S.H.M.
+14.14Displacement vs. time curve for a particle executing S.H.M. isshown in Fig. 14.4. Choose the correct statements.Fig. 14.4Fig. 14.3(a)Phase of the oscillator is same at 
+t = 0 s andt = 2 s.(b)Phase of the oscillator is same at 
+t = 2 s andt = 6 s.(c)Phase of the oscillator is same at 
+t = 1 s and
+t = 7 s.(d)Phase of the oscillator is same at 
+t = 1 s andt = 5 s.14.15Which of the following statements is/are true for a simple
+harmonic oscillator?(a)Force acting is directly proportional to displacement from the
+mean position and opposite to it.
+Oscillations101(b)Motion is periodic.
+(c)Acceleration of the oscillator  is constant.
+
+(d)The velocity is periodic.
+14.16The displacement time graph of a particle executing S.H.M. isshown in Fig. 14.5. Which of the following statement is/are true?(a)The force is zero at  
+34Tt.(b)The acceleration is  maximum at 
+44Tt.(c)The velocity is maximum at 
+4Tt.(d)The P.E. is equal to K.E. of oscillation at 
+2Tt.14.17 
+A body is performing S.H.M. Then its(a)average total energy per cycle is equal to its  maximum kinetic
+energy.(b)average kinetic energy per cycle is equal to half of its
+maximum  kinetic energy.(c)mean velocity over a complete cycle is equal to 
+2 times of itsmaximum velocity.(d)root mean square velocity is 
+12 times of its  maximum velocity.14.18A particle is in linear simple harmonic motion between two pointsA and B, 10 cm apart (Fig. 14.6). Take the direction from A to Bas the + ve direction and choose the correct statements.Fig. 14.6Fig.14.5displacement0T/42T/43T/4T5T/4time (s) (a)The sign of velocity, acceleration and force on the particle when
+it is 3 cm away from A going towards B are positive.(b)The sign of velocity of the particle at C going towards O is
+negative.(c)The sign of velocity, acceleration and force on the particle when
+it is 4 cm away from B going towards  A are negative.(d)The sign of acceleration and force on the particle when it is at
+point B is negative.
+Exemplar ProblemsŒPhysics102VSA14.19Displacement versus time curve for a particle executing S.H.M.is shown in Fig. 14.7. Identify the points marked at which (i)velocity of the oscillator is zero, (ii) speed of the oscillator is
+maximum.yAPxAP1ot+Fig. 14.9Fig. 14.7Fig. 14.814.20Two identical springs of spring constant K are attached to a block
+of mass m and to fixed supports as shown in Fig. 14.8. When the
+mass is displaced from equilllibrium position by a distance xtowards right, find the restoring force14.21What are the two basic characteristics of a simple harmonicmotion?14.22When will the motion of a simple pendulum be simple harmonic?14.23What is the ratio of maxmimum acceleration to the maximum
+velocity of a simple harmonic oscillator?14.24What is the ratio between the distance travelled by the oscillator
+in one time period and amplitude?14.25In Fig. 14.9,  what will be the sign ofthe velocity of the point P, which isthe projection of the velocity of thereference particle P . P is moving ina circle of radius R in anticlockwisedirection.
+Oscillations10314.26Show that for a particle executing S.H.M, velocity anddisplacement have a phase difference of /2.14.27Draw a graph to show the variation of P.E., K.E. and total energy
+of a simple harmonic oscillator with displacement.14.28The length of a second™s pendulum on the surface of Earth is
+1m. What will be the length of a second™s pendulum on the moon?SA14.29Find the time period of mass M when displaced from itsequilibrium positon and then released for the system shown inFig 14.10.14.30Show that the motion of a particle represented by y = sint Œ cos t is simple harmonic with a period of  2
+/.14.31Find the displacement of a simple harmonic oscillator at which
+its P.E. is half of 
+the maximum energy of the oscillator.
+14.32 
+A body of mass m is situated in a potential field U(x) = U0 (1-cos x)when U0 and  are constants. Find the time period of smalloscillations.14.33A mass of 2 kg is attached to the spring of spring constant
+50 NmŒ1. The block is pulled to a distance of 5cm from itsequilibrium position at x = 0 on a horizontal frictionless surfacefrom rest at t = 0. Write the expression for its displacement at
+anytime t.14.34Consider a pair of identical pendulums, which oscillate with equal
+amplitude  independently such that when one pendulum is at
+its extreme position making an angle of 2° to the right with thevertical, the other pendulum makes an angle of 1° to the left of
+the vertical. What is the phase difference between the pendulums?LA14.35A person normally weighing 50 kg stands on a massless platformwhich oscillates up and down harmonically at a frequency of
+2.0 sŒ1 and an amplitude 5.0 cm. A weighing machine on theplatform gives the persons weight against time.(a)Will there be any change in weight of the body, during the
+oscillation?Fig. 14.10Inextensiblestring
+Exemplar ProblemsŒPhysics104PAHOP=l(b)If answer to part (a) is yes, what will be the maximum and
+minimum reading in the machine and at which position?14.36A body of mass m is attached to one end of a massless springwhich is suspended vertically from a fixed point. The mass is
+held in hand so that the spring is neither stretched norcompressed. Suddenly the support of the hand is removed. Thelowest position attained by the mass during oscillation is 4cm
+below the point, where it was held in hand.(a)What is the amplitude of oscillation?
+(b)Find the frequency of oscillation?
+14.37A cylindrical log of wood of height h and area of cross-section Afloats in water. It is pressed and then released. Show that the log
+would execute S.H.M. with a time period.2mTAgwhere m is mass of the body and  is density of the liquid.
+14.38One end of a V-tube containing mercury is connected to a suctionpump and the other end to atmosphere. The two arms of thetube are inclined  to horizontal at an angle of  45° each. A smallpressure difference is created between two columns when thesuction pump is removed. Will the column of mercury in V-tubeexecute simple harmonic motion? Neglect capillary and viscousforces.Find the time period of oscillation.14.39A tunnel is dug through the centre of the Earth. Show that a
+body of mass ‚m™ when dropped from rest from one end of thetunnel will execute simple harmonic motion.14.40A simple pendulum of timeperiod 1s and length l is hungfrom a fixed support at O,
+such that the bob is at a
+distance H vertically above Aon the ground (Fig. 14.11).The amplitude is o. Thestring snaps at  = 0 /2. Findthe time taken by the bob tohit the ground. Also finddistance from A where bob
+hits the ground. Assume 0to be small so that000
+sinandcos1
+.Fig. 14.11

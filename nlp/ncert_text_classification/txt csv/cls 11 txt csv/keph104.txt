@@ -1,0 +1,63 @@
+CHAPTER FOURMOTION IN A PLANE4.1  
+INTRODUCTIONIn the last chapter we developed the concepts of position,displacement, velocity and acceleration that are needed to
+describe the motion of an object along a straight line. Wefound that the directional aspect of these quantities can betaken care of by + and Œ signs, as in one dimension only twodirections are possible. But in order to describe motion of anobject in two dimensions (a plane) or three dimensions(space), we need to use vectors to describe the above-mentioned physical quantities.  Therefore, it is first necessaryto learn the language of vectors. What is a vector? How to
+add, subtract and multiply vectors ? What is the result ofmultiplying a vector by a real number ? We shall learn thisto enable us to use vectors for defining velocity andacceleration in a plane. We then discuss motion of an objectin a plane.  As a simple case of motion in a plane, we shalldiscuss motion with constant acceleration and treat in detailthe projectile motion. Circular motion is a familiar class ofmotion that has a special significance in daily-life situations.We shall discuss uniform circular motion in some detail.The equations developed in this chapter for motion in aplane can be easily extended to the case of three dimensions.4.2  
+SCALARS AND VECTORSIn physics, we can classify quantities as scalars orvectors.  Basically, the difference is that a direction isassociated with a vector but not with a scalar.  A scalarquantity is a quantity with magnitude only. It is specified
+completely by a single number, along with the properunit. Examples are : the distance between two points,mass of an object, the temperature of a body and thetime at which a certain event happened.  The rules for
+
+combining scalars are the rules of ordinary algebra.
+Scalars can be added, subtracted, multiplied and divided
+4.1Introduction4.2Scalars and vectors4.3Multiplication of vectors byreal numbers4.4Addition and subtraction of
+vectors Š graphical method4.5Resolution of vectors4.6Vector addition Š analyticalmethod4.7Motion in a plane4.8Motion in a plane withconstant acceleration4.9Relative velocity in two
+dimensions4.10Projectile motion4.11Uniform circular motionSummaryPoints to ponderExercisesAdditional exercises
+PHYSICS66just as the ordinary numbers*. For example,if the length and breadth of a rectangle are1.0 m and 0.5 m 
+respectively, 
+then itsperimeter is the sum of the lengths of thefour sides, 1.0 m + 0.5 m +1.0 m + 0.5 m =
+3.0 m. The length of each side is a scalar
+and the perimeter is also a scalar. Takeanother example: the maximum and
+minimum temperatures on a particular day
+are 35.6 °C and 24.2 °C 
+respectively.  
+Then,the difference between the two temperatures
+is 11.4 °C. Similarly, if a uniform solid cube
+of aluminium of side 10 cm has a mass of
+2.7 kg, then its volume is 10Œ3 m3 (a scalar)and its density is 2.7×103 kg mŒ3 (a scalar).A vector quantity is a quantity that has botha magnitude and a direction and obeys thetriangle law of addition or equivalently theparallelogram law of addition. So, a vector isspecified by giving its magnitude by a numberand its direction. Some physical quantities thatare represented by vectors are displacement,velocity, acceleration and force.To represent a vector, we use a bold face typein this book. Thus, a velocity vector can berepresented by a symbol v.  Since bold face isdifficult to produce, when written by hand, a
+vector is often represented by an arrow placedover a letter, say !v. Thus, both v and !vrepresent the velocity vector. The magnitude ofa vector is often called its absolute value,
+indicated by |v| = v.  Thus, a vector isrepresented by a bold face, e.g. by A, a, p, q, r, ...x, y, with respective magnitudes denoted by lightface A, a, p, q, r, ... x, y.4.2.1 Position and Displacement VectorsTo describe the position of an object moving in
+
+a plane, we  need to choose a convenient point,say O as origin. Let P and P be the positions ofthe object at time t and t, respectively [Fig. 4.1(a)].We join O and P by a straight line.  Then, OP isthe position vector of the object at time 
+t.  Anarrow is marked at the head of this line.  It isrepresented by a symbol r, i.e. OP = r.  Point P isrepresented by another position vector, OPdenoted by r. The length of the vector rrepresents the magnitude of the vector and itsdirection is the direction in which P lies as seen
+from O. If the object moves from P to P, thevector PP (with tail at P and tip at P) is calledthe displacement vector corresponding tomotion from point P (at time t) to point P (at time t).Fig. 4.1(a) Position and displacement vectors.(b) Displacement vector PQ and different     courses of motion.It is important to note that displacementvector is the straight line joining the initial andfinal positions and does not depend on the actualpath undertaken by the object between the twopositions.  For example, in Fig. 4.1b, given the
+initial and final positions as P and Q, thedisplacement vector is the same PQ for differentpaths of journey, say PABCQ, PDQ, and PBEFQ.Therefore, the magnitude of displacement iseither less or equal to the path length of anobject between two points. This fact wasemphasised in the previous chapter also whilediscussing motion along a straight line.4.2.2 Equality of VectorsTwo vectors A and B are said to be equal if, andonly if, they have the same magnitude and thesame direction.**Figure 4.2(a) shows two equal vectors A andB. We can easily check their equality.  Shift Bparallel to itself until its tail Q coincides with thatof A, i.e. Q coincides with O. Then, since  their
+tips S and P also coincide, the two vectors aresaid to be equal.  In general, equality is indicated*Addition and subtraction of scalars make sense only for quantities with same units. However, you can multiplyand divide scalars of different units.**In our study, vectors do not have fixed locations. So displacing a vector parallel to itself leaves the vector
+unchanged. Such vectors are called free vectors. However, in some physical applications, location or line ofapplication of a vector is important. Such vectors are called localised vectors.
+MOTION IN A PLANE67as A = B. Note that in Fig. 4.2(b), vectors A andB have the same magnitude but they are notequal because they have different directions.Even if we shift B parallel to itself so that its tailQ coincides with the tail O of A, the tip S of Bdoes not coincide with the tip P of A.4.3MULTIPLICATION OF VECTORS BY REALNUMBERSMultiplying a vector A with a positive number gives a vector whose magnitude is changed by
+the factor  but the direction is the same as thatof A :A = A if > 0.For example, if A is multiplied by 2, the resultantvector 2A is in the same direction as A and hasa magnitude twice of |A| as shown in Fig. 4.3(a).Multiplying a vector A by a negative number gives a vector A whose direction is oppositeto the direction of A and whose magnitude isŒ times |A|.Multiplying a given vector A by negativenumbers, say Œ1 and Œ1.5, gives vectors asshown in Fig 4.3(b).The  factor  by  which  a vector A is multipliedcould be a scalar having its own physical
+dimension. Then, the dimension of A is theproduct of the dimensions of  and A. Forexample, if we multiply a constant velocity vector
+by duration (of time), we get a displacement
+vector.4.4ADDITION AND SUBTRACTION OFVECTORS Š GRAPHICAL METHODAs mentioned in section 4.2, vectors, by
+definition, obey the triangle law or equivalently,
+
+the parallelogram law of addition.  We shall nowdescribe this law of addition using the graphicalmethod. Let us consider two vectors A and B thatlie in a plane as shown in Fig. 4.4(a).  The lengthsof the line segments representing these vectors
+are proportional to the magnitude of the vectors.To find the sum A + B, we place vector B so thatits tail is at the head of the vector A, as inFig. 4.4(b). Then, we join the tail of A to the headof B. This line OQ represents a vector R, that is,
+the sum of the vectors A and B. Since, in thisprocedure of vector addition, vectors areFig. 4.2  (a) Two equal vectors A and B.  (b) Twovectors A     and B are unequal though theyare of the same length.Fig. 4.3(a) Vector A and the resultant vector aftermultiplying A by a positive number 2.(b) Vector A and resultant vectors aftermultiplying it by a negative number Œ1and Œ1.5.(c)(d)
+Fig. 4.4  (a) Vectors A and B. (b) Vectors A and Badded graphically. (c) Vectors B and Aadded graphically. (d) Illustrating theassociative law of vector addition.
+PHYSICS68arranged head to tail, this graphical method iscalled the head-to-tail method. The two vectorsand their resultant form three sides of a triangle,so this method is also known as triangle methodof vector addition. If we find the resultant ofB + A as in Fig. 4.4(c), the same vector R isobtained. Thus, vector addition is commutative:A + B = B + A(4.1)The addition of vectors also obeys the associativelaw as illustrated in Fig. 4.4(d). The result of
+adding vectors A and B first and then addingvector C is the same as the result of adding Band C first and then adding vector A :(A + B) + C = A + (B + C)(4.2)
+What is the result of adding two equal and
+opposite vectors ? Consider  two  vectors A andŒA shown in Fig. 4.3(b). Their sum is A + (ŒA).Since the magnitudes of the two vectors are the
+same, but the directions are opposite, the
+resultant vector has zero magnitude and is
+represented by 0 called a null vector or a zerovector :A Œ A = 0         
+|0|= 0(4.3)
+Since the magnitude of a null vector is zero, its
+direction cannot be specified.The null vector also results when we multiplya vector A by the number zero. The mainproperties of 0 are :A + 0 = A 0 = 00 A = 0       (4.4)Fig. 4.5 (a)Two vectors A and B, Œ B is also shown. (b) Subtracting vector B from vector A Œ the result is R2. Forcomparison, addition of vectors A and B, i.e. R1 is also shown.What is the physical meaning of a zero vector?Consider the position and displacement vectors
+in a plane as shown in Fig. 4.1(a). Now supposethat an object which is at P at time t, moves toP and then comes back to P. Then, what is itsdisplacement? Since the initial and finalpositions coincide, the displacement is a ﬁnull
+vectorﬂ.Subtraction of vectors can be defined in termsof addition of vectors. We define the differenceof two vectors A and B as the sum of two vectorsA and ŒB :A Œ B = A + (ŒB)(4.5)
+It is shown in Fig 4.5. The vector Œ
+B is added tovector A to get R2 = (A Œ B). The vector R1 = A + Bis also shown in the same figure for comparison.We can also use the parallelogram method tofind the sum of two vectors. Suppose we havetwo vectors A and B. To add these vectors, webring their tails to a common origin O asshown in Fig. 4.6(a). Then we draw a line from
+
+the head of A parallel to B and another line fromthe head of B parallel to A to complete aparallelogram OQSP.  Now we join the point ofthe intersection of these two lines to the originO. The resultant vector R is directed from thecommon origin O along  the diagonal (OS) of theparallelogram [
+Fig. 4.6(b)]. In 
+Fig.4.6(c), the
+triangle law is used to obtain the resultant of Aand B and we see that the two methods yield thesame result. Thus, the two methods areequivalent.

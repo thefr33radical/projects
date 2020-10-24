@@ -1,0 +1,1234 @@
+TRIANGLES11766.1Introduction
+You are familiar with triangles and many of their properties from your earlier classes.
+In Class IX, you have studied congruence of triangles in detail. Recall that two figures
+are said to be congruent, if they have the same shape and the same size. In thischapter, we 
+shall study about those figures which have the same shape but not necessarilythe same size. Two figures having the same shape (and not necessarily the same size)
+are called similar figures.
+ In particular, we shall discuss the similarity of triangles and
+apply this knowledge in giving a simple proof of Pythagoras Theorem learnt earlier.
+Can you guess how heights of mountains (say Mount Everest) or distances ofsome long distant objects (say moon) have been found out? Do you think these haveTRIANGLES
+118M
+ATHEMA
+TICSbeen measured directly with the help of a measuring tape? In fact, all these heightsand distances have been found out using the idea of indirect measurements, which is
+based on the principle of similarity of figures (see Example 7, Q.15 of Exercise 6.3
+and also Chapters 8 and 9 of this book).6.2Similar Figures
+In Class IX, you have seen that all circles with the same radii are congruent, all
+squares with the same side lengths are congruent and all equilateral triangles with the
+same side lengths are congruent.Now consider any two (or more)circles [see Fig. 6.1 (i)]. Are they
+
+congruent? Since all of them do not
+have the same radius, they are not
+
+congruent to each other. Note that
+
+some are congruent and some are not,
+but all of them have the same shape.
+So they all are, what we call, similar.Two similar figures have the same
+
+shape but not necessarily the same
+size. Therefore, all circles are similar.
+
+What about two (or more) squares or
+two (or more) equilateral triangles
+[see Fig. 6.1 (ii) and (iii)]? As observedin the case of circles, here also all
+squares are similar and all equilateral
+triangles are similar.From the above, we can saythat all congruent figures are
+
+similar but the similar figures need
+not be congruent.Can a circle and a square besimilar? Can a triangle and a squarebe similar? These questions can be
+answered by just looking at the
+figures (see Fig. 6.1). Evidently
+these figures are not similar. (Why?)
+Fig. 6.1Fig. 6.2
+TRIANGLES119What can you say about the two quadrilaterals ABCD and PQRS(see Fig 6.2)?Are they similar? These  figures appear to be similar but we cannot be
+certain about it.Therefore, we must have some definition of similarity of figures and
+based on this definition some rules to decide whether the two given figures are similaror not. For this, let us look at the photographs given in Fig. 6.3:Fig. 6.3You will at once say that they are the photographs of the same monument
+(Taj Mahal) but are in different sizes. Would you say that the three photographs  are
+similar? Yes,they are.
+What can you say about the two photographs of the same size of the same
+person one at the age of 10 years and the other at the age of 40 years? Are these
+photographs similar? These photographs are of the same size but certainly they arenot of the same shape. So, they are not similar.
+What does the photographer do when she prints photographs of different sizesfrom the same negative? You must  have heard about the stamp size, passport size and
+
+postcard size photographs. She generally takes a photograph on a small size film, say
+of 35mm size and then enlarges it into a bigger size, say 45mm (or 55mm). Thus, if weconsider any line segment in the smaller photograph (figure), its corresponding linesegment in the bigger photograph (figure) will be
+453555or35 of that of the line segment.
+This really means that every line segment of the smaller photograph is enlarged(increased) in the ratio 35:45 (or 35:55).  It can also be said that every line segment
+of the bigger photograph is reduced (decreased) in the ratio 45:35 (or 55:35). Further,
+
+if you consider inclinations (or angles) between any pair of corresponding line segmentsin the two photographs of different sizes, you shall see that these inclinations(or angles)are always equal.
+ This is the essence of the similarity of two figures and in particularof two polygons. We say that:
+Two polygons of the same number of sides are similar, if 
+(i) their
+corresponding angles are equal and 
+(ii) their corresponding sides are in the
+same ratio (or propor
+tion).
+120M
+ATHEMA
+TICSNote that the same ratio of the corresponding sides is referred to as the scalefactor (or the Representative Fraction) for the polygons. You must have heard that
+world maps (i.e., global maps) and blue prints for the construction of a building are
+prepared using a suitable scale factor and observing certain conventions.In order to understand similarity of figures more clearly, let us perform the following
+activity:Activity 1 :  Place a lighted bulb at a
+point O on the ceiling  and directly below
+
+it a table in your classroom. Let us cut apolygon, say a quadrilateral ABCD, from
+a plane cardboard and place this
+cardboard parallel to the ground between
+the lighted bulb  and the table. Then a
+
+shadow of ABCD is cast on the table.
+Mark the outline of this shadow asABCD (see Fig.6.4).
+Note that the quadrilateral A
+BCD  is
+an enlargement (or magnification) of  the
+
+quadrilateral ABCD. This 
+is because ofthe property of light that light propogatesin a straight line. You may also note that
+
+A lies on ray OA, B lies on ray OB, Clies on  OC and D lies on OD.  Thus, quadrilaterals A
+BCD  and ABCD are of the
+same shape but of different sizes.So, quadrilateral  A
+BCD  is similiar to quadrilateral ABCD. We can also say
+that quadrilateral ABCD is similar to the quadrilateral A
+BCD.Here, you can also note that vertex A
+ corresponds to vertex A, vertex B
+corresponds to vertex B, vertex C corresponds to vertex C and vertex  D
+ corresponds
+to vertex D. Symbolically, these correspondences are represented as A
+ A, B
+ B,
+C C and D
+ D. By actually measuring the angles and the sides of the two
+quadrilaterals, you may verify that(i)  A = 
+ A,  B =  B,  C =  C,  D =  D and
+(ii)  ABBCCDDA
+ABBCCDDA
+
+
+.This again emphasises that two polygons of the same number of sides are
+similar, if 
+(i) all the corresponding 
+angles are equal and (ii) all the 
+corr
+espondingsides are in 
+the same ratio (or proportion).Fig. 6.4
+TRIANGLES121From the above, you can easily say that quadrilaterals ABCD and PQRS ofFig. 6.5 are similar.
+Fig. 6.5Remark : You can verify that if one polygon is similar to another polygon and this
+second polygon is similar to a third polygon, then the first polygon is similar to the third
+polygon.You may note that in the two quadrilaterals (a square and a rectangle) of
+Fig. 6.6, corresponding angles are equal, but their corresponding sides are not in the
+same ratio.Fig. 6.6So, the two quadrilaterals are not similar. Similarly, you may note that in the two
+quadrilaterals (a square and a rhombus) of Fig. 6.7, corresponding sides are in the
+same ratio, but their corresponding angles are not equal. Again, the two polygons
+(quadrilaterals) are not similar.
+122M
+ATHEMA
+TICSFig. 6.7Thus, either of the above two conditions 
+(i) and 
+(ii) of similarity of two
+polygons is not sufficient for them to be similar.EXERCISE6.1
+1.Fill in the blanks using the correct word given in brackets :(i)All circles are 
+. (congruent, similar)(ii)All squares are . (similar, congruent)
+(iii)All  triangles are similar. (isosceles, equilateral)
+(iv)Two 
+polygons of the same number of sides are similar, if (a) their corresponding
+angles are  and (b) their corresponding sides are 
+.(equal,
+proportional)2.Give two different examples of pair of(i)similar figures.(ii)non-similar figures.
+3.State whether the following quadrilaterals are similar or not:
+Fig. 6.8
+TRIANGLES1236.3Similarity of Triangles
+What can you say about the similarity of two triangles?You may recall that triangle is also a polygon. So, we can state the same conditions
+for the similarity of two triangles. That is:Two triangles ar
+e similiar, if
+(i) their corresponding angles are equal and
+(ii) their corr
+esponding sides are in the same ratio 
+(or proportion).Note that if corresponding angles of twotriangles are equal, then they are known asequiangular triangles. A famous Greek
+mathematician Thales gave an important truth relating
+to two equiangular triangles which is as follows:The ratio of any two corresponding sides in
+two equiangular triangles is always the same.It is believed that he had used a result calledthe Basic Proportionality Theorem
+ (now known as
+the Thales Theorem
+) for the same.To understand the Basic Proportionality
+Theorem, let us perform the following activity:Activity 2 : Draw any angle XAY and on its one
+arm AX, mark points (say five points) P, Q, D, R and
+B such that AP = PQ = QD = DR = RB.
+Now, through B, draw any line intersecting arm
+AY at C (see Fig. 6.9).
+Also, through the point D, draw a line parallelto BC to intersect AC at E. Do you observe from
+your constructions that AD3
+DB2
+? Measure AE and
+EC. What about AEEC? Observe that AE
+EC is also equal to 
+3
+2. Thus, you can see thatin  ABC, DE || BC and 
+ADAE
+DBEC
+. Is it a coincidence? No, it is due to the followingtheorem (known as the Basic Proportionality Theorem):Thales(640 Œ 546 B.C.)Fig. 6.9
+124M
+ATHEMA
+TICSTheorem 6.1 : If a line is drawn parallel to one side of a triangle to intersect theother two sides in distinct points, the other two sides are divided in the same
+
+ratio.Proof :
+ We are given a triangle ABC in which a line
+parallel to side BC intersects other two sides AB and
+AC at D and E respectively (see Fig. 6.10).We need to prove that 
+ADAE
+DBEC
+.Let us join BE and CD and then draw DM  AC and
+EN  AB.
+Now, area of 
+ ADE (= 
+12 base × height) = 
+1
+2 AD × EN.
+Recall from Class IX, that area of  ADE is denoted as ar(ADE).
+So,ar(ADE) =
+12 AD × EN
+Similarly,
+ar(BDE) =12 DB × EN,
+ar(ADE) =12 AE × DMandar(DEC) = 
+1
+2 EC × DM.
+Therefore,ar(ADE)
+ar(BDE)
+ =1AD×EN
+AD21DBDB×EN
+2(1)andar(ADE)
+ar(DEC)
+ =1AE×DM
+AE21ECEC×DM
+2(2)Note that  BDE and DEC are on the same base DE and between the same parallelsBC and DE.So,ar(BDE) =
+ar(DEC)(3)
+Fig. 6.10
+TRIANGLES125Therefore, from (1), (2) and (3), we have :ADDB =AE
+ECIs the converse of this theorem also true (For the meaning of converse, seeAppendix 1)? To examine this, let us perform the following activity:
+Activity 3 :  Draw an angle XAY on your
+notebook and on ray AX, mark points B
+1, B2,B3, B4 and B such that AB
+1 = B
+1B2 = B
+2B3 =B3B4 = B
+4B.Similarly, 
+on ray AY, mark points
+C1, C2, C3, C4 and C such that AC
+1 = C
+1C2 =C2C3 = C
+3C4 = C
+4C. Then join B1C1 and BC
+(see Fig. 6.11).Note that11ABBB =11ACCC(Each equal to 1
+4)You can also see that lines B
+1C1 and BC are parallel to each other, i.e.,
+B1C1 ||BC(1)
+Similarly, by joining B2C2, B3C3 and B
+4C4, you can see that:22ABBB =22ACCC 23andB
+2C2 || BC(2)
+33ABBB =33ACCC 32andB
+3C3 || BC(3)
+44ABBB =44ACCC 4
+1andB
+4C4 || BC(4)
+From (1), (2), (3) and (4), it can be observed that if a line divides two sides of atriangle in the same ratio, then the line is parallel to the third side.You can repeat this activity by drawing any angle XAY of different measure and
+taking any  number of equal parts on arms AX and AY . Each time, you will arrive at
+
+the same result. Thus, we obtain the following theorem, which is the converse of
+Theorem 6.1:Fig. 6.11
+
+126M
+ATHEMA
+TICSFig. 6.13Theorem 6.2 : If a line divides any two sides of a
+triangle in the same ratio, then the line is parallel
+to the third side.This theorem can be proved by taking a line DE suchthat ADAE
+DBEC
+ and assuming that DE is not parallel
+to BC (see Fig. 6.12).If DE is not parallel to BC, draw a line DEparallel to BC.So,ADDB =AE
+EC(Why ?)Therefore,AEEC =AE
+EC(Why ?)Adding 1 to both sides of above, you can see that E and E must coincide.
+(Why ?)Let us take some examples to illustrate the use of the above theorems.Example 1 : If a line intersects sides AB and AC of a  ABC at D and E respectively
+and is parallel to BC, prove that ADAB = AE
+AC (see Fig. 6.13).Solution :DE ||BC(Given)
+So,ADDB =AE
+EC(Theorem 6.1)or,
+DBAD =EC
+AEor,
+DB1AD =EC1AEor,
+ABAD =AC
+AESo,AD
+AB =AE
+ACFig. 6.12
+TRIANGLES127Example 2 : ABCD is a trapezium with AB || DC.E and F are points on non-parallel sides AD and BC
+respectively such that EF is parallel to AB
+(see Fig. 6.14). Show that AEBF
+EDFC
+.Solution : Let us join AC to intersect EF at G
+(see Fig. 6.15).AB || DC and EF || AB(Given)
+So,EF || DC(Lines parallel to the same line are
+parallel to each other)Now, in 
+ ADC,
+EG ||DC(As EF || DC)
+So,AEED =AG
+GC(Theorem 6.1) (1)
+Similarly, from 
+ CAB,
+CGAG =CF
+BFi.e.,AG
+GC =BF
+FC(2)Therefore, from (1) and (2),AEED =BF
+FCExample 3 : In Fig. 6.16, PSSQ = PTTR and  PST = PRQ. Prove that PQR is an isosceles triangle.
+Solution : It is given that 
+PSPT
+SQTR
+So,ST || QR(Theorem 6.2)
+Therefore, PST =
+ PQR(Corresponding angles)(1)
+Fig. 6.14Fig. 6.15Fig. 6.16
+128M
+ATHEMA
+TICSAlso, it is given that PST =
+ PRQ(2)
+So, PRQ =
+ PQR [From 
+(1) and (2)]Therefore,PQ =P
+R(Sides opposite the equal angles)
+i.e.,PQR 
+is an isosceles triangle.EXERCISE 6.21.In Fig. 6.17, (i) and (ii), DE || BC. Find EC in (i) and AD in (ii).Fig. 6.172.E and F are points on the sides PQ and PRrespectively of a  PQR. For each of the following
+cases, state whether EF || QR :(i)PE = 3.9 cm, EQ = 3 cm, PF = 3.6 cm and FR = 2.4 cm
+(ii)PE = 4 
+cm, QE = 4.5 cm, PF = 8 cm and RF = 9 cm(iii)PQ = 
+1.28 cm, PR = 2.56 cm, PE = 0.18 cm and PF = 0.36 cm3.In Fig. 6.18, if  LM || CB and LN || CD, prove that
+AMAN
+ABAD
+4.In Fig. 6.19, DE || AC and DF || AE. Prove that
+BFBE
+FEEC
+Fig. 6.18Fig. 6.19
+TRIANGLES1295.In Fig. 6.20, DE || OQ and DF || OR. Show thatEF || QR.6.In Fig. 6.21, A, B and C are points on OP, OQ and
+OR respectively such that AB || PQ and AC || PR.
+Show that BC || QR.7.Using Theorem 6.1, prove that a line drawn throughthe mid-point of one side of a triangle parallel to
+another side bisects the third side. (Recall that you
+have proved it in Class IX).8.Using Theorem 6.2, prove that the line joining themid-points of any two sides of a triangle is parallel
+
+to the third side. (Recall that you have done it in
+Class IX).9.ABCD is a trapezium in which AB || DC and itsdiagonals intersect each other at the point O. Showthat AOCO
+BODO
+10.The diagonals of a quadrilateral ABCD intersect each other at the point O such that
+AOCO
+BODO
+ Show that ABCD is a trapezium.
+6.4Criteria for 
+Similarity of Triangles
+In the previous section, we stated that two triangles are similar, if (i) their corresponding
+angles are equal and (ii) their corresponding sides are in the same ratio (or proportion).That is, in  ABC and 
+ DEF, if
+(i)  A = 
+ D,  B =  E,  C =  F and(ii) ABBCCA
+,DEEFFD
+ then the two triangles are similar (see Fig. 6.22).
+Fig. 6.22Fig. 6.20Fig. 6.21
+130M
+ATHEMA
+TICSHere, you can see that A corresponds to D, B corresponds to E and Ccorresponds to F. 
+Symbolically, we write 
+the similarity of these two triangles as‚ ABC ~ 
+ DEF™ and 
+read it as ‚triangle ABC is similar to triangle DEF™. The
+symbol ‚~™ stands for ‚is similar to™. Recall that you have used the symbol ‚™ for‚is congruent to™ in Class IX.It must be noted that as done in the case of congruency of two triangles, thesimilarity of two triangles should also be expressed symbolically, using correct
+
+correspondence of their vertices. For example, for the triangles ABC and DEF of
+Fig. 6.22, we cannot write  ABC ~ 
+ EDF or 
+ ABC ~ 
+ FED. However, we
+can write  BAC ~ 
+ EDF.
+Now a natural question arises : For checking the similarity of two triangles, sayABC and DEF, should we always look for all the equality relations of their corresponding
+
+angles ( A = 
+ D, 
+ B = 
+ E, 
+ C = 
+ F) and all the equality relations of the ratios
+of their corresponding sides ABBCCA
+DEEFFD
+? Let us examine. You may recall that
+in Class IX, you have obtained some criteria for congruency of two triangles involvingonly three pairs of corresponding parts (or elements) of the two triangles. Here also,
+let us make an attempt to arrive at certain criteria for similarity of two triangles involving
+relationship between less number of pairs of corresponding parts of the two triangles,
+instead of all the six pairs of corresponding parts. For this, let us perform the followingactivity:Activity 4 : Draw two line segments BC and EF of two different lengths, say 3 cm
+and 5 cm respectively. Then, at the points B and C respectively, construct angles PBC
+
+and QCB of some measures, say, 60° and 40°. 
+Also, at the points E and F, construct
+angles REF and SFE of 60° and 40° respectively (see Fig. 6.23).Fig. 6.23
+TRIANGLES131Let rays BP and CQ intersect each other at A and rays ER and FS intersecteach other at D. In the two triangles ABC and DEF, you can see that
+
+ B = 
+ E, 
+ C = 
+ F and 
+ A = 
+ D. That is, corresponding angles of these two
+triangles are equal. What can you say about their corresponding sides ? Note thatBC3
+0.6.
+EF5
+ What about 
+ABDE and 
+CA
+FD? On measuring AB, DE, CA and FD, you
+will find that ABDE and 
+CA
+FD are also equal to 0.6 (or nearly equal to 0.6, if there is some
+error in the measurement). Thus, ABBCCA
+DEEFFD
+
+ You can repeat this activity by
+constructing several pairs of triangles having their corresponding angles equal. Everytime, you will find that their corresponding sides are in the same ratio (or proportion).
+This activity leads us to the following criterion for similarity of two triangles.Theorem 
+6.3 : If in two triangles, corresponding angles are equal, then their
+corresponding sides are in the same ratio 
+(or proportion
+) and hence the two
+triangles are similar.
+This criterion is referred to as the AAA
+(AngleŒAngleŒAngle) criterion ofsimilarity of two triangles.This theorem can be proved by taking twotriangles ABC and DEF such that
+
+ A = 
+ D, 
+ B = 
+ E and 
+ C = 
+ F(see Fig. 6.24)Cut DP = AB and DQ = AC and join PQ.
+
+So, ABC 
+ DPQ(Why ?)
+This gives B = 
+ P= 
+ EandPQ || EF(How?)
+Therefore,DPPE =DQQF(Why?)i.e.,ABDE =AC
+DF(Why?)Similarly,
+ABDE = 
+BCEFand so ABBCAC
+
+DEEFDF
+.Remark : If two angles of a triangle are respectively equal to two angles of anothertriangle, then by the angle sum property of a triangle their third angles will also be
+equal. Therefore, AAA similarity criterion can also be stated as follows:
+Fig. 6.24
+132M
+ATHEMA
+TICSIf two angles of one triangle are respectively equal to two angles of another
+triangle, then the two triangles are similar.
+This may be referred to as the AA
+ similarity criterion 
+for two triangles.You have seen above that if the three angles of one triangle are respectively
+equal to the three angles of another triangle, then their corresponding sides areproportional (i.e., in the same ratio). What about the converse of this statement? Is the
+converse true? In other words, if the sides of a triangle are respectively proportional to
+
+the sides of another triangle, is it true that their corresponding angles are equal? Let us
+examine it through an activity :Activity 5 : Draw two triangles ABC and DEF such that AB = 3 cm, BC = 6 cm,CA = 8 cm, DE = 4.5 cm, EF = 9 cm and FD = 12 cm (see Fig. 6.25).Fig. 6.25So, you have : ABBCCA
+DEEFFD
+(each equal to 23)Now measure  A, 
+ B, 
+ C, 
+ D, 
+ E and 
+ F. You will observe that
+ A = 
+ D, 
+ B = 
+ E and 
+ C = 
+ F, i.e., the corresponding angles of the two
+triangles are equal.You can repeat this activity by drawing several such triangles (having their sides
+in the same ratio). Everytime  you shall see that their corresponding angles are equal.
+It is due to the following criterion of similarity of two triangles:Theorem 6.4 :
+ If in two triangles, sides of one triangle are proportional to
+(i.e., in the same ratio of) the sides of the other 
+triangle, then their corresponding
+angles are equal and 
+hence the two triangles are similiar.
+This criterion is referred to as the SSS (SideŒSideŒSide) similarity criterion fortwo triangles.This theorem can be proved by taking two triangles ABC and DEF such that
+ABBCCA
+DEEFFD
+ (< 1) (see Fig. 6.26):
+TRIANGLES133Fig. 6.26Cut DP = AB and DQ = AC and join PQ.
+It can be seen thatDPPE = 
+DQQFandPQ || EF(How?)
+So, P = 
+Eand
+ Q = 
+ F.
+Therefore,DPDE =DQDF = 
+PQEFSo,DPDE =DQDF = 
+BCEF(Why?)So,BC =PQ(Why?)
+Thus, ABC 
+ DPQ(Why ?)
+So, A =  D, B = 
+ Eand
+ C = 
+ F(How ?)
+Remark : You may recall that either of 
+the two conditions namely, (i) corresponding
+angles are equal and (ii) corresponding sides are in the same ratio is not sufficient fortwo polygons to be similar. However, on the basis of Theorems 6.3 and 6.4, you can
+
+now say that in case of similarity of the two triangles, it is not necessary to check both
+the conditions as one condition implies the other.Let us now recall the various criteria for congruency of two triangles learnt inClass IX. You may observe that SSS similarity criterion can be compared with the SSS
+congruency criterion.This suggests us to look for a similarity criterion comparable to
+SAS congruency criterion of triangles. For this, let us perform an activity.Activity 6 : Draw two triangles ABC and DEF such that AB = 2 cm, 
+ A = 50°,
+AC = 4 cm, DE = 3 cm,  D = 50° and DF = 6 cm (see Fig.6.27).
+
+134M
+ATHEMA
+TICSFig. 6.27Here, you may observe that ABDE = AC
+DF (each equal to 
+2
+3) and  A (included
+between the sides AB and AC) =  D (included between the 
+sides DE and DF). Thatis, one angle of a triangle is equal to one angle of another triangle and sides including
+these angles are in the same ratio (i.e., proportion). Now let us measure  B, 
+ C,
+ E and 
+ F.
+You will find that 
+ B = 
+ E and 
+ C = 
+ F. That is, 
+ A = 
+ D, 
+ B = 
+ E and
+ C = 
+ F. So, by AAA similarity criterion, 
+ ABC ~ 
+ DEF. You may repeat this
+activity by drawing several pairs of such triangles with one angle of a triangle equal to
+one angle of another triangle and the sides including these angles are proportional.
+Everytime, you will find that the triangles are similar. It is due to the following criterion
+
+of similarity of triangles:Theorem 6.5 : If one angle of a triangle is equal to one angle of the other
+triangle and the sides including these angles are proportional, then the two
+
+triangles are similar.
+This criterion is referred to asthe SAS (SideŒAngleŒSide)similarity criterion for two
+triangles.As before, this theorem canbe proved by taking two trianglesABC and DEF such thatABAC
+DEDF
+ (< 1) and 
+ A = 
+ D(see Fig. 6.28). Cut DP = AB, DQ= AC and join PQ.Fig. 6.28
+TRIANGLES135Now,PQ ||EFand
+ ABC 
+ DPQ(How ?)
+So, A =  D, B = 
+ P and 
+ C = 
+ QTherefore, ABC ~
+ DEF(Why?)
+We now take some examples to illustrate the use of these criteria.
+Example 4 : In Fig. 6.29, if PQ || RS, prove that  POQ ~ 
+ SOR.
+Fig. 6.29Solution :PQ ||RS(Given)
+So, P =
+ S(Alternate angles)
+and Q =
+ RAlso, POQ =
+ SOR(Vertically opposite angles)
+Therefore, POQ ~
+ SOR(AAA similarity criterion)
+Example 5 : Observe Fig. 6.30 and then find  P.
+Fig. 6.30Solution : In  ABC and 
+ PQR,
+
+136M
+ATHEMA
+TICSAB3.81
+,RQ7.62
+BC61
+QP122
+ and CA331
+PR2
+63That is,ABBCCA
+RQQPPR
+So, ABC ~
+ RQP(SSS similarity)
+Therefore, C = P(Corresponding angles of similar triangles)
+But C =180° Œ 
+ A Œ 
+ B(Angle sum property)
+=180° Œ 80° Œ 60° = 40°
+So, P =40°
+Example 6 : In Fig. 6.31,OA . OB =OC . OD.
+Show that A = 
+ Cand 
+ B = 
+ D.
+Solution :OA . OB =OC . OD(Given)
+So,OAOC =OD
+OB(1)Also, we have AOD =
+ COB(Vertically opposite angles)(2)
+Therefore, from (1) and (2), AOD ~
+ COB     (SAS similarity criterion)
+So, A = 
+ Cand 
+ D = 
+ B(Corresponding angles of similar triangles)Example 7 :
+ A girl of height 90 cm iswalking  away from the base of a
+lamp-post at a speed of 1.2 m/s. If the lampis 3.6 m above the ground, find the lengthof her shadow after 4 seconds.Solution : Let AB denote the lamp-postand CD the girl after walking for 4 secondsaway from the lamp-post (see Fig. 6.32).From the figure, you can see that DE is theshadow of the girl. Let DE be x metres.
+Fig. 6.31Fig. 6.32
+TRIANGLES137Fig. 6.33Now, BD = 1.2 m × 4 = 4.8 m.
+Note that in  ABE and 
+ CDE,
+ B = D(Each is of 90° because lamp-post
+as well as the girl are standingvertical to the ground)and E = E(Same angle)
+So, ABE ~
+ CDE(AA similarity criterion)
+Therefore,BEDE =AB
+CDi.e.,4.8+
+xx =3.6
+0.9
+(90 cm = 90100
+ m = 0.9 m)
+i.e.,4.8 + x =4
+xi.e.,3
+x =4.8
+i.e.,x =1.6
+So, the shadow of the girl after walking for 4 seconds is 1.6 m long.Example 8 : In Fig. 6.33, CM and RN arerespectively the medians of  ABC and
+ PQR. If 
+ ABC ~ 
+ PQR, prove that :
+(i) AMC ~ 
+ PNR
+(ii)CMAB
+RNPQ
+(iii) CMB ~ 
+ RNQ
+Solution : (i) ABC ~
+ PQR(Given)
+So,ABPQ =BCCA
+
+QRRP
+(1)and A = 
+ P,
+ B = 
+ Q and 
+ C = 
+ R(2)
+ButAB =2 AM and PQ = 2 PN
+(As CM and RN are medians)So, from (1),2AM
+2PN
+ =CARP
+138M
+ATHEMA
+TICSi.e.,AMPN =CARP(3)Also, MAC =
+ NPR[From (2)](4)
+So, from (3) and (4), AMC ~
+ PNR(SAS similarity)(5)
+(ii)From 
+(5),CMRN =CARP(6)ButCARP =AB
+PQ[From (1)](7)
+Therefore,CMRN =AB
+PQ[From (6) and (7)](8)
+(iii)Again,
+ABPQ =BC
+QR[From (1)]Therefore,CMRN =BC
+QR[From (8)](9)
+Also,CMRN =AB2BM
+PQ2QN
+i.e.,CMRN =BM
+QN(10)i.e.,CMRN =BCBM
+
+QRQN
+[From (9) and (10)]Therefore, CMB ~
+ RNQ(SSS similarity)
+[Note : You can also prove part (iii) by following the same method as used for proving
+part (i).]EXERCISE 6.31.State which pairs of triangles in Fig. 6.34 are similar. Write the similarity criterion used by
+you for answering the question and also write the pairs of similar triangles in the symbolic
+form :
+TRIANGLES139Fig. 6.342.In Fig. 6.35,  ODC ~ 
+ OBA, 
+ BOC = 125°
+and  CDO = 70°. Find 
+ DOC, 
+ DCO and
+ OAB.
+3.Diagonals AC and 
+BD of a trapezium ABCDwith AB || DC 
+intersect each other at thepoint O. Using a similarity criterion for twotriangles, show that OAOB
+OCOD
+Fig. 6.35
+140M
+ATHEMA
+TICS4.In Fig. 6.36, QRQT
+QSPR
+ and 
+ 1 = 
+ 2. Show
+that  PQS ~ 
+ TQR.
+5.S and T are points on sides PR and QR of PQR such that 
+ P = 
+ RTS. Show that
+ RPQ ~ 
+ RTS.
+6.In Fig. 6.37, if  ABE 
+ ACD, show that
+ ADE ~ 
+ ABC.
+7.In Fig. 6.38, altitudes AD and CE of  ABC
+intersect each other at the point P. 
+Showthat:(i) AEP ~ 
+ CDP
+(ii) ABD ~ 
+ CBE
+(iii) AEP ~ 
+ ADB
+(iv) PDC ~ 
+ BEC
+8.E is a point on the side AD produced of a
+parallelogram ABCD and BE intersects CD
+
+at F. Show that 
+ ABE ~ 
+ CFB.
+9.In Fig. 6.39, ABC and 
+AMP are two right
+triangles, right angled at B and M
+respectively. Prove that:
+(i) ABC ~ 
+ AMP
+(ii)CABC
+PAMP
+10.CD and GH are respectively the bisectorsof  ACB and 
+ EGF such that D and H lie
+on sides AB and FE of 
+ ABC and 
+ EFG
+respectively. If 
+ ABC ~ 
+ FEG, show that:
+(i)CDAC
+GHFG
+(ii) DCB ~ 
+ HGE
+(iii) DCA ~ 
+ HGF
+Fig. 6.36Fig. 6.37Fig. 6.38Fig. 6.39
+TRIANGLES14111.
+In Fig. 6.40, E is a point on side CBproduced of an isosceles triangle ABC
+
+with AB = AC. If AD 
+ BC and EF 
+ AC,
+prove that  ABD ~ 
+ ECF.
+12.Sides AB and BC and median AD of a
+triangle ABC are respectively propor-
+tional to sides PQ and QR and median
+PM of  PQR (see Fig. 6.41). Show that
+ ABC ~ 
+ PQR.
+13.D is a point on the side BC of a triangleABC such that  ADC = 
+ BAC. Show
+that CA2 = CB.CD.
+14.Sides AB 
+and AC and median AD of atriangle ABC are respectively
+
+proportional to sides PQ and PR and
+median PM of another triangle PQR.
+Show that  ABC ~ 
+ PQR.
+15.A vertical pole of length 6 m casts a shadow 4 m long on the ground and at the same timea tower casts a shadow 28 m long. Find the height of the tower.
+16.If AD and PM are medians of triangles ABC and PQR, respectively where
+ ABC ~ 
+ PQR, prove that 
+ABAD
+PQPM
+6.5Areas of 
+Similar Triangles
+You have learnt that in two similar triangles, the ratio of their corresponding sides is
+the same. Do you think there is any relationship between the ratio of their areas andthe ratio of the corresponding sides? You know that area is measured in square units.
+So, you may expect that this ratio is the square of the ratio of their correspondingsides. This is indeed true and we shall prove it in the next theorem.Theorem 6.6 :
+ The ratio of the areas
+of two similar triangles is equal to thesquare of the ratio of their
+corresponding sides.
+Proof :
+ We are given two
+triangles ABC and PQR such that
+ ABC ~ 
+ PQR (see Fig. 6.42).
+Fig. 6.40Fig. 6.41Fig. 6.42
+142M
+ATHEMA
+TICSWe need to prove that 
+222ar(ABC)ABBCCA
+ar(PQR)PQQRRP
+
+
+
+
+For finding the areas of the two triangles, we draw altitudes AM and PN of thetriangles.Now,ar (ABC) =
+1BC×AM
+2andar (PQR) =
+1QR×PN
+2So,ar(ABC
+)ar(PQR) =1BC×AM
+BC×AM
+21QR×PN
+QR×PN
+2(1)Now, in 
+ ABM and 
+ PQN, B = Q(As 
+ ABC ~ 
+ PQR)
+and M = N(Each is of 90°)
+So, ABM ~
+ PQN(AA similarity criterion)
+Therefore,AMPN =ABPQ(2)Also, ABC ~
+ PQR(Given)
+So,ABPQ =BCCA
+QRRP
+(3)Therefore,ar(ABC
+)ar(PQR) =ABAM
+PQPN[From (1) and (3)]=ABAB
+PQPQ[From (2)]=2ABPQNow using (3), we getar(ABC
+)ar(PQR) =222ABBCCA
+PQQRRP
+
+
+
+Let us take an example to illustrate the use of this theorem.
+TRIANGLES143Example 9 : In Fig. 6.43, the line segmentXY is parallel to side AC of 
+ ABC and it
+divides the triangle into two parts of equalareas. Find the ratio AXABSolution : We haveXY ||AC
+(Given)So, BXY = 
+ Aand
+ BYX =  C(Corresponding angles)
+Therefore, ABC ~
+ XBY(AA similarity criterion)
+So,ar(ABC
+)ar(XBY
+) =2ABXB(Theorem 6.6) (1)
+Also,ar 
+(ABC) =2 ar (XBY)
+(Given)So,ar(ABC
+)ar(XBY
+) =21 (2)
+Therefore, from (1) and (2),2AB2
+XB1
+,i.e.,
+AB2
+XB1
+or,
+XBAB =12or,
+XB1ŒAB =11Œ2or,
+ABŒXB21
+AB2,i.e.,
+AX21
+AB2 = 
+222.EXERCISE6.4
+1.Let  ABC ~ 
+ DEF and their areas be, respectively, 64 cm
+2 and 121 cm2. If EF =15.4 cm, find BC.2.Diagonals of a trapezium ABCD with AB || 
+DC intersect each other at the point O.If AB = 2 CD, find the ratio of the areas of triangles AOB and COD.
+Fig. 6.43
+144M
+ATHEMA
+TICS3.In Fig. 6.44, ABC and DBC are two triangles on the
+same base BC. If AD intersects BC at O, show that
+ar(ABC
+)AOar(DBC
+)DO4.If the areas of two similar triangles are equal, provethat they are congruent.5.D, E and F are respectively the mid-points of sides AB, BC and CA of  ABC. Find the
+ratio of the areas of  DEF and 
+ ABC.
+6.Prove that the ratio of the areas of two similar triangles is equal to the square of the ratioof their corresponding medians.7.Prove that the area of an equilateral triangle described on one side of a square is equalto half the area of the equilateral triangle described on one of its diagonals.Tick the correct answer and justify :8.ABC and BDE are two equilateral triangles such that D is the mid-point of BC. Ratio ofthe areas of triangles ABC and BDE is
+(A)2 : 1(B)1 : 2(C)4 : 1(D)1 : 4
+9.Sides of two similar triangles are in the ratio 4 : 9. Areas of these triangles are in the ratio(A)2 : 3(B)4 : 9(C)81 : 16(D)16 : 81
+6.6Pythagoras Theorem
+You are already familiar with the Pythagoras Theorem from your earlier classes. You
+had verified this theorem through some activities and made use of it in solving certainproblems. You have also seen a proof of this theorem in Class IX. Now, we shall prove
+this theorem using the concept of similarity of
+triangles. In proving this, we shall make  use of
+
+a result related to similarity of two triangles
+formed by the perpendicular to the hypotenusefrom the opposite vertex of the right triangle.Now, let us take a right triangle ABC, right
+angled at B. Let BD be the perpendicular to the
+hypotenuse AC (see Fig. 6.45).You may note that in 
+ ADB and 
+ ABC
+ A =
+ Aand ADB =
+ ABC(Why?)
+So, ADB ~
+ ABC(How?)(1)
+Similarly,
+ BDC ~
+ ABC(How?)(2)
+Fig. 6.44Fig. 6.45
+TRIANGLES145So, from (1) and (2), triangles on both sides of the perpendicular BD are similarto the whole triangle ABC.Also, since ADB ~
+ ABC
+and BDC ~
+ ABC
+So, ADB ~
+ BDC(From Remark in Section 6.2)
+The above discussion leads to the following theorem :Theorem 6.7 :
+ If a perpendicular is drawn from
+the vertex of the right angle of a right triangle to
+the hypotenuse then triangles on both sides of
+the perpendicular are similar to the whole triangle
+
+and to each other.
+Let us now apply this theorem in proving thePythagoras Theorem:Theorem 6.8 :
+ In a right triangle, the square of the hypotenuse is equal to the
+sum of the squares of the other two sides.Proof :
+ We are given a right triangle ABC right angled at B.
+We need to prove thatAC
+2 = AB
+2 + BC
+2Let us drawBD 
+ AC(see Fig. 6.46).
+Now,
+ ADB ~
+ ABC(Theorem 6.7)
+So,ADAB =AB
+AC(Sides are proportional)or,AD . AC =AB
+2(1)Also, BDC ~
+ ABC(Theorem 6.7)
+So,CDBC =BC
+ACor,CD . AC =BC
+2(2)Pythagoras(569 Œ 479 B.C.)Fig. 6.46
+146M
+ATHEMA
+TICSAdding (1) and (2),AD . AC + CD . AC =AB
+2 + BC
+2or,AC (AD + CD) =AB
+2 + BC
+2or,AC . AC =AB
+2 + BC
+2or,AC
+2 =AB
+2 + BC
+2The above theorem was earlier given by an ancient Indian mathematicianBaudhayan (about 800 B.C.E.) in the following form :The diagonal of a r
+ectangle produces by itself the 
+same area 
+as produced
+by its both sides (i.e., length and breadth
+).For this reason, this theorem is sometimes also referred to as the BaudhayanTheorem
+.What about the converse of the Pythagoras Theorem? You have already verified,
+in the earlier classes, that this is also true. We now prove it in the form of a theorem.
+Theorem 
+6.9 : In a triangle, if square of one side is equal to the sum of the
+squares of the 
+other two sides, then the angle opposite the first side is a rightangle.Proof :
+ Here, we are given a triangle ABC in which AC
+2 = AB
+2 + BC
+2.We need to prove that 
+ B = 90°.
+To start with, we construct a 
+ PQR right angled at Q such that PQ = AB and
+QR = BC (see Fig. 6.47).Fig. 6.47Now, from 
+ PQR, we have :
+PR2 =PQ
+2 + QR
+2(Pythagoras Theorem,as  Q = 90°)
+or,PR
+2 =AB
+2 + BC
+2(By construction)(1)
+
+TRIANGLES147ButAC
+2 =AB
+2 + BC
+2(Given)(2)
+So,AC =PR[From (1) and (2)](3)
+
+Now, in 
+ ABC and 
+ PQR,
+AB =PQ(By construction)
+BC =QR(By construction)
+AC =PR[Proved in (3) above]
+So, ABC 
+ PQR(SSS congruence)
+Therefore, B = Q(CPCT)
+But Q =90°(By construction)
+So, B =90°
+Note : Also see Appendix 1 for another proof of this theorem.Let us now take some examples to illustrate the use of these theorems.Example 10 : In Fig. 6.48,  ACB = 90°
+and CD  AB. Prove that 
+22BCBD
+ADACSolution : ACD ~
+ ABC
+(Theorem 6.7)So,ACAB =AD
+ACor,AC
+2 =AB . AD(1)
+Similarly,
+ BCD ~
+ BAC(Theorem 6.7)
+So,BCBA =BDBCor,BC
+2 =BA . BD(2)
+Therefore, from (1) and (2),22BCAC =BABDBD
+
+ABADAD
+Example 11 :
+ A ladder is placed against a wall such that its foot is at a distance
+of 2.5 m from the wall and its top reaches a window 6 m above the ground. Find thelength of the ladder.
+Fig. 6.48
+148M
+ATHEMA
+TICSSolution : Let AB be the ladder 
+and CA be the wall
+with the window at A (see Fig. 6.49).Also,BC = 
+2.5 m andCA = 6 m
+From Pythagoras Theorem, we have:AB2 =BC
+2 + CA
+2=(2.5)
+2 + (6)
+2=42.25
+So,AB =6.5
+
+Thus, length of the ladder is 6.5 m.Example 12 : In Fig. 6.50, if AD  BC, prove that
+AB2 + CD
+2 = BD
+2 + AC
+2.Solution : From  ADC, we have
+AC2 =AD
+2 + CD
+2(Pythagoras Theorem)(1)
+From  ADB, we have
+AB2 =AD
+2 + BD
+2(Pythagoras Theorem)(2)
+Subtracting (1) from (2), we haveAB2 Œ AC
+2 =BD
+2 Œ CD
+2or,AB
+2 + CD
+2 =BD
+2 + AC
+2Example 13 : BL and CM are medians of atriangle ABC right angled at A. Prove that
+4 (BL2 + CM
+2) = 5 BC2.Solution : BL and CM are medians of the ABC in which 
+ A = 90° (see Fig. 6.51).
+From ABC,BC2 =AB
+2 + AC
+2(Pythagoras Theorem) (1)
+From  ABL,
+BL2 =AL
+2 + AB
+2Fig. 6.49Fig. 6.50Fig. 6.51
+TRIANGLES149or,BL
+2 =22ACAB2(L is the mid-point of AC)
+or,BL
+2 =22ACAB4or,4 BL
+2 =AC
+2 + 4 AB
+2 (2)
+From  CMA,
+CM2 =AC
+2 + AM
+2or,CM
+2 =AC
+2 + 
+2AB2(M is the mid-point of AB)
+or,CM
+2 =AC
+2 + 
+2AB4or4 CM
+2 =4 AC
+2 + AB
+2(3)Adding (2) and (3), we have4 (BL2 + CM
+2) =5 (AC
+2 + AB
+2)i.e.,4 (BL
+2 + CM
+2) =5 BC
+2[From (1)]Example 14 : O is any point inside arectangle ABCD (see Fig. 6.52). Prove thatOB2 + OD
+2 = OA
+2 + OC
+2.Solution :Through O, draw PQ || BC so that P lies on
+AB and Q lies on DC.Now,PQ ||BC
+Therefore,PQ 
+ ABand PQ 
+ DC(
+ B = 90° and 
+ C = 90°)
+So, BPQ = 90°
+and  CQP = 90°Therefore, BPQC and APQD are both rectangles.Now, from 
+ OPB,
+OB2 =BP
+2 + OP
+2(1)Fig. 6.52
+150M
+ATHEMA
+TICSSimilarly, from 
+ OQD,
+OD2 =OQ
+2 + DQ
+2(2)From  OQC, we have
+OC2 =OQ
+2 + CQ
+2(3)and from  OAP, we have
+OA2 =AP
+2 + OP
+2(4)Adding (1) and (2),OB2 + OD
+2 =BP
+2 + OP
+2 + OQ
+2 + DQ
+2=CQ
+2 + OP
+2 + OQ
+2 + AP
+2(As BP = CQ and DQ = AP)
+=CQ
+2 + OQ
+2 + OP
+2 + AP
+2=OC
+2 + OA
+2[From (3) and (4)]EXERCISE 6.51.Sides of triangles are given below. Determine which of them are right triangles.
+In case of a right triangle, write the length of its hypotenuse.(i)7 cm, 24 cm, 25 cm
+(ii)3 
+cm, 8 cm, 6 cm(iii)50 
+cm, 80 cm, 100 cm(iv)13 cm, 12 cm, 5 cm
+2.PQR is a triangle right angled at P and M is apoint on QR such that PM  QR. Show that
+PM2 = QM . MR.
+3.In Fig. 6.53, ABD is a triangle right angled at A
+and AC 
+ BD. Show that
+(i)AB
+2 = BC . BD
+(ii)AC
+2 = BC . DC
+(iii)AD
+2 = BD . CD
+4.ABC is an isosceles triangle right angled at C. Prove that AB
+2 = 2AC
+2.5.ABC is an isosceles triangle with AC = BC. If AB
+2 = 2 AC
+2, prove that ABC is a right
+triangle.6.ABC is an equilateral triangle of side 2a. Find each of its altitudes.7.Prove that the sum of the squares of the sides of a rhombus is equal to the sum of thesquares of its diagonals.
+Fig. 6.53
+TRIANGLES1518.In Fig. 6.54, O is a point in the interior of a triangleABC, OD  BC, OE 
+ AC and OF 
+ AB. Show that
+(i)OA
+2 + OB
+2 + OC
+2 Œ OD
+2 Œ OE
+2 Œ OF
+2 = AF
+2 + BD
+2 + CE
+2,(ii)AF
+2 + BD
+2 + CE
+2 = AE
+2 + CD
+2 + BF
+2.9.A ladder 10 m long reaches a window 8 m above theground. Find the distance of the foot of the ladderfrom base of the wall.10.A guy wire attached to a vertical pole of height 18 mis 24 m long and has a stake attached to the otherend. How far from the base of the pole should thestake be driven so that the wire will be taut?11.
+An aeroplane leaves an airport and flies due north at a speed of 1000 km per hour. At the
+same time, another aeroplane leaves the same airport and flies due west at a speed of1200 km per hour. How far apart will be the two planes after 112 hours?
+12.Two poles of heights 6 m and 11 m stand on a
+plane ground. If the distance between the feetof the poles is 12 m, find the distance betweentheir tops.13.D and E are points on the sides CA and CBrespectively of a triangle ABC right angled at C.Prove that AE
+2 + BD
+2 = AB
+2 + DE
+2.14.The perpendicular from A on side BC of a
+ ABC intersects BC at D such that DB = 3 CD
+(see Fig. 6.55). Prove that 2 AB
+2 = 2 AC
+2 + BC
+2.15.In an equilateral triangle ABC, D is a 
+point on side BC such that BD = 13 BC. Prove that
+9 AD
+2 = 7 AB
+2.16.In an equilateral triangle, prove that three times the square of one side is equal to fourtimes the square of one of its altitudes.17.Tick the correct answer and justify : In  ABC, AB = 
+63 cm, AC = 12 cm and BC = 6 cm.
+The angle B is :(A)120°(B)60°
+
+(C)90°(D)45°
+Fig. 6.54Fig. 6.55
+152M
+ATHEMA
+TICSEXERCISE 6.6(Optional)*
+1.In Fig. 6.56, PS is the bisector of  QPR of 
+ PQR. Prove that 
+QSPQ
+SRPR
+Fig. 6.56Fig. 6.57
+2.In Fig. 6.57, D is a point on hypotenuse AC of 
+ ABC, such that BD 
+ AC, DM 
+ BC and
+DN  AB. Prove that :
+(i)DM
+2 = DN . MC(ii)DN
+2 = DM . AN
+3.In Fig. 6.58, ABC is a triangle in which  ABC > 90° and AD 
+ CB produced. Prove that
+AC2 = AB
+2 + BC
+2 + 2 BC . BD.
+Fig. 6.58Fig. 6.59
+4.In Fig. 6.59, ABC is a triangle in which 
+ ABC < 90° and AD 
+ BC. Prove that
+AC2 = AB
+2 + BC
+2 Œ 2 BC . BD.5.In Fig. 6.60, AD is a 
+median of a triangle ABC and
+AM  BC. Prove that :
+(i)AC
+2 = AD
+2 + BC . DM + 
+2BC2*These exercises are not from examination point of view.
+Fig. 6.60
+TRIANGLES153(ii)AB
+2 = AD
+2 Œ BC . DM + 
+2BC2(iii)AC
+2 + AB
+2 = 2 AD
+2 + 
+12 BC
+26.Prove that the sum of the squares of the diagonals of parallelogram is equal to the sumof the squares of its sides.
+7.In Fig. 6.61, two chords AB and CD intersect each other at the point P. Prove that :
+(i) APC ~ 
+ DPB(ii)AP . PB = CP . DP
+Fig. 6.61Fig. 6.62
+8.In Fig. 6.62, two chords AB and CD of a circle intersect each other at the point P
+(when produced) outside the circle. Prove that(i) PAC ~ 
+ PDB(ii)PA . PB = PC . PD
+9.In Fig. 6.63, D is a point on side BC of  ABC
+such that BDAB
+CDAC
+ Prove that AD is the
+bisector of  BAC.
+10.Nazima is fly fishing in a stream. The tip ofher fishing rod is 1.8 m above the surface
+of the water and the fly at the end of the
+string rests on the water 3.6 m away and
+2.4 m from a point directly under the tip of
+the rod. Assuming that her string(from the tip of her rod to the fly) is taut,
+how much string does she have out
+(see Fig. 6.64)? If she pulls in the string at
+the rate of 5 cm per second, what will be
+the horizontal distance of the fly from her
+after 12 seconds?Fig. 6.63Fig. 6.64
+154M
+ATHEMA
+TICS6.7Summary
+In this chapter you have studied the following points :1.Two figures having the same shape but not necessarily the same size are called similar
+figures.2.All the congruent figures are similar but the converse is not true.3.Two polygons of the same number of sides are similar, if (i) their corresponding angles
+are equal and (ii) their corresponding sides are in the same ratio (i.e., proportion).4.If a line is drawn parallel to one side of a triangle to intersect the other two sides indistinct points, then the other two sides are divided in the same ratio.5.If a line divides any two sides of a triangle in the same ratio, then the line is parallel to thethird side.6.If in two triangles, corresponding angles are equal, then their corresponding sides are inthe same ratio and hence the two triangles are similar (AAA similarity criterion).7.If in two triangles, two angles of one triangle are respectively equal to the two angles ofthe other triangle, then the two triangles are similar (AA similarity criterion).8.If in two triangles, corresponding sides are in the same ratio, then their correspondingangles are equal and hence the triangles are similar (SSS similarity criterion).9.If one angle of a triangle is equal to one angle of another triangle and the sides includingthese angles are in the same ratio (proportional), then the triangles are similar
+(SAS similarity criterion).10.The ratio of the areas of two similar triangles is equal to the square of the ratio of theircorresponding sides.11.
+If a perpendicular is drawn from the vertex of the right angle of a right triangle to thehypotenuse, then the triangles on both sides of the perpendicular are similar to the
+whole triangle and also to each other.
+12.In a right triangle, the square of the hypotenuse is equal to the sum of the squares of theother two sides (Pythagoras Theorem).13.If in a triangle, square of one side is equal to the sum of the squares of the other twosides, then the angle opposite the first side is a right angle.A NOTE TO THE READERIf in two right triangles, hypotenuse and one side of one triangle areproportional to the hypotenuse and one side of the other triangle,then the two triangles are similar. This may be referred to as the
+RHS Similarity Criterion.If you use this criterion in Example 2, Chapter 8, the proof will becomesimpler.
+

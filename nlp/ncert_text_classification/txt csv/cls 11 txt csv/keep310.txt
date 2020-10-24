@@ -1,0 +1,72 @@
+Exemplar ProblemsŒPhysics72MCQ I10.1A tall cylinder is filled with viscous oil. A round pebble is droppedfrom the top with zero initial velocity. From the plot shown inFig. 10.1, indicate the one that represents the velocity (v) of thepebble as a function of time (t).Chapter TenMECHANICALPROPERTIES OFFLUIDSFig. 10.1vtvtvtvt(a)(b)(c)(d)
+
+Mechanical Properties of Fluids7310.2Which of the following diagrams (Fig. 10.2) does not represent astreamline flow?10.3Along a streamline(a)the velocity of a fluid particle remains constant.
+(b)the velocity of all fluid particles crossing a given position is
+constant.(c)the velocity of all fluid particles at a given instant is constant.
+
+(d)the speed of a fluid particle remains constant.
+10.4An ideal fluid flows through a pipe of circular cross-section madeof two sections with diameters 2.5 cm and 3.75 cm. The ratio of
+the velocities in the two pipes is(a)9:4
+(b)3:2
+(c)3:2
+(d)2:3
+10.5The angle of contact at the interface of water-glass is 0°,
+Ethylalco
+hol-glass is 0°, Mercury-glass is 140° and Methyliodide-glass is 30°. A glass capillary is put in a trough containing one of
+these four liquids. It is observed that the meniscus is convex. The
+
+liquid in the trough is(a)water
+(b)ethylalcohol
+(c)mercury
+(d)methyliodide.
+MCQ II10.6For a surface molecule(a)the net force on it is zero.
+(b)there is a net downward force.
+Fig. 10.2
+74Exemplar ProblemsŒPhysics(c)the potential energy is less than that of a molecule inside.
+(d)the potential energy is more than that of a molecule inside.
+10.7Pressure is a scalar quantity because(a)it is the ratio of force to area and both force and area are vectors.
+(b)it is the ratio of the magnitude of the force to area.
+(c)it is the ratio of the component of the force normal to the area.
+
+(d)it does not depend on the size of the area chosen.
+10.8A wooden block with a coin placed on its top, floats in water asshown in Fig.10.3.The distance l and h are shown in the figure. After some time thecoin falls into the water. Then
+(a)l decreases.(b)h decreases.(c)l increases.(d)h increase.10.9With increase in temperature, the viscosity of(a)gases decreases.
+(b)liquids increases.
+
+(c)gases increases.
+(d)liquids decreases.
+10.10Streamline flow is more likely for liquids with(a)high density.
+(b)high viscosity.
+
+(c)low density.
+(d)low viscosity.
+VSA10.11Is viscosity a vector?10.12Is surface tension a vector?10.13Iceberg floats in water with part of it submerged. What is the fractionof the volume of iceberg submerged if the density of ice is i =0.917 g cmŒ3?10.14A vessel filled with water is kept on a weighing pan and thescale adjusted to zero. A block of mass M and density  issuspended by a massless spring of spring constant k. This blockis submerged inside into the water in the vessel. What is thereading of the scale?Fig. 10.3
+Mechanical Properties of Fluids7510.15A cubical block of density  is floating on the surface of water.
+Out of its height L, fraction x is submerged in w
+ater. The vessel is
+in an elevator accelerating upward with acceleration a . What isthe fraction immersed?SA10.16The sap in trees, which consists mainly of water in summer, rises
+in a system of capillaries of radius r = 2.5×10Œ5 m. The surfacetension of sap is T = 7.28×10Œ2 NmŒ1 and the angle of contact is 0°.Does surface tension alone account for the supply of water to thetop of all trees?10.17The free surface of oil in a tanker, at rest, is horizontal. If the tanker
+starts accelerating the free surface will be titled by an angle . Ifthe acceleration is a m sŒ2, what will be the slope of the free surface?.10.18Two mercury  droplets of radii 0.1 cm. and 0.2 cm. collapse intoone single drop. What amount of energy is released? The surfacetension of mercury T= 435.5 × 10Œ3 N mŒ1.10.19If a drop of liquid breaks into smaller droplets, it results in lowering
+of temperature of the droplets. Let a drop of radius R, break into Nsmall droplets each of radius 
+r. Estimate the drop in temperature.
+10.20The sufrace tension and vapour pressure of water at 20°C is
+7.28×10Œ2 NmŒ1 and 2.33×103 Pa, respectively. What is the radiusof the smallest spherical water droplet which can form withoutevaporating at 20°C?LA10.21(a)Pressure decreases as one ascends the atmosphere. If the
+density of air is , what is the change in pressure d
+p over adifferential height dh?(b)Considering the pressure
+ p to be proportional to the density,find the pressure p at a height h if the pressure on the surfaceof the earth is p0.(c)If 
+p0 = 1.03×105 N mŒ2, 0 = 1.29 kg mŒ3 and g = 9.8 m sŒ2, atwhat height will the pressure drop to (1/10) the value at thesurface of the earth?(d)This model of the atmosphere works for relatively small distances.
+Identify the 
+underlying assumption that limits the model.10.22Surface tension is exhibited by liquids due to force of attractionbetween molecules of the liquid. The surface tension decreases
+76Exemplar ProblemsŒPhysicswith increase in temperature and vanishes at boiling point. Giventhat the latent heat of vaporisation for water Lv = 540 k cal kgŒ1,the mechanical equivalent of heat J = 4.2 J calŒ1, density of waterw = 103 kg lŒ1, Avagadro™s No NA = 6.0 × 1026 k mole Œ1 and themolecular weight of water MA = 18 kg for 1 k mole.(a)estimate the energy required for one molecule of water to
+evaporate.(b)show that the interŒmolecular distance for water is
+1/3
+AA1wMdN and find its value.(c)1 g of water in the vapor state at 1 atm occupies 1601cm
+3.Estimate the intermolecular distance at boiling point, in thevapour state.(d)During vaporisation a molecule overcomes a force 
+F, assumedconstant, to go from an inter-molecular distance 
+d to d.Estimate the value of F.(e)Calculate 
+F/d, which is a measure of the surface tension.10.23A hot air balloon is a sphere of radius 8 m. The air inside is at a
+temperature of 60°C. How large a mass can the balloon lift when
+the outside temperature is 20°C? (Assume air is an ideal gas,
+R = 8.314 J mole
+Œ1K-1, 1 atm. = 1.013×105 Pa; the membranetension  is 5 N m
+Œ1.)

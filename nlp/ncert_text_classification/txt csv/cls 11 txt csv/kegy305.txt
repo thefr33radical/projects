@@ -1,0 +1,24 @@
+49Topographical MapsChapter 5Topographical Maps
+You know that the map is an important geographic tool. You also
+know that maps are classified on the basis of scale and functions.The topographical maps, which have been referred to in Chapter 1are of utmost importance to geographers. They serve the purposeof base maps and are used to draw all the other maps.Topographical maps, also known as general purpose maps, aredrawn at relatively large scales. These maps show important natural
+and cultural features such as relief, vegetation, water bodies,cultivated land, settlements, and transportation networks, etc.
+These maps are prepared and published by the National MappingOrganisation of each country. For example, the Survey of Indiaprepares the topographical maps in India for the entire country.The topographical maps are drawn in the form of series of maps atdifferent scales. Hence, in the given series, all maps employ thesame reference point, scale, projection, conventional signs, symbols
+and colours.The topographical maps in India are prepared in two series, i.e.India and Adjacent Countries Series and The International Map
+Series of the World.
+India and Adjacent Countries Series: Topographical maps underIndia and Adjacent Countries Series were prepared by the Surveyof India till the coming into existence of Delhi Survey Conferencein 1937. Henceforth, the preparation of maps for the adjoiningcountries was abandoned and the Survey of India confined itself toprepare and publish the topographical maps for India as per thespecifications laid down for the International Map Series of theWorld. However, the Survey of India for the topographical maps
+
+50Practical Work in Geography
+under the new series retained the numbering system and the layout planof the abandoned India and Adjacent Countries Series.The topographical maps of India are prepared on 1 : 10,00,000,1 : 250,000, 1 : 1,25,000, 1 : 50,000 and  1: 25,000 scale providing alatitudinal and longitudinal coverage of 4° x 4°, 1° x 1°, 30' x 30', 15' x
+15' and 5' x 7' 30", respectively.  The numbering system of each one ofthese topographical maps is shown in Fig. 5.1 (on page 51).
+International Map Series of the World:
+  Topographical Maps
+under International Map Series of the World are designed to produce
+standardised maps for the entire World on a scale of 1: 10,00,000 and
+1:250,000.Reading of Topographical Maps:  The study of topographical mapsis simple. It requires the reader to get acquainted with the legend, conventionalsign and the colours shown on the sheets. The conventional sign and symbolsdepicted on the topographical sheets are shown in Fig. 5.2 (on page 52).
+GlossaryContours: Imaginary lines joining all the points of equal elevation oraltitude above mean sea level. They are also called ﬁlevel linesﬂ.Contour Interval: Interval between two successive contours. It is alsoknown as vertical interval, usually written as V. I. Generally, it is constant
+for a given map.Cross-section: A side view of the ground cut vertically along a straightline. It is also known as a section or profile.Hachures: Small straight lines drawn on the map along the direction ofmaximum slope, running across the contours. They given an idea about
+the differences in the slope of the ground.
+Topographic Map: A map of a small area drawn on a large scaledepicting detailed surface features both natural and man made. Relief
+in this map is shown by contours.METHODS OF RELIEF REPRESENTATION
+The earth™s surface is not uniform and it varies from mountains to hills toplateaus and plains. The elevation and depressions of the earth™s surface
+are known as physical features or relief features of the earth. The mapshowing these features is called a relief map.

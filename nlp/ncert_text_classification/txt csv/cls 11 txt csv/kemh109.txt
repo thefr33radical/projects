@@ -1,0 +1,9 @@
+vNatural numbers are the product of human spirit. Œ DEDEKIND v9.1IntroductionIn mathematics, the word, ﬁsequenceﬂ is used in much thesame way as it is in ordinary English. When we say that acollection of objects is listed in a sequence, we usually  mean
+that the collection is ordered in such a way that it has an
+identified first member, second member, third member andso on. For example, population of human beings or bacteria
+at different times form a sequence. The amount of money
+deposited in a bank, over a number of years form a sequence.
+Depreciated values of certain commodity occur in asequence. Sequences have important applications in severalspheres of human activities.Sequences, following specific patterns are called progressions. In previous class,we have studied about arithmetic progression (A.P). In this Chapter, besides discussingmore about A.P.; arithmetic mean, geometric mean, relationship between A.M.and G.M., special series in forms of sum to n terms of consecutive natural numbers,sum to n terms of squares of natural numbers and sum to n terms of cubes ofnatural numbers will also be studied.9.2  SequencesLet us consider the following examples:Assume that there is a generation gap of 30 years, we are asked to find thenumber of ancestors, i.e., parents, grandparents, great grandparents, etc. that a personmight have over 300 years.Here, the total number of generations = 300
+10
+30
+=Fibonacci(1175-1250)ChapterSEQUENCES AND SERIES9

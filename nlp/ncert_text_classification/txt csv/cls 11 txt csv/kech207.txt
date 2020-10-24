@@ -1,0 +1,465 @@
+CHEMISTRY398UNIT 14ENVIRONMENTAL CHEMISTRYAfter studying this unit, you will beable to•••••understand the  meaning ofenvironmental chemistry;•••••define atmospheric pollution, list
+reasons for global warming. green
+house effect and acid rain;•••••identify causes for ozone layerdepletion and its effects;•••••give reasons for water pollution
+and know about international
+standards for drinking water;•••••describe causes of soil pollution;•••••suggest and adopt strategies
+for control of environmental
+pollution;•••••appreciate the importance of green
+chemistry in day to day life.You have already studied about environment in your earlierclasses. Environmental studies deal with the sum of all
+social, economical, biological, physical and chemicalinterrelations with our surroundings. In this unit the focuswill be on environmental chemistry. Environmental
+chemistry deals with the study of the origin, transport,
+reactions, effects and fates of chemical species in the
+environment. Let us discuss some important aspects ofenvironmental chemistry.14.1ENVIRONMENTAL POLLUTIONEnvironmental pollution is the effect of undesirable changesin our surroundings that have harmful effects on plants,
+animals and human beings. A substance, which causespollution, is known as pollutant. Pollutants can be solid,liquid or gaseous substances present in greater
+concentration than in natural  abundance and are
+produced due to human activities or due to natural
+happenings. Do you know, an average human beingrequires nearly 12-15 times more air than the food. So,
+even small amounts of pollutants in the air become
+significant compared to similar levels present in the food.
+Pollutants can be degradable, like discarded vegetables
+which rapidly break down by natural processes. On the
+other hand, pollutants which are slowly degradable, remainin the environment in an unchanged form for manydecades. For example, substances such as dichlorodi-
+phenyltrichloroethane (DDT), plastic materials, heavy
+metals, many chemicals, nuclear wastes etc., once released
+into the environment are difficult to remove. TheseThe world has achieved brilliance without wisdom, powerwithout conscience. Ours is a world of nuclear giants andethical infants.
+ENVIRONMENTAL CHEMISTRY 399pollutants cannot be degraded by naturalprocesses and are harmful to living organisms.
+In the process of environmental pollution,pollutants originate from a source and gettransported by air or water or are dumped into
+the soil by human beings.14.2ATMOSPHERIC 
+POLLUTIONThe atmosphere that surrounds the earth isnot of the same thickness at all heights.  There
+are concentric layers of air or regions and eachlayer has different density.  The lowest regionof atmosphere in which the human beings
+along with other organisms live is called
+troposphere. It extends up to the height of~ 10 km from sea level.  Above the troposphere,between 10 and 50 km above sea level lies
+stratosphere. Troposphere is a turbulent,dusty zone containing air, much water vapour
+and clouds. This is the region of strong air
+movement and cloud formation. The
+stratosphere, on the other hand, containsdinitrogen, dioxygen, ozone and little watervapour.Atmospheric pollution is generally studiedas tropospheric and stratospheric pollution.
+The presence of ozone in the stratosphere
+prevents about 99.5 per cent of the sun™s
+harmful ultraviolet (UV) radiations from
+reaching the earth™s surface and thereby
+protecting humans and other animals from its
+effect.14.2.1Tropospheric PollutionTropospheric pollution occurs due to thepresence of undesirable solid or gaseous
+particles in the air. The following are the majorgaseous and particulate pollutants present inthe troposphere:1.Gaseous air pollutants: These are oxides
+of sulphur, nitrogen and carbon, hydrogensulphide, hydrocarbons, ozone  and other
+oxidants.2.Particulate pollutants: These are dust,
+mist, fumes, smoke, smog etc.1. Gaseous air pollutants(a) Oxides of Sulphur: Oxides of sulphurare produced when sulphur containing fossilfuel is burnt. The most common species,sulphur dioxide, is a gas that is poisonous toboth animals and plants. It has been reported
+that even a low concentration of sulphur
+dioxide causes respiratory diseases e.g.,
+asthma, bronchitis, emphysema in human
+beings. Sulphur dioxide causes irritation to
+the eyes, resulting in tears and redness. High
+concentration of SO2 leads to stiffness of flowerbuds which eventually fall off from plants.Uncatalysed oxidation of sulphur dioxide isslow. However, the presence of particulatematter in polluted air catalyses the oxidation
+of sulphur dioxide to sulphur trioxide.2SO2 (g) +O2 (g)  2SO3(g)The reaction can also be promoted byozone and hydrogen peroxide.SO2 (g) +O3 (g)  SO3(g) + O2 (g)SO2(g)  + H2O2(l)  H2SO4(aq)(b) Oxides of Nitrogen: Dinitrogen anddioxygen are the main constituents of air.
+These gases do not react with each other at a
+normal temperature. At high altitudes when
+lightning strikes, they combine to form oxides
+of nitrogen. NO2 is oxidised to nitrate ion, 3NOwhich is washed into soil, where it serves as afertilizer. In an automobile engine, (at high
+temperature) when fossil fuel is burnt,dinitrogen and dioxygen combine to yieldsignificant quantities of nitric oxide (NO) and
+nitrogen dioxide ( NO2 ) as given below:N2 (g) +  O2 (g)     1483K
+
+    2NO(g)NO reacts instantly with oxygen to give NO22NO (g) +  O2 (g)  2NO2 (g)Rate of production of NO2 is faster whennitric oxide reacts with ozone in thestratosphere.NO (g) +  O3 (g)  NO2 (g) + O2 (g)The irritant red haze in the traffic and
+congested places is due to oxides of nitrogen.Higher concentrations of NO2 damage theleaves of plants and retard the rate ofphotosynthesis.  Nitrogen dioxide is a lungirritant that can lead to an acute respiratorydisease in children. It is toxic to living tissuesalso. Nitrogen dioxide is also harmful tovarious textile fibres and metals.
+
+CHEMISTRY400(c) Hydrocarbons: Hydrocarbons arecomposed of hydrogen and carbon only andare formed by incomplete combustion of fuelused in automobiles. Hydrocarbons arecarcinogenic, i.e., they cause cancer. Theyharm plants by causing ageing, breakdown of
+tissues and shedding of leaves, flowers and
+twigs.(d)  Oxides of Carbon
+(i ) Carbon monoxide: Carbon monoxide (CO)is one of the most serious air pollutants. It is acolourless and odourless gas, highly
+poisonous to living beings because of its abilityto block the delivery of oxygen to the organsand tissues. It is produced as a result of
+incomplete combustion of carbon.  Carbon
+monoxide is mainly released into the air by
+automobile exhaust.  Other sources, which
+produce CO, involve incomplete combustion
+of coal, firewood, petrol, etc. The number of
+vehicles has been increasing over the years all
+over the world. Many vehicles are poorly
+maintained and several have inadequate
+pollution control equipments resulting in the
+release of greater amount of carbon monoxide
+and other polluting gases.  Do you know why
+carbon monoxide is poisonous?  It binds to
+haemoglobin to form carboxyhaemoglobin,which is about 300 times more stable than the
+oxygen-haemoglobin complex. In blood, when
+the concentration of carboxyhaemoglobin
+reaches about 3Œ4 per cent, the oxygen
+carrying capacity of blood is greatly
+reduced. This oxygen deficiency, results into
+headache, weak eyesight, nervousness and
+cardiovascular disorder. This is the reason why
+people are advised not to smoke. In pregnant
+women who have the habit of smoking the
+increased CO level in blood may induce
+premature birth, spontaneous abortions and
+deformed babies.(ii) Carbon dioxide: Carbon dioxide (CO2) isreleased into the atmosphere by respiration,burning of fossil fuels for energy, and bydecomposition of limestone during themanufacture of cement. It is also emitted
+during volcanic eruptions. Carbon dioxide gas
+is confined to troposphere only. Normally it
+forms about 0.03 per cent by volume of theatmosphere. With the increased use of fossilfuels, a large amount of carbon dioxide getsreleased into the atmosphere. Excess of CO2in the air is removed by green plants and thismaintains an appropriate level of CO2 in theatmosphere. Green plants require CO2 forphotosynthesis and they, in turn, emit oxygen,
+thus maintaining the delicate balance. As youknow, deforestation and burning of fossil fuelincreases the CO2 level and disturb the balancein the atmosphere. The increased amount ofCO2 in the air is mainly responsible for globalwarming.Global Warming and Greenhouse EffectAbout 75 %  of the solar energy reaching theearth is absorbed by the earth™s surface, whichincreases its temperature. The rest of the heatradiates back to the atmosphere. Some of theheat is trapped by gases such as carbondioxide, methane, ozone, chlorofluorocarboncompounds (CFCs) and water vapour in theatmosphere. Thus, they add to the heating ofthe atmosphere. This causes global warming.We all know that in cold places flowers,vegetables and fruits are grown in glasscovered areas called greenhouse. Do youknow that we humans also live in agreenhouse? Of course, we are not surrounded
+by glass but a blanket of air called theatmosphere, which has kept the temperatureon earth constant for centuries. But it is now
+undergoing change, though slowly. Just asthe glass in a greenhouse holds the sun™swarmth inside,  atmosphere traps the sun™s
+heat near the earth™s surface and keeps itwarm. This is called natural greenhouseeffect because it maintains the temperatureand makes the earth perfect for life. In a
+greenhouse, solar radiations pass throughthe transparent glass and heat up the soil
+and the plants. The warm soil and plants emitinfrared radiations. Since glass is opaque toinfrared radiations (thermal region), it partly
+reflects and partly absorbs these radiations.This mechanism keeps the energy of thesun trapped in the greenhouse. Similarly,
+carbon dioxide molecules also trap heat asthey are transparent to sunlight but notto the heat radiation. If the amount of
+ENVIRONMENTAL CHEMISTRY 401carbon dioxide crosses the delicate proportion
+of 0.03 per cent, the natural greenhouse
+balance may get disturbed. Carbon dioxide isthe major contributor to global warming.Besides carbon dioxide, other greenhousegases are methane, water vapour, nitrousoxide, CFCs and ozone. Methane is producednaturally when vegetation is burnt, digested
+or rotted in the absence of oxygen. Large
+amounts of methane are released in paddy
+fields, coal mines, from rotting garbage dumps
+and by fossil fuels. Chlorofluorocarbons (CFCs)
+are man-made industrial chemicals used in
+air conditioning etc. CFCs are also damagingthe ozone layer (Section 14.2.2). Nitrous oxideoccurs naturally in the environment. In recent
+years, their quantities have increased
+significantly due to the use of chemical
+fertilizers and the burning of fossil fuels. If
+these trends continue, the average global
+temperature will increase to a level which may
+lead to melting of polar ice caps and flooding
+of low lying areas all over the earth. Increase
+in the global temperature increases the
+incidence of infectious diseases like dengue,malaria, yellow fever, sleeping sickness etc.Acid rainWe are aware that normally rain water has apH of 5.6 due to the presence of H+ ions formedby the reaction of rain water with carbonFig. 14.1  Acid depositionThink it OverWhat can we do to reduce the rate of globalwarming?If burning of fossil fuels, cutting downforests and trees add to greenhouse gases
+in the atmosphere, we must find ways to
+use these just efficiently and judiciously.
+One of the simple things which we can doto reduce global warming is to minimise the
+use of automobiles. Depending upon the
+situation, one can use bicycle, public
+transport system, or go for carpool. We
+should plant more trees to increase the
+green cover. Avoid burning of dry leaves,
+wood etc.  It is illegal to smoke in publicplaces and work places, because it isharmful not only for the one who is smoking
+but also for others, and therefore, we should
+avoid it. Many people do not understand
+the greenhouse effect and the global
+warming. We can help them by sharing the
+information that we have.
+CHEMISTRY402dioxide present in the atmosphere.H2O (l) +  CO2 (g)      H2CO3 (aq)H2CO3 (aq)  H +(aq) + HCO3Œ(aq)When the pH of the rain water drops below5.6, it is called acid rain.Acid rain refers to the ways in which acidfrom the atmosphere is deposited on theearth™s surface. Oxides of nitrogen and
+sulphur which are acidic in nature can be
+blown by wind along with solid particles in theatmosphere and finally settle down either on
+the ground as dry deposition or in water, fog
+and snow as wet deposition. (Fig. 14.1)Acid rain is a byproduct of a variety ofhuman activities that emit the oxides of
+sulphur and nitrogen in the atmosphere. As
+mentioned earlier, burning of fossil fuels (which
+contain sulphur and nitrogenous matter) such
+as coal and oil in power stations and furnaces
+or petrol and diesel in motor engines produce
+sulphur dioxide and nitrogen oxides. SO2 andNO2 after oxidation and reaction with waterare major contributors to acid rain, becausepolluted air usually contains particulatematter that catalyse the oxidation.2SO2 (g) + O2 (g) + 2H2O (l)  2H2SO4 (aq)4NO2 (g) + O2 (g)+ 2H2O (l)  4HNO3  (aq)Ammonium salts are also formed and canbe seen as an atmospheric haze (aerosol of fineparticles). Aerosol particles of oxides or
+ammonium salts in rain drops result in wet-
+deposition. SO2 is also absorbed directly onboth solid and liquid ground surfaces and isthus deposited as dry-deposition. Acid rain is harmful for agriculture, treesand plants as it dissolves and washes awaynutrients needed for their growth. It causes
+respiratory ailments in human beings andanimals. When acid rain falls and flows asground water to reach rivers, lakes etc. it affects
+plants and animal life in aquatic ecosystem. It
+corrodes water pipes resulting in the leaching
+of heavy metals such as iron, lead and copper
+into the drinking water. Acid rain damages
+buildings and other structures made of stone
+or metal. The Taj Mahal in India has beenaffected by acid rain.Activity 1You can collect samples of water fromnearby places and record their pH values.
+Discuss your results in the class. Let usdiscuss how we can help to reduce theformation of acid rain.This can be done by reducing theemission of sulphur dioxide and nitrogen
+dioxide in the atmosphere. We should useless vehicles driven by fossil fuels; use less
+sulphur content fossil fuels for  power
+plants and industries. We should use
+natural gas which is a better fuel than coal
+or use coal with less sulphur content.
+Catalytic converters must be used in carsto reduce the effect of exhaust fumes onthe atmosphere. The main component of
+the converter is a ceramic honeycomb
+coated with precious metals Š Pd, Pt and
+Rh. The exhaust gases containing unburnt
+fuel, CO and NOx, when pass through theconverter at 573 K, are converted into CO2and N2. We can also reduce the acidity ofthe soil by adding powdered limestone toneutralise the acidity of the soil. Manypeople do not know of acid rain and itsharmful effects. We can make them aware
+by passing on this information and save
+the Nature.Taj Mahal and Acid RainThe air around the city of Agra, where theTaj Mahal is located, contains fairly high
+levels of sulphur and nitrogen oxides. It ismainly due to a large number of industriesand power plants around the area. Use of
+poor quality of coal, kerosene and firewood
+as fuel for domestic purposes add up to
+this problem.  The resulting acid rainreacts with marble, CaCO3 of Taj Mahal(CaCO3 +H2SO4   CaSO4 + H2O+ CO2)causing damage to this wonderfulmonument that has attracted people fromaround the world. As a result, themonument is being slowly disfigured and
+the marble is getting discoloured and
+lustreless. The Government of India
+announced an action plan in early 1995to prevent the disfiguring of this historical
+monument. Mathura refinery has already
+taken suitable measures to check the
+emission of toxic gases.
+ENVIRONMENTAL CHEMISTRY 4032. Particulate PollutantsParticulates pollutants are the minute solidparticles or liquid droplets in air. These arepresent in vehicle emissions, smoke particlesfrom fires, dust particles and ash from
+industries. Particulates in the atmospheremay be viable or non-viable. The viableparticulates e.g., bacteria, fungi, moulds,algae etc., are minute living organisms that are
+dispersed in the atmosphere. Human beingsare allergic to some of the fungi found in air.They can also cause plant diseases.Non-viable particulates may be classifiedaccording to their nature and size as follows:(a) Smoke particulates consist of solid ormixture of solid and liquid particles formedduring combustion of organic matter.Examples are cigarette smoke, smoke from
+burning of fossil fuel, garbage and dryleaves, oil smoke etc.(b)Dust is composed of fine solid particles
+(over 1µm in diameter), produced duringcrushing, grinding and attribution of solidmaterials. Sand from sand blasting, saw
+dust from wood works, pulverized coal,cement and fly ash from factories, duststorms etc., are some typical examples of
+this type of particulate emission.(c)Mists are produced by particles of spray
+liquids and by condensation of vapours in
+air. Examples are sulphuric acid mist andherbicides and insecticides that miss theirtargets and travel through air  and form
+mists.(d)Fumes are generally obtained by the
+condensation of vapours during
+sublimation, distillation, boiling andseveral other chemical reactions. Generally,organic solvents, metals and metallic
+oxides form fume particles.The effect of particulate pollutants arelargely dependent on the particle size. Air-borne particles such as dust, fumes, mist etc.,are dangerous for human health. Particulatepollutants bigger than 5 microns are likely to
+lodge in the nasal passage, whereas particlesof about 10 micron enter into lungs easily.Lead used to be a major air pollutantemitted by vehicles. Leaded petrol used to be
+the primary source of air-borne lead emissionin Indian cities. This problem has now been
+overcome by using unleaded petrol in most ofthe cities in India. Lead interferes with thedevelopment and maturation of red blood cells.SmogThe word smog is derived from smoke and fog.This is the most common example of airpollution that occurs in many citiesthroughout the world. There are two types of
+smog:(a)Classical smog occurs in cool humid
+climate. It is a mixture of smoke, fog andsulphur dioxide. Chemically it is areducing mixture and so it is also calledas reducing smog.(b)Photochemical smog occurs in warm, dry
+and sunny climate. The main componentsof the photochemical smog result from the
+action of sunlight on unsaturatedhydrocarbons and nitrogen oxidesproduced by automobiles and factories.
+Photochemical smog has highconcentration of oxidising agents and is,therefore, called as oxidising smog.Formation of photochemical smogWhen fossil fuels are burnt, a variety ofpollutants are emitted into the earth™sThis plan aims at clearing the air inthe ‚Taj Trapezium™Œ an area that includesthe towns of Agra, Firozabad, Mathura andBharatpur. Under this plan more than2000 polluting industries lying inside the
+trapezium would switch over to the use of
+natural gas or liquefied petroleum gas
+instead of coal or oil. A new natural gaspipeline would bring more than half a
+million cubic metres of natural gas a day
+to this area.  People living in the city will
+also be encouraged to use liquefied
+petroleum gas in place of coal, kerosene or
+firewood. Vehicles plying on highways inthe vicinity of Taj would be encouraged touse low sulphur content diesel.
+CHEMISTRY404troposphere. Two of the pollutants that areemitted are hydrocarbons (unburnt fuels) and
+nitric oxide (NO). When these pollutants buildup to sufficiently high levels, a chain reactionoccurs from their interaction with sunlight in
+which NO is converted into nitrogen dioxide(NO2). This NO2 in turn absorbs energy fromsunlight and breaks up into nitric oxide andfree oxygen atom (Fig. 14.2).NO2(g)       NO(g)   +   O(g)(i)
+Oxygen atoms are very reactive andcombine with the O2 in air to produce ozone.O(g) + O2 (g)  O3 (g)(ii)
+The ozone formed in the above reaction (ii)reacts rapidly with the NO(g) formed in thereaction (i) to regenerate NO2. NO2 is a browngas and at sufficiently high levels cancontribute to haze.NO (g) + O3 (g)  NO2 (g) + O2 (g)(iii)
+Ozone is a toxic gas and both NO2  and O3are strong oxidising agents and can react withthe unburnt hydrocarbons in the polluted airto produce chemicals such as formaldehyde,acrolein and peroxyacetyl nitrate (PAN).3CH4   +  2O
+3    3CH2 = O    + 3H2O                              FormaldehydeCH2=CHCH=O              CH3COONO2          Acrolein                                                                                        O          Peroxyacetyl nitrate  (PAN)Effects of photochemical smogThe common components of photochemicalsmog are ozone, nitric oxide, acrolein,formaldehyde and peroxyacetyl nitrate (PAN).
+Photochemical smog causes serious healthproblems. Both ozone and PAN act as powerfuleye irritants. Ozone and nitric oxide irritate the
+nose and throat and their high concentration
+causes headache, chest pain, dryness of the
+throat, cough and difficulty in breathing.
+Photochemical smog leads to cracking of
+rubber and extensive damage to plant life. Italso causes corrosion of metals, stones,
+building materials, rubber and paintedsurfaces.Fig. 14.2  Photochemical smog occurs where sunlight acts on vehicle pollutants.
+ENVIRONMENTAL CHEMISTRY 405How can photochemical smog becontrolled ?Many techniques are used to control or reducethe formation of photochemical smog. If we
+control the primary precursors of
+photochemical smog, such as NO2 andhydrocarbons, the secondary precursors suchas ozone and PAN, the photochemical smogwill automatically be reduced. Usually catalyticconverters are used in the automobiles, which
+prevent the release of nitrogen oxide and
+hydrocarbons to the atmosphere.  Certain
+plants e.g., Pinus, Juniparus, Quercus, Pyrusand Vitis can metabolise nitrogen oxide and
+therefore, their plantation could help in this
+matter.14.2.2Stratospheric PollutionFormation and Breakdown of OzoneThe upper stratosphere consists ofconsiderable amount of ozone (O3), whichprotects us from the harmful ultraviolet (UV)
+radiations ( 255 nm) coming from the sun.These radiations cause skin cancer(melanoma) in humans. Therefore, it is
+important to maintain the ozone shield.Ozone in the stratosphere is a product ofUV radiations acting on dioxygen (O2)molecules. The UV radiations split apartmolecular oxygen into free oxygen (O) atoms.These oxygen atoms combine with themolecular oxygen to form ozone.O2 (g)       O(g)    +   O(g)O(g)    +    O2 (g)       O3 (g)Ozone is thermodynamically unstable anddecomposes to molecular oxygen. Thus, adynamic equilibrium exists between theproduction and decomposition of ozonemolecules. In recent years, there have been
+reports of the depletion of this protective ozonelayer because of the presence of certainchemicals in the stratosphere. The main
+reason of ozone layer depletion is believed tobe the release of chlorofluorocarboncompounds (CFCs), also known as freons.
+These compounds are nonreactive, nonflammable, non toxic organic molecules andtherefore used in refrigerators, air conditioners,in the production of plastic foam and by theelectronic industry for cleaning computer
+parts etc. Once CFCs are released in the
+atmosphere, they mix with the normal
+atmospheric gases and eventually reach the
+stratosphere. In stratosphere, they get broken
+down by powerful UV radiations, releasing
+chlorine free  radical.CF2Cl2 (g)         (g)  + CF2Cl (g)(i)
+The chlorine radical then react withstratospheric ozone to form chlorine monoxideradicals and molecular oxygen.Cl (g) + O3 (g)  ClO (g) + O2 (g)(ii)
+Reaction of chlorine monoxide radical withatomic oxygen produces more chlorine
+radicals.ClO (g) + O (g)  Cl (g) + O2 (g)(iii)
+The chlorine radicals are continuouslyregenerated and cause the breakdown ofozone. Thus, CFCs are transporting agents forcontinuously generating chlorine radicals into
+the stratosphere and damaging the ozone layer.The Ozone HoleIn 1980s atmospheric scientists working inAntarctica reported about depletion of ozone
+layer commonly known as ozone hole over theSouth Pole. It was found that a unique set ofconditions was responsible for the ozone hole.
+In summer season, nitrogen dioxide and
+methane react with chlorine monoxide
+(reaction iv) and chlorine atoms (reaction v)forming chlorine sinks, preventing much ozone
+depletion, whereas in winter, special type of
+clouds called polar stratospheric clouds are
+formed over Antarctica. These polar
+stratospheric clouds provide surface on which
+chlorine nitrate formed (reaction iv) getshydrolysed to form hypochlorous acid(reaction (vi)). It also reacts with hydrogen
+chloride produced as per reaction (v) to give
+molecular chlorine.ClO (g)   +   NO2 (g)  ClONO2(g)(iv)
+Cl (g)   +   CH4 (g)  CH3(g) + HCl(g)(v)
+ClONO2(g) + H2O (g)  HOCl (g) + HNO3 (g)  (vi)ClONO2(g) + HCl (g)  Cl2 (g) + HNO3 (g)    (vii)
+CHEMISTRY406When sunlight returns to the Antarctica inthe spring, the sun™s warmth breaks up theclouds and HOCl and Cl2 are photolysed bysunlight, as given in reactions (viii) and (ix).HOCl (g) h OH (g)  +  Cl(g)(viii)
+Cl2 (g) h    2Cl (g)(ix)
+The chlorine radicals thus formed, initiatethe chain reaction for ozone depletion asdescribed earlier.Effects of Depletion of the Ozone LayerWith the depletion of ozone layer, more UVradiation filters into troposphere. UV
+radiations lead to ageing of skin, cataract,sunburn, skin cancer, killing of manyphytoplanktons, damage to fish productivity
+etc. It has also been reported that plant
+proteins get easily affected by UV radiations
+which leads to the harmful mutation of cells.It also  increases evaporation of surface water
+through the stomata of the leaves and
+decreases the moisture content of the soil.
+Increase  in UV radiations damage paints and
+fibres, causing them to fade faster.14.3WATER POLLUTION
+Water is essential for life. Without water therewould be no life. We usually take water as
+granted for its purity, but we must ensure thequality of water. Pollution of water originatesfrom human activities. Through different
+paths, pollution reaches surface or ground
+water.  Easily identified source or place of
+pollution is called as point source. e.g.,municipal and industrial discharge pipeswhere pollutants enter the water-source. Non
+point sources of pollution are those where a
+source of pollution cannot be easily identified,
+e.g., agricultural run off (from farm, animals
+and crop-lands), acid rain, storm-water
+drainage (from streets, parking lots and lawns),
+etc. Table 14.1 lists the major water pollutants
+and their sources.14.3.1Causes of Water Pollution(i) Pathogens: The most serious waterpollutants are the disease causing agentscalled pathogens. Pathogens include bacteriaand other organisms that enter water from
+domestic sewage and animal excreta. Humanexcreta contain bacteria such as Escherichiacoli and Streptococcus faecalis which causegastrointestinal diseases.(ii) Organic wastes: The other major waterpollutant is organic matter such asleaves, grass, trash etc. They pollute water asa consequence of run off. Excessivephytoplankton  growth within  water  is also acause of water pollution. These wastes are
+biodegradable.The large population of bacteriadecomposes organic matter present in water.
+They consume oxygen dissolved in water. Theamount of oxygen that water can hold in the
+solution is limited. In cold water, dissolved
+oxygen (DO) can reach a concentration up to
+10 ppm (parts per million), whereas oxygen in
+air is about 200,000 ppm. That is why even a
+moderate amount of organic matter when
+decomposes in water can deplete the water of
+its dissolved oxygen. The concentration ofTable 14.1  Major Water PollutantsPollutantSourceMicro-organismsDomestic sewageOrganic wastesDomestic sewage, animal excreta and waste, decaying animalsand plants, discharge from food processing factories.Plant nutrientsChemcial fertilizers
+Toxic heavy metalsI
+ndustries and chemical factoriesSedimentsErosion of soil by agriculture and strip miningPesticidesChemicals used for killing insects, fungi and weedsRadioactive substancesMining of uranium containing mineralsHeatWater used for cooling in industries
+ENVIRONMENTAL CHEMISTRY 407dissolved oxygen in water is very importantfor aquatic life . If the concentration of dissolved
+oxygen of water is below 6 ppm, the growth offish gets inhibited. Oxygen reaches watereither through atmosphere or from the process
+of photosynthesis carried out by many
+aquatic green plants during day light.However, during night, photosynthesis stopsbut the plants continue to respire, resulting
+in reduction of dissolved oxygen. The
+dissolved oxygen is also used by
+microorganisms to oxidise organic matter.If too much of organic matter is added towater, all the available oxygen is used up.  This
+causes oxygen dependent aquatic life to die.
+Thus, anaerobic bacteria (which do not require
+oxygen) begin to break down the organic waste
+and produce chemicals that have a foul smell
+and are harmful to human health. Aerobic
+(oxygen requiring) bacteria degrade these
+organic wastes and  keep the water depleted
+in dissolved oxygen.Thus, the amount of oxygen required bybacteria to break down the organic matter
+present in a certain volume of a sample of
+water, is called Biochemical Oxygen Demand(BOD). The amount of BOD in the water is ameasure of the amount of organic material in
+the water, in terms of how much oxygen will
+be required to break it down biologically. Clean
+water would have BOD value of less than
+5 ppm whereas highly polluted water could
+have a BOD value of 17 ppm or more.(iii) Chemical Pollutants: As we know thatwater is an excellent solvent, water solubleinorganic chemicals that include heavy metals
+such as cadmium, mercury, nickel etc
+constitute an important class of pollutants. All
+these metals are dangerous to humans
+because our body cannot excrete them. Over
+the time, it crosses the tolerance limit. These
+metals then can damage kidneys, central
+nervous system, liver etc. Acids (like sulphuric
+acid) from mine drainage and salts from many
+different sources including raw salt used to
+melt snow and ice in the colder climates
+(sodium and calcium chloride)  are water
+soluble chemical pollutants.The organic chemicals are another groupof substances that are found in polluted water.Petroleum products pollute many sources ofwater e.g., major oil spills in oceans.  Otherorganic substances with serious impacts arethe pesticides that drift down from sprays or
+runoff from lands. Various industrialchemicals like polychlorinated biphenyls,(PCBs)  which are used as cleansing solvent,
+detergents and fertilizers add to the list ofwater pollutants. PCBs are suspected to becarcinogenic. Nowadays most of the detergents
+available are biodegradable. However, their usecan create other problems. The bacteriaresponsible for degrading biodegradabledetergent feed on it and grow rapidly. Whilegrowing, they may use up all the oxygendissolved in water. The lack of oxygen kills all
+other forms of aquatic life such as fish andplants. Fertilizers contain phosphates asadditives. The addition of phosphates in water
+enhances algae growth. Such profuse growthof algae, covers the water surface and reducesthe oxygen concentration in water. This leadsto anaerobic conditions, commonly withaccumulation of abnoxious decay and animal
+death.  Thus, bloom-infested water inhibits thegrowth of other living organisms in thewater body. This process in which nutrient
+enriched water bodies  support a dense plantpopulation, which kills animal life by deprivingit of oxygen and results in subsequent loss of
+biodiversity is known as Eutrophication.14.3.2International Standards forDrinking WaterThe International Standards for drinking water
+are given below and they must be followed.Fluoride: For drinking purposes, water
+should be tested for fluoride ion concentration.Its deficiency in drinking water is harmful to
+man and causes diseases such as tooth decay
+etc. Soluble fluoride is often added to drinking
+water to bring its concentration upto 1 ppm
+or 1 mg dmŒ3. The FŒ ions make the enamel onteeth much harder by convertinghydroxyapatite, [3(Ca3(PO4)2.Ca(OH)2], theenamel on the surface of the teeth, into much
+harder fluorapatite, [3(Ca3(PO4)2.CaF2].
+CHEMISTRY408However, FŒ ion concentration above 2 ppmcauses brown mottling of teeth.  At the sametime, excess fluoride (over 10 ppm) causesharmful effect to bones and teeth, as reportedfrom some parts of Rajasthan.Lead: Drinking water gets contaminated withlead when lead pipes are used fortransportation of water. The prescribed upper
+limit concentration of lead in drinking water
+is about 50 ppb. Lead can damage kidney,
+liver, reproductive system etc.Sulphate: Excessive sulphate (>500 ppm) indrinking water causes laxative effect, otherwiseat moderate levels it is harmless.Nitrate: The maximum limit of nitrate indrinking water is 50 ppm. Excess nitrate indrinking water can cause disease such as
+methemoglobinemia (‚blue baby™ syndrome).Other metals: The maximum concentrationof some common metals recommended indrinking water are given in Table 14.2.pollution levels. Ensure that appropriateaction is taken. You can write to the press
+also. Do not dump waste  into ahousehold or industrial drain which canenter directly to any water body, such as,
+river, pond, stream or lake. Use compost
+instead of chemical fertilizers in gardens.
+Avoid the use of pesticides  like DDT,malathion etc., at home and try to use
+dried neem leaves to help keep insects
+away. Add a few crystals of potassium
+permanganate (KMnO4) or bleachingpowder to the water tank of your house.14.4SOIL POLLUTIONIndia being an agriculture based economygives high priority to agriculture, fisheries and
+livestock development. The surplusproduction is stored by governmental andnon-governmental organisations for the lean
+season.  The food loss during the storage also
+needs special attention. Have you ever seen the
+damages caused to the crops, food items byinsects, rodents, weeds and crop diseases etc?
+How can we protect them? You are acquainted
+with some insecticides and pesticides for
+protection of our crops. However, these
+insecticides, pesticides and herbicides cause
+soil pollution. Hence, there is a need for theirjudicious use.14.4.1PesticidesPrior to World War II, many naturallyoccurring chemicals such as nicotine (by
+planting tobacco plants in the crop field), wereused as pest controlling substance for majorcrops in agricultural practices.During World War II, DDT was found to beof great use in the control of malaria and otherinsect-borne diseases. Therefore, after the war,
+DDT was put to use in agriculture to control
+the damages caused by insects, rodents, weeds
+and various crop diseases. However, due to
+adverse effects, its use has been banned in
+India.Pesticides are basically synthetic toxicchemicals with ecological repercussions.  The
+repeated use of the same or similar pesticides
+give rise to pests that are resistant to thatMetalMaximum concentration
+(ppm or mg dmŒ3 )Fe0.2
+Mn0.05
+
+Al0.2
+
+Cu3.0
+
+Zn5.0
+Cd0.005
+Table 14.2Maximum Prescribed Concen-tration of Some Metals in
+Drinking Water.Activity 2You can visit local water sources and
+observe if the river/lake/tank/pond areunpolluted/slightly polluted/ moderately
+polluted or severely polluted by looking
+at water or by checking pH of water.
+Document the name of the river and the
+nearby urban or industrial site fromwhere the pollution is generated. Inform
+about this to Pollution Control Board™s
+office set up by Government to measure
+ENVIRONMENTAL CHEMISTRY 409group of pesticides thus making the pesticidesineffective.  Therefore, as insect resistance of
+DDT increased, other organic toxins such asAldrin and Dieldrin were introduced in themarket by pesticide industry.  Most of the
+organic toxins are water insoluble and non-
+biodegradable.  These high persistent toxins
+are, therefore, transferred from lower trophiclevel to higher trophic level through food chain
+(Fig.14.3). Over the time, the concentration of
+toxins in higher animals reach a level which
+causes serious metabolic and physiological
+disorders.Fig. 14.3At each trophic level, the pollutantgets 10 times concentrated.sodium chlorate (NaClO3), sodium arsinite(Na3AsO3) and many others.  During the firsthalf of the last century, the shift from
+mechanical to chemical weed control hadprovided the industry with flourishingeconomic market. But one must remember that
+these are also not environment friendly.Most herbicides are toxic to mammals butare not as persistent as organo-chlorides.These chemicals decompose in a few months.
+Like organo-chlorides, these too become
+concentrated in the food web.  Some herbicides
+cause birth defects.  Studies show that corn-
+fields sprayed with herbicides are more prone
+to insect attack and plant disease than fieldsthat are weeded manually.Pesticides and herbicides represent only avery small portion of widespread chemicalpollution. A large number of other compounds
+that are used regularly in chemical and
+industrial processes for manufacturing
+activities are finally released in the atmosphere
+in one or other form.14.5INDUSTRIAL WASTEIndustrial solid wastes are also sorted out asbiodegradable and non-degradable wastes.
+Biodegradable wastes are generated by cottonmills, food processing units, paper mills, andtextile factories.Non-biodegradable wastes are generatedby thermal power plants which produce flyash; integrated iron and steel plants whichproduce blast furnace slag and steel meltingslag. Industries manufacturing aluminium,
+zinc and copper produce mud and tailings.Fertilizer industries produce gypsum.Hazardous wastes such as inflammables,composite explosives or highly reactivesubstances are produced by industriesdealing in metals, chemicals, drugs, pharma-
+ceuticals, dyes, pesticides, rubber goods etc.The disposal of non-degradable industrialsolid wastes, if not done by a proper and
+suitable method, may cause serious threat tothe environment.  New innovations have led todifferent uses of waste material.  Nowadays,fly ash and slag from the steel industry areutilised by the cement industry. LargeIn response to high persistence ofchlorinated organic toxins, a new series of lesspersistent or more bio-degradable productscalled organo-phosphates and carbamateshave been introduced in the market. But these
+chemicals are severe nerve toxins and hence
+more harmful to humans. As a result, there
+are reports of some pesticides related deathsof agricultural field workers.  Insects have
+become resistant to these insecticides also.  The
+insecticide industry is engaged in developing
+new groups of insecticides.  But one has to
+think, is this the only solution to pest menace?These days, the pesticide industry hasshifted its attention to herbicides such as
+CHEMISTRY410quantities of toxic wastes are usually destroyedby controlled incineration, whereas small
+quantities are burnt along with factorygarbage in open bins.  Moreover, solid wastesif not managed effectively, affect the
+components of the environment.household discards, there are medical,agricultural, industrial and mining wastes. Theimproper disposal of wastes is one of the majorcauses of environmental degradation.
+Therefore, the management of wastes is of
+utmost importance.Collection and DisposalDomestic wastes are collected in small bins,which are then transferred to community bins
+by private or municipal workers.  From thesecommunity bins, these are collected andcarried to the disposable site.  At the site,
+garbage is sorted out and separated into
+biodegradable and non-biodegradable
+materials. Non-biodegradable materials suchas plastic, glass, metal scraps etc. are sent for
+recycling.  Biodegradable wastes are deposited
+in land fills and are converted into compost. The waste if not collected in garbage bins,finds its way into the sewers. Some of it is eaten
+by cattle. Non-biodegradable wastes like
+polythene bag, metal scraps, etc. choke the
+sewers and cause inconvenience. Polythene
+bags, if swallowed by cattle can cost their lives
+also.As a normal practice, therefore, alldomestic wastes should be properly collected
+and disposed. The poor management causes
+health problems leading to epidemics due to
+contamination of ground water. It is specially
+hazardous for those who are in direct contact
+with the waste such as rag pickers and workers
+involved in waste disposal, as they are the ones
+who handle waste materials mostly without
+protective device such as gloves or water proofboots and gas masks. What can you do for
+them?14.7GREEN CHEMISTRY14.7.1IntroductionIt is well known fact that self-sufficiency in foodhas been achieved in India since late 20thcentury by using fertilizers and pesticides andexploring improved methods of farming, goodquality seeds, irrigation etc.  But over-
+exploitation of soil and excessive use offertilizers and pesticides have resulted in thedeterioration of soil, water and air.
+Do you know about waste recycling?•••••Fuel obtained from plastic waste hashigh octane rating. It contains no leadand is known as ﬁgreen fuelﬂ.•••••Due to recent developments made inchemical and textile industries, clothes
+will be made from recycled plastic
+waste. These will be available soon in
+the global textile market.•••••In India, our cities and towns face
+endless hours of power cut. We can also
+see piles of rotting garbage here and
+there. There is a good news that we can
+get rid from both these problemssimultaneously. Technology has now
+been developed to produce electricity
+from the garbage. A pilot plant has been
+set up, where after removing ferrous
+metals, plastic, glass, paper etc. from
+garbage, it is mixed with water. It is then
+cultured with bacterial species for
+producing methane, commonly known
+as biogas. The remaining product is
+used as manure and biogas is used to
+produce electricity.14.6STRATEGIES TO CONTROLENVIRONMENTAL POLLUTIONAfter studying air, water, soil and industrialwaste pollution in this unit, by now you musthave started feeling the need of controllingenvironmental pollution: How can you saveyour immediate environment? Think of thesteps/activities, which you would like toundertake for controlling air, water, soil andindustrial waste pollution in yourneighbourhood. Here, an idea about thestrategies for the management of waste is given.14.6.1Waste Management
+Solid waste is not the only waste, which yousee in your household garbage box.  Besides

@@ -1,0 +1,122 @@
+MCQ I15.1Water waves produced by a motor boat sailing in water are
+(a)neither longitudinal nor transverse.
+(b)both longitudinal and transverse.
+(c)only longitudinal.
+(d)only transverse.
+15.2Sound waves of wavelength  travelling in a medium with a speedof v m/s enter into another medium where its speed is 2v m/s.Wavelength of sound waves in the second medium is
+(a)(b)2(c)2(d)4Chapter FifteenWAVES
+Exemplar ProblemsŒPhysics10615.3Speed of sound wave in air(a)is independent of temperature.
+(b)increases with pressure.
+
+(c)increases with increase in humidity.
+(d)decreases with increase in humidity.
+15.4Change in temperature of the medium changes(a)frequency of sound waves.
+(b)amplitude of sound waves.
+
+(c)wavelength of sound waves.
+(d)loudness of sound waves.
+15.5With propagation of longitudinal waves through a medium, thequantity transmitted is(a)matter.
+(b)energy.
+(c)energy 
+and matter.
+(d)energy, matter and momentum.
+15.6Which of the following statements are true for wave motion?(a)Mechanical transverse waves can propagate through all
+mediums.(b)Longitudinal waves can propagate through solids only.
+(c)Mechanical transverse waves can propagate through solids
+only.(d)Longitudinal waves can propagate through vacuum.
+15.7A sound wave is passing through air column in the form ofcompression and rarefaction. In consecutive compressions andrarefactions,(a)density remains constant.
+(b)Boyle™s law is obeyed.
+
+(c)bulk modulus of air oscillates.
+(d)there is no transfer of heat.
+15.8Equation of a plane progressive wave is given by0.6sin2
+2xyt. On reflection from a denser medium itsamplitude becomes 2/3 of the amplitude of the incident wave.The equation of the reflected wave is(a)0.6sin2
+2xyt
+Waves107(b)0.4sin2
+2xyt(c)0.4sin2
+2xyt(d)0.4sin2
+2xyt.15.9A string of mass 2.5 kg is under a tension of 200 N. The length ofthe stretched string is 20.0 m. If the transverse jerk is struck atone end of the string, the disturbance will reach the other end in(a)one second
+(b) 0.5 second
+(c) 2 seconds
+
+(d) data given is insufficient.
+15.10A train whistling at constant frequency is moving towards astation at a constant speed V. The train goes past a stationaryobserver on the station. The frequency n of the sound as heardby the observer is plotted as a function of time t (Fig 15.1) . Identifythe expected curve.(a)(c)(d)Fig 15.1(b)ntntntnt
+Exemplar ProblemsŒPhysics108MCQ II15.11A transverse harmonic wave on a string is described by y (x,t) =3.0 sin (36t + 0.018x + /4)where x and y are in cm and t is in s. The positive direction of x isfrom left to right.(a)The wave is travelling from right to left.
+(b)The speed of the wave is 20m/s.
+(c)Frequency of the wave is 5.7 Hz.
+(d)The least distance between two successive crests in the wave
+is 2.5 cm.15.12The displacement of a string is given byy (x,t) = 0.06 sin (2x/3) cos (120t)where x and y are in  m and t in s. The length of the string is 1.5mand its mass is 23.010kg
+.(a)It represents a progressive wave of frequency 60Hz.
+(b)It represents a stationary wave of frequency 60Hz.
+(c)It is the result of superposition of two waves of wavelength 3
+m, frequency 60Hz each travelling with a speed of 180 m/sin opposite direction.(d)Amplitude of this wave is constant.
+15.13Speed of sound waves in a fluid depends upon(a)directty on density of the medium.
+(b)square of Bulk modulus of the medium.
+
+(c)inversly on the square root of density.
+(d)directly on the square root of bulk modulus of the medium.
+15.14During propagation of a plane progressive mechanical wave(a)all the particles are vibrating in the same phase.
+(b)amplitude of all the particles is equal.
+
+(c)particles of the medium executes S.H.M.
+(d)wave velocity depends upon the nature of the medium.
+15.15The transverse displacement of a string (clamped at its both ends)
+is given by y (x,t) = 0.06 sin (2x/3) cos (120t).All the points on the string between two consecutive nodesvibrate with(a)same frequency
+(b)same phase
+
+(c)same energy
+
+(d)different amplitude.
+
+Waves10915.16A train, standing in a station yard, blows a whistle of frequency400 Hz in still air. The wind starts blowing in the direction from
+
+the yard to the station with a speed of 10m/s. Given that thespeed of sound in still air is 340m/s,(a)the frequency of sound as heard by an observer standing on
+the platform is 400Hz.(b)the speed of sound for the observer standing on the platform
+is 350m/s.(c)the  frequency of sound as heard by the observer standing
+on the platform will increase.(d)the  frequency of sound as heard by the observer standing
+on the platform will decrease.15.17Which of the following statements are true for a stationary wave?(a)Every particle has a fixed amplitude which is different from
+the amplitude of its nearest particle.(b)All the particles cross their mean position at the same time.
+(c)All the particles are oscillating with same amplitude.
+
+(d)There is no net transfer of energy across any plane.
+
+(e)There are some particles which are always at rest.
+VSA15.18A sonometer wire is vibrating in resonance with a tuning fork.Keeping the tension applied same, the length of the wire is
+doubled. Under what conditions would the tuning fork still be isresonance with the wire?15.19 An organ pipe of length L open at both ends is found to vibratein its first harmonic when sounded with a tuning fork of 480 Hz.What should be the length of a pipe closed at one end, so that italso vibrates in its first harmonic with the same tuning fork?15.20 A tuning fork A, marked 512 Hz, produces 5 beats per second,
+where sounded with another unmarked tuning fork B. If B is
+loaded with wax the number of beats is again 5 per second. What
+is the frequency of the tuning fork B when not loaded?15.21The displacement of an elastic wave is given by the functiony = 3 sin t + 4 cos t.where y is in cm and t  is in second. Calculate the resultantamplitude.15.22A sitar wire is replaced by another wire of same length andmaterial but of three times the earlier radius. If the tension in thewire remains the same, by what factor will the frequency change?
+Exemplar ProblemsŒPhysics11015.23At what temperatures (in oC) will the speed of sound in air be3 times its value at OoC?15.24 When two waves of almost equal frequencies n 1 and n 2 reach ata point simultaneously, what is the time interval betweensuccessive maxima?SA15.25A steel wire has a length of 12 m and a mass of 2.10 kg. What willbe the speed of a transverse wave on this wire when a tension of2.06 × 104N is applied?15.26A pipe 20 cm long is closed at one end. Which harmonic mode ofthe pipe is resonantly excited by a source of 1237.5 Hz ?(soundvelocity in air = 330 m sŒ1)15.27A train standing at the outer signal of a railway station blows a
+whistle of frequency 400 Hz still air. The train begins to move
+
+with a speed of 10 m s-1 towards the platform. What is thefrequency of the sound for an observer standing on the platform?(sound velocity in air = 330 m sŒ1)15.28The wave pattern on a stretched string is shown inFig. 15.2. Interpret what kind of wave this is and find its
+wavelength.Fig. 15.2
+Waves11115.29The pattern of standing waves formed on a stretched string attwo instants of time are shown in Fig. 15.3. The velocity of two
+waves superimposing to form stationary waves is 360 msŒ1 andtheir frequencies are 256 Hz.Fig. 15.4Fig. 15.3(a)Calculate the time at which the second curve is plotted.
+(b)Mark nodes and antinodes on the curve.
+(c)Calculate the distance between 
+A and C.15.30A tuning fork vibrating with a frequency of 512Hz iskept close to the open end of a tube filled with water
+(Fig. 15.4). The water level in the tube is gradually
+lowered. When the water level is 17cm below the open
+end, maximum intensity of sound is heard. If the roomtemperature is 20°C, calculate(a)speed of sound in air at room temperature
+(b)speed of sound in air at 0
+°C(c)if the water in the tube is replaced with mercury,
+will there be any difference in your observations?15.31Show that when a string fixed at its two ends vibrates in 1 loop,2 loops, 3 loops and 4 loops, the frequencies are in the ratio
+1:2:3:4.LA15.32The earth has a radius of 6400 km. The inner core of 1000 kmradius is solid. Outside it, there is a region from 1000 km to a
+radius of 3500 km which is in molten state. Then again from3500 km to 6400 km the earth is solid. Only longitudinal (P)waves can travel inside a liquid. Assume that the P wave has aspeed of 8 km sŒ1 in solid parts and of 5 km sŒ1 in liquid parts ofthe earth. An earthquake occurs at some place close to the surfaceof the earth. Calculate the time after which it will be recorded in aseismometer at a diametrically opposite point on the earth if wavetravels along diameter?
+Exemplar ProblemsŒPhysics11215.33If c is r.m.s. speed of molecules in a gas and 
+v is the speed ofsound waves in the gas, show that c/v is constant and independentof temperature for all diatomic gases.15.34Given below are some functions of x and t to represent thedisplacement of an elastic wave.(a)y = 5 cos (4x ) sin (20t)(b)y = 4 sin (5x Œ t/2) + 3 cos (5x Œ t/2)(c)y = 10 cos [(252 Œ 250) t ] cos [(252+250)t ](d)y = 100 cos (100t + 0.5x )State which of these represent(a)a travelling wave along Œ
+x direction(b)a stationary wave
+(c)beats
+
+(d)a travelling wave along +
+x direction.Given reasons for your answers.15.35In the given progressive wavey = 5 sin (100t Œ 0.4x )where y and x are in m, t is in s. What is the(a)amplitude
+(b)wave length
+(c)frequency
+(d)wave velocity
+
+(e)particle velocity amplitude.
+15.36For the harmonic travelling wave y = 2 cos 2 (10tŒ0.0080x + 3.5)where x and y are in cm and t is second. What is the phasedifference  between the oscillatory motion at two points separatedby a distance of(a)4 m
+(b)0.5 m
+(c)2(d)34 (at a given instant of time)(e)What is the phase difference between the oscillation of a
+particle located at x = 100cm, at t = T s and t = 5 s?

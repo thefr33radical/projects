@@ -1,0 +1,11 @@
+(A) Main Concepts and ResultsŁThe surface area of an object formed by combining any two of the basic solids,namely, cuboid, cone, cylinder, sphere and hemisphere.ŁThe volume of an object formed by combining any two of  the basic solidsnamely, cuboid, cone, cylinder, sphere and hemisphere.ŁThe formulae involving the frustum of a cone are:(i)Volume of the frustum of the cone = 
+221212
+1[]3hrrrr
+   (ii)Curved surface area of the frustum of the cone = (r1+r2)l,(iii)T
+otal surface area of the frustum of the solid cone= l(r1+r2)+ 2212   rr, where 2212(Œ)
+  lhrr
+,h = vertical height of the frustum, l  = slant height of the frustum andr1 and r2 are radii of the two bases (ends) of the frustum.ŁSolid hemisphere: If r is the radius of a hemisphere, thencurved surface area = 2r2total surface area = 3r2, and volume = 
+323 rŁVolume of a spherical shell = 
+33124Œ3rr, where r1 and r2 are respectively itsexternal and internal radii.Throughout this chapter, 
+take 227  , if not stated otherwise.SURFACE 
+AREAS AND VOLUMESCHAPTER 12

@@ -1,0 +1,26 @@
+ELECTRONICSPREADSHEETIntroductionAfter completing this Chapter, the
+student will be able to:Łcreate, save and open a sheet in
+a spreadsheet,Łenter dataŒtext, numbers and
+
+formulas in a sheet,Łnavigate within a sheet and alsobetween different sheets of a
+workbook,
+Łinsert and delete cells, rows and
+columns in a sheet,Łselect, copy, paste and delete cell
+data within a worksheet,Łuse various formulas and inbuilt
+functions provided in thespreadsheet,Łcreate error free sheets usingspecial tools like spell check and
+auto correct,
+Łsetup the page and margins of
+the worksheets so as to print it in
+a paper of desired  choice,Łformat the data in the worksheetentirely or selectively,Łdefine and apply styles andŁenhance worksheets using
+charts.4In our daily life, we may have come across a list ofitems in tabular form several times. For example,
+the shopping bills, the school annual report card,or the cricket match scorecard. These tables withrows and columns are called spreadsheets. If wehave to tabulate and analyse the data for the
+Indian team™s performance in a cricket series andsubmit a project as part of our  course evaluation,we will perhaps take a chart paper and design theproject, write a report and submit it. That™s the
+way we have done it all along. The project may
+completely cover all aspects of the series but we
+are not happy with it. This is because the projectreport is staticŒwe cannot make dynamic analysis
+using this paper report. How do we then get
+attention of our audience? Welcome to the world
+of electronic spreadsheets, where we can do allthese, and much more. Let us see how.ObjectivesﬁIt™s a humongous time saver! I did [depreciationcalculations] with spreadsheets before, but
+because of tax laws changing so much, you haveto keep track of ACE (adjusted current earnings),AMT (alternative minimum tax) and four or fiveother methods of reporting. And updating would
+take four or five hours. Now, with one button,the information just rolls over.ﬂTerry RogersConsultant, Datacentrik Solutions, Vancouver.
+

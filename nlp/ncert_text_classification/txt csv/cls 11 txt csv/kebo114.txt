@@ -1,0 +1,137 @@
+226BIOLOGYAll of us breathe to live, but why is breathing so essential to life? Whathappens when we breathe? Also, do all living organisms, including plants
+and microbes, breathe? If so, how?All living organisms need energy for carrying out daily life activities,be it absorption, transport, movement, reproduction or even breathing.
+Where does all this energy come from? We know we eat food for energy Œ
+but how is this energy taken from food?  How is this energy utilised? Do
+all foods give the same amount of energy? Do plants ‚eat™? Where do plants
+get their energy from? And micro-organisms Œ for their energy
+requirements, do they eat ‚food™?You may wonder at the several questions raised above Œ they mayseem to be very disconnected.  But in reality, the process of breathing is
+very much connected to the process of release of energy from food.  Let us
+try and understand how this happens.All the energy required for ‚life™ processes is obtained by oxidation ofsome macromolecules that we call ‚food™. Only green plants and
+cyanobacteria can prepare their own food; by the process of photosynthesis
+they trap light energy and convert it into chemical energy that is stored in
+the bonds of carbohydrates like glucose, sucrose and starch.  We must
+remember that in green plants too, not all cells, tissues and organs
+photosynthesise; only cells containing chloroplasts, that are most often
+located in the superficial layers, carry out photosynthesis.  Hence, even
+in green plants all other organs, tissues and cells that are non-green,
+need food for oxidation. Hence, food has to be translocated to all non-
+green parts. Animals are heterotrophic, i.e., they obtain food from plantsRESPIRATION IN PLANTSCHAPTER  1414.1Do Plants
+Breathe?14.2Glycolysis14.3Fermentation14.4Aerobic
+Respiration14.5The Respiratory
+Balance Sheet14.6Amphibolic
+Pathway14.7Respiratory
+Quotient
+RESPIRATION IN PLANTS227directly (herbivores) or indirectly (carnivores). Saprophytes like fungi aredependent on dead and decaying matter.  What is important to recognise
+is that ultimately all the food that is respired for life processes comes from
+photosynthesis. This chapter deals with cellular respiration or themechanism of breakdown of food materials within the cell to release
+energy, and the trapping of this energy for synthesis of ATP.Photosynthesis, of course, takes place within the chloroplasts (in theeukaryotes), whereas the breakdown of complex molecules to yield energy
+takes place in the cytoplasm and in the mitochondria  (also only in
+eukaryotes).  The breaking of the C-C bonds of complex compounds
+through oxidation within the cells, leading to release of considerable
+amount of energy is called respiration.  The compounds that are oxidisedduring this process are known as respiratory substrates. Usuallycarbohydrates are oxidised to release energy, but proteins, fats and even
+organic acids can be used as respiratory substances in some plants, under
+certain conditions.  During oxidation within a cell, all the energy contained
+in respiratory substrates is not released free into the cell, or in a single
+step. It is released in a series of slow step-wise reactions controlled by
+enzymes, and it is trapped as chemical energy in the form of ATP.  Hence,
+it is important to understand that the energy released by oxidation in
+respiration is not (or rather cannot be) used directly but is used to
+synthesise ATP, which is broken down whenever (and wherever) energy
+needs to be utilised. Hence, ATP acts as the energy currency of the cell.
+This energy trapped in ATP is utilised in various energy-requiring
+processes of the organisms, and the carbon skeleton produced during
+respiration is used as precursors for biosynthesis of other molecules in
+the cell.14.1DO PLANTS BREATHE?Well, the answer to this question is not quite so direct.  Yes, plants requireO2 for respiration to occur and they also give out CO2.  Hence, plants havesystems in place that ensure the availability of O2.  Plants, unlike animals,have no specialised organs for gaseous exchange but they have stomata
+and lenticels for this purpose. There are several reasons why plants can
+get along without respiratory organs. First, each plant part takes care of
+its own gas-exchange needs.  There is very little transport of gases from
+one plant part to another.  Second, plants do not present great demands
+for gas exchange.  Roots, stems and leaves respire at rates far lower than
+animals do. Only during photosynthesis are large volumes of gases
+exchanged and, each leaf is well adapted to take care of its own needs
+during these periods. When cells photosynthesise, availability of O2 is nota problem in these cells since O2 is released within the cell.  Third, the
+228BIOLOGYdistance that gases must diffuse even in large, bulky plants is not great.Each living cell in a plant is located quite close to the surface of the plant.
+‚This is true for leaves™, you may ask, ‚but what about thick, woody stems
+and roots?™ In stems, the ‚living™ cells are organised in thin layers inside
+and beneath the bark. They also have openings called lenticels. The cells
+in the interior are dead and provide only mechanical support. Thus, most
+cells of a plant have at least a part of their surface in contact with air. This
+is also facilitated by the loose packing of parenchyma cells in leaves, stems
+and roots, which provide an interconnected network of air spaces.The complete combustion of glucose, which produces CO2 and H2Oas end products, yields energy most of which is given out as heat.CHOOCOHOEnergy
+61262
+22
+666
++¾®¾++
+If this energy is to be useful to the cell, it should be able to utilise it tosynthesise other molecules that the cell requires.  The strategy that the
+plant cell uses is to catabolise the glucose molecule in such a way that
+not all the liberated energy goes out as heat.  The key is to oxidise glucose
+not in one step but in several small steps enabling some steps to be just
+large enough such that the energy released can be coupled to ATP
+synthesis.  How this is done is, essentially, the story of respiration.During the process of respiration, oxygen is utilised, and carbondioxide, water and energy are released as products. The combustion
+reaction requires oxygen. But some cells live where oxygen may or may
+not be available. Can you think of such situations (and organisms) whereO2 is not available?   There are sufficient reasons to believe that the firstcells on this planet lived in an atmosphere that lacked oxygen.  Even
+among present-day living organisms, we know of several that are adapted
+to anaerobic conditions.  Some of these organisms are facultative
+anaerobes, while in others the requirement for anaerobic condition is
+obligate.  In any case, all living organisms retain the enzymatic machinery
+to partially oxidise glucose without the help of oxygen.  This breakdown
+of glucose to pyruvic acid is called glycolysis.14.2GLYCOLYSISThe term glycolysis has originated from the Greek words, glycos for sugar,and lysis for splitting.  The scheme of glycolysis was given by GustavEmbden, Otto Meyerhof, and J. Parnas, and is often referred to as the
+EMP pathway. In anaerobic organisms, it is the only process in respiration.
+Glycolysis occurs in the cytoplasm of the cell and is present in all living
+organisms.  In this process, glucose undergoes partial oxidation to form
+two molecules of pyruvic acid. In plants, this glucose is derived from
+sucrose, which is the end product of photosynthesis, or from storage
+RESPIRATION IN PLANTS229carbohydrates. Sucrose is converted into glucoseand fructose by the enzyme, invertase, and these
+two monosaccharides readily enter the glycolytic
+pathway. Glucose and fructose are
+phosphorylated to give rise to glucose-6-
+phosphate by the activity of the enzyme
+hexokinase. This phosphorylated form of glucose
+then isomerises to produce fructose-6-phosphate. Subsequent steps of metabolism of
+glucose and fructose are same.  The various steps
+of glycolysis are depicted in Figure 14.1. In
+glycolysis, a chain of ten reactions, under the
+control of different enzymes, takes place to
+produce pyruvate from glucose. While studying
+the steps of glycolysis, please note the steps at
+which utilisation or synthesis of ATP or (in this
+case) NADH + H+ take place.ATP is utilised at two steps: first in theconversion of glucose into glucose 6-phosphate
+and second in the conversion of fructose
+6-phosphate to fructose 1, 6-bisphosphate.The fructose 1, 6-bisphosphate is splitinto dihydroxyacetone phosphate and
+3-phosphoglyceraldehyde (PGAL). We find
+that there is one step where NADH + H+ isformed from NAD+; this is when3-phosphoglyceraldehyde (PGAL) is converted
+to 1, 3-bisphosphoglycerate (BPGA).  Two
+redox-equivalents are removed (in the form of
+two hydrogen atoms) from PGAL and transferred
+to a molecule of NAD+. PGAL is oxidised andwith inorganic phosphate to get converted into
+BPGA. The conversion of BPGA to
+3-phosphoglyceric acid (PGA), is also an energy
+yielding process; this energy is trapped by the
+formation of ATP.  Another ATP is synthesised
+during the conversion of PEP to pyruvic acid.
+Can you then calculate how many ATP
+molecules are directly synthesised in this
+pathway from one glucose molecule?Pyruvic acid is then the key product ofglycolysis. What is the metabolic fate of
+pyruvate?  This depends on the cellular need.Glucose(6C)Glucose-6-phosphate(6C)Fructose-6-phosphate(6C)Fructose1, 6-bisphosphate(6C)Triose phosphate(glyceraldehyde-3-phosphate)(3C)Triose phosphate(Dihydroxy acetonephosphate)(3C)2 × Triose bisphosphate(1,3 bisphosphoglyceric acid)(3C)2 × Triose phosphate(3-phosphoglyceric acid)(3C)2 × 2-phosphoglycerate2 × phosphoenolpyruvate2 × Pyruvic acid(3C)ADPATPADPATPADPATPADPNADH+H+NAD+H2OATPFigure 14.1   Steps of glycolysis
+230BIOLOGYThere are three major ways in which different cells handle pyruvic acidproduced by glycolysis.  These are lactic acid fermentation, alcoholicfermentation and aerobic respiration. Fermentation takes place underanaerobic conditions in many prokaryotes and unicellular eukaryotes.For the complete oxidation of glucose to CO2 and H2O, however, organismsadopt Krebs™ cycle which is also called as aerobic respiration. This requires
+O2 supply.14.3FERMENTATIONIn fermentation, say by yeast, the incomplete oxidation of glucose isachieved under anaerobic conditions by sets of reactions where pyruvicacid is converted to CO2 and ethanol. The enzymes, pyruvic aciddecarboxylase and alcohol dehydrogenase catalyse these reactions. Other
+organisms like some bacteria produce lactic acid from pyruvic acid.  Thesteps involved are shown in Figure 14.2. In animal cells also, like musclesduring exercise, when oxygen is inadequate for cellular respiration pyruvicacid is reduced to lactic acid by lactate dehydrogenase.  The reducingagent is NADH+H+  which is reoxidised to NAD+ in both the processes.In both lactic acid and alcoholfermentation not much energy is released; lessthan seven per cent of the energy in glucoseis released and not all of it is trapped as highenergy bonds of ATP.  Also, the processes arehazardous Œ either acid or alcohol isproduced.  What is the net ATPs that issynthesised (calculate how many ATP are
+synthesised and deduct the number of ATPutilised during glycolysis) when one moleculeof glucose is fermented to alcohol or lacticacid?  Yeasts poison themselves to death whenthe concentration of alcohol reaches about 13per cent. What then would be the maximumconcentration of alcohol in beverages that
+are naturally fermented? How do you thinkalcoholic beverages of alcohol content greater
+than this concentration are obtained?What then is the process by whichorganisms can carry out complete oxidationof glucose and extract the energy stored tosynthesise a larger number of ATP moleculesFigure 14.2Major pathways of anaerobicrespiration
+RESPIRATION IN PLANTS231needed for cellular metabolism?  In eukaryotes these steps take placewithin the mitochondria and this requires O2. Aerobic respiration is theprocess that leads to a complete oxidation of organic substances in the
+presence of oxygen, and releases CO2, water and a large amount of energypresent in the substrate. This type of respiration is most common in higher
+organisms. We will look at these processes in the next section.14.4AEROBIC RESPIRATIONFor aerobic respiration to take place within the mitochondria, the finalproduct of glycolysis, pyruvate is transported from the cytoplasm intothe mitochondria.  The crucial events in aerobic respiration are:ŁThe complete oxidation of pyruvate by the stepwise removal of all
+the hydrogen atoms, leaving three molecules of CO2.ŁThe passing on of the electrons removed as part of the hydrogen
+atoms to molecular O2  with simultaneous synthesis of ATP.What is interesting to note is that the first process takes place in thematrix of the mitochondria while the second process is located on theinner membrane of the mitochondria.Pyruvate, which is formed by the glycolytic catabolism ofcarbohydrates in the cytosol, after it enters mitochondrial matrixundergoes oxidative decarboxylation by a complex set of reactionscatalysed by pyruvic dehydrogenase. The reactions catalysed by pyruvicdehydrogenase require the participation of several coenzymes, includingNAD+ and  Coenzyme A.PyruvicacidCoANAD
+Mg
+Pyruvatedehydrogenase
+++¾
+®¾¾¾¾¾¾¾¾¾¾¾
+++2¾¾
++++
++AcetylCoACONADHH
+2During this process, two molecules of NADH are produced from themetabolism of two molecules of pyruvic acid (produced from one glucosemolecule during glycolysis).The acetyl CoA then enters a cyclic pathway, tricarboxylic acid cycle,more commonly called as Krebs™ cycle after the scientist Hans Krebs whofirst elucidated it.14.4.1Tricarboxylic Acid CycleThe TCA cycle starts with the condensation of acetyl group with oxaloaceticacid (OAA) and water to yield citric acid (Figure 14.3). The reaction is
+catalysed by the enzyme citrate synthase and a molecule of CoA is released.
+Citrate is then isomerised to isocitrate.  It is followed by two successive
+steps of decarboxylation, leading to the formation of a-ketoglutaric acid

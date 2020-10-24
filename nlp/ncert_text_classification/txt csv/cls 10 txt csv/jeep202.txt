@@ -1,0 +1,5 @@
+(A) Main Concepts and ResultsŁGeometrical meaning of zeroes of a polynomial: The zeroes of a polynomial p(x)are precisely the x-coordinates of the points where the graph of y = p(x) intersectsthe x-axis.ŁRelation between the zeroes and coefficients of a polynomial: If  and  are thezeroes of a quadratic polynomial ax2 + bx + c, then  +  bŒa , ca  .ŁIf ,  and   are the zeroes of a cubic polynomial ax3 + bx2 + cx + d, then++ bŒa ,  +  +  c
+a  andŒda .ŁThe division algorithm states that given any polynomial p(x) and any non-zeropolynomial g(x), there are polynomials q(x) and r(x) such thatp(x) = g(x) q(x) + r(x), where r(x) = 0 or degree r(x) < degree g(x).(B) Multiple Choice QuestionsChoose the correct answer from the given four options:Sample Question 1: If one zero of the quadratic polynomial x2 + 3x + k is 2, then the
+value of k is(A)10(B)Œ10(C)5            (D)    Œ5
+Solution : Answer (B)POLYNOMIALS
+CHAPTER 2

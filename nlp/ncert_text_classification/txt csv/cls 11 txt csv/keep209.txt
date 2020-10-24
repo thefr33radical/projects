@@ -1,0 +1,429 @@
+9.1 OverviewBy a sequence, we mean an arrangement of numbers in a definite order according
+to some rule. We denote the terms of a sequence by 
+a1, a2, a3, ... , etc., the subscriptdenotes the position of the term.
+In view of the above a sequence in the set X can be regarded as a mapping or a
+function f : N  X defined byf (n) = tn  n  N.Domain of 
+f is a set of natural numbers or some subset of it denoting the position ofterm. If its range denoting the value of terms is a subset of R real numbers then it iscalled a real sequence.A sequence is either finite or infinite depending upon the number of terms in a sequence.
+We should not expect that its terms will be necessarily given by a specific formula.
+However, we expect a theoretical scheme or rule for generating the terms.Let a1, a2, a3, ... , be the sequence, then, the expression a1 + a2 + a3 + ... is called theseries associated with given sequence. The series is finite or infinite according as thegiven sequence is finite or infinite.Remark  When the series is used, it refers to the indicated sum not to the sum itself.Sequence following certain patterns are more often called progressions. Inprogressions, we note that each term except the first progresses in a definite manner.
+9.1.1   Arithmetic progression (A.P.)
+ is a sequence in which each term except thefirst is obtained by adding a fixed number (positive or negative) to the preceding term.Thus any sequence a1, a2, a3 ... an, ... is called an arithmetic progression ifan + 1= an + d, n  N, where d is called the common difference
+ of the A.P., usually we
+denote the first term of an A.P by 
+a and the last term by lThe general term or the nth term of the A.P.
+ is given byan =a + (n Œ 1) dThe nth term from the last is given byan =l Œ (n Œ 1) dChapter9SEQUENCE AND SERIES
+
+148    EXEMPLAR PROBLEMS Œ MATHEMATICSThe sum Sn of the first n terms of an A.P. is given by
+Sn = 2(1)()
+22nnandal
+
+, where l = a + (n Œ 1) d is the last terms of the A.P.,
+and the general term is given by an = Sn Œ Sn Œ 1The arithmetic mean for any n positive numbers a1, a2, a3, ... an is given byA.M. = 12...naaa
+n
+If a, A and 
+b are in A.P., then A is called the arithmetic mean of numbers 
+a and b andi.e.,A =
+2abIf the terms of an A.P. are increased, decreased, multiplied or divided by the same
+constant, they  still remain in A.P.
+If a1, a2, a3 ... are in A.P
+. with common difference d, then(i)a1 ± k, a2 ± k, a3 ± k, ... are also in A.P
+  with common difference d.(ii) 
+a1 k, a2 k, a3  k, ... are also in A.P  with common difference 
+dk (k  0).and 312,,aaakkk
+ ... are also in A.P
+. with common difference dk(k  0).If a1, a2, a3 ... and b1, b2, b3 ... are two A.P., then
+(i)a1 ± b1, a2 ± b2, a3 ± b3, ... are also in A.P
+(ii) 
+a1 b1, a2 b2, a3 b3, ... and 312123
+,,aaabbb
+, ... are not in A.P.
+If a1, a2, a3 ... and an are in A.Ps, then(i)a1 + an = a2 + an Œ 1 = a3 + an Œ 2 = ...(ii)2rkrk
+raaa  k, 0  k  n Œ r(iii)If 
+nth term of any sequence is linear expression in n, then the sequence is anA.P.
+(iv)If 
+sum of n terms of any sequence is a quadratic expression in n, then sequenceis an A.P.
+
+SEQUENCE AND SERIES    1499.1.2 A Geometric progression (G.P.)
+  is a sequence in which each term except thefirst is obtained by multiplying the previous term by a non-zero constant called thecommon ratio. Let us consider a G.P. with first non-zero  term 
+a and common ratio r,i.e.,a, ar, ar2, ... , arn Œ 1, ...Here, common ratio r = Œ1Œ2nnararThe general term or nth term of G.P. is given by 
+an = arn Œ 1.Last term l of a G.P. is same as the 
+nth term and is given by l = arn Œ 1.and the nth term from the last is given by an = 1nlrThe sum Sn of the first n terms is given bySn =(1)
+1narr,if 
+r  1Sn =naif r = 1If a, G and b are in G.P., then G is called the 
+geometric mean of the numbers a andb and is given byG =ab(i)If the terms of a G.P. are multiplied or divided by the same non-zero constant
+(k  0), they still remain in G.P.
+If a1, a2, a3, ... , are in G.P., then 
+a1 k, a2 k, a3 k, ... and 312,,aaakkk, ...are also in G.P. with same common ratio, in particularly
+if a1, a2, a3, ... are in G.P., then
+123111
+,,aaa
+, ... are also in G.P.
+(ii)If 
+a1, a2, a3, ... and b1, b2, b3, ... are two G.P.s, then 
+a1 b1, a2 b2, a3 b3, ... and312123
+,,aaabbb
+, ... are also in G.P.
+(iii)If 
+a1, a2, a3, ... are in A.P. (
+ai > 0  i), then 312,,aaaxxx, ..., are in G.P. (
+ x > 0)
+150    EXEMPLAR PROBLEMS Œ MATHEMATICS(iv)If 
+a1, a2, a3, ..., an are in G.P., 
+then a1 an = a2 an Œ 1 = a3 an Œ 2 = ...9.1.3  Important results on the sum of special sequences(i)Sum of the first 
+n natural numbers:(1)
+123...
+2nnnn
+(ii)Sum of the squares of first n natural numbers.22222
+(1)(21)
+123...
+6nnn
+nn
+(iii)Sum of cubes of first n natural numbers:233333
+(1)
+123...
+2nnnn
+9.2 Solved ExamplesShort 
+Answer Type
+Example 1  The first term of an A.P. is 
+a, the second term is b and the last term is c.Show that the sum of  the A.P. is 
+(2)()
+2()
+bcaca
+ba
+.Solution Let d be the common diffrence and n be the number of terms of the A.P.
+Since the first term is a and the second term is bTherefore,d =b Œ aAlso, the last term is c, soc =a + (n Œ 1) (b Œ a) (since      d =  b Œ a)n Œ 1 =caban =1 + 
+caba
+ = 2bacabca
+baba
+
+Therefore,S
+n =()2nal = (2)
+()2()
+bca
+acbaExample 2  The pth term of an A.P. is 
+a and qth term is b. Prove that the sum of its(p + q) terms is
+SEQUENCE AND SERIES    1512pqab
+abpq.Solution  Let A be the 
+first term and D be the common difference of the A.P. It is
+given thattp =a  A + (
+p Œ 1) D = a... (1)tq =b  A + (
+q Œ 1) D = b... (2)Subtracting (2) from (1), we get(p Œ 1 Œ q + 1) D =a Œ bD =abpq... (3)Adding (1) and (2), we get2A + (p + q Œ 2) D =a + b2A + (p + q Œ 1) D =a + b + D2A + (p + q Œ 1) D =a + b + abpq.. (4)NowS
+p + q =2pq [2A + (p + q Œ 1) D]=2pqab
+abpq [(using ... (3) and (4)]Example 3  If there are (2n + 1) terms in an A.P., then prove that the ratio of the sum
+of odd terms and the sum of even terms is (n + 1) : nSolution  Let a be the first term and d the common difference of the A.P. Also let S
+1be the sum of odd terms of A.P. having (2
+n + 1) terms. ThenS1 =a1 + a3 + a5 + ... + a2n + 1S1 =121
+1()2nnaaS1 =1(211)
+2naand
+
+
+152    EXEMPLAR PROBLEMS Œ MATHEMATICS =(n + 1) (a + nd)Similarly, if S
+2 denotes the sum of even terms, thenS2 =2n [2a + 2nd] = n (a + nd)Hence12SS =(1)()1
+()nandn
+nandn
+
+Example 4  At the end of each year the value of a certain machine has depreciated by20% of its value at the beginning of that year. If its initial value was Rs 1250, find the
+value at the end of 5 years.Solution After each year the value of the machine is 80% of its value the previousyear so at the end of 5 years the machine will depreciate as many times as 5.Hence, we have to find the 6th term of the G.P. whose first term 
+a1 is 1250 and commonratio r is .8.Hence, value at the end 5 years = t6 = a1 r5 = 1250 (.8)5 = 409.6Example 5 Find the sum of first 24 terms of the A.P. 
+a1, a2, a3, ... if it is known thata1 + a5 + a10 + a15 + a20 + a24 = 225.Solution  We know that in an A.P., the sum of the terms equidistant from the beginning
+and end is always the same and is equal to the sum of first and last term.Therefored =b Œ ai.e.,a1 + a24 =a5 + a20 = a10 + a15It is given that (a1 + a24) + (a5 + a20) + (a10 + a15) = 225 (a1 + a24) + (a1 + a24) + (a1 + a24) =225
+3 (a1 + a24) =225
+a1 + a24 =75
+We know that S
+n =[]2nal,  where a is the first term and l is the last term of an A.P.
+Thus,S
+24 =242 [a1 + a24] = 12 × 75 = 900Example 6  The product of three numbers in A.P. is 224, and the largest number is 7
+times the smallest. Find the numbers.Solution  Let the three numbers in A.P. be 
+a Œ d, a, a + d (d > 0)
+SEQUENCE AND SERIES    153Now(
+a Œ d) a (a + d) =224
+a (a2 Œ d2) =224... (1)
+Now, since the largest number is 7 times the smallest, i.e., 
+a + d = 7 (a Œ d)Therefore,d =34aSubstituting this value of d in (1), we get22916aaa =224
+a =8and 
+d =338644a
+Hence, the three numbers are 2, 8, 14.Example 7  Show that (x2 + xy + y2), (z2 + xz + x2) and (y2 + yz + z2) are consecutiveterms of an A.P., if 
+x, y and z are in A.P.
+Solution The terms (x2 + xy + y2), (z2 + xz + x2) and (y2 + yz + z2) will be in A.P. if
+(z2 + xz + x2) Œ (x2 + xy + y2) =(
+y2 + yz + z2) Œ (z2 + xz + x2)i.e.,z2 + xz Œ xy Œ y2  =y2 + yz Œ xz Œ x2i.e.,x2 + z2 + 2xz Œ y2  =y2 + yz + xyi.e.,(
+x + z)2 Œ y2  =y (x + y + z)i.e.,x + z Œ y =yi.e.,x + z =2ywhich is true, since x, y, z are in A.P. Hence 
+x2 + xy + y2, z2 + xz + x2, y2 + yz + z2 arein A.P.
+Example 8  If a, b, c, d are in G.P., prove that 
+a2 Œ b2, b2 Œ c2, c2 Œ d2 are also in G.P.
+Solution  Let r be the common ratio of the given G.P. 
+Thenbcab = drcb =ar, c = br = ar2, d = cr = ar3Now,
+a2 Œ b2 =a2 Œ a2r2 = a2 (1 Œ r2)
+154    EXEMPLAR PROBLEMS Œ MATHEMATICSb2 Œ c2 =a2r2 Œ a2r4 = a2r2 (1 Œ r2)andc2 Œ d2 =a2r4 Œ a2r6 = a2r4 (1 Œ r2)Therefore,2222bcab
+ =22222cdrbcHence, a2 Œ b2, b2 Œ c2, c2 Œ d2 are in G.P.
+Long Answer Type
+Example 9  If the sum of m terms of an A.P. is equal to the sum of either the next 
+nterms or the next p terms, then prove that(m + n) 1111
+()mpmpmn
+
+
+Solution Let the A.P. be 
+a, a + d, a + 2d, ... . We are given
+a1 + a2 + ... + am = am+1 + am+2 + ... + am+n... (1)Adding a1 + a2 + ... + am on both sides of (1), we get2 [a1 + a2 + ... + am] = a1 + a2 + ... + am + am+1 + ... + am+n2 Sm = Sm+nTherefore,22(1)2(1)
+22mmn
+amdamnd
+
+Putting 2a + (m Œ 1) d = x in the above equation, we getmx  =2mn (x + nd)(2m Œ m Œ n) x =(m + n) nd(m Œ n) x =(m + n) nd... (2)Similarly, if
+a1 + a2 + ... + am = am + 1 + am + 2 + ... + am + pAdding a1 + a2 + ... + am on both sideswe get,2 (
+a1 + a2 + ... + am) =a1 + a2 + ... + am + 1 + ... + am + por,2 S
+m =Sm +  p2{2(1)}
+2mamd
+
+2mp {2a + (m + p Œ 1)d} which givesi.e.,(
+m Œ p) x =(m + p)pd... (3)Dividing (2) by (3), we get
+SEQUENCE AND SERIES    155()()
+()()
+mnxmnnd
+mpxmppd
+(m Œ n) (m + p) p =(m Œ p) (m + n) nDividing both sides by mnp, we get(m + p) 11nm=(m + n) 11pm= (m + n) 11mp
+=(m + p) 11mnExample 10  If a1, a2, ..., an are in A.P. with common difference 
+d (where d  0);then the sum of the series sin d (cosec a1 cosec a2 + cosec a2 cosec a3 + ...+ cosecanŒ1 cosec an) is equal to cot a1 Œ cot anSolution We have
+sin d (cosec a1 cosec a2 + cosec a2 cosec a3 + ...+ cosec anŒ1 cosec an)= 12231
+111
+sin...
+sinsinsinsinsinsin
+nndaaaaaa
+
+= 321
+2112231
+sin()sin()
+sin()
+...sinsinsinsinsinsin
+nnnnaaaa
+aaaaaaaa
+
+=323211
+2121
+12231
+sincoscossin
+)sincoscossin
+)sincoscossin)
+...
+sinsinsinsinsinsin
+nnnn
+nnaaaaaaaa
+aaaa
+aaaaaa
+
+= (cot a1 Œ cot a2) + (cot a2 Œ cot a3) + ... + (cot anŒ1 Œ cot an)= cot a1 Œ cot anExample 11
+(i)If 
+a, b, c, d are four distinct positive quantities in A.P., then show that
+bc > ad(ii)If 
+a, b, c, d are four distinct positive quantities in G.P., then show that
+a + d > b + cSolution(i)Since 
+a, b, c, d are in A.P., 
+then A.M. > G.M., 
+for the first three terms.
+156    EXEMPLAR PROBLEMS Œ MATHEMATICSTherefore, b > acHere
+2acbSquaring, we getb2 > ac... (1)Similarly, for 
+the last three termsAM > GMc > bdHere
+2bdcc2 > bd... (2)Multiplying (1) and (2), we getb2c2 > (ac) (bd)bc > ad(ii)Since a, b, c, d are in G.P.
+again A.M. > G.M. for the first three terms
+2ac > bsince
+acb
+a + c > 2b... (3)Similarly, for 
+the last three terms2bd > csince
+bdc
+b + d > 2c... (4)Adding (3) and (4), we get(a + c) + (b + d) > 2b + 2ca + d > b + cEample 12  If a, b, c are three consecutive terms of an A.P. and 
+x, y, z are threeconsecutive terms of a G.P. Then prove that
+xb Œ c . yc Œ a . za Œ b = 1Solution We have 
+a, b, c as three consecutive terms of A.P. 
+Thenb Œ a = c Œ b = d(say)c Œ a =2da Œ b =Œ 
+d
+SEQUENCE AND SERIES    157Nowx b Œ c . y c Œ a . z a Œ b =x Œ d . y 2d . z Œ d= x Œ d 2().
+ddxzz(since y =()xz) as x, y, z are G.P.)
+= xŒ d . xd . zd . z Œ d= xŒ d + d . zd Œ d= x° z° = 1Example 13  Find the natural number a for which 1()nkfak
+ = 16(2n Œ 1), wherethe function f satisfies f (x + y) = f (x) . f (y) for all natural numbers x, y and further f (1) = 2.Solution Given thatf (x + y) =f (x) . f (y) and f (1) = 2Therefore,f (2) =f (1 + 1) =  f (1) . f (1) = 22f (3) =f (1 + 2) =  f (1) . f (2) = 23f (4) =f (1 + 3) =  f (1) . f (3) = 24and so on. Continuing the process, we obtainf (k) =2
+k and f (a) = 2aHence1()nkfak
+1().()
+nkfafk
+f (a)1()nkfk=2a (21 + 22 + 23 + ... + 2n)=12.21
+22(21)
+21naan
+... (1)But, we are given1()nkfak
+=16 (2
+n Œ 1)2a + 1 (2n Œ 1) =16 (2
+n Œ 1)2a+1 =24   a + 1 = 4a =3
+158    EXEMPLAR PROBLEMS Œ MATHEMATICSObjective Type QuestionsChoose the correct answer out of the four given options in Examples 14 to 23 (M.C.Q.).Example 14  A sequence may be defined as a
+(A)relation, whose range 
+ N (natural numbers)(B)function whose range 
+ N(C)function whose domain 
+N(D)progression having real values
+Solution  (C) is the correct answer. A sequence is a function 
+f : N  X havingdomain NExample 15  If x, y, z are positive integers then value of expression(x + y) (y + z) (z + x) is(A)= 8
+xyz(B)> 8
+xyz(C)< 8
+xyz(D)= 4
+xyzSolution  (B) is the correct answer, since
+A.M. > G.M., 
+,2xyxy 2yzyz and 2zxzxMultiplying the three inequalities, we get..()()()
+222
+xyyzyz
+xyyzzx
+
+or,(
+x + y) (y + z) (z + x) > 8 xyzExample 16 In a G.P. of positive terms, if any term is equal to the sum of the next two
+terms. Then the  common ratio of the G.P. is
+(A)sin 18°(B)2 cos18°(C)cos 18°(D)2 sin 18°
+Solution (D) is the correct answer, sincetn = tn+1 + tn+2arnŒ1 = arn + arn+11 = r + r2152r, since r > 0Therefore,r = 5124 = 2 sin 18°
+SEQUENCE AND SERIES    159Example 17  In an A.P. the 
+pth term is q and the (p + q)th term is 0. Then the 
+qth term is(A)Œ 
+p(B 
+p(C)p + q(D)p Œ qSolution (B) is the correct answerLet a, d  be the first term and common difference respectively.
+Therefore,T
+p =a + (p Œ 1) d = q and... (1)
+Tp+ q =a + (p + q Œ 1) d = 0... (2)
+Subtracting (1), from (2) we get qd = Œ qSubstituting in (1) we get  a = q Œ (p Œ 1) (Œ1) = q + p Œ 1NowT
+q =a + (q Œ 1) d = q + p Œ 1 + (q Œ 1) (Œ1)=q + p Œ 1 Œ q + 1 = pExample 18  Let S be the sum, P be the product and R be the sum of the reciprocalsof 3 terms of a G.P. Then P
+2 R3 : S3 is equal to(A)1 : 1(B)(common ratio)
+n : 1(C)(first term)
+2 : (common ratio)2(D)none of these
+Solution (A) is the correct answerLet us take a G.P. with three terms 
+,,aaar
+r. Then
+S = 2(1)
+aarr
+aar
+rr
+P = a3, R = 21111
+rrr
+aaarar
+
+233PRS = 32633231111rrararrar
+
+Therefore, the ratio is 1 : 1Example 19  The 10th common term between the series3 + 7 + 11 + ... and 1 + 6 + 11 + ... is
+(A)191(B)193(C)211(D)None of these
+Solution (A) is the correct answer.
+
+160    EXEMPLAR PROBLEMS Œ MATHEMATICSThe first common term is 11.
+Now the next common term is obtained by adding L.C.M. of  the common difference 4
+and 5, i.e., 20.Therefore, 10th common term = T
+10 of the AP whose 
+a = 11 and 
+d = 20T10 = a + 9 d = 11 + 9 (20) = 191
+Example 20  In a G.P. of even number of terms, the sum of all terms is 5 times the
+sum of the odd terms. The common ratio of the G.P. is
+(A)45(B)15(C)4(D)none the these
+Solution (C) is the correct answerLet us consider a G.P. 
+a, ar, ar2, ... with 2n terms. We have 
+2(1)
+1narr= 225()1
+1narr(Since common ratio of odd terms will be r2 and number of terms will be n)  222(1)(1)
+51(1)
+nnarar
+rra (r + 1) = 5a, i.e., r = 4Example 21  The minimum value of the expression 3x + 31 Œ x, x R, is(A)0(B)
+1
+3(C)3(D)
+23Solution  (D) is the correct answer.We know A.M. 
+ G.M. for positive numbers.
+Therefore, 1133332xxxx1333
+323xxxx3x + 31Œx 
+23
+SEQUENCE AND SERIES    1619.3   EXERCISEShort 
+Answer Type
+1.The first term of an A.P.is 
+a, and the sum of the first p terms is zero, show thatthe sum of its next q terms is ()1apqq
+p. [Hint: Required sum = Sp + q Œ Sp]2.A man saved Rs 66000 in 20 years. In each succeeding year after the first yearhe saved Rs 200 more than what he saved in the previous year. How much did
+he save in the first year?3.A man accepts a position with an initial salary of Rs 5200 per month. It isunderstood that he will receive an automatic increase of Rs 320 in the very nextmonth and each month thereafter.(a)  Find his salary for the tenth month
+(b)  What is his total earnings during the first year?4.If the pth and qth terms of a G.P. are 
+q and p respectively, show that its (
+p + q)thterm is 1ppqqqp
+.5.A carpenter was hired to build 192 window frames. The first day he made fiveframes and each day, thereafter he made two more frames than he made theday before. How many days did it take him to finish the job?6.We know the sum of the interior angles of a triangle is 180°. Show that the sums
+of the interior angles of polygons with 3, 4, 5, 6, ... sides form an arithmetic
+progression. Find the sum of the interior angles for a 21 sided polygon.7.A side of an equilateral triangle is 20cm long. A second equilateral triangle is
+inscribed in it by joining the mid points of the sides of the first triangle. Theprocess is continued as shown in the accompanying diagram. Find the perimeter
+of the sixth inscribed equilateral triangle.8.In a potato race 20 potatoes are placed in a line at intervals of 4 metres with the
+first potato 24 metres from the starting point. A contestant is required to bring
+the potatoes back to the starting place one at a time. How far would he run inbringing back all the potatoes?9.In a cricket tournament 16 school teams participated. A sum of Rs 8000 is to be
+
+awarded among themselves as prize money. If the last placed team is awarded
+
+162    EXEMPLAR PROBLEMS Œ MATHEMATICSRs 275 in prize money and the award increases by the same amount forsuccessive finishing places, how much amount will the first place team receive?10.If a1, a2, a3, ..., an are in A.P
+., where ai > 0 for all i, show that122311
+1111
+...nnn
+naaaaaaaa
+
+
+11.
+Find the sum of the series(33 Œ 23) + (53 Œ 43) + (73 Œ 63) + ... to (i) n terms (ii) 10 terms12.Find the rth term of an A.P. sum of whose first 
+n terms is 2n + 3n2.[Hint: an = Sn Œ SnŒ1]Long Answer Type
+13.If A is the arithmetic mean and G
+1, G2 be two geometric means between anytwo numbers, then prove that221221GG2AGG14.If 1, 2, 3, ...
+n are in A.P., 
+whose common difference is d, show thatsec1 sec2 + sec2 sec3 + ... + secnŒ1 secn 1tantan
+sin
+nd
+.15.If the sum of p terms of an A.P. is 
+q and the sum of q terms is p, show that thesum of p + q terms is Œ (p + q). Also, find the sum of first 
+p Œ q terms (p > q).16.If pth, qth, and rth terms of an A.P. and G.P. are both 
+a, b and c respectively,
+show thatabŒc . bc Œ a . ca Œ b = 1Objective Type QuestionsChoose the correct answer out of the four given options in each of the Exercises 17 to26 (M.C.Q.).17.If the sum of n terms of an A.P. is given by
+Sn = 3n + 2n2, then the common difference of the A.P. is
+(A)3(B)2(C)6(D)4
+
+SEQUENCE AND SERIES    16318.The third term of G.P. is 4. The product of its first 5 terms is
+(A)4
+3(B)4
+4(C)4
+5(D)None of these
+19.If 9 times the 9th term of an A.P. is equal to 13 times the 13
+th term, then the 22ndterm of the A.P. is
+(A)0(B)22(C)220(D)198
+20.If x, 2y, 3z are in A.P., where the distinct numbers 
+x, y, z are in G.P. then the
+common ratio of  the G.P. is
+(A)3(B)
+13(C)2(D)
+1
+221.If in an A.P., S
+n = q n2 and Sm = qm2, where Sr denotes the sum of r terms of theA.P., then S
+q equals(A)32q(B)mnq(C)q3(D)(
+m + n) q222.Let Sn denote the sum of the first n terms of an A.P. If S
+2n = 3Sn then S3n : Sn isequal to(A)4(B)6(C)8(D)10
+23.The minimum value of 4x + 41Œx , x  R, is(A)2(B)4(C)1(D)0
+24.Let Sn denote the sum of the cubes of the first n natural numbers and sn denotethe sum of the first n natural numbers. Then 1Snrrrs equals(A)(1)(2)
+6nnn
+(B)(1)
+2nn(C)232
+2nn(D)None of these
+25.If tn denotes the nth term of the series 2 + 3 + 6 + 11 + 18 + ... then 
+t50 is(A)49
+2 Œ 1(B)49
+2(C)50
+2 + 1(D)49
+2 + 226.The lengths of three unequal edges of a rectangular solid block are in G.P. The
+volume of the block is 216 cm3 and the total surface area is 252cm2. The lengthof the longest edge is(A)12 cm(B)6 cm(C)18 cm(D)3 cm
+
+164    EXEMPLAR PROBLEMS Œ MATHEMATICSFill in the blanks in the Exercises 27 to 29.27.For a, b, c to be in G.P. the value of 
+abbc
+is equal to .............. .28.The sum of terms equidistant from the beginning and end in an A.P. is equal to
+............ .29.The third term of a G.P. is 4, the product of the first five terms is ................ .
+State whether statement in Exercises 30 to 34 are True or False.
+30.Two sequences cannot be in both A.P. and G.P. together.
+31.Every progression is a sequence but the converse, i.e., every sequence is also aprogression need not necessarily be true.32.Any term of an A.P. (except first) is equal to half the sum of terms which are
+
+equidistant from it.33.The sum or difference of two G.P.s, is again a G.P.
+34.If the sum of n terms of a sequence is quadratic expression then it always representsan A.P.
+Match the questions given under Column I with their appropriate answers given
+under the Column II.
+35.Column I Column II(a)4, 1, 
+14, 116(i)A.P.
+(b)2, 3, 5, 7(ii)
+sequence(c)13, 8, 3, Œ2, Œ7
+(iii)G.P.
+ 36.Column IColumn II(a)1
+2 + 22 + 32 + ...+n2(i)2(1)
+2nn(b)1
+3 + 23 + 33 + ...+n3(ii)n (n + 1)(c)2 + 4 + 6 + ... + 2
+n(iii)(1)(21)
+6nnn
+(d)1 + 2 + 3 +...+ 
+n(iv)(1)
+2nn

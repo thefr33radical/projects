@@ -1,0 +1,146 @@
+6ChaptervMathematics is the art of saying many things in manydifferent ways. Œ MAXWELLv6.1 IntroductionIn earlier classes, we have studied equations in one variable and two variables and alsosolved some statement problems by translating them in the form of equations. Now a
+natural question arises: ‚Is it always possible to translate a statement problem in the
+form of an equation? For example, the height of all the students in your class is lessthan 160 cm. Your classroom can occupy atmost 60 tables or chairs or both. Here weget certain statements involving a sign ‚<™ (less than), ‚>™ (greater than), ‚£™ (less thanor equal) and ³ (greater than or equal) which are known as inequalities.In this Chapter, we will study linear inequalities in one and two variables. Thestudy of inequalities is very useful in solving problems in the field of science, mathematics,
+statistics, optimisation problems, economics, psychology, etc.6.2InequalitiesLet us consider the following situations:(i) Ravi goes to market with Rs 200 to buy rice, which is available in packets of 1kg.The price of one packet of rice is Rs 30. If x denotes the number of packets of rice,which he buys, then the total amount spent by him is Rs 30x. Since, he has to buy ricein packets only, he may not be able to spend the entire amount of Rs 200. (Why?)Hence30x < 200... (1)Clearly the statement (i) is not an equation as it does not involve the sign of equality.(ii) Reshma has Rs 120 and wants to buy some registers and pens. The cost of one
+register is  Rs 40 and that of a pen is Rs 20. In this case, if x denotes the number ofregisters and y, the number of pens which Reshma buys, then the total amount spent byher is Rs (40x  +  20y) and we have40x + 20y £ 120... (2)LINEAR INEQUALITIES
+      LINEAR INEQUALITIES       117Since in this case the total amount spent may be upto Rs 120. Note that the statement(2) consists of two statements40x + 20y < 120... (3)and40x + 20y = 120... (4)Statement (3) is not an equation, i.e., it is an inequality while statement (4) is an equation.Definition 1 T
+wo real numbers or two algebraic expressions related by the symbol‚<™, ‚>™, ‚£™ or ‚³™ form an inequality.Statements such as (1), (2) and (3) above are inequalities.3 < 5;  7 > 5 are the examples of numerical inequalities while x < 5; y > 2; x  ³  3,  y £  4 are some examples of  literal inequalities.3 < 5 < 7 (read as 5 is greater than 3 and less than 7), 3 <  x < 5 (read as x is greaterthan or equal to 3 and less than 5) and 2 < y < 4 are the examples of double inequalities.Some more examples of inequalities are:ax + b < 0... (5)ax + b > 0... (6)ax + b £ 0... (7)ax + b ³ 0... (8)ax + by < c... (9)ax + by > c... (10)ax + by £ c... (11)ax + by ³  c... (12)ax2 + bx + c £ 0... (13)ax2 + bx + c > 0... (14)Inequalities (5), (6), (9), (10) and (14) are strict inequalities while inequalities (7), (8),(11), (12), and (13) are slack inequalities. Inequalities from (5) to (8) are linearinequalities in one variable x when a ¹ 0, while inequalities from (9) to (12) are linearinequalities in two variables x and y when a ¹ 0, b ¹ 0.Inequalities (13) and (14) are not linear (in fact, these are quadratic inequalitiesin one variable x when a ¹ 0).In this Chapter, we shall confine ourselves to the study of linear inequalities in oneand two variables only.
+118       MATHEMATICS6.3Algebraic Solutions of Linear Inequalities in One Variable and theirGraphical RepresentationLet us consider the inequality (1) of Section 6.2, viz, 30x < 200Note that here x denotes the number of packets of rice.Obviously, x cannot be a negative integer or a fraction. Left hand side (L.H.S.) of thisinequality is 30x and right hand side (RHS) is 200. Therefore, we haveFor x = 0, L.H.S. = 30 (0) = 0 < 200 (R.H.S.), which is true.For x = 1, L.H.S. = 30 (1) = 30 < 200 (R.H.S.), which is true.For x = 2, L.H.S. = 30 (2) = 60 < 200, which is true.For x = 3, L.H.S. = 30 (3) = 90 < 200, which is true.For x = 4, L.H.S. = 30 (4) = 120 < 200, which is true.For x = 5, L.H.S. = 30 (5) = 150 < 200, which is true.For x = 6, L.H.S. = 30 (6) = 180 < 200, which is true.For x = 7, L.H.S. = 30 (7) = 210 < 200, which is false.In the above situation, we find that the values of x, which makes the aboveinequality a true statement, are 0,1,2,3,4,5,6. These values of x, which make aboveinequality a true statement, are called solutions of inequality and the set {0,1,2,3,4,5,6}is called its solution set.Thus, any solution of an inequality in one variable is a value of the variablewhich makes it a true statement.We have found the solutions of the above inequality by trial and error methodwhich is not very efficient. Obviously, this method is time consuming and sometimesnot feasible. We must have some better or systematic techniques for solving inequalities.Before that we should go through some more properties of numerical inequalities and
+follow them as rules while solving the inequalities.You will recall that while solving linear equations, we followed the following rules:Rule 1 Equal numbers may be added to (or subtracted from) both sides of an equation.Rule 2  Both sides of an equation may be multiplied (or divided) by the same non-zeronumber.In the case of solving inequalities, we again follow the same rules except with adifference that in Rule 2, the sign of inequality is reversed (i.e., ‚<‚ becomes ‚>™, £™becomes ‚³™ and so on) whenever we multiply (or divide) both sides of an inequality bya negative number. It is evident from the facts that3 > 2 while Œ 3 < Œ 2,
+Œ 8 < Œ 7 while (Œ 8) (Œ 2) > (Œ 7) (Œ 2) , i.e., 16 > 14.
+      LINEAR INEQUALITIES       119Thus, we state the following rules for solving an inequality:Rule 1 Equal numbers may be added to (or subtracted from) both sides of an inequalitywithout affecting the sign of inequality.Rule 2  Both sides of an inequality can be multiplied (or divided) by the same positivenumber. But when both sides are multiplied or divided by a negative number, then thesign of inequality is reversed.Now, let us consider some examples.Example 1 Solve 30 x < 200 when(i) x is a natural number,(ii) x is an integer.Solution We are given  30 x < 200or30200
+3030
+x<(Rule 2), i.e., x < 20 / 3.(i)When x is a natural number, in this case the following values of x make thestatement true. 1, 2, 3, 4, 5, 6.The solution set of the inequality is {1,2,3,4,5,6}.(ii)When x is an integer, the solutions of the given inequality are..., Œ 3, Œ2, Œ1, 0, 1, 2, 3, 4, 5, 6The solution set of the inequality is {...,Œ3, Œ2,Œ1, 0, 1, 2, 3, 4, 5, 6}
+Example 2 Solve 5x Œ 3 < 3x +1 when(i)x is an integer,(ii)x is a real number.Solution We have, 5x Œ3 < 3x + 1or5x Œ3 + 3 < 3x +1 +3(Rule 1)or5x < 3x +4or5x Œ 3x < 3x + 4 Œ 3x(Rule 1)or2x < 4orx < 2(Rule 2)(i)When x is an integer, the solutions of the given inequality are..., Œ 4, Œ 3, Œ 2, Œ 1, 0, 1(ii)When x is a real number, the solutions of the inequality are given by x < 2,i.e., all real numbers x which are less than 2. Therefore, the solution set ofthe inequality is  x Î (Œ ¥, 2).We have considered solutions of inequalities in the set of natural numbers, set ofintegers and in the set of real numbers. Henceforth, unless stated otherwise, we shallsolve the inequalities in this Chapter in the set of real numbers.
+120       MATHEMATICSExample 3 Solve 4x + 3 < 6x +7.Solution We have, 4x + 3 < 6x + 7or4x Œ 6x < 6x + 4 Œ 6xorŒ 2x < 4or   x > Œ 2i.e., all the real numbers which are greater than Œ2, are the solutions of the giveninequality. Hence, the solution set is (Œ2, ¥).Example 4  Solve 52
+536
+Œxx
+Œ£.Solution W
+e have      52
+536
+Œxx
+Œ£or2 (5 Œ 2x)   £  x Œ 30.or10 Œ 4x £ x Œ 30orŒ 5x £ Œ 40,   i.e.,  x  ³  8Thus, all real numbers x which are greater than or equal to 8 are the solutions of thegiven inequality, i.e., x Î [8, ¥).Example 5 Solve 7x + 3 < 5x + 9. Show the graph of the solutions on number line.Solution W
+e have 7x + 3 < 5x + 9 or 2x < 6 or x < 3The graphical representation of the solutions are given in Fig 6.1.Fig 6.1Example 6   Solve 341
+124
+xx
+-+
+³-
+. Show the graph of the solutions on number line.Solution We have341
+124
+xx
+-+
+³-
+or343
+24
+xx
+--
+³or2 (3x Œ 4) ³ (x Œ 3)
+      LINEAR INEQUALITIES       121or6x Œ 8 ³ x Œ 3or5x ³ 5  or  x ³ 1The graphical representation of solutions is given in Fig 6.2.Fig 6.2Example 7   The marks obtained by a student of Class XI in first and second terminalexamination are 62 and 48, respectively. Find the minimum marks he should get in theannual examination to have an average of at least 60 marks.Solution Let x be the marks obtained by student in the annual examination. Then6248
+60
+3x++
+³or110 + x ³ 180orx ³ 70Thus, the student must obtain a minimum of 70 marks to get an average of at least60 marks.Example 8  Find all pairs of consecutive odd natural numbers, both of which are largerthan 10, such that their sum is less than 40.Solution Let x be the smaller of the two consecutive odd natural number, so that theother one is x +2. Then, we should havex > 10... (1)andx + ( x + 2) < 40... (2)Solving  (2), we get2x + 2 < 40i.e.,x < 19... (3)From (1) and (3), we get10 < x < 19Since x is an odd number, x can take the values 11, 13, 15, and 17. So, the requiredpossible pairs will be(11, 13), (13, 15), (15, 17), (17, 19)
+122       MATHEMATICSEXERCISE 6.11.Solve 24x < 100, when(i)x is a natural number.(ii)x is an integer.2.Solve Œ 12x > 30, when(i)x is a natural number.(ii)x is an integer.3.Solve 5x Œ 3 < 7, when(i)x is an integer.(ii)x is a real number.4.Solve 3x + 8 >2, when(i)x is an integer.(ii)x is a real number.Solve the inequalities in Exercises 5 to 16 for real x.5.4x + 3 < 5x + 76.3x Œ 7 > 5x Œ 17.3(x Œ 1) £ 2 (x Œ 3)8.3 (2 Œ x) ³ 2 (1 Œ x)9.11
+23
+xx
+x++<
+10.132
+xx
+>+
+11.3(2)5(2)
+53
+xx
+--
+£12.131
+4(6)
+253
+xx
++³-
+
+
+13.2 (2x + 3) Œ 10 < 6 (x Œ 2)14.37 Œ (3x + 5) > 9x Œ 8 (x Œ 3)15.(52)(73)
+435
+xxx
+--
+<-
+16.(21)(32)(2)
+345
+xxx
+---
+³-
+Solve the inequalities in Exercises 17 to 20 and show the graph of the solution in eachcase on number line17.3x Œ 2 < 2x + 118.5x Œ 3 > 3x Œ 519.3 (1 Œ x) < 2 (x + 4)20.(5Œ2)(7Œ3)
+Œ235
+xxx
+³21.Ravi obtained 70 and 75 marks in first two unit test. Find the minimum marks heshould get in the third test to have an average of at least 60 marks.22.To receive Grade ‚A™ in a course, one must obtain an average of 90 marks ormore in five examinations (each of 100 marks). If Sunita™s marks in first fourexaminations are 87, 92, 94 and 95, find minimum marks that Sunita must obtainin fifth examination to get grade ‚A™ in the course.23.Find all pairs of consecutive odd positive integers both of which are smaller than
+10 such that their sum is more than 11.24.Find all pairs of consecutive even positive integers, both of which are larger than
+5 such that their sum is less than 23.
+      LINEAR INEQUALITIES       123Fig 6.3Fig 6.425.The longest side of a triangle is 3 times the shortest side and the third side is 2 cmshorter than the longest side. If the perimeter of the triangle is at least 61 cm, find
+the minimum length of the shortest side.26.A man wants to cut three lengths from a single piece of board of length 91cm.The second length is to be 3cm longer than the shortest and the third length is tobe twice as long as the shortest. What are the possible lengths of the shortest
+board if the third piece is to be at least 5cm longer than the second?
+[Hint: If x is the length of the shortest board, then x , (x + 3) and 2x are thelengths of the second and third piece, respectively. Thus, x + (x + 3) + 2x £ 91 and2x ³ (x + 3) + 5].6.4 Graphical Solution of Linear Inequalities in Two VariablesIn earlier section, we have seen that a graph of an inequality in one variable is a visual
+representation and is a convenient way to represent the solutions of the inequality.Now, we will discuss graph of a linear inequality in two variables.We know that a line divides the Cartesian plane into two parts. Each part isknown as a half plane. A vertical line will divide the plane in left and right half planesand a non-vertical line will divide the plane into lower and upper half planes
+(Figs. 6.3 and 6.4).A point in the Cartesian plane will either lie on a line or will lie in either of the halfplanes I or II. We shall now examine the relationship, if any, of the points in the planeand the inequalities ax + by < c or ax + by > c.Let us consider the lineax + by = c,a ¹ 0,b  ¹ 0... (1)
+124       MATHEMATICSFig 6.5There are three possibilities namely:(i)ax + by =  c(ii)ax + by > c(iii)ax + by < c.In case (i), clearly, all points (x, y) satisfying (i) lie on the line it represents andconversely. Consider case (ii), let us firstassume that b > 0. Consider a point P (a,b)on the line ax + by = c, b > 0, so thataa + bb = c.Take an arbitrary pointQ (a , g) in the half plane II (Fig 6.5).Now, from Fig 6.5, we interpret,g > b  (Why?)orbg > bb    or    aa + b g > 
+aa + bb(Why?)oraa + b g > 
+ci.e.,Q(a,g) satisfies the inequalityax + by > c.Thus, all the points lying in the halfplane II above the line ax + by = c satisfiesthe inequality ax + by > c. Conversely, let (a, b) be a point on line ax + by = c and anarbitrary point Q(a, g) satisfyingax + by > cso thataa + bg > caa + b g > aa + bb (Why?)g > b(as b > 0)This means that the point (a, g) lies in the half plane II.Thus, any point in the half plane II satisfies ax + by > c, and conversely any pointsatisfying the inequality ax + by > c lies in half plane II.In case b < 0, we can similarly prove that any point satisfying ax + by > c lies inthe half plane I, and conversely.Hence, we deduce that all  points satisfying ax + by > c lies in one of the halfplanes II or I according as b > 0 or b < 0, and conversely.Thus, graph of the inequality ax + by > c will be one of the half plane (calledsolution region) and represented by shading in the corresponding half plane.      Note   1 The region containing all the solutions of an inequality is called thesolution region.2.In order to identify the half plane represented by an inequality, it is just sufficientto take any point (a, b) (not online) and check whether it satisfies the inequality ornot. If it satisfies, then the inequality represents the half plane and shade the regionA
+      LINEAR INEQUALITIES       125Fig 6.6which contains the point, otherwise, the inequality represents that half plane whichdoes not contain the point within it. For convenience, the point (0, 0) is preferred.3.If an inequality is of the type  ax + by ³ c or ax + by £ c, then the points on theline ax + by = c are also included in the solution region. So draw a dark line in thesolution region.4.If an inequality is of the form ax  + by > c or ax  + by < c, then the points on theline ax  + by = c are not to be included in the solution region. So draw a broken ordotted line in the solution region.In Section 6.2, we obtained the following linear inequalities in two variablesx and y:40x + 20y  £  120... (1)while translating the word problem of purchasing of registers and pens by Reshma.Let us now  solve this inequality keeping in mind that x and y can be only wholenumbers, since the number of articles cannot be a fraction or a negative number. Inthis case, we find the pairs of values of x and y, which make the statement (1) true. Infact, the set of such pairs will be the solution set of the inequality (1).To start with, let x = 0. Then L.H.S. of (1) is40x + 20y = 40 (0) + 20y = 20y.Thus, we have20y £ 120 or y £ 6... (2)For x = 0, the corresponding values of y can be 0, 1, 2, 3, 4, 5, 6 only. In this case, thesolutions of (1) are (0, 0), (0, 1), (0,2), (0,3), (0,4),(0, 5) and (0, 6).Similarly, other solutions of (1), whenx = 1, 2 and 3 are:(1, 0),  (1, 1), (1, 2), (1, 3),(1, 4),(2, 0), (2, 1), (2, 2), (3, 0)This is shown in Fig 6.6.Let us now extend the domain of x and yfrom whole numbers to real numbers, and seewhat will be the solutions of (1) in this case.
+You will see that the graphical method of solutionwill be very convenient in this case. For thispurpose, let us consider the (corresponding)equation and draw its graph.40x + 20y = 120... (3)In order to draw the graph of the inequality(1), we take one point say (0, 0), in half plane Iand check whether values of x and y satisfy theinequality or not.
+126       MATHEMATICSWe observe that x = 0, y = 0 satisfy theinequality. Thus, we say that the half plane I is thegraph (Fig 6.7) of the inequality. Since the points onthe line also satisfy the inequality (1) above, the lineis also a part of the graph.Thus, the graph of the given inequality is halfplane I including the line itself. Clearly half plane IIis not the part of the graph. Hence, solutions ofinequality (1) will consist of all the points of its graph(half plane I including the line).We shall now consider some examples toexplain the above procedure for solving a linearinequality involving two variables.Example 9   Solve 3x + 2y > 6 graphically.Solution Graph of 3x + 2y = 6 is given as dotted line in the Fig 6.8.This line divides the xy-plane in two halfplanes I and II. We select a point (not on theline), say (0, 0), which lies in one of the halfplanes (Fig 6.8) and determine if this pointsatisfies the given inequality, we note that3 (0) + 2 (0) > 6or0 > 6 ,which is false.Hence, half plane I is not the solution region ofthe given inequality. Clearly, any point on theline does not satisfy the given strict inequality.In other words, the shaded half plane II
+excluding the points on the line is the solution
+region of the inequality.Example 10   Solve 3x Œ 6 ³ 0 graphically intwo dimensional plane.Solution   Graph of 3x Œ 6 = 0 is given in theFig 6.9.We select a point, say (0, 0) and substituting it ingiven inequality, we see that:3 (0) Œ 6 ³ 0  or Œ 6 ³ 0 which is false.Thus, the solution region is the shaded region on
+the right hand side of the line x = 2.Fig 6.7Fig 6.8Fig 6.9
+      LINEAR INEQUALITIES       127Fig 6.10Fig 6.11Example 11 Solve y < 2 graphically.Solution Graph of y = 2 is given in the Fig 6.10.Let us select a point, (0, 0) in lower halfplane I and putting  y = 0 in the given inequality,we see that1 × 0 < 2 or0 < 2  which is true.Thus, the solution region is the shaded regionbelow the line y = 2. Hence, every point belowthe line (excluding all the points on the line)determines the solution of the given inequality.EXERCISE  6.2Solve the following inequalities graphically in two-dimensional plane:1.x + y < 52.2x + y ³ 63.3x + 4y £ 124.y + 8 ³ 2x5.x Œ y £ 26.2x Œ 3y > 67.Œ 3x + 2y ³ Œ 68.3y Œ 5x < 309.y < Œ 210. x > Œ 3.6.5Solution of System of Linear Inequalities in Two VariablesIn previous Section, you have learnt how to solve linear inequality in one or two variablesgraphically. We will now illustrate the method for solving a system of linear inequalitiesin two variables graphically throughsome examples.Example 12 Solve the followingsystem of linear inequalities graphically.x + y ³ 5... (1)x Œ y £ 3... (2)Solution The graph of linear equationx + y = 5is drawn in Fig 6.11.We note that solution of inequality(1) is represented by the shaded regionabove the line x + y = 5, including thepoints on the line.On the same set of axes, we drawthe graph of the equation x Œ y = 3 asshown in Fig 6.11. Then we note that inequality (2) represents the shaded region above
+128       MATHEMATICSthe line x Œ y = 3, including the points on the line.Clearly, the double shaded region, common to the above two shaded regions isthe required solution region of the given system of inequalities.Example 13  Solve the following systemof inequalities graphically5x + 4y £ 40... (1)x ³ 2... (2)y ³ 3... (3)Solution  W
+e first draw the graph ofthe line5x + 4y = 40,  x = 2 and y = 3Then we note that the inequality (1)represents shaded region below the line
+5x + 4y = 40 and inequality (2) representsthe shaded region right of line x = 2 butinequality (3) represents the shaded region
+above the line y = 3. Hence, shaded region(Fig 6.12) including all the point on the lines
+are also the solution of the given systemof the linear inequalities.In many practical situations involvingsystem of inequalities the variable x and yoften represent quantities that cannot havenegative values, for example, number ofunits produced, number of articlespurchased, number of hours worked, etc.
+Clearly, in such cases, x ³ 0, y ³ 0 and thesolution region lies only in the first quadrant.Example 14 Solve the following systemof inequalities8x + 3y £ 100... (1)x ³ 0... (2)y ³ 0... (3)Solution We draw the graph of the line8x + 3y = 100The inequality 8x + 3y £ 100 represents theshaded region below the line, including thepoints on the line 8x +3y =100 (Fig 6.13).Fig 6.12Fig 6.13
+      LINEAR INEQUALITIES       129Since x ³ 0, y ³ 0, every point in theshaded region in the first quadrant,including the points on the line and
+the axes, represents the solution ofthe given system of inequalities.Example 15 Solve the followingsystem of inequalities graphicallyx + 2y £ 8... (1)2x + y £ 8... (2)x > 0... (3)y > 0... (4)Solution  We draw the graphs ofthe lines x + 2y = 8 and 2x + y = 8.The inequality (1) and (2) representthe region below the two lines,including the point on the respective lines.Since x ³  0, y ³  0, every point in the shaded region in the first quadrant representa solution of the given system of inequalities (Fig 6.14).EXERCISE 6.3Solve the following system of inequalities graphically:1.x ³ 3, y ³ 22.3x + 2y £ 12,  x ³ 1, y ³ 23.2x + y ³ 6, 3x + 4y < 124.x + y ³ 4,  2x Œ y < 05.2x Œ y >1, x Œ 2y < Œ 16.x + y £ 6,  x + y ³ 47.2x +  y ³ 8,  x + 2y ³ 108.x + y £ 9,  y > x,  x ³ 09.5x + 4y £ 20,   x ³ 1, y ³ 210.3x + 4y  £ 60, x +3y £ 30, x ³ 0,  y ³ 011.2x + y ³ 4,  x + y £ 3,  2x Œ 3y £ 612.x Œ 2y £ 3, 3x + 4y  ³ 12,  x ³ 0 , y ³ 113.4x + 3y  £ 60, y ³ 2x,  x ³ 3,   x, y ³ 014.3x + 2y £ 150, x + 4y £ 80,  x £ 15,  y ³ 0, x ³ 015.x + 2y £ 10, x + y ³ 1, x Œ y £ 0, x ³ 0, y ³ 0Fig 6.14
+130       MATHEMATICSMiscellaneous ExamplesExample 16 Solve Œ 8 £ 5x Œ 3 < 7.Solution   In this case, we have two inequalities, Œ 8 £ 5x Œ 3 and 5x Œ 3 < 7, which wewill solve simultaneously.  We have  Œ 8 £ 5x Œ3 < 7orŒ5 £ 5x < 10or    Œ1 £ x < 2Example 17 Solve Œ 5 £ 53
+2Œx
+ £€8.Solution W
+e have Œ 5  £ 53
+2Œx
+ £ 8orŒ10 £ 5 Œ 3x £ 16  or    Œ 15 £ Œ 3x £ 11or5 ³ x ³ Œ 11
+3which can be written as Œ11
+3 £  x  £ 5Example 18 Solve the system of inequalities:3x Œ 7 < 5 + x... (1)11 Œ 5 x £ 1... (2)and represent the solutions on the number line.Solution From inequality (1), we have3x Œ 7 < 5 + xorx < 6... (3)Also, from inequality (2), we have11 Œ 5 x £ 1orŒ 5 x £ Œ 10 i.e., x ³ 2... (4)If we draw the graph of inequalities (3) and (4) on the number line, we see that thevalues of x, which are common to both, are shown by bold line in Fig 6.15.Fig 6.15Thus, solution of the system are real numbers x lying between 2 and 6 including 2, i.e.,2 £ x < 6
+      LINEAR INEQUALITIES       131Example 19 In an experiment, a solution of hydrochloric acid is to be kept between30° and 35° Celsius. What is the range of temperature in degree Fahrenheit if conversionformula is given by C = 59   (F Œ 32), where C and F represent temperature in degreeCelsius and degree Fahrenheit, respectively.Solution It is given that 30 < C < 35.
+PuttingC = 59  (F Œ 32), we get30 < 59 (F Œ 32) < 35,or95 × (30) < (F Œ 32) <  95  × (35)or54 < (F Œ 32) < 63or86 < F < 95.Thus, the required range of temperature is between 86° F and 95° F.Example 20 A
+ manufacturer has 600 litres of a 12% solution of acid. How many litresof a 30% acid solution must be added to it so that acid content in the resulting mixturewill be more than 15% but less than 18%?Solution Let x litres of 30% acid solution is required to be added. ThenTotal mixture = (x + 600) litresTherefore30% x + 12% of 600 > 15% of (x + 600)and30% x + 12% of  600 < 18% of (x + 600)or30
+100
+x  + 12
+100
+ (600) > 15
+100
+ (x + 600)and30
+100
+x  + 12
+100
+ (600) < 18
+100
+ (x + 600)or30x + 7200 > 15x + 9000and30x + 7200 < 18x + 10800or15x > 1800 and 12x < 3600orx > 120 and x < 300,i.e.120 < x < 300
+132       MATHEMATICSThus, the number of litres of the 30% solution of acid will have to be more than120  litres but less than 300 litres.Miscellaneous Exercise on Chapter 6Solve the inequalities in Exercises 1 to 6.1.2 £ 3x Œ 4 £ 52.6 £ Œ 3 (2x Œ 4) < 123.73418
+2xŒ£-£
+4.32
+150
+5(x)
+--<£
+5.31242
+5x-<-£
+-6.311
+711
+2(x)
++££
+.Solve the inequalities in Exercises 7 to 10 and represent the solution graphically onnumber line.7.5x + 1 > Œ 24,   5x Œ 1 < 248.2 (x Œ 1) < x + 5,   3 (x + 2) > 2 Œ x9.3x Œ 7 > 2 (x Œ 6) ,   6 Œ x > 11 Œ 2x10.5 (2x Œ 7)  Œ 3  (2x + 3) £ 0 ,    2x + 19  £ 6x + 47 .11
+.A solution is to be kept between 68° F and 77° F. What is the range in temperaturein degree Celsius (C) if the Celsius / Fahrenheit (F) conversion formula is given byF =  95 C + 32 ?12.A solution of 8% boric acid is to be diluted by adding a 2% boric acid solution toit. The resulting mixture is to be more than 4% but less than 6% boric acid. If we have640 litres of the 8% solution, how many litres of the 2% solution will have to be added?13.How many litres of water will have to be added to 1125 litres of the 45% solutionof acid so that the resulting mixture will contain more than 25% but less than 30% acid
+content?
+14.IQ of a person is given by the formulaIQ =MA
+CA × 100,where MA is mental age and CA is chronological age. If 80 £ IQ £ 140 for a group of12 years old children, find the range of their mental age.
+      LINEAR INEQUALITIES       133Summary®Two real numbers or two algebraic expressions related by the symbols <, >, £or ³ form an inequality.®Equal numbers may be  added to (or subtracted from ) both sides of an inequality.®Both sides of an inequality can be  multiplied (or divided ) by the same  positivenumber. But when both sides are multiplied (or divided) by a negative number,then the inequality is reversed.®The values of x, which make an inequality a true statement, are called solutionsof the inequality.®To represent x < a (or x > a) on a number line, put a circle on the number a anddark line to the left (or right) of the number a.®To represent x £ a (or x ³ a) on a number line, put a dark circle on the numbera and dark the line to the left (or right) of the number x.®If an inequality is having £ or ³ symbol, then the points on the line are alsoincluded in the solutions of the inequality and the graph of the inequality lies left
+(below) or right (above) of the graph of the equality represented by dark line
+that satisfies an arbitrary point in that part.®If an inequality is having < or > symbol, then the points on the line are notincluded in the solutions of the inequality and the graph of the inequality lies tothe left (below) or right (above) of the graph of the corresponding equality
+represented by dotted line that satisfies an arbitrary point in that part.®The solution region of a system of inequalities is the region which satisfies all
+the given inequalities in the system simultaneously.Švv
+vv
+vŠ

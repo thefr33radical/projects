@@ -1,0 +1,1196 @@
+With the Calculus as a key, Mathematics can be successfully applied to the
+explanation of the course of Nature Œ WHITEHEAD 
+13.1 
+IntroductionThis chapter is an introduction to Calculus. Calculus is thatbranch of mathematics which mainly deals with the studyof change in the value of a function as the points in thedomain change. First, we give an intuitive idea of derivative(without actually defining it). Then we give a naive definitionof limit and study some algebra of limits. Then we come
+back to a definition of derivative and study some algebraof derivatives. We also obtain derivatives of certain
+standard functions.13.2 Intuitive Idea of Derivatives
+Physical experiments have confirmed that the body droppedfrom a tall cliff covers a distance of 4.9t2 metres in t seconds,i.e., distance s in metres covered by the body as a function of time t in seconds is givenby s = 4.9t2.The adjoining Table 13.1 gives the distance travelled in metres at various intervals
+of time in seconds of a body dropped from a tall cliff.The objective is to find the veloctiy of the body at time t = 2 seconds from thisdata. One way to approach this problem is to find the average velocity for variousintervals of time ending at t = 2 seconds and hope that these throw some light on thevelocity at t = 2 seconds.Average velocity between 
+t = t1 and t = t2 equals distance travelled between t = t1 and t = t2  seconds divided by  (t2 Œ t1). Hence the average velocity in the firsttwo seconds13ChapterLIMITS AND DERIVATIVES
+Sir Issac Newton(1642-1727)
+282MATHEMATICS
+=2121Distancetravelledbetween20
+Timeinterval()
+tandt
+tt=19.60
+9.8/
+20mmss.Similarly, the average velocity between 
+t = 1 and t = 2 is19.6Œ4.9
+21ms= 14.7 m/sLikewise we compute the average velocitiybetween t = t1 and t = 2 for various t1. The followingTable 13.2 gives the average velocity (
+v), t = t1seconds and t = 2 seconds.Table 13.2
+t1011.51.81.91.951.99
+v9.814.717.1518.62
+19.1119.35519.551
+From Table 13.2, we observe that the average velocity is gradually increasing.
+As we make the time intervals ending at t = 2 smaller, we see that we get a better idea
+of the velocity at t = 2. Hoping that nothing really dramatic happens between 1.99seconds and 2 seconds, we conclude that the average velocity at t = 2 seconds is justabove 19.551m/s.This conclusion is somewhat strengthened by the following set of computation.Compute the average velocities for various time intervals starting at t = 2 seconds. As
+before the average velocity v between t = 2 seconds and t = t2 seconds is= 22Distance travelled between 2 seconds and seconds
+2tt= 22Distance travelled in seconds  Distance travelled in 2 seconds
+2ttts0014.9
+1.511.025
+1.815.876
+
+1.917.689
+
+1.9518.63225
+
+219.6
+2.0520.59225
+2.121.609
+
+2.223.716
+
+2.530.625
+344.1
+478.4
+Table 13.1
+
+  LIMITS AND DERIVATIVES            283= 22Distance travelled in seconds  19.6
+2ttThe following Table 13.3 gives the average velocity 
+v in metres per secondbetween t = 2 seconds and t2 seconds.Table 13.3
+t2432.52.22.12.052.01
+v29.424.522.0520.5820.0919.84519.649
+Here again we note that if we take smaller time intervals starting at t = 2, we getbetter idea of the velocity at t = 2.In the first set of computations, what we have done is to find average velocitiesin increasing time intervals ending at t = 2 and then hope that nothing dramatic happensjust before t = 2. In the second set of computations, we have found the average velocitiesdecreasing in time intervals ending at t = 2 and then hope that nothing dramatic happensjust after t = 2. Purely on the physical grounds, both these sequences of averagevelocities must approach a common limit. We can safely conclude that the velocity of
+the body at t = 2 is between 19.551m/s and 19.649 m/s. Technically, we say that the
+instantaneous velocity at t = 2 is between 19.551 m/s and 19.649 m/s. As is
+well-known, velocity is the rate of change of displacement. Hence what we haveaccomplished is the following. From the given data of distance covered at various time
+instants we have estimated the rate of
+change of the distance at a given instant
+of time. We say that the 
+derivative ofthe distance function s = 4.9t2 at t = 2is between 19.551 and 19.649.An alternate way of viewing thislimiting process is shown in Fig 13.1.This is a plot of distance s of the bodyfrom the top of the cliff versus the time
+t elapsed. In the limit as the sequenceof time intervals h1, h2, ..., approacheszero, the sequence of average velocitiesapproaches the same limit as does thesequence of ratiosFig 13.1
+284MATHEMATICS
+331122
+123
+CBCBCB
+,,ACACAC
+,...
+where C1B1 = s1 Œ s0 is the distance travelled by the body in the time interval h1 = AC
+1,etc. From the Fig 13.1 it is safe to conclude that this latter sequence approaches theslope of the tangent to the curve at point A. In other words, the instantaneous velocity
+v(t) of a body at time t = 2 is equal to the slope of the tangent of the curve s = 4.9t2 att = 2.13.3 LimitsThe above discussion clearly points towards the fact that we need to understand limiting
+process in greater clarity. We study a few illustrative examples to gain some familiarity
+with the concept of limits.Consider the function f(x) = x2. Observe that as x takes values very close to 0,the value of f(x) also moves towards 0 (See Fig 2.10 Chapter 2). We say
+0lim0
+xfx(to be read as limit of f (x) as x tends to zero equals zero).  The limit of f (x) as x tendsto zero is to be thought of as the value f (x) should assume at x = 0.In general as x  a, f (x)  l, then l is called limit of the function f 
+(x) which issymbolically written as lim
+xafxl.Consider the following function g(x) = |x|, x 0. Observe that g(0) is not defined.Computing the value of g(x) for values of x verynear to 0, we see that the value of g(x) movestowards 0. So, 0lim
+x g(x) = 0. This is intuitivelyclear from the graph of y = |x| for x 0.(See Fig 2.13, Chapter 2).Consider the following function.24,22xhxx
+x.Compute the value of h(x) for values  ofx very near to 2 (but not at 2). Convince yourselfthat all these values are near to 4. This issomewhat strengthened by considering the graphof the function y = h(x) given here (Fig 13.2).Fig 13.2
+  LIMITS AND DERIVATIVES            285In all these illustrations the value which the function should assume at a givenpoint x = a did not really depend on how is x tending to a. Note that there are essentiallytwo ways x could approach a number a  either from left or from right, i.e., all thevalues of x near a could be less than a or could be greater than a. This naturally leadsto two limits Œ the right hand limit and the left hand limit. Right hand limit of afunction f(x) is that value of f(x) which is dictated by the values of f(x) when x tendsto a from the right. Similarly, the 
+left hand limit. To illustrate this, consider the function
+1,0
+2,0
+xfxxGraph of this function is shown in the Fig 13.3. It isclear that the value of f at 0 dictated by values of f(x) withx  0 equals 1, i.e., the left hand limit of f (x) at 0 is0lim()1
+xfx.Similarly, the value of 
+f at 0 dictated by values off (x) with x > 0 equals 2, i.e., the right hand limit of f (x)at 0 is0lim()2
+xfx.In this case the right and left hand limits are different, and hence we say that thelimit of f (x) as x tends to zero does not exist (even though the function is defined at 0).Summary  We say 
+lim
+xaŒ f(x) is the expected value of  f at x = a given the values of f nearx to the left of a. This value is called the left hand limit of f at a.We say 
+lim()
+xafx is the expected value of f at x = a given the values off near x to the right of a. This value is called the right hand limit of f(x) at a.If the right and left hand limits coincide, we call that common value as the limitof f(x) at x = a and denote it by lim
+xa f(x).Illustration 1 Consider the function f(x) = x + 10. We want to find the limit of this
+function at x = 5. Let us compute the value of the function f(x) for x very near to 5.Some   of the points near and to the left of 5 are 4.9, 4.95, 4.99, 4.995. . ., etc. Values
+of the function at these points are tabulated below. Similarly, the real number 5.001,
+Fig 13.3
+286MATHEMATICS
+5.01, 5.1 are also points near and to the right of 5. Values of the function at these points
+are also given in the Table 13.4.
+Table 13.4
+From the Table 13.4, we deduce that value of 
+f(x) at x = 5 should be greater than14.995 and less than 15.001 assuming nothing dramatic happens between x = 4.995and 5.001. It is reasonable to assume that the value of the f(x) at x = 5 as dictated bythe numbers to the left of 5 is 15, i.e.,Œ5lim15
+xfx.Similarly, when 
+x approaches 5 from the right,  f(x) should be taking value 15, i.e.,
+5lim15
+xfx.Hence, it is likely that the left hand limit of f(x) and the right hand limit of f(x) areboth equal to 15. Thus,
+555limlimlim15
+xxxfxfxfx
+
+.This conclusion about the limit being equal to 15 is somewhat strengthened byseeing the graph of this function which is given in Fig 2.16, Chapter 2. In this figure, wenote that as x approaches 5 from either right or left, the graph of the functionf(x) = x +10 approaches the point (5, 15).We observe that the value of the function at 
+x = 5 also happens to be equal to 15.Illustration 2 Consider the function f(x) = x3. Let us try to find the limit of thisfunction at x = 1. Proceeding as in the previous case, we tabulate the value of f(x) atx near 1. This is given in the Table 13.5.
+Table 13.5
+From this table, we deduce that value of f(x) at x = 1 should be greater than0.997002999 and less than 1.003003001 assuming nothing dramatic happens betweenx0.90.990.9991.0011.011.1
+f(x)0.7290.9702990.9970029991.0030030011.0303011.331
+x4.94.954.994.9955.0015.015.1
+f(x)14.914.9514.9914.99515.00115.0115.1
+
+  LIMITS AND DERIVATIVES            287x = 0.999 and 1.001. It is reasonable to assume that the value of the f(x) at x = 1 asdictated by the numbers to the left of 1 is 1, i.e.,1lim1
+xfx.Similarly, when 
+x approaches 1 from the right, f(x) should be taking value 1, i.e.,1lim1
+xfx.Hence, it is likely that the left hand limit of f(x) and the right hand limit of f(x) areboth equal to 1. Thus,111limlimlim1
+xxxfxfxfx
+
+.This conclusion about the limit being equal to 1 is somewhat strengthened byseeing the graph of this function which is given in Fig 2.11, Chapter 2. In this figure, we
+note that as x approaches 1 from either right or left, the graph of the functionf(x) = x3 approaches the point (1, 1).We observe, again, that the value of the function at 
+x = 1 also happens to beequal to 1.Illustration 3 Consider the function f(x) = 3x. Let us try to find the limit of thisfunction at x = 2. The following Table 13.6 is now self-explanatory.
+Table 13.6
+x1.91.951.991.9992.0012.012.1
+f(x)5.75.855.975.9976.0036.036.3
+As before we observe that as x  approaches 2from either left or right, the value of f(x) seem toapproach 6. We record this as
+
+222limlimlim6
+xxxfxfxfx
+
+Its graph shown in Fig 13.4 strengthens thisfact.Here again we note that the value of the functionat x = 2 coincides with the limit at x = 2.Illustration 4 Consider the constant functionf(x) = 3. Let us try to find its limit at x = 2. Thisfunction being the constant function takes the sameFig 13.4
+288MATHEMATICS
+value (3, in this case) everywhere, i.e., its value at points close to 2 is 3. Hence
+222limlimlim3
+xxxfxfxfx
+
+Graph of f(x) = 3 is anyway the line parallel to x-axis passing through (0, 3) andis shown in Fig 2.9, Chapter 2. From this also it is clear that the required limit is 3. Infact, it is easily observed that lim3
+xafx for any real number a.Illustration 5 Consider the function f(x) = x2 + x. We want to find 
+1lim
+xfx. We
+tabulate the values of f(x) near x = 1 in Table 13.7.
+Table 13.7
+x0.90.990.9991.011.11.2
+f(x)1.711.97011.9970012.03012.312.64
+From this it is reasonable to deduce that
+111limlimlim2
+xxxfxfxfx
+
+.From the graph of f(x) = x2 + xshown in the Fig 13.5,  it is clear that as xapproaches 1, the graph approaches (1, 2).Here, again we observe that the1lim
+x f (x) = f (1)Now, convince yourself of the
+following three facts:2111
+lim1,lim1andlim12
+xxx
+xxx
+
+
+Then22111
+limlim112lim
+xxx
+xxxx
+
+
+.Also
+21111
+lim.lim11.22lim1lim
+xxxx
+xxxxxx
+
+
+.Fig 13.5
+  LIMITS AND DERIVATIVES            289Illustration 6 Consider the function f(x) = sin x.  We are interested in 
+2limsin
+xx,where the angle is measured in radians.Here, we tabulate the (approximate) value of f(x) near 2(Table 13.8)
+. Fromthis, we may deduce that222limlimlim1
+xxxfxfxfx
+
+.Further, this is supported by the graph of 
+f(x) = sin x which is given in the Fig 3.8(Chapter 3). In this case too, we observe that 2lim
+x sin x = 1.Table 13.8
+x0.120.01
+20.01
+20.1
+2f(x)0.99500.99990.99990.9950
+Illustration 7 Consider the function f(x) = x + cos x. We want to find the 
+0lim
+xf (x).Here we tabulate the (approximate) value of f(x) near 0 (Table 13.9).
+Table 13.9
+From the Table 13.9, we may deduce that
+
+000limlimlim1
+xxxfxfxfx
+
+In this case too, we observe that 0lim
+xf (x) = f (0) = 1.Now, can you convince yourself that
+000
+limcoslimlimcos
+xxx
+xxxx
+
+
+ is indeed true?xŒ 0.1Œ 0.01Œ 0.001
+0.0010.010.1
+f(x)0.98500.989950.99899951.00099951.009951.0950
+
+290MATHEMATICS
+Illustration 8 
+Consider the function 21fxx for 0x. We want to know 
+0lim
+xf (x).Here, observe that the domain of the function is given to be all positive realnumbers. Hence, when we tabulate the values of f(x), it does not make sense to talk ofx approaching 0 from the left. Below we tabulate the values of the function for positivex close to 0 (in this table n denotes any positive integer).From the Table 13.10 given below, we see that as 
+x tends to 0, f(x) becomeslarger and larger. What we mean here is that the value of 
+f(x) may be made larger than
+any given number.
+Table 13.10
+x10.10.0110
+Œnf(x)11001000010
+2nMathematically, we say
+0lim
+xfx
+We also remark that we will not come across such limits in this course.
+Illustration 9 We want to find 
+0lim
+xfx, where2,0
+0,0
+2,0
+xxfxx
+xxAs usual we make a table of x near 0 with f(x). Observe that for negative values of xwe need to evaluate x Œ 2 and for positive values, we need to evaluate x + 2.Table 13.11
+From the first three entries of the Table 13.11, we deduce that the value of the
+function is decreasing to Œ2 and hence.0lim2
+xfxxŒ 0.1Œ 0.01Œ 0.001
+0.0010.010.1
+f(x)Œ 2.1Œ 2.01Œ 2.001
+2.0012.012.1
+
+  LIMITS AND DERIVATIVES            291From the last three entires of the table we deduce that the value of the functionis increasing from 2 and hence0lim2
+xfxSince the left and right hand limits at 0 do not coincide,we say that the limit of the function at 0 does not exist.  Graph of this function is given in the Fig13.6. Here,we remark that the value of the function at x = 0 is welldefined and is, indeed, equal to 0, but the limit of the functionat x = 0 is not even defined.Illustration 10 As a final illustration, we find 1lim
+xfx,where2101xxfxxTable 13.12
+x0.90.990.9991.0011.011.1
+f(x)2.92.992.9993.0013.013.1
+As usual we tabulate the values of f(x) for x near 1. From the values of f(x) forx less than 1, it seems that the function should take value 3 at x = 1., i.e.,1lim3
+xfx.Similarly, the value of 
+f(x) should be 3 as dic-tated by values of f(x) at x greater than 1. i.e.1lim3
+xfx.But then the left and right hand limits coincideand hence        
+111limlimlim3
+xxxfxfxfx
+
+.Graph of function given in Fig 13.7 strengthensour deduction about the limit. Here, weFig 13.6Fig 13.7
+292MATHEMATICS
+note that  in general, at a given point the value of the function and its limit may bedifferent (even when both are defined).13.3.1  Algebra of limits
+ In the above illustrations, we have observed that the limitingprocess respects addition, subtraction, multiplication and division as long as the limits
+and functions under consideration are well defined. This is not a coincidence. In fact,below we formalise these as a theorem without proof.Theorem 1 Let f  and g be two functions such that both lim
+xa f (x) and  lim
+xa g(x) exist.Then  (i)Limit of sum of two functions is sum of the limits of the functions, i.e.,
+lim
+xa[f(x) + g (x)] =  lim
+xa f(x) +  lim
+xa g(x). (ii)Limit of difference of two functions is difference of the limits of the functions, i.e.,
+lim
+xa[f(x) Œ g(x)] =  lim
+xa f(x) Œ  lim
+xa g(x).(iii)Limit of product of two functions is product of the limits of the functions, i.e.,lim
+xa [f(x) . g(x)] =  lim
+xa f(x).  lim
+xa g(x).(iv)Limit of 
+quotient of two functions is quotient of the limits of the functions (wheneverthe denominator is non zero), i.e.,lim
+lim
+lim
+xaxaxafxfxgxgx
+NoteIn particular as a special case of (iii), when g is the constant functionsuch that  g(x) = , for some real number , we havelim..lim
+xaxa
+fxfx
+
+.In the next two subsections, we illustrate how to exploit this theorem to evaluatelimits of special types of functions.13.3.2  Limits of polynomials and rational functions
+ A function 
+f is said to be apolynomial function if f(x) is zero function or if f(x) = a0 + a1x + a2x2 +. . . + anxn,where ais are real numbers such that an  0 for some natural number n.We know that 
+lim
+xax = a. Hence
+  LIMITS AND DERIVATIVES            29322limlim.lim.lim.
+xaxaxaxa
+xxxxxaaa
+
+
+An easy exercise in induction on n tells us thatlim
+nnxaxaNow, let 
+2012
+...nnfxaaxaxax
+
+ be a polynomial function. Thinking
+of each of 2012
+,,,...,
+nnaaxaxax
+ as a function, we havelim
+xafx=2012
+lim...
+nnxaaaxaxax
+
+= 2012
+limlimlim...lim
+nnxaxaxaxa
+aaxaxax
+
+
+= 2012
+limlim...lim
+nnxaxaxa
+aaxaxax
+
+
+= 2012
+...
+nnaaaaaaa
+
+= fa(Make sure that you understand the justification for each step in the above!)A function f is said to be a rational function, if f(x) = gxhx, where g(x) and h(x)are polynomials such that h(x)  0. Thenlim
+limlim
+lim
+xaxaxa
+xagxgxga
+fxhxhxha
+
+However, if 
+h(a) = 0, there are two scenarios Œ (i) when g(a)  0 and (ii) wheng(a) = 0. In the former case we say that the limit does not exist. In the latter case wecan write g(x) = (x Œ a)k g1 (x), where k is the maximum of powers of (x Œ a) in g(x)Similarly, 
+h(x) = (x Œ a)l h1 (x) as h (a) = 0. Now, if 
+k > l, we have
+
+11limlim
+lim
+lim
+lim
+kxaxa
+lxaxaxagxxagx
+fxhxxahx
+
+294MATHEMATICS
+= 1111lim
+0.0lim
+klxaxaxagx
+gahxha
+If k < l, the limit is not defined.Example 1 Find the limits:  (i)  
+321lim1
+xxx    (ii)  3lim1
+xxx(iii)210
+1lim1...
+xxxx
+.Solution The required limits are all limits of some polynomial functions. Hence thelimits are the values of the function at the prescribed points. We have
+(i)1lim
+x [x3 Œ x2 + 1] = 13 Œ 12 + 1 = 1(ii)3lim13313412
+xxx
+(iii)210
+1lim1...
+xxxx
+ 
+210
+111...1
+
+        111...11
+
+.Example 2 Find the limits:(i)211lim
+100xxx(ii)322244lim
+4xxxxx(iii)23224lim
+44xxxxx(iv)32222lim
+56xxxxx(v)232
+121lim
+32xxxxxxx
+
+.Solution All the functions under consideration are rational functions. Hence, we firstevaluate these functions at the prescribed points. If this is of the form 00, we try torewrite the function cancelling the factors which are causing the limit to be ofthe form 00.
+  LIMITS AND DERIVATIVES            295(i)We have
+ 2211112
+lim
+1001100101
+xxx(ii)Evaluating the function at 2, it is of the form 00.Hence322244lim
+4xxxxx =
+222lim
+22xxxxx=22limas2
+2xxxxx =222
+00224
+.(iii)Evaluating the function at 2, we get it of the form 00.Hence23224lim
+44xxxxx =2222lim
+2xxxxx=22224
+lim
+22220
+xxxxwhich is not defined.(iv)Evaluating the function at 2, we get it of the form  00.Hence32222lim
+56xxxxx =
+222lim
+23xxxxx=22224lim4
+3231
+xxx
+
+.
+296MATHEMATICS
+(v)First, we rewrite the function as a rational function.
+232
+2132xxxxxx
+
+ =221132xxxxxx
+=
+21112
+xxxxxx
+
+=
+2441
+12xxxxx
+
+=
+24312xxxxx
+Evaluating the function at 1, we get it of the form 00.Hence2232
+121lim
+32xxxxxxx
+
+=
+2143lim
+12xxxxxx
+=
+131lim
+12xxxxxx
+=13lim
+2xxxx = 13112
+ = 2.We remark that we could cancel the term (
+x Œ 1) in the above evaluation because1x.Evaluation of an important limit which will be used in the sequel is given as atheorem below.
+Theorem 2 For any positive integer n,1lim
+nnnxaxanaxa.Remark The expression in the above theorem for the limit is true even if n is anyrational number and a is positive.
+  LIMITS AND DERIVATIVES            297Proof Dividing (xn Œ an) by (x Œ a), we see thatxn Œ an = (xŒa) (xnŒ1 + xnŒ2 a + xnŒ3 a2 + ... + x anŒ2 + anŒ1)Thus,limlim
+nnxaxa
+xaxa(xnŒ1 + xnŒ2 a + xnŒ3 a2 + ... + x anŒ2 + anŒ1)=an Œ l + a anŒ2 +. . . + anŒ2 (a) +anŒl=anŒ1 + an Œ 1 +...+anŒ1 + anŒ1 (n terms)=1nnaExample 3 Evaluate:(i)  151011lim
+1xxx(ii) 011lim
+xxxSolution (i) We have
+151011lim
+1xxx=1510
+111lim
+11xxxxx=1510
+1111limlim
+11xxxxxx
+
+
+=15 (1)
+14 ÷ 10(1)9   (by the theorem above)=15 
+÷ 1032(ii)Put y = 1 + x, so that1y as 0.xThen011lim
+xxx =11lim
+Œ1yyy=112211lim
+1yyy=1121(1)
+2 (by the remark above)  =12
+298MATHEMATICS
+13.4 Limits of Trigonometric Functions
+The following facts (stated as theorems) about functions in general come in handy incalculating limits of some trigonometric functions.Theorem 3 Let f and gbe two real valued functions with the same domain such thatf (x)  g( x) for all x in the domain of definition, For some a, if both lim
+xa f(x) andlim
+xa g(x) exist, then lim
+xa f(x)  lim
+xa g(x). This is illustrated in Fig 13.8.Theorem 4 (Sandwich Theorem) Let f, g and h be real functions such thatf (x)  g( x)  h(x) for all x in the common domain of definition. For some real numbera, if lim
+xa  f(x) = l = lim
+xa h(x), then lim
+xa g(x) = l. This is illustrated in Fig 13.9.Given below is a beautiful geometric proof of the following importantinequality relating trigonometric functions.sin
+cos1
+xxxfor 02x(*)Fig 13.8Fig 13.9
+  LIMITS AND DERIVATIVES            299Proof
+  We know that sin (Œ 
+x) =  Œ sin x and cos( Œ x) = cos x. Hence, it is sufficient
+to prove the inequality for 02x.In the Fig 13.10, O is the centre of the unit circle such thatthe angle AOC
+ is x radians and 0 < x < 2. Line segments B A
+ andCD are perpendiculars to OA. Further, join AC. Then
+Area of OAC
+< Area of sector 
+OAC
+< Area of 
+OAB.i.e.,211OA.CD.
+.(OA)OA.AB
+222x.i.e.,CD
+ < x . OA < AB.
+From OCD,sin x = CDOA(since OC = OA) and hence CD = OA sin x. Also  tan x =ABOAandhenceAB
+ = OA. tan x. ThusOA sin x < OA. x < OA. tan x.Since length OA is positive, we havesin x < x < tan x.Since 0 < x <2, sinx is positive and thus by dividing throughout by sin x, we have1<1sincos
+xxx.Taking reciprocals throughout, we have
+sin
+cos1
+xxxwhich complete the proof.Theorem 5 The following are two important limits.(i) 0sinlim1
+xxx.(ii) 
+01cos
+lim0
+xxx.Proof (i) The  inequality in (*) says that the function sinxxis sandwiched between thefunction cos x and the constant function which takes value 1.Fig 13.10
+300MATHEMATICS
+Further, since 
+0lim
+x cos x = 1, we see that the proof of (i) of the theorem iscomplete by sandwich theorem.To prove (ii), we recall the trigonometric identity 1 Œ cos 
+x = 2 sin22x.Then01cos
+lim
+xxx =2002sinsin
+22limlim.sin
+22xxxxxxx
+
+
+=00sin
+2lim.limsin1.00
+22xxxxxObserve that we have implicitly used the fact that 0x is equivalent to 02x. Thismay be justified by putting y = 2x.Example 4 Evaluate:(i) 
+0sin4
+lim
+sin2
+xxx(ii) 0tan
+lim
+xxxSolution (i)0sin4
+lim
+sin2
+xxx0sin42
+lim..2
+4sin2
+xxxxx= 0sin4sin2
+2.lim
+42xxxxx
+
+
+
+= 4020
+sin4sin2
+2.limlim
+42xxxxxx
+
+
+= 2.1.1 = 2 (as x  0, 4x  0 and 2x  0)
+  LIMITS AND DERIVATIVES            301(ii) We have
+  0tan
+lim
+xxx =0sinlim
+cos
+xxxx = 00sin1
+lim.lim
+cosxxxxx = 1.1 = 1A general rule that needs to be kept in mind while evaluating limits is the following.Say, given that the limit  
+lim
+xafxgx exists and we want to evaluate this. First we checkthe value of f (a)  and g(a). If both are 0, then we see if we can get the factor whichis causing the terms to vanish, i.e., see if we can write f(x) = f1 (x) f2(x) so thatf1 (a) = 0 and f2 (a)  0. Similarly, we write 
+g(x) = g1 (x) g2(x), where g1(a) = 0 andg2(a)  0. Cancel out the common factors from f(x) and g(x) (if possible) and writefxpx
+gxqx
+, where q(x)  0.Thenlim
+xafxpa
+gxqa
+.EXERCISE 13.1Evaluate the following limits in Exercises 1 to 22.1.3lim3
+xx2.22lim
+7xx3.21lim
+rr4.443lim
+2xxx5.105
+11lim
+1xxxx6.5011lim
+xxx7. 222310
+lim
+4xxxx8.42381lim
+253
+xxxx9.0lim
+1xaxb
+cx10. 131161lim
+1zzz11.
+221lim,0
+xaxbxc
+abccxbxa
+
+12. 2112lim
+2xxx13.0sinlim
+xaxbx14. 0sinlim,,0
+sin
+xaxabbx
+302MATHEMATICS
+15. sin
+lim
+xxx16.0cos
+lim
+xxx17.0cos21
+lim
+cos1
+xxx18. 0coslim
+sinxaxxx
+bx19.0limsec
+xxx20.  0sinlim,,0
+sin
+xaxbx
+abab
+axbx
+,21.0lim(coseccot)
+xxx22.  2tan2
+lim
+2xxx23.  Find 0lim
+xfx and 1lim
+xfx, where 23,0
+31,0
+xxfxxx24.  Find 1lim
+xfx, where 221,1
+1,1
+xxfxxx
+25.  Evaluate 0lim
+xfx, where ||,00,0
+xxfxxx26.  Find 0lim
+xfx, where ,0||0,0
+xxxfxx27.  Find 5lim
+xfx, where ||5
+fxx
+28.  Suppose ,14,1
+,1abxx
+fxxbaxx
+and if 1lim
+xf (x) = f (1) what are possible values of a and b?
+  LIMITS AND DERIVATIVES            30329.Let a1, a2, . . ., an be fixed real numbers and define a function12...
+nfxxaxaxa
+
+.What is 1lim
+xaf(x) ? For some a  a1, a2, ..., an, compute lim
+xa f (x).30.If  
+1,0
+0,0
+1,0
+xxfxx
+xx.For what value (s) of a does lim
+xaf (x) exists?31.If the function f(x) satisfies 212lim
+1xfxx, evaluate 1lim
+xfx.32. If 23,0,01
+,1mxnx
+fxnxmx
+nxmx
+
+. For what integers m and n does both 0lim
+xfxand 1lim
+xfxexist?13.5  DerivativesWe have seen in the Section 13.2, that by knowing the position of a body at various
+time intervals it is possible to find the rate at which the position of the body is changing.It is of very general interest to know a certain parameter at various instants of time andtry to finding the rate at which it is changing. There are several real life situationswhere such a process needs to be carried out. For instance, people maintaining areservoir need to know when will a reservoir overflow knowing the depth of the water
+at several instances of time, Rocket Scientists need to compute the precise velocitywith which the satellite needs to be shot out from the rocket knowing the height of therocket at various times. Financial institutions need to predict the changes in the value of
+a particular stock knowing its present value. In these, and many such cases it is desirableto know how a particular parameter is changing with respect to some other parameter.
+The heart of the matter is derivative of a function at a given point in its domain
+of definition.
+304MATHEMATICS
+Definition 1 Suppose f is a real valued function and a is a point in its domain of
+definition. The derivative of  f  at a is defined by
+0lim
+hfahfa
+hprovided this limit exists. Derivative of f 
+(x) at a is denoted by f(a).Observe that f(a) quantifies the change in  f(x) at a with respect to x.Example 5 Find the derivative at x = 2 of the function f(x) = 3x.Solution We have
+f(2)= 
+
+022lim
+hfhf
+h= 
+03232
+lim
+hhh= 000
+6363
+limlimlim33
+hhh
+hhhh
+
+.The derivative of the function 3x at x = 2 is 3.Example 6 Find the derivative of the function f(x) = 2x2 + 3x Œ 5 at x =  Œ1. Also prove
+that f (0) + 3f ( Œ1) = 0.Solution We first find the derivatives of 
+f(x) at x = Œ1 and at x = 0. We have
+'1f= 011lim
+hfhf
+h
+= 
+2202131521315
+lim
+hhhh
+
+
+= 
+2002limlim212011
+hhhhhh
+and    
+'0f=000lim
+hfhf
+h= 
+2202030520305
+lim
+hhhh
+
+
+
+  LIMITS AND DERIVATIVES            305=
+20023limlim232033
+hhhhhh
+Clearly
+'03'10
+ff
+Remark At this stage note that evaluating derivative at a point involves effective use
+of various rules, limits are subjected to. The following illustrates this.Example 7 Find the derivative of sin x at x = 0.SolutionLet f(x)= sin 
+x. Thenf (0)= 
+
+000lim
+hfhf
+h= 0sin0sin0
+lim
+hhh = 0sin
+lim1
+hhhExample 8 Find the derivative of f(x) = 3 at x = 0 and at x = 3.Solution Since the derivative measures the change in function, intuitively it is clearthat the derivative of the constant function must be zero at every point. This is indeed,supported by the following computation.'0f=000
+00330
+limlimlim0
+hhh
+fhf
+hhh
+
+
+.Similarly'3f =
+003333limlim0
+hhfhf
+hh.We now present a geomet-
+ric interpretation of derivative of afunction at a point. Let y = f(x) bea function and let P = (a, f(a)) andQ = (a + h, f(a + h) be two pointsclose to each other on the graph
+of this function. The Fig 13.11 is
+now self explanatory.
+Fig 13.11
+
+306MATHEMATICS
+We know that  
+0lim
+hfahfa
+fahFrom the triangle PQR, it is clear that the ratio whose limit we are taking isprecisely equal to tan(QPR) which is the slope of the chord PQ. In the limiting process,as h tends to 0, the point Q tends to P and we have0QP
+QRlimlim
+PRhfahfa
+hThis is equivalent to the fact that the chord PQ tends to the tangent at P of thecurve y = f(x). Thus the limit turns out to be equal to the slope of the tangent. Hencetan
+fa.For a given function f  we can find the derivative at every point. If the derivativeexists at every point, it defines a new function called the derivative of f . Formally, we
+define derivative of a function as follows.Definition 2 Suppose f  is a real valued function, the function defined by
+
+0lim
+hfxhfx
+hwherever the limit exists is defined to be the derivative of f at x and is denoted by
+f(x). This definition of derivative is also called the first principle of derivative.Thus
+0'lim
+hfxhfx
+fxhClearly the domain of definition of f(x) is wherever the above limit exists. Thereare different notations for derivative of a function. Sometimes f(x) is denoted bydfxdx or  if y = f(x), it is denoted by dydx. This is referred to as derivative of f(x)or y with respect to x. It is also denoted by D (f (x) ). Further, derivative of  
+f at x = ais also denoted by ()or
+aaddf
+fxdxdx
+ or even xadfdx.Example 9 Find the derivative of f(x) = 10x.Solution Since f( x) = 
+0lim
+hfxhfx
+h
+  LIMITS AND DERIVATIVES            307= 01010
+lim
+hxhxh= 010lim
+hhh = 0lim1010
+h.Example 10 Find the derivative of f(x) = x2.Solution We have, 
+f (x)  =  
+0lim
+hfxhfx
+h= 220lim
+hxhxh = 0lim22
+hhxx
+Example 11
+ Find the derivative of the constant function f (x) = a for a fixed realnumber a.Solution We have, 
+f (x) =  
+0lim
+hfxhfx
+h= 000limlim0
+hhaahh as 0hExample 12 Find the derivative of f(x) = 1xSolution We have 
+ f (x) =  
+0lim
+hfxhfx
+h=  011Œ()lim
+hxhxh=  01lim
+hxxhhxxh
+= 01lim
+hhhxxh
+= 01lim
+hxxh= 21x
+308MATHEMATICS
+13.5.1 Algebra of derivative of functions  Since the very definition of derivativesinvolve limits in a rather direct fashion, we expect the rules for derivatives to followclosely that of limits. We collect these in the following theorem.
+Theorem 5 Let f and g be two functions such that their derivatives are defined in acommon domain. Then(i)Derivative of sum of two functions is sum of the derivatives of the
+functions.
+()()
+ddd
+fxgxfxgx
+dxdxdx
+
+.(ii)Derivative of difference of two functions is difference of the derivatives ofthe functions.
+()()
+ddd
+fxgxfxgx
+dxdxdx
+
+.(iii)Derivative of product of two functions is given by the following product
+rule.
+.().()().()
+ddd
+fxgxfxgxfxgx
+dxdxdx
+(iv)Derivative of quotient of two functions is given by the following quotientrule (whenever the denominator is nonŒzero).2().()()()
+()()()ddfxgxfxgx
+dfx
+dxdx
+dxgx
+gxThe proofs of these follow essentially from the analogous theorem for limits. We
+will not prove these here. As in the case of limits this theorem tells us how to compute
+derivatives of special types of functions. The last two statements in the theorem maybe restated in the following fashion which aids in recalling them easily:Let ufx
+ and v= g (x). Thenuv =uvuv
+This is referred to a Leibnitz rule for differentiating product of functions or theproduct rule. Similarly, the quotient rule is
+
+  LIMITS AND DERIVATIVES            309uv=2uvuv
+vNow, let us tackle derivatives of some standard functions.
+It is easy to see that the derivative of the function f(x) = x is the constantfunction 1. This is becausefx=
+0lim
+hfxhfx
+h = 0lim
+hxhxh=0lim11
+h.We use this and the above theorem to compute the derivative of
+f(x) = 10x = x + .... + x (ten terms). By (i) of the above theorem     ()dfx
+dx =ddx ...xx (ten terms)=...ddxxdxdx
+  (ten terms)=1...1
+ (ten terms) = 10.We note that this limit may be evaluated using product rule too. Write
+f(x) = 10x = uv, where u is the constant function taking value 10 everywhere andv(x) = x. Here, f(x) = 10x = uv we know that the derivative of u equals 0. Also
+derivative of v(x) = x equals 1. Thus by the product rule we havefx =
+100.10.110
+xuvuvuvx
+
+On similar lines the derivative of f(x) = x2 may be evaluated. We have
+f(x) = x2 = x .x and hencedfdx =...
+ddd
+xxxxxx
+dxdxdx
+=1..12
+xxx.More generally, we have the following theorem.
+Theorem 6 Derivative of f(x) = xn is nxn Œ 1 for any positive integer n.Proof By definition of the derivative function, we have       
+0'lim
+hfxhfx
+fxh=0lim
+nnhxhxh.
+310MATHEMATICS
+Binomial theorem tells that (x + h)n = 101CC...C
+nnnnnn
+nxxhh
+
+andhence  (x + h)n Œ xn = h(nxn Œ 1 +... + hn Œ 1). Thus()dfx
+dx= 0lim
+nnhxhxh= 110....
+lim
+nnhhnxh
+h= 110lim...
+nnhnxh
+ = 1nnx.Alternatively, we may also prove this by induction on 
+n and the product rule asfollows. The result is true for 
+n = 1, which has been proved earlier. We have
+ndxdx= 1.ndxxdx= 11..nnddxxxx
+dxdx
+(by product rule)= 121..1
+nnxxnx
+ (by induction hypothesis)= 111
+1nnn
+xnxnx
+
+
+.Remark The above theorem is true for all powers of x, i.e., n can be any real number(but we will not prove it here).13.5.2  Derivative of polynomials and trigonometric functions  We start with the
+following theorem which tells us the derivative of a polynomial function.Theorem 7 Let f(x) = 1110
+....nnnnaxaxaxa
+
+ be a polynomial function, whereai s are all real numbers and an  0. Then, the derivative function is given by121()1...
+nxnndfx
+naxnax
+dx
+ 212axa
+.Proof of this theorem is just putting together part (i) of Theorem 5 and Theorem 6.Example 13 Compute the derivative of 6x100 Œ x55 + x.Solution A direct application of the above theorem tells that the derivative of the
+above function is 9954
+600551
+xx.
+  LIMITS AND DERIVATIVES            311Example 14 Find the derivative of f(x) = 1 + x + x2 + x3 +... + x50 at x = 1.Solution A direct application of the above Theorem 6 tells that the derivative of the
+above function is 1 + 2x + 3x2 + . . . + 50x49. At x = 1 the value of this function equals1 + 2(1) + 3(1)2 + .. . + 50(1)49 = 1 + 2 + 3 + . . . + 50 = 
+5051
+2 = 1275.Example 15 Find the derivative of f(x) = 1xxSolution Clearly this function is defined everywhere except at x = 0. We use the
+quotient rule with u = x + 1 and v = x. Hence u = 1 and v = 1. Therefore     ()1
+dfxdxdu
+dxdxxdxv
+
+
+
+
+222
+111
+1xxuvuv
+vxx
+
+Example 16 Compute the derivative of sin x.SolutionLet f(x)= sin 
+x. Then()dfx
+dx= 00sinsin
+limlim
+hhfxhfxxhx
+hh
+= 022cossin
+22lim
+hxhhh
+
+
+ (using formula for sin A Œ sin B)
+= 00sin
+2limcos.limcos.1cos
+22hhhhxxxh
+.Example 17 Compute the derivative of tan x.Solution  Let f(x)= tan 
+x. Then()dfx
+dx= 
+
+00tantan
+limlim
+hhfxhfxxhx
+hh
+= 0sin
+1sin
+lim
+coscos
+hxhxhxhx
+
+312MATHEMATICS
+= 0sincoscossin
+lim
+coscos
+hxhxxhx
+hxhx
+
+= 0sin
+lim
+coscos
+hxhxhxhx
+ (using formula for sin (A + B))= 00sin1
+lim.lim
+coscos
+hhhhxhx
+= 2211.sec
+cos
+xx.Example 18 Compute the derivative of f(x) = sin2 x.Solution We use the Leibnitz product rule to evaluate this.
+()sinsin
+dfxd
+xxdxdx
+
+sinsinsinsin
+xxxx
+
+cossinsincos
+xxxx
+2sincossin2
+xxx.EXERCISE 13.21.Find the derivative of x2 Œ 2 at x = 10.2.Find the derivative of 99x at x = l00.3.Find the derivative of x at x = 1.4.Find the derivative of the following functions from first principle.(i)327x (ii)   12xx(iii)21x(iv)   11xx5.For the function100992
+...1
+100992
+xxx
+fxx
+.
+  LIMITS AND DERIVATIVES            313Prove that 11000
+ff.6.Find the derivative of 1221
+...nnnnn
+xaxaxaxa
+
+
+ for some fixed realnumber a.7.For some constants a and b, find the derivative of (i)xaxb
+  (ii)   22axb
+      (iii)  xaxb8.Find the derivative of nnxaxa for some constant a.9.Find the derivative of(i)324x(ii)   35311
+xxx
+
+(iii)353xx(iv)   5936xx(v)4534xx(vi)   22131
+xxx10.Find the derivative of cos x from first principle.11.
+Find the derivative of the following functions:(i)sincos
+xx(ii)   secx(iii)  5sec4cos
+xx(iv)cosec x(v)   3cot5cosec
+xx(vi)5sin6cos7
+xx           (vii)  2tan7sec
+xxMiscellaneous ExamplesExample 19 Find the derivative of f from the first principle, where f is given by(i)f (x) = 232xx(ii)    f (x) = 1xxSolution (i) Note that function is not defined at x = 2. But, we have
+00232322limlim
+hhxhxfxhfx
+xhx
+fxhh
+
+314MATHEMATICS
+= 
+
+02232232
+lim
+22hxhxxxh
+hxxh
+
+
+= 
+02322223223
+lim
+22hxxhxxxhx
+hxxh
+
+
+= 
+20Œ77
+lim
+222hxxh
+x
+Again, note that the function f is also not defined at x = 2.(ii)The function is not defined at x = 0. But, we havefx= 
+0011limlim
+hhxhx
+fxhfx
+xhxhh
+
+
+
+= 0111
+lim
+hhhxhx
+= 00111
+limlim1
+hhxxh
+hhhxxhhxxh
+
+
+
+= 2011lim11
+hxxh
+x
+Again, note that the function f is not defined at x = 0.Example 20 Find the derivative of f(x) from the first principle, where f(x) is(i) sincos
+xx(ii) sinxxSolution (i) we have 'fx = fxhfx
+h= 
+0sincossincos
+lim
+hxhxhxx
+h
+= 0sincoscossincoscossinsinsincos
+lim
+hxhxhxhxhxx
+h
+
+  LIMITS AND DERIVATIVES            315= 0sincossinsincos1coscos1
+lim
+hhxxxhxh
+h
+= 00cos1
+sin
+limcossinlimsin
+hhhhxxx
+hh  0cos1
+limcos
+hhxh= cossin
+xx(ii)'fx=
+
+00sinsin
+limlim
+hhfxhfxxhxhxx
+hh
+=0sincossincossin
+lim
+hxhxhhxxx
+h
+=0sincos1cossinsincossincos
+lim
+hxxhxxhhxhhx
+h
+           = 
+00sincos1
+sinlimlimcos
+hhxxh
+hxxhh0limsincossincos
+hxhhx
+           = 
+cossin
+xxxExample 21 Compute derivative of(i) f(x) = sin 2x(ii) g(x) = cot xSolution (i) Recall the trigonometric formula sin 2x = 2 sin x cos x. Thus()dfx
+dx=2sincos2sincos
+ddxxxx
+dxdx
+
+2sincossincos
+xxxx
+2coscossinsin
+xxxx
+
+222cossin
+xx(ii) By definition, g(x) = coscot
+sinxxx. We use the quotient rule on this function
+wherever it is defined.   cos
+(cot)
+sindgddx
+xdxdxdxx
+
+316MATHEMATICS
+= 2(cos)(sin)(cos)(sin)
+(sin)
+xxxx
+x= 2(sin)(sin)(cos)(cos)
+(sin)
+xxxx
+x= 2222sincos
+cosec
+sinxxxx
+Alternatively, this may be computed by noting that 
+1cot
+tan
+xx. Here, we use the factthat the derivative of tan x is sec2 x which we saw in Example 17 and also that thederivative of the constant function is 0.dgdx= 1(cot)
+tan
+ddxdxdxx
+= 2(1)(tan)(1)(tan)
+(tan)
+xxx= 22(0)(tan)(sec)
+(tan)
+xxx= 222sec
+cosec
+tanxxxExample 22 Find the derivative of(i) 5cos
+sinxxx(ii) costan
+xxxSolution (i) Let 5cos
+()sinxxhxx. We use the quotient rule on this function wherever
+it is defined.552(cos)sin(cos)(sin)
+()(sin)
+xxxxxx
+hxx
+
+  LIMITS AND DERIVATIVES            317= 452(5sin)sin(cos)cos
+sinxxxxxx
+x
+= 542cos5sin1
+(sin)
+xxxx
+x
+ (ii)We 
+use quotient rule on the function costan
+xxx wherever it is defined.()hx= 2(cos)tan(cos)(tan)
+(tan)
+xxxxxx
+x
+=22(1sin)tan(cos)sec
+(tan)
+xxxxx
+x
+Miscellaneous Exercise on Chapter 131. Find the derivative of the following functions from first principle: (i) x(ii)1()x(iii)sin (x + 1)(iv)
+cos (x Œ 8)Find the derivative of the following functions (it is to be understood that a, b, c, d,p, q, r and s are fixed non-zero constants and m and n are integers):2.(x + a)3.(px + q) rsx4.
+2axbcxd
+5.axb
+cxd
+6.1111xx7.21axbxc
+8.2axb
+pxqxr
+9.2pxqxr
+axb
+10.42cos
+abxxx11.
+42x12.()naxb
+13.()()
+nmaxbcxd
+14.sin (x + a)15.cosec x cot x16.cos1sin
+xx
+318MATHEMATICS
+17.sincos
+sincos
+xxxx18.sec1
+sec1
+xx19. sinnx20.sincosabx
+cdx
+21.sin()
+cos
+xax22. 4(5sin3cos)
+xxx23.21cos
+xx24.2sincos
+axxpqx
+25.costan
+xxxx
+26.45sin
+37cos
+xxxx27. 2cos
+4sin
+xx28.1tan
+xx29.
+sectan
+xxxx
+30.sinnxxSummaryThe expected value of the function as dictated by the points to the left of apoint defines the left hand limit of the function at that point. Similarly the right
+hand limit.Limit of a function at a point is the common value of the left and right hand
+limits, if they coincide.For a function f and a real number a, lim
+xa f(x) and f (a) may not be same (Infact, one may be defined and not the other one).For functions f and g the following holds:lim()()lim()lim()
+xaxaxa
+fxgxfxgx
+
+
+lim().()lim().lim()
+xaxaxa
+fxgxfxgx
+
+lim()
+()lim
+()lim()
+xaxaxafxfxgxgx
+Following are some of the standard limits1lim
+nnnxaxanaxa
+  LIMITS AND DERIVATIVES            3190sin
+lim1
+xxx01cos
+lim0
+xxxThe derivative of a function f at a is defined by0()()
+()lim
+hfahfa
+fahDerivative of a function f at any point x is defined by0()()()
+()lim
+hdfxfxhfx
+fxdxh
+For functions u and v the following holds:()uvuv
+
+
+()uvuvuv
+
+2uuvuv
+vv provided all are defined.Following are some of the standard derivatives.1()nndxnxdx(sin)cos
+dxxdx(cos)sin
+dxxdxHistorical NoteIn the history of mathematics two names are prominent to share the credit forinventing calculus, Issac Newton (1642 Œ 1727) and G.W. Leibnitz (1646 Œ 1717).
+
+Both of them independently invented calculus around the seventeenth century.
+After the advent of calculus many mathematicians contributed for furtherdevelopment of calculus. The rigorous concept is mainly attributed to the great
+320MATHEMATICS
+mathematicians, A.L. Cauchy, J.L.Lagrange and Karl Weierstrass. Cauchy gave
+the foundation of calculus as we have now generally accepted in our textbooks.Cauchy used D™ Alembert™s limit concept to define the derivative of a function.
+Starting with definition of a limit, Cauchy gave examples such as the limit ofsin
+ for = 0. He wrote ()()
+,yfxifx
+xi
+ and called the limit for0,ithe ﬁfunction derive™e, y for f  (x)ﬂ.Before 1900, it was thought that calculus is quite difficult to teach. So calculusbecame beyond the reach of youngsters. But just in 1900, John Perry and othersin England started propagating the view that essential ideas and methods of calculuswere simple and could be taught even in schools. F.L. Griffin, pioneered the
+teaching of calculus to first year students. This was regarded as one of the mostdaring act in those days.Today not only the mathematics but many other subjects such as Physics,
+Chemistry, Economics and Biological Sciences are enjoying the fruits of calculus.
+ŠŠ

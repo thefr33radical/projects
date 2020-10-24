@@ -1,0 +1,191 @@
+38M
+ATHEMATICS
+33.1Introduction
+You must have come across situations like the one given below :
+Akhila went to a fair in her village. She wanted to enjoy rides on the Giant Wheeland play Hoopla (a game in which you throw a ring on the items kept in a stall, and if
+
+the ring covers any object completely, you get it). The number of times she played
+
+Hoopla is half the number of rides she had on the Giant Wheel. If each ride costs
+Rs 3, and a game of Hoopla costs Rs 4, how would you find out the number of rides
+she had and how many times she played Hoopla, provided she spent Rs 20.
+May be you will try it by considering different cases. If she has one ride, is itpossible? Is it possible to have two rides? And so on. Or you may use the knowledge
+
+of Class IX, to represent such situations as linear equations in two variables.PAIR OF LINEAR EQUATIONS
+IN TWO VARIABLES
+PAIR OF LINEAR EQUATIONS
+ IN TWO VARIABLES39Let us try this approach.
+Denote the number of rides that Akhila had by 
+x, and the number of times sheplayed Hoopla by y. Now the situation can be represented by the two equations:y =12x(1)3x + 4y =20(2)
+Can we find the solutions of this pair of equations? There are several ways offinding these, which we will study in this chapter.
+3.2Pair of Linear Equations in Two Variables
+Recall, from Class IX, that the following are examples of linear equations in two
+variables:2x + 3y =5
+x Œ 2
+y Œ 3 =0
+andx Œ 0
+y =2,i.e.,
+x = 2
+You also know that an equation which can be put in the form 
+ax + 
+by + 
+c = 0,
+where a, b and 
+c are real numbers, and 
+a and 
+b are not both zero
+, is called a linearequation in two variables x and 
+y. (We often denote the condition 
+a and 
+b are not both
+zero by a2 + 
+b2  0). You have also studied that a solution of such an equation is a
+pair of values, one for x and the other for 
+y, which makes the two sides of theequation equal.For example, let us substitute x = 1 and y = 1 in the left hand side (LHS) of theequation 2x + 3
+y = 5. Then
+LHS =2(1) + 3(1) = 2 + 3 = 5,
+which is equal to the right hand side (RHS) of the equation.
+Therefore, x = 1 and y = 1 is a solution of the equation 2x + 3y = 5.Now let us substitute x = 1 and y = 7 in the equation 2x + 3y = 5. Then,LHS =2(1) + 3(7) = 2 + 21 = 23
+which is not equal to the RHS.Therefore, x = 1 and 
+y = 7 is 
+not a solution of the equation.
+Geometrically, what does this mean? It means that the point (1, 1) lies on the line
+representing the equation 2x + 3
+y = 5, and the point (1, 7) does not lie on it. So, 
+everysolution of the equation is a point on the line representing it.
+40M
+ATHEMATICS
+In fact, this is true for any linear equation, that is, each solution (x, y) of alinear equation in two variables, ax + 
+by + 
+c = 0, corresponds to a point on the
+line representing the equation, and vice versa.Now, consider Equations (1) and (2) given above. These equations, 
+takentogether, represent the information we have about Akhila at the fair.
+These two linear equations are 
+in the same two variables x and 
+y. Equationslike these are called a pair of linear equations in two variables.Let us see what such pairs look like algebraically.
+The general form for a pair of linear equations in two variables x and 
+y is
+a1x + 
+b1y + 
+c1 =0
+anda2x + 
+b2y + 
+c2 =0,
+where a1, b1, c1, a2, b2, c2 are all real numbers and 
+a12 + 
+b12  0, 
+a22 + 
+b22  0.
+Some examples of pair of linear equations in two variables are:2x + 3y Œ 7 = 0and9
+x Œ 2
+y + 8 = 0
+5x = 
+yandŒ7
+x + 2
+y + 3 = 0
+x + 
+y = 7and17 = 
+yDo you know, what do they look like geometrically?
+
+Recall, that you have studied in Class IX that the geometrical (i.e., graphical)representation of a linear equation in two variables is a straight line. Can you now
+suggest what a pair of linear equations in two variables will look like, geometrically?
+There will be two straight lines, both to be considered together.
+You have also studied in Class IX that given two lines in a plane, only one of the
+following three possibilities can happen:(i)The two lines will intersect at one point.
+(ii)The two lines will not intersect, i.e., they are parallel.(iii)The two lines will be coincident.We show all these possibilities in Fig. 3.1:
+In Fig. 3.1 (a), they intersect.
+In Fig. 3.1 (b), they are parallel.
+In Fig. 3.1 (c), they are coincident.
+PAIR OF LINEAR EQUATIONS
+ IN TWO VARIABLES41Fig. 3.1Both ways of representing a pair of linear equations go hand-in-handŠthe
+algebraic and the geometric ways. Let us consider some examples.Example 1 : Let us take the example given in Section 3.1. Akhila goes to a fair withRs 20 and wants to have rides on the Giant Wheel and play Hoopla. Represent this
+situation algebraically and graphically (geometrically).Solution : The pair of equations formed is :y =12xi.e.,x Œ 2
+y =0(1)
+3x + 4y =20(2)
+Let us represent these equations graphically. For this, we need at least two
+solutions for each equation. We give these solutions in Table 3.1.
+Table 3.1
+x02x02034y = 2x01y = 203
+4x502
+(i)(ii)
+Recall from Class IX that there are infinitely many solutions of each linearequation. So each of you can choose any two values, which may not be the ones we
+have chosen. Can you guess why we have chosen 
+x = 0 in the first equation and in the
+second equation? When one of the variables is zero, the equation reduces to a linear
+42M
+ATHEMATICS
+equation in one variable, which can be solved easily. For instance, putting 
+x = 0 in
+Equation (2), we get 4y = 20, i.e., 
+y = 5. Similarly, putting 
+y = 0 in Equation (2), we get
+3x = 20, i.e., x = 203. But as 203 isnot an integer, it will not be easy to
+
+plot exactly on the graph paper. So,
+
+we choose y = 2 which gives 
+x = 4,
+an integral value.Plot the points A(0, 0), B(2, 1)
+and P(0, 5), Q(4, 2), corresponding
+to the solutions in Table 3.1. Now
+draw the lines AB and PQ,representing the equations
+x Œ 2
+y = 0 and 3
+x + 4
+y = 20, as
+shown in Fig. 3.2.In Fig. 3.2, observe that the two lines representing the two equations areintersecting at the point (4, 2). We shall discuss what this means in the next section.
+Example 2 : Romila went to a stationery shop and purchased 2 pencils and 3 erasersfor ` 9. Her friend Sonali saw the new variety of pencils and erasers with Romila, and
+she also bought 4 pencils and 6 erasers of the same kind for ` 18. Represent this
+situation algebraically and graphically.
+Solution : Let us denote the cost of 1 pencil by ` x and one eraser by 
+` y. Then the
+algebraic representation is given by the following equations:2x + 3y =9(1)
+4x + 6y =18(2)
+To obtain the equivalent geometric representation, we find two points on the line
+representing each equation. That is, we find two solutions of each equation.Fig. 3.2
+PAIR OF LINEAR EQUATIONS
+ IN TWO VARIABLES43Fig. 3.3These solutions are given below in Table 3.2.
+Table 3.2
+x04.5
+x03y = 
+923x30y = 184
+6x31(i)(ii)
+We plot these points in a graph
+paper and draw the lines. We find that
+both the lines coincide (see Fig. 3.3).This is so, because, both theequations are equivalent, i.e., one canbe derived from the other.
+Example 3 : Two rails are
+represented by the equationsx + 2y Œ 4 = 0 and 2x + 4y Œ 12 = 0.Represent this situation geometrically.
+Solution : Two solutions of each of
+the equations :x + 2
+y Œ 4 =0(1)
+2x + 4
+y Œ 12 =0(2)
+are given in Table 3.3
+Table 3.3
+x04x06y = 42x20y = 122
+4x30(i)(ii)
+To represent the equations graphically, we plot the points R(0, 2) and S(4, 0), to
+get the line RS and the points P(0, 3) and Q(6, 0) to get the line PQ.
+44M
+ATHEMATICS
+We observe in Fig. 3.4, that the
+lines do not intersect anywhere, i.e.,they are parallel.So, we have seen severalsituations which can be representedby a pair of linear equations. We
+have seen their algebraic andgeometric representations. In thenext few sections, we will discusshow these representations can beused to look for solutions of the pairof linear equations.EXERCISE3.1
+1.Aftab tells his daughter, ﬁSeven years ago, I was seven times as old as you were then.
+Also, three years from now, I shall be three times as old as you will be.ﬂ (Isn™t this
+interesting?) Represent this situation algebraically and graphically.
+2.The coach of a cricket team buys 3 bats and 6 balls for 
+` 3900. Later, she buys another
+bat and 3 more balls of the same kind for ` 1300. Represent this situation algebraically
+and geometrically.
+3.The cost of 2 kg of apples and 1kg of grapes on a day was found to be 
+` 160. After a
+month, the cost of 4 kg of apples and 2 kg of grapes is ` 300. Represent the situation
+algebraically and geometrically.
+3.3Graphical Method of Solution of a Pair of Linear Equations
+In the previous section, you have seen how we can graphically represent a pair oflinear equations as two lines. You have also seen that the lines may intersect, or may
+
+be parallel, or may coincide. Can we solve them in each case? And if so, how? We
+
+shall try and answer these questions from the geometrical point of view in this section.Let us look at the earlier examples one by one.In the situation of Example 1, find out how many rides on the Giant Wheel
+Akhila had, and how many times she played Hoopla.In Fig. 3.2, you noted that the equations representing the situation aregeometrically shown by two lines intersecting at the point (4, 2). Therefore, theFig. 3.4

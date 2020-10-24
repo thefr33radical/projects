@@ -1,0 +1,559 @@
+276CHEMISTRY276       C:\ChemistryXI\Unit-9\Unit-9(6).pmd  10.2.6, 6.3.6, 14.3.6UNIT 9After studying this unit, you will beable to•••••present informed opinions on theposition of hydrogen in the
+periodic table;•••••identify the modes of occurrence
+and  preparation of dihydrogen ona small and commercial scale;
+describe isotopes of hydrogen;•••••explain how different elements
+combine with hydrogen to form
+ionic, molecular and non-
+stoichiometric compounds;•••••describe how an understanding of
+its properties can lead to the
+production of useful substances,
+and new technologies;•••••understand the structure of water
+and use the knowledge for
+explaining physical and chemical
+properties;•••••explain how environmental water
+quality depends on a variety of
+dissolved substances; difference
+between 'hard' and 'soft' water and
+learn about water softening;•••••acquire the knowledge aboutheavy water and its importance;•••••understand the structure of
+hydrogen peroxide, learn its
+preparatory methods and
+properties leading to the
+manufacture of useful chemicals
+and cleaning of environment;•••••understand and use certain terms
+e.g., electron-deficient, electron-
+precise, electron-rich, hydrogen
+economy, hydrogenation etc.HYDROGENHydrogen, the most abundant element in the universe and thethird most abundant on the surface of the globe, is being
+visualised as the major future source of energy.Hydrogen has the simplest atomic structure among all the
+elements around us in Nature. In atomic form it consists
+of only one proton and one electron. However, in elementalform it exists as a diatomic (H2) molecule and is calleddihydrogen. It forms more compounds than any otherelement. Do you know that the global concern related toenergy can be overcome to a great extent by the use ofhydrogen as a source of energy? In fact, hydrogen is of
+great industrial importance as you will learn in this unit.9.1POSITION OF HYDROGEN IN THE PERIODIC
+TABLEHydrogen is the first element in the periodic table.However, its placement in the periodic table has been asubject of discussion in the past. As you know by nowthat the elements in the periodic table are arrangedaccording to their electronic configurations.Hydrogen has electronic configuration 1s1. On onehand, its electronic configuration is similar to the outerelectronic configuration (ns1) of alkali metals , which belongto the first group of the periodic table. On the other hand,
+like halogens (with ns2np5 configuration belonging to theseventeenth group of the periodic table), it is short by one
+electron to the corresponding noble gas configuration,helium (1s2). Hydrogen, therefore, has resemblance toalkali metals, which lose one electron to form unipositiveions, as well as with halogens, which gain one electron toform uninegative ion. Like alkali metals, hydrogen formsoxides, halides and sulphides. However, unlike alkali
+metals, it has a very high ionization enthalpy and does not
+277HYDROGEN277       C:\ChemistryXI\Unit-9\Unit-9(6).pmd  10.2.6, 6.3.6, 14.3.6possess metallic characteristics under normalconditions. In fact, in terms of ionization
+enthalpy, hydrogen resembles morewith halogens, i H of Li is 520 kJ molŒ1, F is1680 kJ molŒ1 and that of H is 1312 kJ molŒ1.Like halogens, it forms a diatomic molecule,
+combines with elements to form hydrides and
+a large number of covalent compounds.However, in terms of reactivity, it is very low ascompared to halogens.Inspite of the fact that hydrogen, to acertain extent resembles both with alkalimetals and halogens, it differs from them as
+well. Now the pertinent question arises aswhere should it be placed in the periodic table?Loss of the electron from hydrogen atomresults in  nucleus (H+) of ~1.510Œ3 pm size.This is extremely small as compared to normalatomic and ionic sizes of 50 to 200pm. As a
+consequence, H+ does not exist freely and isalways associated with other atoms or
+molecules. Thus, it is unique in behaviour and
+is, therefore, best placed separately in the
+periodic table (Unit 3).9.2DIHYDROGEN,  H
+29.2.1OccurrenceDihydrogen is the most abundant element inthe universe (70% of the  total mass of the
+universe) and is the principal element in thePropertyHydrogenDeuteriumTritiumRelative abundance (%)99.9850.015610
+Œ15Relative atomic mass (g molŒ1)1.0082.0143.016
+Melting point / K13.9618.7320.62
+Boiling point/ K20.3923.6725.0
+Density / gLŒ10.090.180.27
+Enthalpy of fusion/kJ molŒ10.1170.197-
+Enthalpy of vaporization/kJ molŒ10.9041.226-
+Enthalpy of bonddissociation/kJ molŒ1 at 298.2K435.88443.35-
+Internuclear distance/pm74.1474.14-
+Ionization enthalpy/kJ molŒ11312--
+Electron gain enthalpy/kJ molŒ1Œ73--
+Covalent radius/pm37--
+Ionic radius(HŒ )/pm208
+solar atmosphere. The giant planets Jupiterand Saturn consist mostly of hydrogen.However, due to its light nature, it is much lessabundant (0.15% by mass) in the earth™satmosphere. Of course, in the combined form
+it constitutes 15.4% of the earth's crust and
+the oceans. In the combined form besides inwater, it occurs in plant and animal tissues,carbohydrates, proteins, hydrides including
+hydrocarbons and many other compounds.9.2.2Isotopes of Hydrogen
+Hydrogen has three isotopes: protium, 11H,deuterium, 21H or D and tritium,31H or T. Canyou  guess how these isotopes differ from eachother ? These isotopes differ from one anotherin respect of the presence of neutrons. Ordinaryhydrogen, protium, has no neutrons,
+deuterium (also known as heavy hydrogen) has
+one and tritium has two neutrons in thenucleus.  In the year 1934, an Americanscientist, Harold C. Urey, got Nobel Prize for
+separating hydrogen isotope of mass number
+2 by physical methods.The predominant form is protium.Terrestrial hydrogen contains 0.0156% of
+deuterium mostly in the form of HD. The
+tritium concentration is about one atom per1018 atoms of protium. Of these isotopes, onlytritium is radioactive and emits low energyŒ particles (t˜, 12.33 years).Table 9.1  Atomic and Physical Properties of Hydrogen
+278CHEMISTRY278       C:\ChemistryXI\Unit-9\Unit-9(6).pmd  10.2.6, 6.3.6, 14.3.6Since the isotopes have the same electronicconfiguration, they have almost the samechemical properties. The only difference is intheir rates of reactions, mainly due to theirdifferent enthalpy of bond dissociation (Table
+9.1). However, in physical properties these
+isotopes differ considerably due to their large
+mass differences.9.3PREPARATION OF DIHYDROGEN, H
+2There are a number of methods for preparingdihydrogen from metals and metal hydrides.9.3.1Laboratory 
+Preparation ofDihydrogen(i)It is usually prepared by the reaction of
+granulated zinc with dilute hydrochloric
+acid.Zn  +  2H+    Zn
+2+  +  H
+2(ii)It 
+can also be prepared by the reaction ofzinc with aqueous alkali.Zn + 2NaOH    Na
+2ZnO2  +  H
+2                                 Sodium zincate9.3.2Commercial 
+Production ofDihydrogenThe commonly used processes are outlinedbelow:(i)Electrolysis of acidified water using
+platinum electrodes gives hydrogen.Electrolysis
+222
+Tracesofacid/base
+2HOl2HgOg
+
+(ii)High purity (>99.95%) dihydrogen isobtained by electrolysing warm aqueous
+barium hydroxide solution between nickelelectrodes.(iii)It is 
+obtained as a byproduct in themanufacture of sodium hydroxide andchlorine by the electrolysis of  brine
+solution. During electrolysis, the reactionsthat take place are:at anode: 2ClŒ(aq)  Cl2(g) + 2eŒat cathode: 2H2O (l) + 2eŒH2(g) + 2OHŒ(aq)The overall reaction is2Na+ (aq) + 2Cl
+Œ(aq) + 2H2O(l)Cl2(g) + H2(g) + 2Na+ (aq) + 2OHŒ(aq)(iv)Reaction of steam on hydrocarbons or coke
+at high temperatures in the presence ofcatalyst yields hydrogen.         
+1270K
+n2n222
+NiCHnHOnCO(2n1)H
+e.g.,
+1270K
+422
+NiCHgHOgCOg3Hg
+
+The mixture of CO and H2 is called watergas. As this mixture of CO and H2 is used forthe synthesis of methanol and a number ofhydrocarbons, it is also called synthesis gasor 'syngas'. Nowadays 'syngas' is producedfrom sewage, saw-dust, scrap wood,newspapers etc. The process of producing
+'syngas' from coal is called 'coal gasification'.
+1270K
+22CsHOgCOgHg
+
+The production of dihydrogen can beincreased by reacting carbon monoxide ofsyngas mixtures with steam in the presence ofiron chromate as catalyst.673K
+222
+catalyst
+COgHOgCOgHg
+
+This is called water-gas shift reaction.Carbon dioxide is removed by scrubbing withsodium arsenite solution.Presently ~77% of the industrialdihydrogen is produced from petro-chemicals,18% from coal, 4% from electrolysis of aqueous
+solutions and 1% from other sources.9.4PROPERTIES OF DIHYDROGEN
+9.4.1Physical Properties
+Dihydrogen is a colourless, odourless,tasteless,  combustible gas. It is lighter than
+air and insoluble in water. Its other physicalproperties alongwith those of deuterium aregiven in Table 9.1.9.4.2Chemical Properties
+The chemical behaviour of dihydrogen (and forthat matter any molecule) is determined, to a
+large extent, by bond dissociation enthalpy.The HŒH bond dissociation enthalpy is thehighest for a single bond between two atoms
+of any element. What inferences would you
+draw from this fact ? It is because of this factorthat the dissociation of dihydrogen into itsatoms is only ~0.081% around 2000K which
+increases to 95.5% at 5000K. Also, it is
+relatively inert at room temperature due to the
+279HYDROGEN279       C:\ChemistryXI\Unit-9\Unit-9(6).pmd  10.2.6, 6.3.6, 14.3.6high HŒH bond enthalpy. Thus, the atomichydrogen is produced at a high temperature
+in an electric arc or under ultravioletradiations. Since its orbital is incomplete with1s1 electronic configuration, it does combinewith almost all the elements. It accomplishesreactions by (i) loss of the only electron togive H+, (ii) gain of an electron to form HŒ, and(iii) sharing electrons to form a single covalent bond.The chemistry of dihydrogen can beillustrated by the following reactions:Reaction with halogens: It reacts withhalogens, X2 to give hydrogen halides, HX,
+22HgXg2HXg(XF,Cl,Br,I)
+
+While the reaction with fluorine occurs even inthe dark, with iodine it requires a catalyst.Reaction with dioxygen: It reacts withdioxygen to form water. The reaction is highlyexothermic.2H2(g)   +  O2 (g)    2H
+2O(l);H= Œ285.9 kJ molŒ1Reaction with dinitrogen: With dinitrogenit forms ammonia.673K,200atm
+223
+Fe13HgNg2NHg;
+92.6kJmol
+
+
+HThis is the method for the manufacture ofammonia by the Haber process.Reactions with metals: With many metals itcombines at a high temperature to yield thecorresponding hydrides (section 9.5)H2(g) +2M(g)    2MH(s);where M is an alkali metalReactions with metal ions and metaloxides: It reduces some metal ions in aqueoussolution and oxides of metals (less active than
+iron) into corresponding metals.
+222xy2
+HgPdaqPds2Haq
+yHgMOsxMsyHOl
+
+
+Reactions with organic compounds: Itreacts with many organic compounds in  thepresence of catalysts to give usefulhydrogenated products of commercialimportance. For example :(i)Hydrogenation of vegetable oils using
+nickel as catalyst gives edible fats(margarine and vanaspati ghee)(ii)Hydroformylation of olefins yields
+aldehydes which further undergo
+reduction to give alcohols.2222
+HCORCHCHRCHCHCHO
+
+222222
+HRCHCHCHORCHCHCHOH
+Problem 9.1Comment on the reactions of dihydrogenwith (i) chlorine, (ii) sodium, and (iii)copper(II) oxideSolution
+(i) Dihydrogen reduces chlorine intochloride (ClŒ) ion and itself gets oxidisedto H+ ion by chlorine to form hydrogenchloride.  An electron pair is sharedbetween H and Cl leading to the formationof a covalent molecule.(ii) Dihydrogen is reduced by sodium toform NaH.  An electron is transferred from
+Na to H leading to the formation of an ioniccompound, Na+HŒ.(iii) Dihydrogen reduces copper(II) oxideto copper in zero oxidation state and itselfgets oxidised to H2O, which is a covalentmolecule.9.4.3Uses of Dihydrogen
+•The largest single use of dihydrogen is inthe synthesis of ammonia which is used inthe manufacture of nitric acid andnitrogenous fertilizers.•Dihydrogen is used in the manufacture ofvanaspati fat by the hydrogenation ofpolyunsaturated vegetable oils like
+soyabean, cotton seeds etc.•It is used in the manufacture of bulk
+organic chemicals, particularly methanol.
+cobalt23catalyst
+COg2HgCHOHl
+
+•It is widely used for the manufacture ofmetal hydrides (Section 9.5)•It is used for the preparation of hydrogenchloride, a highly useful chemical.
+280CHEMISTRY280       C:\ChemistryXI\Unit-9\Unit-9(6).pmd  10.2.6, 6.3.6, 14.3.6•In metallurgical processes, it is used toreduce heavy metal oxides to metals.•Atomic hydrogen and oxy-hydrogentorches find use for cutting and welding
+purposes. Atomic hydrogen atoms
+(produced by dissociation of dihydrogen
+with the help of an electric  arc) are allowedto recombine on the surface to be welded
+to generate the temperature of 4000 K.•It is used as a rocket fuel in space research.•Dihydrogen is used in fuel cells for
+generating electrical energy. It has many
+advantages over the conventional fossil
+fuels and electric power. It does not produce
+any pollution and releases greater energy
+per unit mass of fuel in comparison to
+gasoline and other fuels.9.5HYDRIDES
+Dihydrogen, under certain reaction conditions,combines with almost all elements, except
+noble gases, to form binary compounds, calledhydrides. If ‚E™ is the symbol of an element thenhydride can be expressed as EHx (e.g., MgH2)or EmHn (e.g., B2H6).The hydrides are classified into threecategories :(i)Ionic or saline or saltlike hydrides
+(ii)Covalent or molecular hydrides(iii)Metallic or non-stoichiometric hydrides9.5.1Ionic or 
+Saline HydridesThese are stoichiometric compounds ofdihydrogen formed with most of the s-blockelements which are highly electropositive incharacter. However, significant covalentcharacter is found in the lighter metal hydrides
+such as LiH, BeH2 and MgH2. In fact BeH2 andMgH2 are polymeric in structure. The ionichydrides are crystalline, non-volatile and non-conducting in solid state. However, their meltsconduct electricity and on electrolysis liberatedihydrogen gas at anode, which confirms the
+existence of HŒ ion.
+anode
+Œ22HmeltHg2e
+
+Saline hydrides react violently with waterproducing dihydrogen gas.
+22NaHsHOaqNaOHaqHg
+
+Lithium hydride is rather unreactive atmoderate temperatures with O2 or Cl2. It is,therefore, used in the synthesis of other usefulhydrides, e.g.,8LiH + Al2Cl6    2LiAlH4  + 6LiCl2LiH + B2H6    2LiBH49.5.2Covalent or 
+Molecular HydrideDihydrogen forms molecular compounds with
+most of the p-block elements. Most familiarexamples are CH4, NH3, H2O and HF. Forconvenience hydrogen compounds of non-metals have also been considered as hydrides.Being covalent, they are volatile compounds.Molecular hydrides are further classifiedaccording to the relative numbers of electrons
+and bonds in their Lewis structure into :(i) electron-deficient, (ii) electron-precise,and (iii) electron-rich hydrides.An electron-deficient hydride, as the namesuggests, has too few electrons for writing its
+conventional Lewis structure. Diborane (B2H6)is an example. In fact all elements of group 13will form electron-deficient compounds. Whatdo you expect from their behaviour? They actas Lewis acids i.e., electron acceptors.Electron-precise compounds have therequired number of electrons to write theirconventional Lewis structures. All elements ofgroup 14 form such compounds (e.g., CH4)which are tetrahedral in geometry.Electron-rich hydrides have excesselectrons which are present as lone pairs.Elements of group 15-17 form suchcompounds. (NH3 has 1- lone pair, H2O Œ 2and HF Œ3 lone pairs). What do you expect fromthe behaviour of such compounds ? They willbehave as Lewis bases i.e., electron donors. The
+presence of lone pairs on highly electronegativeatoms like N, O and F in hydrides results inhydrogen bond formation between the
+molecules. This leads to the association ofmolecules.
+Problem 9.2Would you expect the hydrides of N, Oand F to have lower boiling points than
+the hydrides of their subsequent groupmembers ? Give reasons.
+281HYDROGEN281       C:\ChemistryXI\Unit-9\Unit-9(6).pmd  10.2.6, 6.3.6, 14.3.6SolutionOn the basis of molecular masses of NH3,H2O and HF, their boiling points areexpected to be lower than those of thesubsequent group member hydrides.However, due to higher electronegativityof N, O and F, the magnitude of hydrogenbonding in their hydrides will be quite
+appreciable. Hence, the boiling pointsNH3, H2O and HF will be higher than thehydrides of their subsequent groupmembers.9.5.3Metallic or Non-stoichiometric
+(or Interstitial ) HydridesThese are formed by many d-block and f-blockelements. However, the metals of group 7, 8and 9  do not form hydride. Even from group6, only chromium forms CrH. These hydridesconduct heat and electricity though not asefficiently as their parent metals do. Unlikesaline hydrides, they are almost always non-stoichiometric, being deficient in hydrogen. Forexample, LaH2.87, YbH2.55, TiH1.5Œ1.8, ZrH1.3Œ1.75,VH0.56, NiH0.6Œ0.7, PdH0.6Œ0.8 etc. In suchhydrides, the law of constant composition doesnot hold good.Earlier it was thought that in thesehydrides, hydrogen occupies interstices in themetal lattice producing distortion without anychange in its type. Consequently, they were
+termed as interstitial hydrides. However, recentstudies have shown that except for hydridesof Ni, Pd, Ce and Ac, other hydrides of this class
+have lattice different from that of the parentmetal. The property of absorption of hydrogenon transition metals is widely used in catalytic
+reduction / hydrogenation reactions for thepreparation of large number of compounds.Some of the metals (e.g., Pd, Pt) can
+accommodate a very large volume of hydrogenand, therefore, can be used as its storagemedia. This property has high potential for
+hydrogen storage and as a source of energy.Problem 9.3Can phosphorus with outer electronicconfiguration 3s23p3 form PH5 ?SolutionAlthough phosphorus exhibits +3 and +5oxidation states, it cannot form PH5.Besides some other considerations, highaH  value of dihydrogen and egH  valueof hydrogen do not favour to exhibit the
+highest oxidation state of P, andconsequently the formation of PH5.9.6WATER
+A major part of all living organisms is madeup of water. Human body has about 65% and
+some plants have as much as 95% water. It isa crucial compound for the survival of all lifeforms. It is a solvent of great importance. The
+distribution of water over the earth™s surface
+is not uniform. The estimated world water
+supply is given in Table 9.2Table 9.2  Estimated World Water SupplySource% of 
+TotalOceans97.33Saline lakes and inland seas0.008
+Polar ice and glaciers2.04
+Ground water0.61
+Lakes0.009Soil moisture0.005
+Atmospheric water vapour0.001
+Rivers0.00019.6.1Physical 
+Properties of WaterIt is a colourless and tasteless liquid. Itsphysical properties are given in Table 9.3 alongwith the physical properties of heavy water.The unusual properties of water in thecondensed phase (liquid and solid states) aredue to the presence of extensive hydrogenbonding between water molecules. This leadsto high freezing point, high boiling point, highheat of vaporisation and high heat of fusion incomparison to H2S and H2Se. In comparisonto other liquids, water has a higher specificheat, thermal conductivity, surface  tension,dipole moment and dielectric constant, etc.These properties allow water to play a key rolein the biosphere.
+282CHEMISTRY282       C:\ChemistryXI\Unit-9\Unit-9(6).pmd  10.2.6, 6.3.6, 14.3.6The high heat of vaporisation and heatcapacity are responsible for moderation of theclimate and body temperature of living beings.It is  an excellent solvent for transportation of
+ions and molecules required for plant andanimal metabolism. Due to hydrogen bondingwith polar molecules, even covalent
+compounds like alcohol and carbohydratesdissolve in water.9.6.2Structure of Water
+In the gas phase water is a bent molecule witha bond angle of 104.5°, and OŒH bond length
+of 95.7 pm as shown in Fig 9.1(a). It is a highlyPropertyH
+2OD2OMolecular mass (g molŒ1)18.015120.0276
+Melting point/K273.0276.8
+Boiling point/K373.0374.4
+Enthalpy of formation/kJ molŒ1Œ285.9Œ294.6
+Enthalpy of vaporisation (373K)/kJ molŒ140.6641.61
+Enthalpy of fusion/kJ molŒ16.01-
+Temp of max. density/K276.98284.2
+Density (298K)/g cmŒ31.00001.1059
+Viscosity/centipoise0.89031.107
+Dielectric constant/C2/N.m278.3978.06
+Electrical conductivity (293K/ohmŒ1 cmŒ1)5.710
+Œ8-Table 9.3  Physical Properties of H2O and D2Opolar molecule, (Fig 9.1(b)). Its orbital overlap
+picture is shown in Fig. 9.1(c). In the liquid
+phase water molecules are associated togetherby hydrogen bonds.The crystalline form of water is ice. Atatmospheric pressure ice crystallises in thehexagonal form, but at very low temperaturesit condenses to cubic form. Density of ice is
+less than that of water. Therefore, an ice cube
+floats on water.  In winter season ice formed
+on the surface of a lake provides thermal
+insulation which ensures the survival of the
+aquatic life. This fact is of great ecological
+significance.9.6.3Structure 
+of IceIce has a highly ordered three dimensionalhydrogen bonded structure as shown in
+Fig. 9.2. Examination of ice crystals withFig. 9.1(a) The bent structure of water; (b) the
+water molecule as a dipole and
+(c) the orbital overlap picture in watermolecule.Fig. 9.2  The structure of ice
+283HYDROGEN283       C:\ChemistryXI\Unit-9\Unit-9(6).pmd  10.2.6, 6.3.6, 14.3.6X-rays shows that each oxygen atom issurrounded tetrahedrally by four other oxygen
+atoms at a distance of 276 pm.Hydrogen bonding gives ice a rather opentype structure with wide holes. These holes canhold some other molecules of appropriate size
+interstitially.9.6.4Chemical 
+Properties of WaterWater reacts with a large number ofsubstances. Some of the important reactions
+are given below.(1) Amphoteric Nature: It has the ability toact as an acid as well as  a base i.e., it behavesas an amphoteric substance. In the Brönsted
+sense it acts as an acid with NH3 and a basewith H2S.
+Œ234HOlNHaqOHaqNHaq
+
+Œ223
+HOlHSaqHOaqHSaq
+The auto-protolysis (self-ionization) of watertakes place as follows :
+Œ223
+HOlHOlHOaqOHaq
+acid-1      base-2       acid-2           base-1(acid)        (base)       (conjugate    (conjugate                            acid)              base)(2) Redox Reactions Involving Water: Watercan be easily reduced to dihydrogen by highlyelectropositive metals.
+222HOl2Nas2NaOHaqHg
+
+Thus, it is a great source of dihydrogen.Water is oxidised to O2 during photosynthesis.6CO2(g) + 12H2O(l)  C6H12O6(aq) + 6H2O(l)+ 6O2(g)With fluorine also it is oxidised to O2.2F2(g) + 2H2O(l)  4H+ (aq) + 4FŒ(aq) + O2(g)(3) Hydrolysis Reaction: Due to highdielectric constant, it has a very stronghydrating tendency. It dissolves many ionic
+compounds. However, certain covalent and
+some ionic compounds are hydrolysed in water.
+410234
+POs6HOl4HPOaq
+
+422
+SiCll2HOlSiOs4HClaq
+
+
+323Ns3HOlNHg3OHaq
+
+(4) Hydrates Formation: From aqueoussolutions many salts can be crystallised ashydrated salts. Such an association of wateris of different types viz.,(i)coordinated water e.g.,
+3Œ26CrHO3Cl
+(ii)interstitial water e.g., 22BaCl.2HO
+(iii)hydrogen-bonded water e.g.,22Œ242
+4CuHOSO.HO
+in 42CuSO.5HO,
+Problem 9.4How many hydrogen-bonded watermolecule(s) are associated inCuSO4.5H2O?SolutionOnly one water molecule, which is outsidethe brackets (coordination sphere), ishydrogen-bonded. The other four
+molecules of water are coordinated.9.6.5Hard an
+d Soft WaterRain water is almost pure (may contain some
+dissolved gases from the atmosphere). Being a
+good solvent, when it flows on the surface of
+the  earth, it dissolves many salts. Presence of
+calcium and magnesium salts in the form ofhydrogencarbonate, chloride and sulphate in
+water makes water ‚hard™. Hard water doesnot give lather with soap. Water free from
+soluble salts of calcium and magnesium is
+called Soft water. It gives lather with soapeasily.Hard water forms scum/precipitate withsoap. Soap containing sodium stearate(C17H35COONa) reacts with hard water toprecipitate out Ca/Mg stearate.21735
+1735
+22CHCOONaaqMaq
+CHCOOM2Naaq;MisCa/Mg
+It is, therefore, unsuitable for laundry. It is
+harmful for boilers as well, because ofdeposition of salts in the form of scale. Thisreduces the efficiency of the boiler. The
+284CHEMISTRY284       C:\ChemistryXI\Unit-9\Unit-9(6).pmd  10.2.6, 6.3.6, 14.3.6hardness of water is of two types: (i) temporaryhardness, and (ii) permanent hardness.9.6.6Temporary Hardness
+Temporary hardness is due to the presence of
+magnesium and calcium hydrogen-
+carbonates. It can be removed by :(i) Boiling: During boiling, the solubleMg(HCO3)2 is converted into insoluble Mg(OH)2and Ca(HCO3)2 is changed to insoluble CaCO3.It is because of high solubility product ofMg(OH)2 as compared to that of MgCO3, thatMg(OH)2 is precipitated. These precipitates canbe removed by filtration. Filtrate thus obtained
+will be soft water.Heating
+3222MgHCOMgOH2CO
+
+
+Heating
+3322
+2CaHCOCaCOHOCO
+
+(ii) Clark™s method: In this method calculatedamount of lime is added to hard water. It
+precipitates out calcium carbonate andmagnesium hydroxide which can be filtered off.332
+22CaHCOCaOH2CaCO2HO
+
+332222MgHCO2CaOH2CaCO
+MgOH2HO
+
+
+9.6.7Permanent Hardness
+It is due to the presence of soluble salts ofmagnesium and calcium in the form of
+chlorides and sulphates in water. Permanenthardness is not removed by boiling. It can beremoved by the following methods:(i) Treatment with washing soda (sodiumcarbonate): Washing soda reacts with solublecalcium and magnesium chlorides and
+sulphates in hard water to form insoluble
+carbonates.2233
+423324
+MClNaCOMCO2NaCl
+(MMg,Ca)
+MSONaCOMCONaSO
+
+
+(ii) Calgon™s method: Sodium hexameta-phosphate (Na6P6O18), commercially called‚calgon™, when added to hard water, thefollowing reactions take place.2Œ66184618
+22246182618
+NaPO2NaNaPO
+(MMg,Ca)
+MNaPONaMPO2Na
+
+
+The complex anion keeps the Mg2+ and Ca2+ions in solution.(iii) Ion-exchange method: This method isalso called zeolite/permutit process. Hydratedsodium aluminium silicate is zeolite/permutit.
+For the sake of simplicity, sodium aluminium
+silicate (NaAlSiO4) can be written as NaZ. Whenthis is added in hard water, exchange reactionstake place.
+222NaZsMaqMZs2Naaq
+(MMg,Ca)
+
+Permutit/zeolite is said to be exhaustedwhen all the sodium in it is used up. It is
+regenerated for further use by treating with anaqueous sodium chloride solution.
+22MZs2NaClaq2NaZsMClaq
+
+(iv) Synthetic resins method: Nowadayshard water is softened by using syntheticcation exchangers. This method is more efficientthan zeolite process. Cation exchange resinscontain large organic molecule with - SO3Hgroup and are water insoluble. Ion exchangeresin (RSO3H) is changed to RNa by treating itwith NaCl. The resin exchanges Na+ ions withCa2+ and Mg2+ ions present in hard water tomake the water soft. Here R is resin anion.
+222RNasMaqRMs2Naaq
+
+The resin can be regenerated by addingaqueous NaCl solution.Pure de-mineralised (de-ionized) water freefrom all soluble mineral salts is obtained bypassing water successively through a cation
+exchange (in the H+ form) and an anion-exchange (in the OHŒ form) resins:
+222RHsMaqMRs2Haq
+In this cation exchange process, H+ exchangesfor Na+, Ca2+, Mg2+ and other cations presentin water. This process results in proton releaseand thus makes the water acidic. In the anionexchange process:
+285HYDROGEN285       C:\ChemistryXI\Unit-9\Unit-9(6).pmd  10.2.6, 6.3.6, 14.3.6
+223
+RNHsHOlRNH.OHs
+Œ33RNH.OHsXaqRNH.Xs
+OHaq
+
+OHŒexchanges for anions like ClŒ, HCO3Œ, SO42Œetc. present in water. OHŒ ions, thus, liberated
+neutralise the H+ ions set free in the cationexchange.
+2HaqOHaqHOl
+The exhausted cation and anion exchangeresin beds are regenerated by treatment withdilute acid and alkali solutions respectively.9.7HYDROGEN PEROXIDE (H
+2O2)Hydrogen peroxide is an important chemical
+used in pollution control treatment of domestic
+and industrial effluents.9.7.1Preparation
+It can be prepared by the following methods.(i) Acidifying barium peroxide and removingexcess water by evaporation under reducedpressure gives hydrogen peroxide.
+
+22244
+222
+BaO.8HOsHSOaqBaSOs
+HOaq8HOl
+
+(ii) Peroxodisulphate, obtained by electrolyticoxidation of acidified sulphate solutions at
+high current density, on hydrolysis yieldshydrogen peroxide.
+Electrolysis
+433
+Hydrolysis
+422
+2HSOaqHOSOOSOHaq
+2HSOaq2HaqHOaq
+
+
+
+This method is now used for the laboratorypreparation of D2O2.2282422
+KSOs2DOl2KDSOaqDOl
+
+(iii) Industrially it is prepared by the auto-oxidation of 2-alklylanthraquinols.22Oair
+22H/Pd
+2ethylanthraquinolHO
+oxidisedproduct
+
+
+In this case 1% H2O2 is formed. It isextracted with water and concentrated to ~30%(by mass) by distillation under reducedpressure. It can be further concentrated to~85% by careful distillation under low
+pressure. The remaining water can be frozenout to obtain pure H2O2.9.7.2Physical Properties
+In the pure state H2O2 is an almost colourless(very pale blue) liquid. Its important physicalproperties are given in Table 9.4.H2O2 is miscible with water in allproportions and forms a hydrate H2O2.H2O(mp 221K). A 30% solution of H2O2 is marketedas ‚100 volume™ hydrogen peroxide. It meansthat one millilitre of 30% H
+2O2 solution will give100 mL of 
+oxygen at STP. Commerciallymarketed sample is 10 V, which means thatthe sample contains 3% H2O2.Problem 9.5Calculate the strength of 10 volumesolution of hydrogen peroxide.Solution10 volume solution of H2O2 means that1L of this H2O2 solution will give 10 L ofoxygen at STP
+2222
+2HOlOgHOl
+234 g            22.7 L at STP68 gOn the basis of above equation 22.7 L ofO2 is produced from 68 g H2O2  at STP10 L of O2 at STP is produced from  226810
+g = 29.9 g  30 g HO
+22.7
+Therefore, strength of H2O2 in 10 volumeH2O2 solution = 30 g/L = 3% H2O2solutionMelting point/K272.4
+Density (liquid at 298 K)/g cmŒ31.44Boiling point(exrapolated)/K423Viscosity (290K)/centipoise1.25
+Vapour pressure(298K)/mmHg1.9
+Dielectric constant (298K)/C2/N m270.7Density (solid at 268.5K)/g cmŒ31.64Electrical conductivity (298K)/
+Œ1 cmŒ15.110
+Œ8Table 9.4  Physical Properties of Hydrogen Peroxide
+286CHEMISTRY286       C:\ChemistryXI\Unit-9\Unit-9(6).pmd  10.2.6, 6.3.6, 14.3.69.7.3StructureHydrogen peroxide has a non-planarstructure. The molecular dimensions in the gas
+phase and solid phase are shown in Fig 9.3Fig. 9.3(a) H2O2 structure in gas phase, dihedralangle is 111.5°. (b) H2O2 structure in solidphase at 110K, dihedral angle is 90.2°.9.7.4Chemical Properties
+It acts as an oxidising as well as reducing agent
+in both acidic and alkaline media. Simple
+reactions are described below.(i) Oxidising action in acidic medium
+
+
+2+22322242
+2Feaq2HaqHOaq
+Feaq2HOl
+PbSs4HOaqPbSOs4HOl
+
+
+(ii) Reducing action in acidic mediumŒ242222
+2232
+2MnO6H5HO2Mn8HO5O
+HOClHOHOClO
+
+
+(iii) Oxidising action in basic medium     232224222FeHO2Fe2OH
+MnHOMn2OH
+
+
+
+
+(iv) Reducing action in basic medium22222
+Œ42222
+Œ2IHO2OH2I2HOO
+2MnO3HO2MnO3O
+2HO2OH
+
+
+9.7.5StorageH2O2 decomposes slowly on exposure to light.2222
+2HOl2HOlOg
+In the presence of metal surfaces or traces ofalkali (present in glass containers), the abovereaction is catalysed. It is, therefore, stored inwax-lined glass or plastic vessels in dark. Urea
+can be added as a stabiliser. It is kept away
+from dust because dust can induce explosive
+decomposition of the compound.9.7.6UsesIts wide scale use has led to tremendousincrease in the industrial production of H2O2.Some of the uses are listed below:(i)In daily life it is used as a hair bleach and
+as a mild disinfectant. As an antiseptic it issold in the market as perhydrol.(ii)It is 
+used to manufacture chemicals likesodium perborate and per-carbonate,which are used in high quality detergents.(iii)It is used in the synthesis of hydroquinone,
+tartaric acid and certain food products and
+pharmaceuticals (cephalosporin) etc.(iv)It is 
+employed in the industries as ableaching agent for textiles, paper pulp,
+leather, oils, fats, etc.(v)Nowadays it is also used in Environmental
+(Green) Chemistry. For example, in
+pollution control treatment of domestic and
+industrial effluents, oxidation of cyanides,
+restoration of aerobic conditions to sewage
+wastes, etc.9.8HEAVY WATER, D
+2OIt is extensively used as a moderator in nuclearreactors and in exchange reactions for the
+study of reaction mechanisms. It can beprepared by exhaustive electrolysis of water oras a by-product in some fertilizer industries.
+Its physical properties are given in Table 9.3.
+It is used for the preparation of other deuterium
+compounds, for example:2222
+23224
+4324
+3CaC2DOCDCaOD
+SODODSO
+AlC12DO3CD4AlOD
+
+
+9.9DIHYDROGEN AS A FUEL
+Dihydrogen releases large quantities of heat oncombustion. The data on energy released by
+combustion of fuels like dihydrogen,  methane,LPG etc. are compared in terms of the same
+287HYDROGEN287       C:\ChemistryXI\Unit-9\Unit-9(6).pmd  10.2.6, 6.3.6, 14.3.6amounts in mole, mass and volume, are shownin Table 9.5.From this table it is clear that on a massfor mass basis dihydrogen can release moreenergy than petrol (about three times).
+Moreover, pollutants in combustion of
+dihydrogen will be less than petrol. The only
+pollutants will be the oxides of dinitrogen (dueto the presence of dinitrogen as impurity with
+dihydrogen). This, of course, can be minimised
+by injecting a small amount of water into the
+cylinder to lower the temperature so that the
+reaction between dinitrogen and dioxygen may
+not take place. However, the mass of the
+containers in which dihydrogen will be kept
+must be taken into consideration. A cylinder
+of compressed dihydrogen weighs about 30
+times as much as a tank of petrol containing
+the same amount of energy. Also, dihydrogen
+gas is converted into liquid state by cooling to
+20K. This would require expensive insulated
+tanks. Tanks of metal alloy like NaNi5, TiŒTiH2,MgŒMgH2 etc. are in use for storage ofdihydrogen in small quantities. TheseTable 9.5  The Energy Released by Combustion of Various Fuels in Moles, Mass and VolumeEnergy released onDihydrogenDihydrogenLPGCH
+4 gasOctane
+combustion in kJ(in gaseous(in liquid)(in liquid
+state)state)state)
+per mole286285
+22208805511
+per gram143142505347
+per litre12
+9968255903534005
+limitations have prompted researchers tosearch for alternative techniques to use
+dihydrogen in an efficient way.In this view Hydrogen Economy is analternative. The basic principle of hydrogeneconomy is the transportation and storage of
+energy in the form of liquid or gaseousdihydrogen. Advantage of hydrogen economyis that energy is transmitted in the form of
+dihydrogen and not as electric power.  It is for
+the first time in the history of India that a pilot
+project using dihydrogen as fuel was launched
+in October 2005 for running automobiles.
+Initially 5% dihydrogen has been mixed in
+CNG for use in four-wheeler vehicles. The
+percentage of dihydrogen would be gradually
+increased to reach the optimum level.Nowadays, it is also used in fuel cells forgeneration of electric power. It is expected thateconomically viable and safe sources of
+dihydrogen will be identified in the years to
+come, for its usage as a common source of
+energy.SUMMARYHydrogen is the lightest atom with only one electron. Loss of this electron results in anelementary particle, the proton. Thus, it is unique in character. It has three isotopes,namely : protium (11H), 
+deuterium (D or 21H)  and tritium (T or3 1H). Amongst these three,only tritium is radioactive. Inspite of its resemblance both with alkali metals and halogens,it occupies a separate position in the periodic table because of its unique properties.Hydrogen is the most abundant element in the universe. In the free state it is almostnot found in the earth™s atmosphere. However, in the combined state, it is the third mostabundant element on the earth™s surface.Dihydrogen on the industrial scale is prepared by the water-gas shift reaction frompetrochemicals. It is obtained as a byproduct by the electrolysis of brine.
+288CHEMISTRY288       C:\ChemistryXI\Unit-9\Unit-9(6).pmd  10.2.6, 6.3.6, 14.3.6The HŒH bond dissociation enthalpy of dihydrogen (435.88 kJ molŒ1) is the highestfor a single bond between two atoms of any elements. This property is made use of in theatomic hydrogen torch which generates a temperature of ~4000K and is ideal for weldingof high melting metals.Though dihydrogen is rather inactive at room temperature because of very highnegative dissociation enthalpy, it combines with almost all the elements under appropriateconditions to form hydrides. All the type of hydrides can be classified into three categories:ionic or saline hydrides, covalent or molecular hydrides and metallic or non-stoichiometrichydrides. Alkali metal hydrides are good reagents for preparing other hydride compounds.
+Molecular hydrides (e.g., B2H6, CH4, NH3, H2O) are of great importance in day-to-day life.Metallic hydrides are useful for ultrapurification of dihydrogen and as dihydrogen storagemedia.Among the other chemical reactions of dihydrogen, reducing reactions leading tothe formation hydrogen halides, water, ammonia, methanol, vanaspati ghee, etc. are ofgreat importance. In metallurgical process, it is used to reduce metal oxides. In space
+programmes, it is used as a rocket fuel. In fact, it has promising potential for use as anon-polluting fuel of the near future (Hydrogen Economy).Water is the most common and abundantly available substance. It is of a greatchemical and biological significance. The ease with which water is transformed from
+liquid to solid and to gaseous state allows it to play a vital role in the biosphere. Thewater molecule is highly polar in nature due to its bent structure. This property leads to
+hydrogen bonding which is the maximum in ice and least in water vapour. The polar
+nature of water makes it: (a) a very good solvent for ionic and partially ionic compounds;
+(b) to act as an amphoteric (acid as well as base) substance; and (c) to form hydrates of
+different types. Its property to dissolve many salts, particularly in large quantity, makesit hard and hazardous for industrial use. Both temporary and permanent hardness canbe removed by the use of zeolites, and synthetic ion-exchangers.Heavy water, D2O is another important compound which is manufactured by theelectrolytic enrichment of normal water. It is essentially used as a moderator in nuclearreactors.Hydrogen peroxide, H2O2 has an interesting non-polar structure and is widely usedas an industrial bleach and in pharmaceutical and pollution control treatment ofindustrial and domestic effluents.EXERCISES9.1Justify the position of hydrogen in the periodic table on the basis of its electronic
+configuration.9.2Write the names of isotopes of hydrogen. What is the mass ratio of these isotopes?
+9.3Why does hydrogen occur in a diatomic form rather than in a monoatomic form
+under normal conditions?9.4How can the production of dihydrogen, obtained from ‚coal gasification™, be
+increased?9.5Describe the bulk preparation of dihydrogen by electrolytic method. What is the
+role of an electrolyte in this process ?9.6Complete the following reactions:
+(i)
+2mo
+HgMOs
+
+(ii)
+2catalyst
+COg+Hg
+
+289HYDROGEN289       C:\ChemistryXI\Unit-9\Unit-9(6).pmd  10.2.6, 6.3.6, 14.3.6(iii)
+382
+catalyst
+CHg3HOg
+
+(iv)
+thea
+ZnsNaOHaq
+
+9.7Discuss the consequences of high enthalpy of HŒH bond in terms of chemical
+reactivity of dihydrogen.9.8What do you understand by (i) electron-deficient, (ii) electron-precise, and (iii)
+electron-rich compounds of hydrogen? Provide justification with suitable examples.9.9What characteristics do you expect from an electron-deficient hydride with respect
+to its structure and chemical reactions?9.10Do 
+you expect the carbon hydrides of the type (CnH2n + 2
+) to act as ‚Lewis™ acid orbase? Justify your answer.9.11What do you 
+understand by the term ﬁnon-stoichiometric hydridesﬂ? Do youexpect this type of the hydrides to be formed by alkali metals? Justify your answer.9.12How 
+do you expect the metallic hydrides to be useful for hydrogen storage?Explain.9.13How 
+does the atomic hydrogen or oxy-hydrogen torch function for cutting andwelding purposes ? Explain.9.14Among NH
+3, H2O and HF, which would you expect to have highest magnitude ofhydrogen bonding and why?9.15Saline hydrides are known to react with water violently producing fire. Can CO2,a well known fire extinguisher, be used in this case? Explain.9.16Arrange the following
+(i) CaH2, BeH2 and TiH2 in order of increasing electrical conductance.(ii) LiH, NaH and CsH in order of increasing ionic character.(iii) HŒH, DŒD and FŒF in order of increasing bond dissociation enthalpy.(iv) NaH, MgH2 and H2O in order of increasing reducing property.9.17Compare the structures of H2O and H2O2.9.18What do you understand by the term ™auto-protolysis™ of water? What is itssignificance?9.19Consider the reaction of water with F
+2 and suggest, in terms of oxidation andreduction, which species are oxidised/reduced.9.20Complete the 
+following chemical reactions.(i) 
+22PbSsHOaq
+(ii) Œ422
+MnOaqHOaq
+(iii) 
+2CaOsHOg
+(v) 
+32AlClgHOl
+(vi) 
+322
+CaNsHOl
+Classify the above into (a) hydrolysis, (b) redox and (c) hydration reactions.9.21Describe the structure of the common form of ice.9.22What causes the temporary and permanent hardness of water ?9.23Discuss the 
+principle and method of softening of hard water by synthetic ion-exchange resins.9.24Write chemical reactions to show the amphoteric nature of water.9.25Write chemical reactions to justify that hydrogen peroxide can function as an
+oxidising as well as reducing agent.

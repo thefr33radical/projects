@@ -1,0 +1,179 @@
+MCQ I5.1A ball is travelling with uniform translatory motion. Thismeans that(a)it is at rest.
+(b)the path can be a straight line or circular and the ball travels
+with uniform speed.(c)all parts of the ball have the same velocity (magnitude and
+direction) and the velocity is constant.
+(d)the centre of the ball moves with constant velocity and the
+ball spins about its centre uniformly.5.2A metre scale is moving with uniform velocity. This implies
+(a)the force acting on the scale is zero, but a torque about the
+centre of mass can act on the scale.
+(b)the force acting on the 
+scale is zero and the torque actingabout centre of  mass of the scale is also zero.
+Chapter FiveLAWS OF MOTION
+Exemplar ProblemsŒPhysics30(c)the total force acting on it need not be zero but the torque on it
+is zero.(d)neither the force nor the torque need to be zero.
+5.3A cricket ball of mass 150 g has an initial velocity 1‹‹(34)ms
+uij
+and a final velocity 1‹‹(34)ms
+
+vij
+ after being hit. The changein momentum (final momentum-initial momentum) is (in kg m s1)(a)zero
+(b)Œ
+‹‹(0.450.6)
+ij(c)Œ
+‹‹(0.91.2)
+ij(d)Œ
+‹‹5()
+ij.5.4In the previous problem (5.3), the magnitude of the momentumtransferred during the hit is(a)Zero(b) 0.75 kg m s
+Œ1  (c) 1.5 kg m sŒ1  (d) 14 kg m sŒ1.5.5Conservation of momentum in a collision between particles canbe understood from
+(a)conservation of energy.
+(b)Newton™s first law only.
+
+(c)Newton™s second law only.
+
+(d)both Newton™s second and third law.
+5.6A hockey player is moving northward and suddenly turns westwardwith the same speed to avoid an opponent. The force that acts onthe player is(a)frictional force along westward.
+(b)muscle force along southward.
+
+(c)frictional force along south-west.
+(d)muscle force along south-west.
+5.7A body of mass 2kg travels according to the law23()xtptqtrt
+
+where 
+13ms
+p, 24ms
+q and 35ms
+r.The force acting on the body at t = 2 seconds is(a)136 N
+(b)134 N
+
+(c)158 N
+
+(d)68 N
+
+Laws of Motion315.8A body with mass 5 kg is acted upon by a force ‹‹=N.
+Œ3+4
+Fij Ifits initial velocity at t = 0 is Œ1‹‹ms,
+6-12
+ijv the time at which itwill just have a velocity along the y-axis is(a)never
+(b)10 s
+(c)  2 s
+(d)15 s
+5.9A car of mass m starts from rest and acquires a velocity along east‹vv>0
+iv in two seconds. Assuming the car moves withuniform acceleration, the force exerted on the car is(a)2mv eastward and is exerted by the car engine.(b)2mv eastward and is due to the friction on the tyres exerted bythe road.(c)more than 
+2mveastward exerted due to the engine andovercomes the friction of the road.(d)2mvexerted by the engine .MCQ II5.10The motion of a particle of mass m is given by x = 0 for t < 0s, x(t)
+ = A sin4p t for 0 < t <(1/4) s (A > o), and x = 0 fort >(1/4) s. Which of the following statements is true?(a)The force at 
+t = (1/8) s on the particle is Œ162 A m.(b)The particle is acted upon by on impulse of magnitude
+42 A m at t = 0 s and t = (1/4) s.(c)The particle is not acted upon by any force.
+(d)The particle is not acted upon by a constant force.
+
+(e)There is no impulse acting on the particle.
+5.11In Fig. 5.1, the co-efficient of friction between the floorand the body B is 0.1. The co-efficient of friction between
+the bodies B and A is 0.2. A force F is applied as shown
+Exemplar ProblemsŒPhysics32on B. The mass of A is m/2 and of B is 
+m. Which of thefollowing statements are true?(a)The bodies will move together if 
+F = 0.25 mg.(b)The body A will slip with respect to B if
+ F = 0.5 mg.(c)The bodies will move together if 
+F = 0.5 mg.(d)The bodies will be at rest if 
+F = 0.1 mg.(e)The maximum value of 
+F for which the two bodies will movetogether is 0.45 mg.5.12Mass m1 moves on a slope making an angle with the horizontaland is attached to mass m2 by a string passing over a frictionlesspulley as shown in Fig. 5.2. The co-efficient of friction between m1and the sloping surface is .Which of the following statements are true?(a)If 
+21sin
+mm, the body will move up the plane.(b)If 
+21sincos
+mm, the body will move up the plane.(c)If 
+21sincos
+mm, the body will move up the plane.(d)If 
+21sincos
+mm, the body will move down the plane.
+5.13In  Fig. 5.3, a body A of mass m  slides on plane inclined at angle1to the horizontal and 1is the coefficent of friction between Aand the plane. A is connected by a light string passing over africtionless pulley to another body B, also of mass m, sliding on africtionless plane inclined at angle 2to the horizontal. Which ofthe following statements are true?(a)A will never move up the plane.
+(b)A will just start moving up the plane when
+211sinsin
+cos
+.(c)For A to move up the plane, 
+2 must always be greaterthan 1.(d)B will always slide down with constant speed.
+5.14Two billiard balls A and B, each of mass 50g and moving inopposite directions with speed of 5m sŒ1 each, collide andrebound with the same speed. If the collision lasts for 10Œ3 s,which of the following statements are true?(a)The impulse imparted to each ball is 0.25 kg m s
+Œ1 and the forceon each ball is 250 N.Fig. 5.3m1m2BFig. 5.2Fig. 5.1
+Laws of Motion33(b)The impulse imparted to each ball is 0.25 kg  m s
+Œ1 and theforce exerted on each ball is 25 × 10Œ5 N.(c)The impulse imparted to each ball is 0.5 Ns.
+(d)The impulse and the force on each ball are equal in magnitude
+and opposite in direction.5.15A body of mass 10kg is acted upon by two perpendicular forces,6N and 8N. The resultant acceleration of the body is(a)1 m s
+Œ2 at an angle of 14tan
+3w.r.t. 6N force.
+(b)0.2  m s
+Œ2 at an angle of 14tan
+3
+w.r.t. 6N force.
+(c)1 m s
+Œ2 at an angle of 13tan
+4
+
+ w.r.t.8N force.
+(d)0.2 m s
+Œ2 at an angle of 13tan
+4
+
+ w.r.t.8N force.
+5.16A girl riding a bicycle along a straight road with a speed of 5 m sŒ1throws a stone of mass 0.5 kg which has a speed of 15 m sŒ1 withrespect to the ground along her direction of motion. The mass ofthe girl and bicycle is 50 kg. Does the speed of the bicycle changeafter the stone is thrown? What is the change in speed, if so?5.17A person of mass 50 kg stands on a weighing scale on a lift. If the
+lift is descending with a downward acceleration of
+9 m sŒ2, what would be the reading of the weighing scale?(g = 10 m sŒ2)5.18The position time graph of a body of mass 2 kg is as given inFig. 5.4. What is the impulse on the body at 
+t = 0 s and t = 4 s.Fig. 5.4VSA
+Exemplar ProblemsŒPhysics345.19A person driving a car suddenly applies the brakes on seeing achild on the road ahead. If he is not wearing seat belt, he falls
+forward and hits his head against the steering wheel. Why?5.20The velocity of a body of mass 2 kg as a function of t is given by2‹‹()2
+ttt
+vij. Find the momentum and the force acting on it, attime t= 2s.5.21A block placed on a rough horizontal surface is pulled by ahorizontal force 
+F. Let f be the force applied by the rough sur
+faceon the block. Plot a graph of f versus F.5.22Why are porcelain objects wrapped in paper or straw beforepacking for transportation?5.23Why does a child feel more pain when she falls down on a hardcement floor, than when she falls on the soft muddy ground in the
+
+garden?5.24A woman throws an object of mass 500 g with a speed of 25 m s1.(a)What is the impulse imparted to the object?
+(b)If the object hits a wall and rebounds with half the original speed,
+what is the change in momentum of the object?5.25Why are mountain roads generally madewinding upwards rather than going straight up?5.26A mass of 2kg is suspended with thread AB(Fig. 5.5). Thread CD of the same type is
+attached to the other end of 2 kg mass. Lower
+thread is pulled gradually, harder and
+harder in the downward directon so as to
+apply force on AB. Which of the threads will
+break and why?5.27In the above given problem if the lower thread is
+pulled with a jerk, what happens?5.28Two masses of 5 kg and 3 kg are suspended
+with help of massless inextensible strings as
+shown in Fig. 5.6. Calculate T1 and T2 whenwhole system is going upwards withacceleration = 2 m s2 (use g = 9.8 m sŒ2).Fig. 5.6Fig. 5.5SA
+Laws of Motion355.29Block A of weight 100 N rests on a frictionless inclinedplane of slope angle 30° (Fig. 5.7). A flexible cord attached
+to A passes over a frictonless pulley and is connected toblock B of weight W. Find the weight W for which the
+system is in equilibrium.5.30A block of mass M is held against a rough vertical wall bypressing it with a finger. If the coefficient of friction between
+
+the block and the wall is  and the acceleration due to
+gravity is g, calculate the minimum force required to beapplied by the finger to hold the block against the wall ?
+5.31A 100 kg gun fires a ball of 1kg horizontally from a cliff of height500m. It falls on the ground at a distance of 400m from the bottom
+of the cliff. Find the recoil velocity of the gun. (acceleration due togravity = 10 m sŒ2)5.32Figure 5.8 shows (x, t), (y, t )
+ diagram of a particle moving in2-dimensions.xt1s2s3s
+Fig. 5.8If the particle has a mass of 500 g, find the force (direction andmagnitude) acting on the particle.5.33A person in an elevator accelerating upwards with an accelerationof 2 m sŒ2, tosses a coin vertically upwards with a speed of 20 m
+s1. After how much time will the coin fall back into his hand?
+( g = 10 m sŒ2)LA5.34There are three forces F1, F2 and F3 acting on a body, all acting ona point P on the body. The body is found to move with uniformspeed.(a)Show that the forces are coplanar.
+(b)Show that the torque acting on the body about any point due
+to these three forces is zero.(a)(b)
+fNABFwmgmg sin 30°mg cos 30°30°Fig. 5.7
+Exemplar ProblemsŒPhysics365.35When a body slides down from rest along a smooth inclined planemaking an angle of 45° with the horizontal, it takes time T. Whenthe same body slides down from rest along a rough inclined plane
+making the same angle and through the same distance, it is seento take time pT, where p is some number greater than 1. Calculatethe co-efficient of friction between the body and the rough plane.5.36Figure 5.9 shows (,),and(,)
+xyvtvt
+diagrams for a body of unitmass. Find the force as a function of time.Fig. 5.9Fig. 5.10vx(m s)
+Œ122s1st1vy(m s)
+Œ122s3s1st1OAFEDCRR90°B2RO5.37A racing car travels on a track (without banking) ABCDEFA(Fig. 5.10). ABC is a circular arc of radius 2 R. CD and FA are
+straight paths of length R and DEF is a circular arc of radius
+R = 100 m. The co-effecient 
+of friction on the road is 
+
+ Themaximum speed of the car is 50 m sŒ1. Find the minimum timefor completing one round.(a)(b)
+5.38The displacement vector of a  particle of mass 
+m is given by‹‹()cossin.
+tAtBt
+rij
+(a)Show that the trajectory is an ellipse.
+(b)Show that  
+2.mFr
+Laws of Motion375.39A cricket bowler releases the ball in two different ways(a)giving it only horizontal velocity, and
+(b)giving it horizontal velocity and a small downward velocity.
+The speed vs at the time of release is the same. Both are releasedat a height H from the ground. Which one will have greater speedwhen the ball hits the ground? Neglect air resistance.5.40There are four forces acting at a point P produced by strings asshown in Fig. 5.11, which is at rest. Find the forces F1 and F2 .Fig. 5.112N45°45°1N45°F190°F25.41A rectangular box lies on a rough inclined surface. The co-efficientof friction between the surface and the box is . Let the mass of thebox be m.(a)At what angle of inclination 
+of the plane to the horizontal willthe box just start to slide down the plane?(b)What is the force acting on the box down the plane, if the angle
+of inclination of the plane is increased to ?(c)What is the force needed to be applied upwards along the plane
+to make the box either remain stationary or just move up withuniform speed?(d)What is the force needed to be applied upwards along the plane
+to make the box move up the plane with acceleration a?5.42A helicopter of mass 2000kg rises with a vertical acceleration of15 m sŒ2. The total mass of the crew and passengers is 500 kg.Give the magnitude and direction of the (g = 10 m sŒ2)(a)force on the floor of the helicopter by the crew and passengers.
+(b)action of the rotor of the 
+helicopter on the surrounding air.
+(c)force on the helicopter due to the surrounding air.
+

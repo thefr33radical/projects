@@ -1,0 +1,99 @@
+MCQ I3.1Among the four graphs (Fig. 3.1), there is only one graph for whichaverage velocity over the time intervel (0, T ) can vanish for asuitably chosen T. Which one is it?Chapter ThreeMOTION IN ASTRAIGHT LINEFig. 3.1(a)(b)
+(c)(d)
+
+Exemplar ProblemsŒPhysics143.2A lift is coming from 8th floor and is just about to reach4th floor. Taking ground floor as origin and positive
+direction upwards for all quantities, which one of thefollowing is correct?(a)x < 0, v < 0, a > 0(b)x > 0, v < 0, a < 0(c)x > 0, v < 0, a > 0(d)x > 0, v > 0, a < 03.3In one dimensional motion, instantaneous speed v satisfies0    v  <  v
+0.(a)The displacement in time 
+T must always take non-negativevalues.(b)The displacement 
+x in time T satisfies Œ vo T < x < vo T.(c)The acceleration is always a non-negative number.
+(d)The motion has no turning points.
+3.4A vehicle travels half the distance L with speed V1 and the otherhalf with speed V2, then its average speed is(a)122VV(b)12122VVVV(c) 
+12122VVVV(d)1212()LVV
+VV3.5The displacement of a particle is given by x = (t Œ 2)
+2  where x is inmetres and t in seconds. The distance covered by the particle infirst 4 seconds is(a)4 m
+(b)8 m
+(c)12 m
+(d)16 m
+3.6At a metro station, a girl walks up a stationary escalator in time t1.If she remains stationary on the escalator, then the escalator take
+
+Motion in a Straight Line15her up in time t2. The time taken by her to walk up on the movingescalator will be(a)(
+t1 + t2)/2(b)t1t2/(t2Œt1)(c)t1t2/(t2+t1)(d)t1Œt2MCQ II3.7The variation of quantity A with quantity B, plotted inFig. 3.2 describes the motion of a particle in a straightline.(a)Quantity B may represent time.
+(b)Quantity A is velocity if motion is uniform.
+(c)Quantity A is displacement if motion is uniform.
+
+(d)Quantity A is velocity if motion is uniformly
+accelerated.3.8A graph of x versus t is shown in Fig. 3.3. Choosecorrect alternatives from below.(a)The particle was released from rest at 
+t = 0.(b)At B, the acceleration 
+a > 0.(c)At C, the velocity and the acceleration vanish.
+(d)Average velocity for the motion between A and D is
+positive.(e)The speed at D exceeds that at E.
+3.9
+For the one-dimensional motion, described by x = tŒsint(a)x (t) > 0 for all t  > 0.(b)v (t) > 0 for all t > 0.(c)a (t) > 0 for all t > 0.(d)v (t) lies between 0 and 2.3.10A spring with one end attached to a mass and the other to a rigidsupport is stretched and released.(a)Magnitude of acceleration, when just released is maximum.
+(b)Magnitude of acceleration, when at equilibrium position, is
+maximum.(c)Speed is maximum when mass is at equilibrium position.
+(d)Magnitude of displacement is always maximum whenever speed
+is minimum.ABFig. 3.2xABCtEDFig. 3.3
+Exemplar ProblemsŒPhysics163.11A ball is bouncing elastically with a speed 1 m/s between walls ofa railway compartment of size 10 m in a direction perpendicular
+to walls. The train is moving at a constant velocity of 10 m/s parallelto the direction of motion of the ball. As seen from the ground,(a)the direction of motion of the ball changes every 10 seconds.
+(b)speed of ball changes every 10 seconds.
+(c)average speed of ball over any 20 second interval is fixed.
+
+(d)the acceleration of  ball is the same as from the train.
+VSA3.12Refer to the graphs in Fig 3.1. Match the following.GraphCharacteristic
+(a)(i)has 
+v > 0 and a < 0 throughout.(b)(ii)
+has x > 0 throughout and has a point withv = 0 and a point with a = 0.
+(c)(iii)has a 
+point with zero displacement for t > 0.(d)(iv)
+has v < 0 and a > 0.3.13A uniformly moving cricket ball is turned back by hitting it with abat for a very short time interval. Show the variation of its
+acceleration with time. (Take acceleration in the backward direction
+as positive).3.14Give examples of a one-dimensional motion where(a)the particle moving along positive 
+x-direction comes to restperiodically and moves forward.(b)the particle moving along positive 
+x-direction comes to restperiodically and moves backward.3.15Give example of a motion where 
+x > 0, 
+v < 0, a > 0 at a particularinstant.
+3.16An object falling through a fluid is observed to have accelerationgiven by a = g Œ bv where g = gravitational acceleration and b isconstant. After a long time of release, it is observed to fall with
+constant speed. What must be the value of constant speed?
+Motion in a Straight Line17SA3.17A ball is dropped and its displacement vs time graph isas shown Fig. 3.4 (displacement x  is from ground andall quantities are +ve upwards).(a)Plot qualitatively velocity vs time graph.
+(b)Plot qualitatively acceleration vs time graph.
+3.18A particle 
+executes the motion described by 
+();
+1toxtx
+e0t,x0 > 0.(a)Where does the particle start and with what velocity?
+(b)Find maximum and minimum values of 
+x (t), v (t), a (t). 
+Show thatx (t) 
+and a (t) 
+increase with time and v (t) 
+decreases with time.3.19A bird is tossing (flying to and fro) between two cars movingtowards each other on a straight road. One car has a speed of 18
+m/h while the other has the speed of 27km/h. The bird starts
+moving from first car towards the other and is moving with the
+speed of 36km/h and when the two cars were separted by 36 km.
+What is the total distance covered by the bird? What is the total
+displacement of the bird?3.20A man runs across the roof-top of a tall building and jumps
+horizontally with the hope of landing on the roof of the next
+building which is of a lower height than the first. If his speed is 9
+m/s, the (horizontal) distance between the two buildings is 10 m
+and the height difference is 9 m, will he be able to land on the next
+building? (take
+ g = 10 m/s2)3.21A ball is dropped from a building of height 45 m.Simultaneously another ball is thrown up with a speed
+40 m/s. Calculate the relative speed of the balls as afunction of time.3.22The velocity-displacement graph of a particle is shown
+
+in Fig. 3.5.(a)Write the relation between 
+v and x.(b)Obtain the relation between acceleration and
+displacement and plot it.xoxvovOFig. 3.5Fig. 3.4
+Exemplar ProblemsŒPhysics18LA3.23It is a common observation that rain clouds can be at about akilometre altitude above the ground.(a)If a rain drop falls from such a height freely under gravity, what
+will be its speed? Also calculate in km/h. (g = 10m/s2)(b)A typical rain drop is about 4mm diameter. Momentum is mass
+x speed in magnitude. Estimate its momentum when it hits
+ground.(c)Estimate the time required to flatten the drop.
+(d)Rate of change of momentum is force. Estimate how much force
+such a drop would exert on you.(e)Estimate the order of magnitude force on umbrella. Typical
+lateral separation between two rain drops is 5 cm.(Assume that umbrella is circular and has a diameter of 1mand cloth is not pierced through !!)3.24A motor car moving at a speed of 72km/h can not come to a stopin less than 3.0 s while for a truck this time interval is 5.0 s. On ahigway the car is behind the truck both moving at 72km/h. Thetruck gives a signal that it is going to stop at emergency. At what
+distance the car should be from the truck so that it does not bump
+onto (collide with) the truck. Human response time is 0.5s.(Comment : This is to illustrate why vehicles carry the message on therear side. ﬁKeep safe Distanceﬂ)3.25A monkey climbs up a slippery pole for 3 seconds andsubsequently slips for 3 seconds. Its velocity at time t is givenby v(t) = 2t (3-t); 0< t < 3 and v (t)=Œ(tŒ3)(6Œt) for 3 < t < 6 s inm/s. It repeats this cycle till it reaches the height of 20 m.(a)At what time is its velocity maximum?
+(b)At what time is its average velocity maximum?
+(c)At what time is its acceleration maximum in magnitude?
+(d)How many cycles (counting fractions) are required to reach the
+top?3.26A man is standing on top of a building 100 m high. He throws twoballs vertically, one at t = 0 and other after a time interval (lessthan 2 seconds). The later ball is thrown at a velocity of half the
+first. The vertical gap between first and second ball is +15 m att  = 2 s. The gap is found to remain constant. Calculate the velocitywith which the balls were thrown and the exact time intervalbetween their throw.

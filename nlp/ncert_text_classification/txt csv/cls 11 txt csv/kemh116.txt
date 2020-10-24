@@ -1,0 +1,107 @@
+Where a mathematical reasoning can be had, it is as great a folly tomake use of any other, as to grope for a thing in the dark, when
+you have a candle in your hand. Œ JOHN ARBUTHNOT
+ 16.1  IntroductionIn earlier classes, we studied about the concept ofprobability as a measure of uncertainty of variousphenomenon. We have obtained the probability of getting
+an even number in throwing a die as 36 i.e., 12. Here thetotal possible outcomes are 1,2,3,4,5 and 6 (six in number).The outcomes in favour of the event of ‚getting an evennumber™ are 2,4,6 (i.e., three in number). In general, to
+obtain the probability of an event, we find the ratio of the
+number of outcomes favourable to the event, to the totalnumber of equally likely outcomes. This theory of probabilityis known as classical theory of probability
+.In Class IX, we learnt to find the probability on the basis of observations andcollected data. This is called 
+statistical approach of probability
+.Both the theories have some serious difficulties. For instance, these theories cannot be applied to the activities/experiments which have infinite number of outcomes. Inclassical theory we assume all the outcomes to be equally likely. Recall that the outcomes
+are called equally likely when we have no reason to believe that one is more likely to
+occur than the other. In other words, we assume that all outcomes have equal chance
+(probability)  to occur. Thus, to define probability, we used equally likely or equally
+probable outcomes. This is logically not a correct definition. Thus, another theory of
+probability was developed by A.N. Kolmogorov, a Russian mathematician, in 1933. He
+16ChapterPROBABILITYKolmogorov (1903-1987)
+384MATHEMATICS
+laid down some axioms to interpret probability, in his book ‚Foundation of Probability™
+published in 1933. In this Chapter, we will study about this approach called 
+axiomaticapproach of probability
+. To understand this approach we must know about few basic
+terms viz. random experiment, sample space, events, etc. Let us learn about these all,in what follows next.16.2  Random ExperimentsIn our day to day life, we perform many activities which have a fixed result no matterany number of times they are repeated. For example given any triangle, without knowing
+the three angles, we can definitely say that the sum of measure of angles is 180°.We also perform many experimental activities, where the result may not be same,
+when they are repeated under identical conditions. For example, when a coin is tossedit may turn up a head or a tail, but we are not sure which one of these results willactually be obtained. Such experiments are called random experiments.An experiment is called random experiment if it satisfies the following twoconditions:  (i)It has more than one possible outcome.
+(ii)It is 
+not possible to predict the outcome in advance.Check whether the experiment of tossing a die is random or not?In this chapter, we shall refer the random experiment by experiment only unless
+stated otherwise.16.2.1  Outcomes and sample space  A possible result of a random experiment is
+called its outcome.Consider the experiment of rolling a die. The outcomes of this experiment are 1,2, 3, 4, 5, or 6, if we are interested in the number of dots on the upper face of the die.The set of outcomes {1, 2, 3, 4, 5, 6} is called the 
+sample space of the experiment.Thus, the set of all possible outcomes of a random experiment is called the samplespace associated with the experiment. Sample space is denoted by the symbol S.Each element of the sample space is called a sample point. In other words, eachoutcome of the random experiment is also called sample point.Let us now consider some examples.Example 1 Two coins (a one rupee coin and a two rupee coin) are tossed once. Find
+a sample space.Solution Clearly the coins are distinguishable in the sense that we can speak of thefirst  coin and the second coin. Since either coin can turn up Head (H) or Tail(T), the
+possible outcomes may be
+  PROBABILITY            385Heads on both coins = (H,H) = HHHead on first coin and Tail on the other  = (H,T) = HT
+
+Tail on first coin and Head on the other = (T,H) = TH
+Tail on both coins = (T,T) = TT
+Thus, the sample space is S = {HH, HT, TH, TT}
+Note   The outcomes of this experiment are ordered pairs of H and T. For the
+sake of simplicity the commas are omitted from the ordered pairs.Example 2 Find the sample space associated with the experiment of rolling a pair ofdice (one is blue and the other red) once. Also, find the number of elements of this
+sample space.Solution Suppose 1 appears on blue die and 2 on the red die. We denote this outcome
+by an ordered pair (1,2). Similarly, if ‚3™ appears on blue die and ‚5™ on red, the outcome
+
+is denoted by the ordered pair (3,5).In general each outcome can be denoted by the ordered  pair (x, y), where x isthe number appeared on the blue die and y is the number appeared on the red die.Therefore, this sample space is given byS = {(x, y): x is the number on the blue die and y is the number on the red die}.The number of elements of this sample space is 6 × 6 = 36 and the sample space isgiven below:{(1,1), (1,2), (1,3), (1,4), (1,5), (1,6), (2,1), (2,2), (2,3), (2,4), (2,5), (2,6)(3,1), (3,2), (3,3), (3,4), (3,5), (3,6), (4,1), (4,2), (4,3), (4,4), (4,5), (4,6)(5,1), (5,2), (5,3), (5,4), (5,5), (5,6), (6,1), (6,2), (6,3), (6,4), (6,5), (6,6)}Example 3 In each of the following experiments specify appropriate sample space(i)A boy has a 1 rupee coin, a 2 rupee coin and a 5 rupee coin in his pocket. He
+takes out two coins out of his pocket, one after the other.
+(ii)A 
+person is noting down the number of accidents along a busy highwayduring a year.
+Solution (i) Let Q denote a 1 rupee coin, H denotes a 2 rupee coin and R denotes a 5rupee coin. The first coin he takes out of his pocket may be any one of the three coinsQ, H or R. Corresponding to Q, the second draw may be H or R. So the result of twodraws may be QH or QR. Similarly, corresponding to H, the second draw may be
+Q or R.Therefore, the outcomes may be HQ or HR.Lastly, corresponding to R, the second
+draw may be H or Q.So, the outcomes may be RH or RQ.
+386MATHEMATICS
+Thus, the sample space is S={QH, QR, HQ, HR, RH, RQ}(ii)The number of accidents along a busy highway during the year of observationcan be either 0 (for no accident ) or 1 or 2, or some other positive integer.
+Thus, a sample space associated with this experiment is S= {0,1,2,...}Example 4  A coin is tossed. If it shows head, we draw a ball from a bag consisting of
+3 blue and 4 white balls; if it shows tail we throw a die. Describe the sample space ofthis experiment.Solution Let us denote blue balls by B1, B2, B3 and the white balls by W1, W2, W3, W4.Then a sample space of the experiment isS = { HB1, HB2, HB3, HW1, HW2, HW3, HW4, T1, T2, T3, T4, T5, T6}.Here HBi means head on the coin and ball Bi is drawn, HWi means head on the coinand ball W
+i is drawn. Similarly, T
+i means tail on the coin and the number i on the die.Example 5 Consider the experiment in which a coin is tossed repeatedly until a headcomes up. Describe the sample space.Solution In the experiment head may come up on the first toss, or the 2nd toss, or the3rd toss and so on till head is obtained.Hence, the desired sample space is
+S= {H, TH, TTH, TTTH, TTTTH,...}EXERCISE 16.1In each of the following Exercises 1 to 7, describe the sample space for the indicated
+experiment.1.A coin is tossed three times.2.A die is thrown two times.3.A coin is tossed four times.4.A coin is tossed and a die is thrown.5.A coin is tossed and then a die is rolled only in case a head is shown on the coin.6.2 boys and 2 girls are in Room X, and 1 boy and 3 girls in Room Y. Specify the
+sample space for the experiment in which a room is selected and then a person.7.One die of red colour, one of white colour and one of blue colour are placed in a
+
+bag. One die is selected at random and rolled, its colour and the number on its
+uppermost face is noted. Describe the sample space.8.An experiment consists of recording boyŒgirl composition of families with 2
+children.
+(i)  What is the sample space if we are interested in knowing whether it is a boy    or girl in the order of their births?
+  PROBABILITY            387(ii)What is the sample space if we are interested in the number of girls in thefamily?9.A box contains 1 red and 3 identical white balls. Two balls are drawn at random
+
+in succession without replacement. Write the sample space for this experiment.
+10.An experiment consists of tossing a coin and then throwing it second time if a
+head occurs. If a tail occurs on the first toss, then a die is rolled once. Find the
+sample space.11.
+Suppose 3 bulbs are selected at random from a lot. Each bulb is tested and
+classified as defective (D) or non Œ defective(N). Write the sample space of this
+
+experiment.12.A coin is tossed. If the out come  is a head, a die is thrown. If the die shows up
+an even number, the die is thrown again. What is the sample space for the
+
+experiment?13.The numbers 1, 2, 3 and 4 are written separatly on four slips of paper. The slips
+
+are put in a box and mixed thoroughly. A person draws two slips from the box,
+
+one after the other, without replacement. Describe the sample space for the
+
+experiment.14.An experiment consists of rolling a die and then tossing a coin once if the number
+on the die is even. If the number on the die is odd, the coin is tossed twice. Write
+
+the sample space for this experiment.15.A coin is tossed. If it shows a tail, we draw a ball from a box which contains 2 red
+and 3 black balls. If it shows head, we throw a die. Find the sample space for this
+experiment.16.A die is thrown repeatedly untill a six comes up. What is the sample space for
+this experiment?16.3  EventWe have studied about random experiment and sample space associated with an
+experiment. The sample space serves as an universal set for all questions concernedwith the experiment.Consider the experiment of tossing a coin two times. An associated sample space
+is S = {HH, HT, TH, TT}.
+Now suppose that we are interested in those outcomes which correspond to theoccurrence of exactly one head. We find that HT and TH are the only elements of S
+corresponding to the occurrence of this happening (event). These two elements formthe set  E = { HT, TH}
+We know that the set E is a subset of the sample space S . Similarly, we find the
+following correspondence between events and subsets of S.
+388MATHEMATICS
+Description of eventsCorresponding subset of ‚S™
+Number of tails is exactly 2A = {TT}
+
+Number of tails is atleast oneB = {HT, TH, TT}
+Number of heads is atmost oneC = {HT, TH, TT}
+Second toss is not headD = { HT, TT}
+Number of tails is atmost twoS  = {HH, HT, TH, TT}
+Number of tails is more than twoThe above discussion suggests that a subset of sample space is associated withan event and an event is associated with a subset of sample space. In the light of this
+we define an event as follows.Definition  Any subset E of a sample space S is called 
+an event.16.3.1  Occurrence of an event  Consider the experiment of throwing a die. Let Edenotes the event ﬁ a number  less than 4 appearsﬂ. If actually ‚1™ had appeared on thedie then we say that event E has occurred. As a matter of fact if outcomes are 2 or 3,
+we say that event E has occurredThus, the event E of a sample space S is said to have occurred if the outcomeof the experiment is such that  E. If the outcome  is such that   E, we saythat the event E has not occurred.16.3.2  Types of events 
+ Events can be classified into various types on the basis  of theelements they have.1. Impossible and Sure Events  The empty set  and the sample space S describeevents. In fact  is called an impossible event and S, i.e., the whole sample space iscalled the sure event
+.To understand these let us consider the experiment of rolling a die. The associated
+sample space isS = {1, 2, 3, 4, 5, 6}Let E be the event ﬁ the number appears on the die is a multiple of 7ﬂ. Can youwrite the subset associated with the event E?Clearly no outcome satisfies the condition given in the event, i.e., no element ofthe sample space ensures the occurrence of the event E. Thus, we say that the emptyset only correspond to the event E. In other words we can say that it is impossible tohave a multiple of 7 on the upper face of the die. Thus, the event E =  is an impossibleevent.Now let us take up another event F ﬁthe number turns up is odd or evenﬂ. Clearly

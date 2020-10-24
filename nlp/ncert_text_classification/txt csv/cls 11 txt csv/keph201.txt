@@ -1,0 +1,328 @@
+CHAPTER NINEMECHANICAL PROPERTIES OF SOLIDS9.1INTRODUCTIONIn Chapter 7, we studied the rotation of the bodies and thenrealised that the motion of a body depends on how mass is
+distributed within the body.  We restricted ourselves to simplersituations of rigid bodies.  A rigid body generally means ahard solid object having a definite shape and size.  But in
+reality,  bodies can be stretched, compressed and bent. Even
+the  appreciably  rigid  steel bar can be deformed when a
+sufficiently large external force is applied on it.  This meansthat solid bodies are not perfectly rigid.A solid has  definite shape and size. In order to change (ordeform) the shape or size of a body, a force  is required. If
+you stretch a helical spring by gently pulling its ends, the
+length of the spring increases slightly. When you leave the
+ends of the spring, it regains its original size and shape.  The
+property of a body, by virtue of  which  it tends to regain its
+original size and shape when the applied force is removed, is
+known as elasticity and the deformation caused is knownas elastic deformation. However, if you apply force to a lumpof putty or mud, they have no gross tendency to regain their
+previous shape, and they get permanently deformed. Such
+substances are called plastic and this property is calledplasticity. Putty and mud are close to ideal plastics. The elastic behaviour of materials plays an important rolein engineering design.  For example, while designing a
+building, knowledge of elastic properties of materials like steel,
+concrete etc. is essential.  The same is true in the design of
+bridges, automobiles, ropeways etc.  One could also ask  ŠCan we design an aeroplane which is very  light  but
+sufficiently  strong?  Can we design an artificial limb which
+is lighter but stronger?  Why does a railway track have a
+particular shape  like I?  Why  is glass brittle while brass isnot?  Answers to such questions begin with the study of how
+relatively  simple kinds of loads or forces act to deform
+different solids bodies.  In this chapter, we  shall study the9.1Introduction9.2Elastic behaviour of solids9.3Stress and strain9.4Hooke™s law9.5Stress-strain curve9.6Elastic moduli9.7Applications of elasticbehaviour of materialsSummaryPoints to ponder
+ExercisesAdditional exercises
+232PHYSICSelastic behaviour and mechanical properties ofsolids which  would answer many such
+questions.9.2  ELASTIC BEHAVIOUR OF SOLIDSWe know that in a solid, each atom or moleculeis surrounded by neighbouring atoms or
+molecules. These are bonded together byinteratomic or intermolecular forces and stayin a stable equilibrium position. When a solid is
+deformed, the  atoms or molecules are displaced
+from their equilibrium positions causing a
+change in the interatomic   (or intermolecular)distances. When the deforming force is removed,
+the interatomic forces tend to drive them back
+to their original positions. Thus the body regains
+its original shape and size.  The restoring
+mechanism can be visualised by taking a model
+of spring-ball system shown in the Fig. 9.1. Herethe balls represent atoms and springs representinteratomic forces.Fig. 9.1Spring-ball model for the illustration of elasticbehaviour of solids.If you try to displace any ball from itsequilibrium position, the spring system tries torestore the ball back to its original position. Thuselastic behaviour of  solids can be explained interms of microscopic nature of the solid.  Robert
+Hooke, an English  physicist  (1635 - 1703 A.D)
+performed experiments on springs and found
+that the elongation (change in the  length)produced in a body is proportional to the applied
+force or load.  In 1676, he presented his law ofelasticity, now called Hooke™s  law.  We shallstudy about it in Section 9.4. This law, like
+Boyle™s law, is one of the earliest quantitative
+relationships in science.  It is very important to
+know the behaviour of the materials under
+various kinds of load from the context of
+engineering design.9.3  STRESS AND STRAINWhen  forces are applied on a body in such amanner that the body is still in static
+equilibrium, it is deformed to a small or largeextent depending upon the nature of the materialof the body and the magnitude of the deforming
+force.  The deformation may not be noticeablevisually in many materials but it is there.  Whena body is subjected to a deforming force, a
+restoring force is developed in the body.  Thisrestoring force is equal in magnitude butopposite in direction to the applied force.  The
+restoring force per unit area is known as stress.If F is the force applied and A  is the  area ofcross section of  the body,Magnitude of the stress = F/A(9.1)The SI unit of stress is  N mŒ2 or pascal (Pa)and its dimensional formula is [ MLŒ1TŒ2 ].There are three ways in which a solid maychange its dimensions when an external forceacts on  it. These are shown in Fig. 9.2.  InFig.9.2(a), a cylinder is stretched by two equal
+forces applied normal to its cross-sectional area.
+The restoring   force per unit area  in this caseis called tensile stress. If the cylinder iscompressed under the action of applied forces,the restoring force per unit area is known as
+compressive stress. Tensile or compressivestress can also be termed as longitudinal stress.In both the cases, there is a change in thelength of the cylinder. The change in the lengthL to the original length L of the body (cylinderin this case) is known as longitudinal strain.Longitudinal strain    LL(9.2)However, if two equal and opposite  deformingforces are applied parallel to the cross-sectionalarea of the cylinder, as shown in Fig. 9.2(b),
+there is relative displacement between the
+opposite faces of the cylinder.  The restoring force
+per unit area developed due to the appliedtangential force is known as tangential orshearing stress.
+MECHANICAL PROPERTIES OF SOLIDS233As a result of applied tangential force, thereis a relative displacement x between oppositefaces of the cylinder as shown in the Fig. 9.2(b).The strain so produced is known as shearingstrain and it is defined as the ratio of relativedisplacement of the faces x  to the length ofthe cylinder L.Shearing strain   xL = tan (9.3)where  is the angular displacement of thecylinder from the vertical (original position ofthe cylinder). Usually   is very small, tan is nearly equal to angle , (if  = 10°, forexample, there is only 1% difference between and tan ).It can also be visualised, when a book ispressed with the hand and pushed horizontally,as shown in Fig. 9.2 (c).Thus, shearing strain  = tan   (9.4)In Fig. 9.2 (d), a solid sphere placed in thefluid under high pressure is compresseduniformly on all sides. The force applied by thefluid acts in perpendicular direction at each
+point of the surface and the body is said to beunder hydraulic compression. This leads todecrease in its volume without any change ofits geometrical shape.The body develops internal restoring forcesthat are equal and opposite to the forces applied
+by the fluid (the body restores its original shapeand size when taken out from the fluid). Theinternal restoring force per unit area in this caseRobert Hooke(1635 Œ 1703 A.D.)Robert Hooke was born on July 18, 1635 in Freshwater, Isle of Wight. He wasone of the most brilliant and versatile seventeenth century English scientists.
+He attended Oxford University but never graduated. Yet he was an extremelytalented inventor, instrument-maker and building designer. He assisted RobertBoyle in the construction of Boylean air pump. In 1662, he was appointed as
+Curator of Experiments to the newly founded Royal Society. In 1665, he became
+Professor of Geometry in Gresham College where he carried out his astronomi-
+cal observations. He built a Gregorian reflecting telescope; discovered the fifthstar in the trapezium and an asterism in the constellation Orion; suggested that
+Jupiter rotates on its axis; plotted detailed sketches of Mars which were later
+used in the 19th century to determine the planet™s rate of rotation; stated theinverse square law to describe planetary motion, which Newton modified lateretc. He was elected Fellow of Royal Society and also served as the Society™sSecretary from 1667 to 1682. In his series of observations presented in Micrographia, he suggestedwave theory of light and first used the word ‚cell™ in a biological context as a result of his studies of cork.Robert Hooke is best known to physicists for his discovery of law of elasticity: Ut tensio, sic vis (Thisis a Latin expression and it means as the distortion, so the force). This law laid the basis for studies of
+stress and strain and for understanding the elastic materials.(a)(b)(c)(d)
+Fig. 9.2(a) A cylindrical body under tensile stress elongates by L (b) Shearing stress on a cylinder deforming it by
+an angle (c) A body subjected to shearing stress (d) A solid body under a stress normal to the surface atevery point (hydraulic stress). The volumetric strain is V/V, but there is no change in shape.
+234PHYSICSis known as hydraulic stress and in magnitudeis equal to the hydraulic pressure (applied forceper unit area).The strain produced by a hydraulic pressureis called volume strain and is defined as theratio of change in volume (V) to the originalvolume (V).Volume strain   VV(9.5)Since the strain is a ratio of change indimension to the original dimension, it has nounits or dimensional formula.9.4  HOOKE™S LAWStress and strain take different forms in thesituations depicted in the Fig. (9.2). For small
+deformations the stress and strain areproportional to each other. This is known asHooke™s law.
+Thus,stress  strainstress = k × strain(9.6)
+where k is the proportionality constant and isknown as modulus of elasticity.Hooke™s law is an empirical law and is foundto be valid for most materials. However, thereare some materials which do not exhibit this
+linear relationship.9.5  STRESS-STRAIN CURVEThe relation between the stress and the strainfor a given material under tensile stress can befound experimentally. In a standard test oftensile properties, a test cylinder or a wire isstretched by an applied force. The fractional
+change in length (the strain) and the applied
+force needed to cause the strain are recorded.
+The applied force is gradually increased in stepsand the change in length is noted. A graph is
+plotted between the stress (which is equal in
+magnitude to the applied force per unit area)
+and the strain produced. A typical graph for a
+metal is shown in Fig. 9.3. Analogous graphs
+for compression and shear stress may also beobtained. The stress-strain curves vary frommaterial to material. These curves help us to
+understand how a given material deforms with
+increasing loads. From the graph, we can see
+that in the region between O to A, the curve is
+linear.  In this region, Hooke™s law is obeyed.The body regains its original dimensions whenthe applied force is removed. In this region, the
+solid behaves as an elastic body.In the region from A to B, stress and strainare not proportional. Nevertheless, the body stillreturns to its original dimension when the load
+is removed. The point B in the curve is known
+as yield point (also known as elastic limit) andthe corresponding stress is known as yieldstrength (y) of the material.If the load is increased further, the stressdeveloped exceeds the yield strength and strainincreases rapidly even for a small change in thestress. The portion of the curve between B and
+D shows this. When the load is removed, say at
+some point C between B and D, the body does
+not regain its original dimension. In this case,even when the stress is zero, the strain is not
+zero. The material is said to have a permanentset. The deformation is said to be plasticdeformation. The point D on the graph is theultimate tensile strength (u) of the material.Beyond this point, additional strain is producedeven by a reduced applied force and fractureoccurs at point E. If the ultimate strength andfracture points D and E are close, the material
+is said to be brittle. If they are far apart, the
+material is said to be ductile.As stated earlier, the stress-strain behaviourvaries from material to material. For example,rubber can be pulled to several times its original
+length and still returns to its original shape.
+Fig. 9.4 shows stress-strain curve for the elastic
+tissue of aorta, present in the heart. Note that
+although elastic region is very large, the materialFig. 9.3 A typical stress-strain curve for a metal.
+MECHANICAL PROPERTIES OF SOLIDS235does not obey Hooke™s law over most of theregion. Secondly, there is no well defined plastic
+region. Substances like tissue of aorta, rubberetc. which can be stretched to cause large strainsare called elastomers.9.6  ELASTIC MODULIThe proportional region within the elastic limitof the stress-strain curve (region OA in Fig. 9.3)
+is of great importance for structural andmanufacturing engineering designs. The ratioof stress and strain, called modulus of elasticity,is found to be a characteristic of the material.
+9.6.1  Young™s ModulusExperimental observation show that for a givenmaterial, the magnitude of the strain produced
+is same whether the stress is tensile orcompressive. The ratio of tensile (or compressive)stress () to the longitudinal strain () is defined asYoung™s modulus and is denoted by the symbol Y.Y =  (9.7)From Eqs. (9.1) and (9.2), we haveY = (F/A)/(L/L)   = (F × L) /(A × L)(9.8)Since strain is a dimensionless quantity, theunit of Young™s modulus is the same as that ofstress i.e., N mŒ2 or Pascal (Pa). Table 9.1 givesthe values of Young™s moduli and yield strengthsof some materials.From the data given in Table 9.1, it is noticedthat for metals Young™s moduli are large.Therefore, these materials require a large force
+to produce small change in length. To increase
+the length of a thin steel wire of 0.1 cm2 cross-sectional area by 0.1%, a force of 2000 N isrequired. The force required to produce the samestrain in aluminium, brass and copper wireshaving the same cross-sectional area are 690 N,
+900 N and 1100 N respectively. It means that
+steel is more elastic than copper, brass and
+aluminium. It is for this reason that steel isFig. 9.4Stress-strain curve for the elastic tissue ofAorta, the large tube (vessel) carrying blood
+from the heart.Table 9.1 Young™s moduli, elastic limit and tensile strengths of some materials.SubstanceYoung™sElasticTensilemoduluslimitstrength
+109 N/m2107 N/m2107 N/m2y%uAluminium701820
+Copper1202040
+
+Iron (wrought)1901733
+
+Steel2003050
+
+Bone
+(Tensile)1612
+
+(Compressive)912
+
+236PHYSICSpreferred in heavy-duty machines and instructural designs. Wood, bone, concrete and
+glass have rather small Young™s moduli.Example 9.1  A structural steel rod  has aradius of 10 mm and a length of 1.0 m. A
+100 kN force stretches it along its length.Calculate (a) stress, (b) elongation, and (c)strain on the rod. Young™s modulus, of
+structural steel is 2.0 × 1011 N m-2.Answer We assume that the rod is held by aclamp at one end, 
+and the force F is applied atthe other end, parallel to the length of the rod.Then the stress on the rod is given byStress
+FA Fr2                10010N
+3.1410m
+322         = 3.18 × 108 N mŒ2The elongation,F/AL
+LY     =    3.1810Nm1m
+10Nm
+8    
+    Œ2Œ2211     = 1.59 × 10Œ3 m     = 1.59 mmThe strain is given byStrain   = L/L            = (1.59 
+× 10Œ3 m)/(1m)             = 1.59 × 10Œ3             = 0.16 %Example 9.2 A copper wire of length 2.2m and a steel wire of length 1.6 m, both ofdiameter 3.0 mm, are connected end to end.
+When stretched by a load, the net
+elongation is found to be 0.70 mm. Obtain
+the load applied.AnswerThe copper and steel wires are undera tensile stress because they have the sametension (equal to the load W) and the same areaof cross-section A. From Eq. (9.7) we have stress= strain × Young™s modulus. ThereforeW/A = Yc × Lc/Lc) = Ys × (Ls/Ls)where the subscripts c  and s refer to copperand stainless steel respectively. Or,Lc/Ls = (Ys/Yc) × (Lc/Ls)Given Lc = 2.2 m, Ls = 1.6 m,From Table 9.1 Yc = 1.1 × 1011 N.mŒ2, and   Ys = 2.0 × 1011 N.mŒ2.Lc/Ls = (2.0 × 1011/1.1 × 1011) × (2.2/1.6) = 2.5.The total elongation is given to beLc + Ls =  7.0  × 10-4 mSolving the above equations,Lc = 5.0  × 10-4 m,   and   Ls = 2.0  × 10-4 m.Therefore
+W   = (A × Yc × Lc)/Lc=  (1.5 × 10-3)2 × [(5.0 × 10-4 × 1.1 × 1011)/2.2]= 1.8 × 102 NExample 9.3In a human pyramid in acircus, the entire weight of the balancedgroup is supported by the legs of a
+performer who is lying on his back (as
+shown in Fig. 9.5). The combined mass of
+all the persons performing the act, and thetables, plaques etc. involved is 280 kg. The
+mass of the performer lying on his back at
+the bottom of the pyramid is 60 kg. Each
+thighbone (femur) of this performer has alength of 50 cm and an effective radius of2.0 cm. Determine the amount by which
+each thighbone gets compressed under the
+extra load.Fig. 9.5 Human pyramid in a circus.
+MECHANICAL PROPERTIES OF SOLIDS237AnswerTotal mass of all the performers,tables, plaques etc.    = 280 kg
+Mass of the performer  = 60 kg
+Mass supported by the legs of the performerat the bottom of the pyramid= 280 Œ 60 = 220 kg
+Weight of this supported mass = 220 kg wt. = 220 × 9.8 N = 2156 N.Weight supported by each thighbone of theperformer = ˜ (2156) N = 1078 N.From Table 9.1, the Young™s modulus for boneis given byY=9.4 
+× 109 N mŒ2.Length of each thighbone L = 0.5 mthe radius of thighbone = 2.0 cmThus the cross-sectional area of the thighboneA  =  × (2 × 10-2)2 m2 = 1.26 × 10-3 m2.Using Eq. (9.8), the compression in each
+thighbone (L) can be computed asL=[(
+F × L)/(Y × A)]=[(1078 
+× 0.5)/(9.4 × 109 × 1.26 × 10-3)]=4.55 
+× 10-5 m or 4.55 × 10-3 cm.This is a very small change! The fractionaldecrease in the thighbone is L/L = 0.000091or 0.0091%.9.6.2Determination of Young™s Modulus ofthe Material of a WireA typical experimental arrangement to determinethe Young™s modulus of a material of wire under
+tension is shown in Fig. 9.6. It consists of twolong straight wires of same length and equalradius suspended side by side from a fixed rigid
+support. The wire A (called the reference wire)carries a millimetre main scale M and a pan to
+place a weight. The wire B (called the
+experimental wire) of uniform area of cross-section also carries a pan in which known
+weights can be placed. A vernier scale V is
+attached to a pointer at the bottom of theexperimental wire B, and the main scale M isfixed to the reference wire A. The weights placedin the pan exert a downward force and stretchthe experimental wire under a tensile stress. Theelongation of the wire (increase in length) is
+measured by the vernier arrangement. Thereference wire is used to compensate for anychange in length that may occur due to change
+in room temperature, since any change in lengthof the reference wire due to temperature changewill be accompanied by an equal change inexperimental wire. (We shall study  these
+temperature effects in detail in Chapter 11.)Fig. 9.6An arrangement for the determination ofYoung™s modulus of the material of a wire.Both the reference and experimental wires aregiven an initial small load to keep the wiresstraight and the vernier reading is noted. Nowthe experimental wire is gradually loaded with
+more weights to bring it under a tensile stressand the vernier reading is noted again. Thedifference between two vernier readings gives
+the elongation produced in the wire. Let r and Lbe the initial radius and length of the
+experimental wire, respectively. Then the area
+of cross-section of the wire would be r2. Let Mbe the mass that produced an elongation L inthe wire. Thus the applied force is equal to Mg,where g is the acceleration due to gravity. FromEq. (9.8), the Young™s modulus of the material
+of the experimental wire is given byY = 2.MgLLr= Mg × L/(r2 × L)(9.9)
+
+238PHYSICS9.6.3Shear ModulusThe ratio of shearing stress to the correspondingshearing strain is called the shear modulus ofthe material and is represented by G. It is alsocalled the modulus of rigidity.G  = shearing stress (s)/shearing strainG  = (F/A)/(x/L)    = (F × L)/(A × x)(9.10)
+Similarly, from Eq. (9.4)G  = (F/A)/     = F/(A × )(9.11)
+The shearing stress s can also be expressed ass  =  G  × (9.12)SI unit of shear modulus is N mŒ2 or Pa. Theshear moduli of a few common materials aregiven in Table 9.2. It can be seen that shearmodulus (or modulus of rigidity) is generally lessthan Young™s modulus (from Table 9.1). For mostmaterials G  Y/3.Table 9.2Shear moduli (G) of some commonmaterialsMaterialG (109 NmŒ2or GPa)Aluminium25
+Brass36
+Copper42
+Glass23
+
+Iron70
+Lead5.6
+Nickel77
+
+Steel84
+Tungsten150
+Wood10
+ Example 9.4 A square lead slab of side 50
+cm and thickness 10 cm is subject to ashearing force (on its narrow face) of 9.0 ×104 N. The lower edge is riveted to the floor.How much will the upper edge be displaced?Answer The lead slab is fixed and the force isapplied parallel to the narrow face as shown in
+Fig. 9.7. The area of the face parallel to whichthis force is applied is A  = 50 cm × 10 cm                = 0.5 m 
+× 0.1 m     = 0.05 m2Therefore, the stress applied is    = (9.4  × 104 N/0.05 m2)                         = 1.80 × 106 N.mŒ2Fig. 9.7We know that shearing strain = (
+x/L)= Stress /G.Therefore the displacement x = (Stress × L)/G = (1.8 × 106 N mŒ2 × 0.5m)/(5.6 × 109 N mŒ2) = 1.6 × 10Œ4 m = 0.16 mm9.6.4  Bulk ModulusIn Section (9.3), we have seen that when a bodyis submerged in a fluid, it undergoes a hydraulic
+stress (equal in magnitude to the hydraulicpressure). This leads to the decrease in thevolume of the body thus producing a strain calledvolume strain [Eq. (9.5)]. The ratio of hydraulicstress to the corresponding hydraulic strain iscalled bulk modulus. It is denoted by symbol B.B = Œ p/(V/V)(9.13)
+The negative sign indicates the fact that withan increase in pressure, a decrease in volumeoccurs. That is, if p is positive, V is negative.Thus for a system in equilibrium, the value ofbulk modulus B is always positive. SI unit ofbulk modulus is the same as that of pressurei.e., N mŒ2 or Pa. The bulk moduli of a fewcommon materials are given in Table 9.3.The reciprocal of the bulk modulus is calledcompressibility and is denoted by k. It is definedas the fractional change in volume per unitincrease in pressure.k = (1/B) = Œ (1/p) × (V/V)(9.14)
+It can be seen from the data given in Table9.3 that the bulk moduli for solids are muchlarger than for liquids, which are again muchlarger than the bulk modulus for gases (air).aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+MECHANICAL PROPERTIES OF SOLIDS239large compressibilities, which vary with pressureand temperature. The incompressibility of thesolids is primarily due to the tight couplingbetween the neighbouring atoms. The moleculesin liquids are also bound with their neighboursbut not as strong as in solids. Molecules in gases
+are very poorly coupled to their neighbours.Table 9.4 shows the various types of stress,strain, elastic moduli, and the applicable stateof matter at a glance.Example 9.5The average depth of IndianOcean is about 3000 m. Calculate thefractional compression, V/V, of water atthe bottom of the ocean, given that the bulkmodulus of water is 2.2 ××××× 109 N mŒ2. (Takeg  = 10 m sŒ2)Answer   The pressure exerted by a  3000 mcolumn of water on the bottom layerp = hg  = 3000 m  × 1000 kg mŒ3 × 10 m sŒ2= 3  × 107 kg mŒ1 s-2= 3  × 107 N mŒ2Fractional compression V/V, isV/V= stress/B= (3 × 107 N m-2)/(2.2 × 109 N mŒ2)= 1.36 × 10-2 or  1.36 %   Table 9.3Bulk moduli (B) of some commonMaterialsMaterialB (109 N mŒ2 or GPa)SolidsAluminium72
+Brass61
+
+Copper140
+
+Glass37
+
+Iron100
+
+Nickel260
+
+Steel160
+
+Liquids
+Water2.2
+
+Ethanol0.9
+
+Carbon disulphide1.56Glycerine4.76
+
+Mercury25
+
+Gases
+Air (at STP)1.0 
+× 10Œ4Table 9.4 Stress, strain and various elastic moduliType ofStressStrain    
+Change inElastic
+Name ofState of
+stressshape   volumemodu
+lusmodulusMater
+TensileTwo 
+equal andElongation orYesNo           
+Y = (FL)/Young™s
+Solidoropposite forcescompression(
+AL)modulus
+compressiveperpendicular toparallel to force
+opposite facesdirection (
+L/L)(= F/A)(longitudinal strain)
+ShearingTwo equal andPure shear, 
+YesNo         
+G = (F)/AShearSolid
+opposite forcesmodulusparallel to  oppoistesurfaces [forcesin each case such
+that total force and
+total torque on the
+body vanishes(s = F/A)HydraulicForces perpendicularVolume changeNoYes
+ B = Œp/(V/V)Bulk
+Solid, liquideverywhere to the(compression 
+ormodulus
+and gassurface, force per unitelongation
+area (pressure) same(
+V/V)everywhere.Thus solids are least compressible whereas gasesare most compressible. Gases are about a million
+times more compressible than solids! Gases have
+240PHYSICS9.7APPLICATIONS OF ELASTICBEHAVIOUR OF MATERIALSThe elastic behaviour of materials plays animportant role in everyday life. All engineeringdesigns require precise knowledge of the elasticbehaviour of materials. For example while
+designing a building, the structural design ofthe columns, beams and supports requireknowledge of strength of materials used. Have
+you ever thought why the beams used inconstruction of bridges, as supports etc. have across-section of the type I? Why does a heap ofsand or a hill have a pyramidal shape? Answersto these questions can be obtained from thestudy of structural engineering which is basedon concepts developed here.Cranes used for lifting and moving heavy loadsfrom one place to another have a thick metal ropeto which the load is attached. The rope is pulled
+up using pulleys and motors. Suppose we wantto make a crane, which has a lifting capacity of10 tonnes or metric tons (1 metric ton = 1000
+
+kg). How thick should the steel rope be? Weobviously want that the load does not deform therope permanently. Therefore, the extension
+should not exceed the elastic limit. From Table9.1, we find that mild steel has a yield strength
+(Sy) of about 300 × 106 N mŒ2. Thus, the area ofcross-section (A) of the rope should at least beA  W/Sy  =  Mg/Sy(9.15)=(10
+4 kg × 10 m s-2)/(300 × 106 N m-2)=3.3 
+× 10-4 m2corresponding to a radius of about 1 cm for arope of circular cross-section. Generally a large
+margin of safety (of about a factor of ten in theload) is provided. Thus a thicker rope of radiusabout 3 cm is recommended. A single wire ofthis radius would practically be a rigid rod. Sothe ropes are always made of a number of thinwires braided together, like in pigtails, for easein manufacture, flexibility and strength.A bridge has to be designed such that it canwithstand the load of the flowing traffic, the force
+of winds and its own weight. Similarly, in thedesign of buildings use of beams and columnsis very common. In both the cases, theovercoming of the problem of bending of beamunder a load is of prime importance. The beamshould not bend too much or break. Let us
+consider the case of a beam loaded at the centreand supported near its ends as shown inFig. 9.8.  A bar of length l, breadth b, and depth dwhen loaded at the centre by a load W sags byan amount given by = W l3/(4bd3Y)(9.16)
+Fig. 9.8A beam supported at the ends and loadedat the centre.This relation can be derived using what youhave already learnt and a little calculus. FromEq. (9.16), we see that to reduce the bending fora given load, one should use a material with alarge Young™s modulus Y. For a given material,increasing the depth d rather than the breadthb is more effective in reducing the bending, since  is proportional to d -3 and only to b-1(of coursethe length l of the span should be as small aspossible). But on increasing the depth, unlessthe load is exactly at the right place (difficult toarrange in a bridge with moving traffic), the deep
+bar  may bend as shown in Fig. 9.9(b). This is
+called buckling. To avoid this, a commoncompromise is the cross-sectional shape shown
+in Fig. 9.9(c). This section provides a large load-
+bearing surface and enough depth to prevent
+bending. This shape reduces the weight of the
+beam without sacrificing the strength and hence
+reduces the cost.(a)(b)(c)
+Fig. 9.9Different cross-sectional shapes of abeam. (a) Rectangular section of a bar;
+(b) A thin bar and how it can buckle;(c) Commonly used section for a loadbearing bar.
+MECHANICAL PROPERTIES OF SOLIDS241Use of pillars or columns is also very commonin buildings and bridges. A pillar with roundedends as shown in Fig. 9.10(a) supports less loadthan that with a distributed shape at the ends[Fig. 9.10(b)].  The precise design of a bridge
+or a building has to take into account
+the conditions under which it will function, the
+cost and long period, reliability of usablematerials etc.(a)(b)
+Fig. 9.10Pillars or columns: (a) a pillar withrounded ends, (b) Pillar with distributedends.The answer to the question why the maximumheight of a mountain on earth is ~10 km canalso be provided by considering the elasticproperties of rocks. A mountain base is notunder uniform compression and this provides
+some shearing stress to the rocks under which
+they can flow. The stress due to all the materialon the top should be less than the criticalshearing stress at which the rocks flow.At the bottom of a mountain of height h, theforce per unit area due to the weight of the
+mountain is hg where  is the density of thematerial of the mountain and g is theacceleration due to gravity. The material at thebottom experiences this force in the verticaldirection, and the sides of the mountain are free.
+Therefore this is not a case of pressure or bulk
+compression. There is a shear component,approximately hg itself. Now the elastic limitfor a typical rock is 30 × 107 N m-2. Equatingthis to hg, with   = 3 × 103 kg m-3 giveshg  = 30 × 107 N m-2 .        Or
+h      =  30 
+× 107 N m-2/(3 × 103 kg m-3 × 10 m s-2)      = 10 km
+which is more than the height of Mt. Everest!SUMMARY1.Stress is the restoring force per unit area and strain is the fractional change in dimension.
+In general there are three types of stresses (a) tensile stress Š longitudinal stress(associated with stretching) or compressive stress (associated with compression),(b) shearing stress, and (c) hydraulic stress.2.For small deformations,
+ stress is directly proportional to the strain for many materials.This is known as Hooke™s law. The constant of proportionality is called modulus ofelasticity. Three elastic moduli viz., Young™s modulus, shear modulus and bulk modulusare used to describe the elastic behaviour of objects as they respond to deformingforces that act on them.
+A class of solids called elastomers does not obey Hooke™s law.3.When an object is under tension or compression, the Hooke™s law takes the form
+ F/A  = YL/Lwhere  L/L is the tensile or compressive strain of the object, F is the magnitude of theapplied force causing the strain, A is the cross-sectional area over which F is applied(perpendicular to A) and Y is the Young™s modulus for the object. The stress is F/A.4.A pair of forces when applied parallel to the upper and lower faces, the solid deforms so
+that the upper face moves sideways with respect to the lower. The horizontal
+displacement L of the upper face is perpendicular to the vertical height L. This type ofdeformation is called shear and the corresponding stress is the shearing stress. Thistype of stress is possible only in solids.
+In this kind of deformation the Hooke™s law takes the formF/A = G × L/Lwhere L is the displacement of one end of object in the direction of the applied force F,and G is the shear modulus.
+242PHYSICS5.When an object undergoes hydraulic compression due to a stress exerted by a
+surrounding fluid, the Hooke™s law takes the formp = B (V/V),where p is the pressure (hydraulic stress) on the object due to the fluid, V/V  (thevolume strain) is the absolute fractional change in the object™s volume due to thatpressure and B is the bulk modulus of the object.POINTS TO PONDER1.In the case of a wire, suspended from celing and stretched under the action of a weight
+(F) suspended from its other end, the force exerted by the ceiling on it is  equal andopposite to the weight. However, the tension at any cross-section A of the wire is just Fand not 2F. Hence, tensile stress which is equal to the tension per unit area is equal toF/A.2.Hooke™s law is valid only in the linear part of stress-strain curve.
+3.The Young™s modulus and shear modulus are relevant only for solids since only solids
+have lengths and shapes.4.Bulk modulus is relevant for solids, liquid and gases.  It refers to the change in volume
+when every part of the body is under the uniform stress so that the shape of the bodyremains unchanged.5.Metals have larger values of Young™s modulus than alloys and elastomers. A material
+with large value of Young™s modulus requires a large force to produce small changes inits length.6.In daily life, we feel that a material which stretches more is more elastic, but it a is
+misnomer. In fact material which stretches to a lesser extent for a given load is considered
+to be more elastic.7.In general, a deforming force in one direction can produce strains in other directions
+also. The proportionality between stress and strain in such situations cannot be described
+by just one elastic constant.  For example, for a wire under longitudinal strain, the
+lateral dimensions (radius of cross section) will undergo a small change, which is describedby another elastic constant of the material (called Poisson ratio).8.Stress is not a vector quantity since, unlike a force, the stress cannot be assigned a
+specific direction. Force acting on the portion of a body on a specified side of a sectionhas a definite direction.EXERCISES9.1A steel wire of length 4.7 m and cross-sectional area 3.0 × 10-5 m2 stretches by thesame amount as a copper wire of length 3.5 m and cross-sectional area of 4.0 × 10Œ5 m2under a given load. What is the ratio of the Young™s modulus of steel to that of copper?9.2Figure 9.11 shows the strain-stress curve for a given material. What are (a) Young™smodulus and (b) approximate yield strength for this material?
+MECHANICAL PROPERTIES OF SOLIDS243Fig. 9.119.3The stress-strain graphs for materials A and B are shown in Fig. 9.12.Fig. 9.12The graphs are drawn to the same scale.(a)Which of the materials has the greater Young™s modulus?
+
+(b)Which of the two is the stronger material?
+9.4Read the following two statements below carefully and state, with reasons, if it is true
+or false.
+(a)The Young™s modulus of rubber is greater than that of steel;
+(b)The stretching of a coil is determined by its shear modulus.
+9.5Two wires of diameter 0.25 cm, one made of steel and the other made of brass areloaded as shown in Fig. 9.13. The unloaded length of steel wire is 1.5 m and that of
+brass wire is 1.0 m. Compute the elongations of the steel and the brass wires.Fig. 9.13
+244PHYSICS9.6The edge of an aluminium cube is 10 cm long. One face of the cube is firmly fixed to avertical wall. A mass of 100 kg is then attached to the opposite face of the cube. The
+shear modulus of aluminium is 25 GPa. What is the vertical deflection of this face?9.7Four identical hollow cylindrical columns of mild steel support a big structure of mass
+50,000 kg. The inner and outer radii of each column are 30 and 60 cm respectively.
+Assuming the load distribution to be uniform, calculate the compressional strain ofeach column.9.8A piece of copper having a rectangular cross-section of 15.2 mm × 19.1 mm is pulled intension with 44,500 N force, producing only elastic deformation. Calculate the resultingstrain?9.9A steel cable with a radius of 1.5 cm supports a chairlift at a ski area. If the maximum
+stress is not to exceed 108 N mŒ2, what is the maximum load the cable can support ?9.10A rigid bar of mass 15 kg is supported symmetrically by three wires each 2.0 m long.
+Those at each end are of copper and the middle one is of iron. Determine the ratios of
+their diameters if each is to have the same tension.9.11A 14.5 kg mass, fastened to the end of a steel wire of unstretched length 1.0 m, is
+whirled in a vertical circle with an angular velocity of 2 rev/s at the bottom of the circle.
+The cross-sectional area of the wire is 0.065 cm2. Calculate the elongation of the wirewhen the mass is at the lowest point of its path.9.12Compute the bulk modulus of water from the following data: Initial volume = 100.0
+litre, Pressure increase = 100.0 atm (1 atm = 1.013 × 105 Pa), Final volume = 100.5litre. Compare the bulk modulus of water with that of air (at constant temperature).
+Explain in simple terms why the ratio is so large.9.13What is the density of water at a depth where pressure is 80.0 atm, given that its
+density at the surface is 1.03 × 103 kg mŒ3?9.14Compute the fractional change in volume of a  glass slab, when subjected to a hydraulic
+pressure of 10 atm.9.15Determine the volume contraction of a solid copper cube, 10 cm on an edge, when
+subjected to a hydraulic pressure of 7.0 × 106 Pa.9.16How much should the pressure on a litre of water be changed to compress it by 0.10%?Additional Exercises9.17Anvils made of single crystals of diamond, with the shape as shown inFig. 9.14, are used to investigate behaviour of materials under very high pressures.
+Flat faces at the narrow end of the anvil have a diameter of 0.50 mm, and the wide endsare subjected to a compressional force of 50,000 N. What is the pressure at the tip ofthe anvil?Fig. 9.14
+MECHANICAL PROPERTIES OF SOLIDS2459.18A rod of length 1.05 m having negligible mass is supported at its ends by two wires ofsteel (wire A) and aluminium (wire B) of equal lengths as shown in
+Fig. 9.15. The cross-sectional areas of wires A and B are 1.0 mm2 and 2.0 mm2,respectively. At what point along the rod should a mass m be suspended in order toproduce (a) equal stresses and (b) equal strains in both steel and aluminium wires.Fig. 9.159.19A mild steel wire of length 1.0 m and cross-sectional area 0.50 × 10-2 cm2 isstretched, well within its elastic limit, horizontally between two pillars. A mass of 100g is suspended from the mid-point of the wire. Calculate the depression at the mid-
+point.9.20Two strips of metal are riveted together at their ends by four rivets, each of diameter
+6.0 mm. What is the maximum tension that can be exerted by the riveted strip if the
+shearing stress on the rivet is not to exceed 6.9 × 107 Pa? Assume that each rivet is tocarry one quarter of the load.9.21The Marina trench is located in the Pacific Ocean, and at one place it is nearly eleven
+km beneath the surface of water. The water pressure at the bottom of the trench is
+about 1.1 × 108 Pa. A steel ball of initial volume 0.32 m3 is dropped into the ocean andfalls to the bottom of the trench. What is the change in the volume of the ball when it
+reaches to the bottom?

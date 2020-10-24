@@ -1,0 +1,676 @@
+Mathematics is a most exact science and its conclusions are capable ofabsolute proofs. Œ  
+C.P.  STEINMETZ
+8.1Introduction
+In earlier classes, we have learnt how to find the squaresand cubes of binomials like a + b and 
+a Œ b. Using them, wecould evaluate the numerical values of numbers like
+(98)2 = (100 Œ 2)
+2, (999)3 = (1000 Œ 1)
+3, etc. However, for
+higher powers like (98)5, (101)6, etc., the calculations becomedifficult by using repeated multiplication. This difficulty wasovercome by a theorem known as binomial theorem. It gives
+an easier way to expand (a + b)n, where n is an integer or a
+rational number. In this Chapter, we study binomial theorem
+
+for positive integral indices only.
+8.2Binomial Theorem for Positive Integral Indices
+Let us have a look at the following identities done earlier:(a+ b)0 = 1
+a + 
+b  0(a+ b)1 = 
+a + 
+b(a+ b)2 = 
+a2 + 2
+ab + b2(a+ b)3 = 
+a3 + 3
+a2b + 3ab2 + b3(a+ b)4 = (
+a + b)3 (a + 
+b) = a4 + 4
+a3b + 6
+a2b2 + 4
+ab3 + 
+b4In these expansions, we observe that(i)The total number of terms in the expansion is one more than the index. For
+example, in the expansion of (a + b)2 , number of terms is 3 whereas the index of
+(a + 
+b)2 is 2.
+(ii)Powers of the first quantity ‚a™ go on decreasing by 1 whereas the powers of thesecond quantity ‚b™ increase by 1, in the successive terms.(iii)In 
+each term of the expansion, the sum of the indices of a and 
+b is the same and
+is equal to the index of a + b.8ChapterBlaise Pascal(1623-1662)BINOMIAL THEOREM
+
+BINOMIAL THEOREM       161
+We now arrange the coefficients in these expansions as follows (Fig 8.1):
+Do we observe any pattern in this table that will help us to write the next row? Yes we
+do. It can be seen that the addition of 1™s in the row for index 1 gives rise to 2 in the row
+
+for index 2. The addition of 1, 2 and 2, 1 in the row for index 2, gives rise to 3 and 3 in
+the row for index 3 and so on. Also, 1 is present at the beginning and at the end of eachrow. This can be continued till any index of our interest.
+We can extend the pattern given in Fig 8.2 by writing a few more rows.
+Pascal™s 
+Triangle
+The structure given in Fig 8.2  looks like a triangle with 1 at the top vertex and running
+down the two slanting sides. This array of numbers is known as 
+Pascal™s triangle
+,after the name of French mathematician Blaise Pascal. It is also known as MeruPrastara by Pingla.
+Expansions for the higher powers of a binomial are also possible by using Pascal™s
+triangle. Let us expand (2x + 3y)5 by using Pascal™s triangle. The row for index 5 is
+15101051
+Using this row and our observations (i), (ii) and (iii), we get
+(2x + 3y)5= (2x)5 + 5(2
+x)4 (3
+y) + 10(2x)3 (3
+y)2 +10 (2
+x)2 (3
+y)3 + 5(2
+x)(3y)4 +(3
+y)5= 32x5 + 240
+x4y + 720x3y2 + 1080
+x2y3 + 810
+xy4 + 243
+y5.Fig 8.1Fig 8.2
+162       MA
+THEMATICSNow, if we want to find the expansion of (2
+x + 3y)12, we are first required to getthe row for index 12. This can be done by writing all the rows of the Pascal™s triangletill index 12. This is a slightly lengthy process. The process, as you observe, will become
+more difficult, if we need the expansions involving still larger powers.We thus try to find a rule that will help us to find the expansion of the binomial for
+any power without writing all the rows of the Pascal™s triangle, that come before the
+row of the desired index.For this, we make use of the concept of combinations studied earlier to rewritethe numbers in the Pascal™s triangle. We know that  
+!C!()!
+nrnrnŒr
+ , 0 
+  r  n and
+n is a non-negative integer
+. Also,   
+nC0 = 1 = 
+nCnThe Pascal™s triangle can now be rewritten as (Fig 8.3)
+Observing this pattern, we can now write the row of the Pascal™s triangle for any index
+without writing the earlier rows. For example, for the index 7 the row would be7C0  7C1    
+7C2    
+7C3    
+7C4    
+7C5    
+7C6    
+7C7.Thus, using this row and the observations (i), (ii) and (iii), we have(a + b)7 = 
+7C0 a7 + 7C1a6b + 
+7C2a5b2 + 
+7C3a4b3 + 7C
+4a3b4 + 
+7C5a2b5 + 
+7C6ab6 + 
+7C7b7An expansion of a binomial to any positive integral index say n can now be visualised
+using these observations. We are now in a position to write the expansion of a binomial
+to any positive integral index.Fig  8.3     Pascal™s triangle
+
+BINOMIAL THEOREM       163
+8.2.1 Binomial theorem 
+ for any positive integer n,(a + 
+b)n = nC0an + 
+nC1anŒ1b + 
+nC2anŒ2 b2 + ...+ 
+nCn Œ 1a.bnŒ1 + 
+nCnbnProof  The proof is obtained by applying principle of mathematical induction.
+Let the given statement beP(n) : (a + 
+b)n = 
+nC0an + 
+nC1an Œ 1b + 
+nC2an Œ 2b2 + ...+ 
+nCnŒ1a.bn Œ 1 + 
+nCnbnFor n = 1, we have
+P (1) : (a + 
+b)1 = 
+1C0a1 + 
+1C1b1 = 
+a + 
+bThus, P (1) is true.Suppose P (k) is true for some positive integer k, i.e.(a + b)k = 
+kC0ak + 
+kC1ak Œ 1b + 
+kC2ak Œ 2b2 + ...+ 
+kCkbk... (1)We shall prove that P(
+k + 1) is also true, i.e.,(a + b)k + 1 = 
+k + 1C0 ak + 1 + 
+k + 1C1 akb + 
+k + 1C2 ak Œ 1b2 + ...+ 
+k + 1Ck+1 bk + 1Now, (
+a + b)k + 1= (a + b) (a + b)k= (a + b) (kC0 ak + 
+kC1ak Œ 1 b + 
+kC2 ak Œ 2 b2 +...+ kCk Œ 1 abk Œ 1 + kCk bk)[from (1)]= kC0 ak + 1 + 
+kC1 akb + 
+kC2ak Œ 1b2 +...+ 
+kCk Œ 1 a2bk Œ 1 + kCk abk + kC0 akb+ kC1ak Œ 1b2 + kC2ak Œ 2b3+...+ kCk-1abk + kCkbk + 1[by actual multiplication]= kC0ak + 1 + (
+kC1+ kC0) akb + (
+kC2 + kC1)ak Œ 1b2 + ...    + (
+kCk+ kCkŒ1) abk + 
+kCkbk + 1     [grouping like terms]
+= k + 1C0a k + 1 + 
+k + 1C1akb + k + 1C2 ak Œ 1b2 +...+ k + 1Ckabk + k + 1Ck + 1 bk +1(by using  k + 1C0=1,  kCr + kCrŒ1 =  k + 1Crand   
+kCk  = 1= k + 1Ck + 1)Thus, it has been proved that P (k + 1) is true whenever P(k) is true. Therefore, byprinciple of mathematical induction, P(n) is true for every positive integer n.We illustrate this theorem by expanding (
+x + 2)
+6:(x + 2)6= 6C0x6 + 
+6C1x5.2 + 6C2x422 + 
+6C3x3.23  + 
+6C4x2.24 + 
+6C5x.25 + 
+6C6.26.= x6 + 12
+x5 + 60
+x4 + 160
+x3 + 240x2 + 192
+x + 64
+Thus (x + 2)6= x6 + 12
+x5 + 60
+x4 + 160
+x3 + 240x2 + 192
+x + 64.
+
+164       MA
+THEMATICSObservations1.The notation nkkknknba0Cstands fornC0anb0 + 
+nC1anŒ1b1 + ...+ 
+nCranŒrbr + ...+
+nCnanŒnbn, where b0 = 1 = anŒn.Hence the theorem can also be stated asnkkknknnbaba0C)(.2.The coefficients nCr occuring in the binomial theorem are known as binomial
+coefficients.3.There are (n+1) terms in the expansion of (a+b)n, i.e., one more than the index.4.In the successive terms of the expansion the index of a goes on decreasing by
+unity. It is 
+n in the first term, (
+nŒ1) in the second term, and so on ending with zeroin the last term. At the same time the index of b increases by unity
+, starting withzero in the first term, 1 in the second and so on ending with n in the last term.
+5.In the expansion of (a+b)n, the sum of the indices of a and 
+b is 
+n + 0 = n in the
+first term, (n Œ 1) + 1 = n in the second term and so on 0 + 
+n = 
+n in the last term.
+Thus, it can be seen that the sum of the indices of a and b is 
+n in every term of the
+expansion.8.2.2Some special cases In the expansion of (a + b)n,(i)Taking 
+a= x and 
+b = Œ y, we obtain(x Œ y)n= [x + (Œ
+y)]n= nC0xn + 
+nC1xn Œ 1(Œy) + nC2xnŒ2(Œy)2 + 
+nC3xnŒ3(Œy)3 + ... + 
+nCn (Œ
+y)n= nC0xn Œ 
+nC1xn Œ 1y + 
+nC2xn Œ 2y2 Œ 
+nC3xn Œ 3y3 + ... + (Œ1)
+n nCn ynThus (xŒy)n = 
+nC0xn Œ 
+nC1xn Œ 1 y + nC2xn Œ 2 y2 + ... + (Œ1)
+n nCn ynUsing this, we have(
+xŒ2y)5 =  
+5C0x5 Œ 
+5C1x4 (2y) + 5C2x3 (2
+y)2 Œ 5C3x2 (2
+y)3 +      5C4 x(2y)4 Œ 5C5(2y)5  = 
+x5 Œ10
+x4y + 40x3y2 Œ 80
+x2y3 + 80
+xy4 Œ 32
+y5.(ii)T
+aking a = 1, b = x, we obtain(1 + x)n= nC0(1)n + 
+nC1(1)n Œ 1x + 
+nC2(1)n Œ 2 x2 + ... + 
+nCnxn= nC0 + 
+nC1x + 
+nC2x2 + 
+nC3x3 + ... + nCnxnThus(1 +
+ x)n  = nC0 + 
+nC1x + 
+nC2x2 + 
+nC3x3 + ... + 
+nCnxn
+BINOMIAL THEOREM       165
+In particular, for  x = 1, we have2n = 
+nC0 + 
+nC1 + 
+nC2 + ... + 
+nCn.(iii)T
+aking a = 1, 
+b = Œ 
+x, we obtain
+(1Œ x)n   =  
+nC0 Œ 
+nC1x + 
+nC2x2 Œ ... + (Œ 1)
+n nCnxnIn particular, for x = 1, we get  0 = 
+nC0 Œ 
+nC1 + 
+nC2 Œ ... + (Œ1)
+n nCnExample 1 Expand 423xx, x  0Solution By using binomial theorem, we have423xx= 4C0(x2)4 + 
+4C1(x2)3 x3 + 
+4C2(x2)2 23x+ 4C3(x2) 33x+  4C4  43x= x8 + 4.
+x6 . 
+x3+ 6.x4 . 
+29x+ 4.x2.327x+ 481x= x8 + 12
+x5 + 54
+x2 + 
+481108xx.Example 2 Compute (98)5.Solution We express 98 as the sum or difference of two numbers whose powers are
+easier to calculate, and then use Binomial Theorem.Write 98 = 100 Œ 2
+Therefore, (98)5= (100 Œ 2)5= 5C0 (100)
+5 Œ 
+5C1 (100)
+4.2 + 5C2 (100)
+322Œ  5C3 (100)
+2 (2)3 + 
+5C4 (100) (2)
+4 Œ 
+5C5 (2)
+5= 10000000000 Œ 5 × 100000000 × 2 + 10 × 1000000 × 4 Œ 10 ×10000× 8 + 5 × 100 × 16 Œ 32= 10040008000 Œ 1000800032 = 9039207968.Example 3 Which is larger (1.01)1000000 or 10,000?
+Solution Splitting 1.01 and using binomial theorem to write the first few terms we
+have
+166       MA
+THEMATICS       (1.01)
+1000000 = (1 + 0.01)1000000= 1000000C0 + 
+1000000C1(0.01) + other positive terms= 1 + 1000000 × 0.01 + other positive terms
+= 1 + 10000 + other positive terms> 10000Hence(1.01)1000000 > 10000
+Example 4 Using binomial theorem, prove that 6nŒ5n always leaves remainder
+1 when divided by 25.Solution For two numbers a and 
+b if we can find numbers 
+q and 
+r such that
+a = bq
+ + 
+r, then we say that b divides 
+a with 
+q as quotient and 
+r as remainder. Thus, in
+order to show that  6
+n Œ 5n leaves remainder 1 when divided by 25, we prove that
+6n Œ 5n = 25
+k + 1, where 
+k is some natural number.
+We have
+(1 + a)n = 
+nC0 + 
+nC1a + 
+nC2a2 + ... + 
+nCnanFor a    = 5, we get
+          (1 + 5)
+n = 
+nC0 + 
+nC15 + nC252 + ... + 
+nCn5ni.e.(6)
+n = 1 + 5
+n + 5
+2.nC2 + 53.nC3 + ... + 5
+ni.e.6
+n Œ 5
+n = 1+52 (nC2 + nC35 + ... + 5n-2)or6
+n Œ 5
+n = 1+ 25 (nC2 + 5 .nC3 + ... + 5
+n-2)or6
+n Œ 5
+n = 25k+1     where 
+k =  nC2 + 5 .nC3 + ... + 5
+nŒ2.This shows that when divided by 25, 6n Œ 5
+n leaves remainder 1.EXERCISE 8.1
+Expand each of the expressions in Exercises 1 to 5.1.(1Œ2x)52.522xŒx3.(2x Œ 3)
+6
+BINOMIAL THEOREM       167
+4.513xx5.61xxUsing binomial theorem, evaluate each of the following:6.(96)37.(102)58.(101)49.(99)510.Using Binomial Theorem, indicate which number is larger (1.1)10000 or 1000.11.
+Find (a + b)4 Œ (
+a Œ b)4. Hence, evaluate  4)23(Œ 4)2Œ3(.12.Find (x + 1)6 + (
+x Œ 1)6. Hence or otherwise evaluate (2 + 1)
+6 + (
+2 Œ 1)
+6.13.Show that 9n+1 Œ 8
+n Œ 9 is divisible by 64, whenever 
+n is a positive integer.
+14.Prove that nrnnrr04C3.8.3General and Middle Terms
+1.In the binomial expansion for (a + b)n, we observe that the first term isnC0an, the second term is nC1anŒ1b, the third term is nC2anŒ2b2, and so on. Lookingat the pattern of the successive terms we can say that the (r + 1)th term is
+nCranŒrbr. The (
+r + 1)th term is also called the general term of the expansion
+(a + b)n. It is denoted by Tr+1. Thus T
+r+1 = 
+nCr anŒrbr.2.Regarding the middle term in the expansion (a + b)n, we have(i)If 
+n is even, then the number of terms in the expansion will be 
+n + 1. Sincen is even so n + 1 is odd. Therefore, the middle term is thn211, i.e.,thn12 term.
+For example, in the expansion of (x + 2y)8, the middle term is th128 i.e.,
+5th term.
+(ii)If 
+n is odd, then 
+n +1 is even, so there will be two middle terms in the
+168       MA
+THEMATICSexpansion, namely, 
+thn21term and 112thnterm. So in the expansion(2x Œ y)7, the middle terms are th217, i.e., 4th and 
+th1217, i.e., 5th term.
+3.In the expansion of nxx21, where x   0, the middle term is thn2112,i.e., (n + 1)th term, as 2
+n is even.
+It is given by 2nCnxn nx1= 2nCn (constant).
+This term is called the term independent of 
+x or the constant term.
+Example 5 Find a if the 17
+th and 18
+th terms of the expansion (2 +
+ a)50 are equal.
+Solution The  (
+r + 1)th term of the expansion (
+x + y)n is given by T
+r + 1 =  
+nCrxnŒryr.For the 17th term, we have, 
+r + 1 = 17, i.e., r = 16Therefore,T
+17 =T
+16 + 1 = 
+50C16 (2)
+50 Œ 16 a16=50C16 234 a16.Similarly,T
+18 =50C17 233 a17Given thatT
+17 =T
+18So50C16 (2)34 a16 =50C17 (2)33 a17Therefore1617335034502.C2.C1716aai.e.,a = 
+50165017C2C = 
+50!17!33!
+216!34!50!
+. = 1
+Example 6 Show that the middle term in the expansion of (1+x)2n is
+135(21)
+!.....n
+n 2n xn, where n is a positive integer.
+BINOMIAL THEOREM       169
+Solution  As 2
+n is even, the middle term of the expansion (1 +
+ x)2n is  
+th212n,i.e., (n + 1)th term which is given by,
+  Tn+1  = 2nCn(1)2n Œ n(x)n = 
+2nCnxn  = 
+ (2)!
+!!nnxnn= 2(21)(22)4321
+!!nnnn......
+xnn= nxnnnnn!!)2()12()22...(4.3.2.1= !!)]2...(6.4.2[)]1Œ2(...5.3.1[nnnn xn=  nnxnnnn!!]...3.2.1[2)]12...(5.3.1[= [135(21)]!
+2!!nn.....nn
+.xnn= nnxnn2!)12...(5.3.1Example 7 Find the coefficient of 
+x6y3 in the expansion of (
+x + 2y)9.Solution Suppose x6y3 occurs in the (
+r + 1)th term of the expansion (
+x + 2y)9.NowT
+r+1  = 
+ 9Cr x9 Œ  r (2
+y)r  =  
+9Cr 2 r . 
+x9 Œ r . 
+y r .Comparing the indices of x as well as 
+y in 
+x6y3 and in  T
+r + 1 , we get r = 3.
+Thus, the coefficient of x6y3 is
+9C3 2 3  = 39!23!6!
+. = 
+3987
+232.... = 672.
+Example 8 The second, third and fourth terms in the binomial expansion (
+x + a)n are
+240, 720 and 1080, respectively. Find 
+x, a and 
+n.Solution Given that second term T
+2 = 240
+
+170       MA
+THEMATICSWe haveT
+2 = nC1xn Œ 1 . aSonC1xnŒ1 . a = 240... (1)
+SimilarlynC2xnŒ2 a2 = 720... (2)
+andnC3xnŒ3 a3 = 1080... (3)Dividing (2) by (1), we get22211C720
+240
+Cnnnnxaxa i.e.,
+6.)!2()!1(xannor)1(6nxa... (4)Dividing (3) by (2), we have922ax(n)
+... (5)From (4) and (5),6912(2)
+nn.Thus, 
+n = 5Hence, from (1), 5x4a = 240, and from (4),23xaSolving these equations for a and 
+x, we get x = 2 and 
+a = 3.
+Example 9 The coefficients of three consecutive terms in the expansion of (1 +
+ a)nare in the ratio1: 7 : 42. Find n.Solution Suppose the three consecutive terms in the expansion of (1 +
+ a)n are
+(r Œ 1)th, rth and (
+r + 1)th terms.
+The (r Œ 1)th term is nCr Œ 2 ar Œ 2, and its  coefficient is nCr Œ 2. Similarly, the coefficientsof rth and (
+r + 1)th terms  are 
+nCr Œ 1 and 
+nCr ,  respectively.
+Since the coefficients are in the ratio 1 : 7 : 42, so we have,21C17Cnrnr, i.e., n Œ 8r + 9 = 0... (1)
+and1C742Cnrnr , i.e., 
+n Œ 7r + 1 = 0... (2)
+Solving equations(1) and (2), we get, n = 55.
+
+BINOMIAL THEOREM       171
+EXERCISE 8.2
+Find the coefficient of1.x5 in (x + 3)82. a5b7 in (
+a Œ 2
+b)12 .Write the general term in the expansion of
+3.(x2 Œ y)64. (x2 Œ yx)12, x  0.
+5. Find the 4
+th term in the expansion of  (
+x Œ 2y)12.6. Find the 13th term in the expansion of 18193xx,  x  0.Find the middle terms in the expansions of7. 7363x8. 1093xy .9.In the expansion of (1 + a)m+n, prove that coefficients of am  and an are equal.
+10.The coefficients of the (r Œ 1)th, rth and (
+r + 1)th terms in the expansion of (
+x + 1)nare in the ratio 1 : 3 : 5. Find n and r.11.
+Prove that the coefficient of xn in the expansion of  (1 +
+ x)2n is twice the coefficient
+of xn in the expansion of (1 +
+ x)2n Œ 1.12.Find a positive value of m for which the coefficient of 
+x2 in the expansion
+(1 + x)m is 6.
+Miscellaneous ExamplesExample 10 Find the term independent of 
+x in the expansion of 
+623123xx.Solution We have  T
+r + 1= 66231C23rrrxx
+
+
+= 6662311
+C123rrrrrrxx
+
+
+
+172       MA
+THEMATICS= 626123
+6(3)
+(1)C
+(2)
+rrrrrxThe term will be independent of x if the index of 
+x is zero, i.e., 12 Œ 3
+r = 0. Thus, r = 4
+Hence 5th term is independent of 
+x and is given by (Œ 1)
+4  6 
+C4 125)2()3(4686.Example 11
+ If the coefficients of 
+ar Œ 1, ar and ar + 1 in the expansion of (1 +
+ a)n are in
+arithmetic progression, prove that 
+n2 Œ n(4r + 1) + 4r2 Œ 2 = 0.Solution The (
+r + 1)th term in the expansion is 
+ nCrar. Thus it can be seen that 
+ar occurs
+in the (r + 1)th term, and its coefficient is 
+nCr. Hence the coefficients of 
+ar Œ 1, ar and
+ar  +  1
+ are 
+nCr Œ 1, nCr and 
+nCr + 1, respectively.  Since these coefficients are in arithmetic
+progression, so we have, nCr Œ 1+ nCr + 1 = 2.nCr. This gives)!(!!2)!1()!1(!)!1()!1(!rnrnrnrnrnrni.e.)!1()!1()()1(1)!1()()1()!1(1rnrrrrnrnrnr)!1()()!1(12rnrnrror111
+(1)!(1)!(Œ)(1)(1)()
+rnrnrnrrr
+
+12(1)!(1)![(Œ)]
+rnrrnr
+
+i.e.)(2)1(1)()1(1rnrrrrnrn,or)(2)1()1()()1()()1(rnrrrrnrnrnrnrrorr(r + 1) + (
+n Œ 
+r) (n Œ 
+r + 1) = 2 (
+r + 1) (n Œ 
+r + 1)
+orr2 + 
+r + 
+n2 Œ 
+nr + 
+n Œ 
+nr + 
+r2 Œ 
+r = 2(
+nr Œ 
+r2 + 
+r + 
+n Œ 
+r + 1)
+BINOMIAL THEOREM       173
+orn2 Œ 4
+nr Œ 
+n + 4
+r2 Œ 2 = 0
+i.e.,n2 Œ 
+n (4
+r + 1) + 4
+r2 Œ 2 = 0
+Example 12 Show that the coefficient of the middle term in the expansion of (1 +
+ x)2n is
+equal to the sum of the coefficients of two middle terms in the expansion of (1 + x)2n Œ 1.Solution As 2
+n is even so the expansion (1 +
+ x)2n has only one middle term which is
+th212n  i.e., (
+n + 1)th  term.
+The (n + 1)th term is 
+2nCnxn. The coefficient of xn is 
+2nCnSimilarly, (2
+n Œ 1) being odd, the other expansion has two middle terms,th211
+2n and 
+th211
+12ni.e., nth and (
+n + 1)th terms. The coefficients of
+these terms are 2n Œ 1Cn Œ 1 and 2n Œ 1Cn, respectively.Now           2n Œ 1Cn Œ 1 +  2n Œ 1Cn= 2nCn[As nCr Œ 1+ nCr = 
+n + 1Cr]. as required.Example 13 Find the coefficient of 
+a4 in the product (1 + 2
+a)4 (2 Œ
+ a)5 using binomial
+theorem.Solution We first expand each of the factors of the given product using Binomial
+Theorem. We have
+(1 + 2a)4=4C0 + 4C1 (2
+a) + 4C2 (2
+a)2 + 
+4C3 (2a)3 + 4C4 (2
+a)4=1 + 4 (2
+a) + 6(4a2) + 4 (8a3) + 16a4.=1 + 8
+a + 24a2 + 32a3 + 16a4and(2 Œ
+ a)5=5C0  (2)5 Œ 5C1 (2)
+4 (a) + 5C2 (2)3 (a)2 Œ 5C3 (2)
+2 (a)3 + 
+5C4 (2) (a)4 Œ 5C5 (a)5=32 Œ 80
+a + 80
+a2 Œ 40a3 + 10a4  Œ a5Thus (1 + 2a)4 (2 Œ
+ a)5=(1 + 8
+a + 24
+a2 + 32
+a3+ 16a4) (32 Œ80a + 80
+a2Œ 40a3 + 10
+a4Œ a5)The complete multiplication of the two brackets need not be carried out. We write only
+those terms which involve a4. This can be done if we note that 
+ar. a4 Œ r 
+= a4. The terms
+containing a4 are1 (10a4) + (8a) (Œ40a3) + (24a2) (80a2) + (32a3) (Œ 80a) + (16a4) (32) = Œ 438a4
+174       MA
+THEMATICSThus, the coefficient of a4 in the given product is Œ 438.
+Example 14 Find the rth term from the end in the expansion of (
+x + a)n.Solution
+ There are (
+n + 1) terms in the expansion of (x + a)n. Observing the terms wecan say that the first term from the end is the last term, i.e., (
+n + 1)th term of the
+expansion and n + 1 = (n + 1) Œ (1 Œ 1). The second term from the end is the nth termof the expansion, and  n = (n + 1) Œ (2 Œ 1). The third  term from the end is the (
+n Œ 1)thterm of the expansion and n Œ 1 = (n + 1) Œ (3 Œ 1) and so on. Thus rth term from the
+end will be term number (n + 1) Œ (r Œ 1) = 
+(n Œ r + 2) of the expansion. And the
+(n Œ r 
++ 2)th term is 
+nCn Œ r 
++ 1 xr Œ 1 an Œ r 
++ 1.Example 15 Find the term independent of x in the expansion of 183312xx, x > 0.Solution We have T
+r + 1 = 
+1818331C2rrrxx       1818331C2rrrrx..x= 182
+1831C2rrr.xSince we have to find a term independent of x, i.e., term not having x, so take 182
+03r.We get 
+r = 9. The required term is 
+18C9 921.Example 16 The sum of the coefficients of the first three terms in the expansion of23mxx, x  0, 
+m being a natural number, is 559. Find the term of the expansion
+containing x3.Solution The coefficients of the first three terms of 23mxx are 
+mC0, (Œ3) mC1and 9 mC2. Therefore, by the given condition, we havemC0 Œ3 
+mC1+ 9 mC2 = 559, i.e., 1 Œ 3m + 
+9(1)
+5592mm
+BINOMIAL THEOREM       175
+which gives  m = 12 (
+m being a natural number).
+NowT
+r + 1 =  
+12Cr x12 Œ r 23rx =  12
+Cr (Œ 3)r . x12 Œ 3rSince we need the term containing x3, so put 12 Œ 3r = 3 i.e., 
+r = 3.
+Thus, the required term is 12C3 (Œ 3)3  x3,  i.e., Œ 5940 x3.Example 17 If the coefficients of (
+r Œ 5)th and (2
+r Œ 1)th terms in the expansion of
+(1 + x)34 are equal, find 
+r.Solution The coefficients of (
+r Œ 5)th and (2
+r Œ 1)th terms of the expansion (1 +
+ x)34are 34Cr Œ 6 and 
+34C2r Œ 2, respectively. Since they are equal so 
+34Cr Œ 6 = 
+34C2r Œ 2Therefore, either r Œ 6 = 2r Œ 2  or  
+rŒ6 = 34 Œ (2r Œ 2)
+[Using the fact that if nCr = nCp, then either r = p or 
+r = 
+n Œ p]So, we get r = Œ 4 or r = 14. 
+r being a natural number, 
+r = Œ 4 is not possible.
+So, r = 14.
+Miscellaneous Exercise on Chapter 81.Find a, b and 
+n in the expansion of (
+a + 
+b)n if the first three terms of the expansion
+are 729, 7290 and 30375, respectively.2.Find a if the coefficients of 
+x2 and 
+x3 in the expansion of (3 + 
+ax)9 are equal.
+3.Find the coefficient of x5 in the product (1 + 2
+x)6 (1 Œ
+ x)7 using binomial theorem.
+4.If a and 
+b are distinct integers, prove that 
+a Œ b is a factor of 
+an Œ 
+bn, whenevern is a positive integer.
+[Hint write 
+an = (
+a Œ b 
++ b)n and expand]
+5.Evaluate 663232
+
+.6.Find the value of 442222
+11aaaa
+
+.7.Find an approximation of (0.99)5 using the first three terms of its expansion.
+8.Find n, if the ratio of the fifth term from the beginning to the fifth term from theend in the expansion of 
+44123nis 1:6.
+176       MA
+THEMATICS9.Expand using Binomial Theorem 42102x,xx
+.10.Find the expansion of (3x2 Œ 2
+ax + 3
+a2)3 using binomial theorem.
+SummaryThe expansion of a binomial for any positive integral n is given by Binomial
+Theorem, which is (a + b)n = 
+nC0an + 
+nC1an Œ 1b + 
+nC2an Œ 2b2 + ...+
+ nCn Œ 1a.bn Œ 1 + 
+nCnbn.The coefficients of the expansions are arranged in an array. This array is
+called Pascal™s triangle
+.The general term of an expansion (a + b)n is T
+r + 1 = nCran  Œ  r
+. br.In the expansion (a + b)n, if n is even, then the middle term is the 
+12thnterm.If 
+n is odd, then the middle terms are 
+12thnand 112thn terms.
+Historical NoteThe ancient Indian mathematicians knew about the coefficients in theexpansions of (x + y)n, 0  n  7. The arrangement of these coefficients was in
+the form of a diagram called Meru-Prastara, provided by Pingla in his bookChhanda shastra (200B.C.). This triangular arrangement is also found in thework of Chinese mathematician Chu-shi-kie in 1303. The term binomial coefficients
+was first introduced by the German mathematician, Michael Stipel (1486-1567) in
+approximately 1544. Bombelli (1572) also gave the coefficients in the expansion of(a + b)n, for n = 1,2 ...,7 and Oughtred 
+(1631) 
+gave them for n = 1, 2,..., 10. The
+arithmetic triangle, popularly known as Pascal™s 
+triangle and similar to the 
+Meru-
+Prastara of Pingla was constructed by the French mathematician Blaise Pascal
+(1623-1662) in 1665.The present form of the binomial theorem  for integral values of 
+n appeared in
+Trate du triange arithmetic
+, written by Pascal and published posthumously in1665.
+ŠŠ

@@ -1,0 +1,350 @@
+CHAPTER TWOUNITS AND MEASUREMENT2.1  INTRODUCTIONMeasurement of any physical quantity involves comparisonwith a certain basic, arbitrarily chosen, internationally
+accepted reference standard called unit. The result of ameasurement of a physical quantity is expressed by anumber (or numerical measure) accompanied by a unit.
+Although the number of physical quantities appears to be
+very large, we need only a limited number of units for
+expressing all the physical quantities, since they are inter-related with one another. The units for the fundamental or
+base quantities are called fundamental or base units. Theunits of all other physical quantities can be expressed as
+combinations of the base units. Such units obtained for the
+derived quantities are called derived units. A complete setof these units, both the base units and derived units, isknown as the system of units.2.2  THE INTERNATIONAL SYSTEM OF UNITSIn earlier time scientists of different countries were usingdifferent systems of units for measurement. Three suchsystems, the CGS, the FPS (or British) system and the MKSsystem were in use extensively till recently.The base units for length, mass and time in these systemswere as follows :•In CGS system they were centimetre, gram and secondrespectively.•In FPS system they were foot, pound and second
+respectively.•In MKS system they were metre, kilogram and second
+respectively.The system of units which is at present internationallyaccepted for measurement is the Système Internationaled™ Unites (French for International System of Units),abbreviated as SI. The SI, with standard scheme of symbols,
+units and abbreviations, was developed and recommendedby General Conference on Weights and Measures in 1971 for2.1Introduction2.2The international system ofunits2.3Measurement of length2.4Measurement of mass2.5Measurement of time2.6Accuracy, precision ofinstruments and errors inmeasurement2.7Significant figures2.8Dimensions of physical
+quantities2.9Dimensional formulae and
+dimensional equations2.10Dimensional analysis and itsapplicationsSummaryExercisesAdditional exercises
+international usage in scientific, technical,industrial and commercial work.  Because SIunits used decimal system, conversions withinthe system are quite simple and convenient.  Weshall follow the SI units in this book.In SI, there are seven base units as given inTable 2.1. Besides the seven base units, thereare two more units that are defined for (a) planeangle das the ratio of length of arc ds to theradius r and (b) solid angle d as the ratio ofthe intercepted area dA of the spherical surface,described about the apex O as the centre, tothe square of its radius r, as shown in Fig. 2.1(a)and (b) respectively.  The unit for plane angle is
+radian with the symbol rad and the unit for thesolid angle is steradian with the symbol sr. Boththese are dimensionless quantities.Table 2.1   SI Base Quantities  and  Units*UNITS AND MEASUREMENT17*The values mentioned here need not be remembered or asked in a test. They are given here only to  indicate theextent of accuracy to which they are measured. With progress in technology, the measuring techniques get
+improved leading to measurements with greater precision. The definitions of base units are revised to keep up
+with this progress.(a)(b)Fig. 2.1Description of (a) plane angle d and(b) solid angle d!.BaseSI Units
+quantityNameSymbolDefinitionLengthmetrem
+The metre is the length of the path travelled by light in vacuumduring a time interval of 1/299,792,458 of a second. (1983)Masskilogramkg
+The kilogram is equal to the mass of the international prototypeof the kilogram (a platinum-iridium alloy cylinder) kept atinternational Bureau of Weights and Measures, at Sevres, nearParis, France. (1889)TimesecondsThe second is the 
+duration of 9,192,631,770 periods of theradiation corresponding to the transition between the twohyperfine levels of the ground state of the cesium-133 atom.(1967)ElectricampereA
+The ampere is that constant current which, if maintained incurrenttwo straight parallel conductors of infinite length, of negligiblecircular cross-section, and placed 1 metre apart in vacuum,
+would produce between these conductors a force equal to 210
+Œ7newton per metre of length. (1948)ThermokelvinK
+The kelvin, is the fraction 1/273.16 of the thermodynamicdynamictemperature of the triple point of water. (1967)TemperatureAmount ofmolemolThe mole is the amount of substance of a system, which contains
+substanceas 
+many elementary entities as there are atoms in 0.012kilogram of carbon - 12. (1971)Luminouscandelacd
+The candela is the luminous intensity, in a givenintensitydirection, of a source that emits monochromatic radiation offrequency 5401012 hertz and that has a radiant intensity inthat direction of 1/683 watt per steradian. (1979)
+PHYSICS18Table 2.2   Some units retained for general use (Though outside SI)Note that when mole is used, the elementaryentities  must  be specified.  These  entitiesmay be atoms, molecules, ions, electrons,other particles or specified groups of suchparticles.We employ units  for  some  physical quantitiesthat can be derived from the seven base units
+(Appendix A 6). Some derived units in terms ofthe SI base units are given in (Appendix A 6.1).
+Some SI derived units are given special names(Appendix A  6.2 ) and some derived SI units makeuse of these units with special names and the
+seven base units  (Appendix A 6.3). These are
+given in Appendix A 6.2 and A 6.3 for your readyreference. Other units retained for general useare given in Table 2.2.
+Common SI prefixes and symbols for multiplesand sub-multiples are given in Appendix A2.General  guidelines for using symbols for physical
+quantities, chemical elements and nuclides aregiven in Appendix A7 and those for SI units andsome other units  are given in Appendix A8 for
+your guidance and ready reference.2.3  MEASUREMENT OF LENGTHYou are already familiar with some direct methodsfor the measurement of length.  For example, a
+
+metre scale is used for lengths from 10Œ3 m to 102m.  A vernier callipers is used for lengths to an
+accuracy of 10Œ4 m.  A screw gauge and aspherometer can be used to measure lengths as
+
+less as to 10
+Œ5 m. To measure lengths beyond theseranges, we make use of some special indirect
+methods.2.3.1  Measurement of Large DistancesLarge distances such as the distance of a planet
+or a star from the earth cannot be measureddirectly with a metre scale. An important methodin such cases is the parallax method.When you hold a pencil in front of you againstsome specific point on the background (a wall)and look at the pencil first through your left eyeA (closing the right eye) and then look at thepencil through your right eye B (closing the lefteye), you would notice that the position of thepencil seems to change with respect to the pointon the wall.  This is called parallax.  Thedistance between the two points of observationis called the basis. In this example, the basis isthe distance between the eyes.To measure the distance D of a far awayplanet S by the parallax method, we observe itfrom two different positions (observatories) A andB on the  Earth,  separated  by distance AB = bat the same time as shown in Fig. 2.2.  Wemeasure the angle between the two directionsalong which the planet is viewed at these twopoints. The ASB in Fig. 2.2 represented bysymbol is called the parallax angle orparallactic angle.As the planet is very far away,  1,bD"" andtherefore, # is very small.  Then weapproximately take AB as an arc of length b of acircle with centre at S and the distance D as
+UNITS AND MEASUREMENT19!!!!the radius  AS = BS so that AB = b = D   where  is in radians.
+   D= 
+b#(2.1)Having determined D, we can employ a similarmethod to determine the size or angular diameterof the planet. If d is the diameter of the planetand   the angular size of the planet (the anglesubtended by d at the earth), we have = d/D(2.2)The angle   can be measured from the same
+location on the earth.  It is the angle between
+the two directions when two diametricallyopposite  points  of the planet are viewed throughthe telescope.  Since D is known, the diameter dof the planet can be determined using Eq. (2.2).Example 2.1  Calculate the angle of(a) 10 (degree) (b) 1 (minute of arc or arcmin)and (c) 1(second of arc or arc second) inradians. Use 3600=2 rad, 10=60 and1 = 60 Answer  (a) We have 3600 = 2rad10 = (/180) rad = 1.74510
+Œ2 rad(b)1
+0 = 60= 1.74510
+Œ2 rad1= 2.90810Œ4 rad ! 2.9110
+Œ4 rad(c)1
+= 60= 2.90810
+Œ4 rad1= 4.84710Œ4 rad ! 4.8510
+Œ6 rad!Example 2.2  A man wishes to estimatethe distance of a nearby tower from him.He stands at a point A in front of the towerC and spots a very distant object O in linewith AC. He then walks perpendicular to
+AC up to B, a distance of 100 m, and looks
+at O and C again. Since O is very distant,
+the direction BO is practically the same asAO; but he finds the line of sight of C shiftedfrom the original line of sight by an angle = 400  ( is known as ‚parallax™) estimatethe distance of the tower C from his originalposition A.Fig. 2.3Answer  We have, parallax angle   = 400From Fig. 2.3, AB = AC tan AC = AB/tan  = 100 m/tan 400= 100 m/0.8391 = 119 m!Example 2.3  The moon is observed fromtwo diametrically opposite points A and B
+on Earth.  The angle   subtended at the
+moon by the two directions of observation
+is 1o 54. Given the diameter of the Earth tobe about 1.276 
+×××××     107 m, compute thedistance of the moon from the Earth.Answer  We have   = 1°
+ 54 = 114$%$%-6114604.8510
+= &&'''
+  rad= 3.32
+'(102rad,
+since  614.8510.
+="rad
+  Also  b=AB=1.27
+6m'107Hence from Eq. (2.1), we have the earth-moon
+distance,Db=/#   =1.27610
+3.3210
+    7-2''83.8410m
+= !Example 2.4  The Sun™s angular diameteris measured to be 
+1920.  The distance D ofthe Sun from the Earth is 1.496  10
+11 m.What is the 
+diameter of the Sun ?Fig. 2.2   Parallax method.
+PHYSICS20!Answer   Sun™s angular diameter    )1920"
+   )''
+(19204.8510rad
+6   )'(9.3110rad
+3Sun™s diameter                     
+dD=*+                        
+311
+9.31101.49610m
+,-,-
+././0101()'''
+     9=1.3910m
+ !2.3.2Estimation of 
+Very Small Distances:Size of a MoleculeTo measure a very small size like that of a
+molecule (10Œ8 m to 10Œ10 m), we have to adoptspecial methods. We cannot use a screw gauge
+or similar instruments. Even a microscope hascertain limitations.  An optical microscope usesvisible light to ‚look™ at the system underinvestigation.  As light has wave like features,
+the resolution to which an optical microscopecan be used is the wavelength of light (A detailed
+explanation can be found in the Class XII
+Physics textbook). For visible light the range of
+wavelengths  is from about 4000 Å to 7000 Å
+(1 angstrom = 1 Å = 10-10 m). Hence an opticalmicroscope cannot resolve particles with sizessmaller than this. Instead of visible light, we canuse an electron beam.  Electron beams can befocussed by properly designed electric andmagnetic fields. The resolution of such an
+electron microscope is limited finally by the factthat electrons can also behave as waves ! (You
+will learn more about this in class XII). The
+wavelength of an electron can be as small as a
+fraction of an angstrom.  Such electron
+microscopes with a resolution of 0.6 Å have been
+built. They can almost resolve atoms and
+molecules in a material. In recent times,tunnelling microscopy has been developed inwhich again the limit of resolution is better than
+an angstrom. It is possible to estimate the sizes
+of molecules.A simple method for estimating the molecularsize of oleic acid is given below. Oleic acid is a
+soapy liquid with large molecular size of the
+order of 10Œ9 m.The idea is to first form mono-molecular layerof oleic acid on water surface.We dissolve 1 cm3 of oleic acid in alcohol tomake a solution of 20 cm3. Then we take 1 cm3of this solution and dilute it to 20 cm3, usingalcohol. So, the concentration of the solution isequal to  31cm2020
+        of oleic acid/cm3 ofsolution. Next we lightly sprinkle some
+lycopodium powder on the surface of water in alarge trough and we put one drop of this solutionin the water. The oleic acid drop spreads into athin, large and roughly circular film of molecular
+thickness on water surface. Then, we quickly
+measure the diameter of the thin film to get itsarea A. Suppose we have dropped n drops inthe water. Initially, we determine the
+approximate volume of each drop (V cm3).Volume of n drops of solution                             = 
+nV cm3Amount of oleic acid in this solution                             = 
+nV 
+12020
+',0.-1/ cm3This solution of oleic acid spreads very faston the surface of water and forms a very thinlayer of thickness t.  If this spreads to form afilm of area A cm2, then the thickness of thefilmt)Volume of the film
+Area of the film
+or,cm2020 
+nVtA  (2.3)If we assume that the film has mono-molecularthickness, then this becomes the size or diameterof a molecule of oleic acid. The value of this
+thickness comes out to be of the order of 10Œ9 m.Example 2.5  If the size of a nucleus (inthe range of 10Œ15 to 10Œ14 m) is scaled upto the tip of a sharp pin, what roughly isthe size of an atom ? Assume tip of the pinto be in the range 10Œ5m to 10Œ4m.Answer  The size of a nucleus is in the range of
+10Œ15 m and 10Œ14 m.  The tip of a sharp pin istaken to be in the range of 10Œ5 m and 10Œ4 m.Thus we are scaling up by a factor of 1010. Anatom roughly of size 10Œ10 m will be scaled up to asize of 1 m. Thus a nucleus in an atom is as smallin size as the tip of a sharp pin placed at the centreof a sphere of radius about a metre long.!
+UNITS AND MEASUREMENT212.3.3  Range of LengthsThe sizes of the objects we come across in theuniverse vary over a very wide range. These mayvary from the size of the order of 10Œ14 m of thetiny nucleus of an atom to the size of the order
+of 1026 m of the extent of the observable universe.Table 2.6 gives the range and order of lengths
+and sizes of some of these objects.We also use certain special length units forshort and large lengths. These are1 fermi= 1 f = 10
+Œ15 m1 angstrom= 1 Å = 10
+Œ10 m1 astronomical unit= 1 AU 
+(average distance    of the Sun from the Earth)
+= 1.496 × 1011 m1 light year = 1 ly= 9.46 
+× 1015 m (distance   that light travels with velocity of   3 
+× 108 m sŒ1 in 1 year)1 parsec= 3.08 
+× 1016 m (Parsec is thedistance at which average radius of earth™s orbitsubtends an angle of 1 arc second)2.4  MEASUREMENT OF MASSMass is a basic property of matter.  It does notdepend on the temperature, pressure or location
+of the object in space. The SI unit of mass iskilogram (kg). The prototypes of the Internationalstandard kilogram supplied by the International
+Bureau of Weights and Measures (BIPM) are
+
+available in many other laboratories of different
+countries. In India, this is available at theNational Physical Laboratory  (NPL), New Delhi.While dealing with atoms and molecules, thekilogram is an inconvenient unit. In this case,there is an important standard unit of mass,
+called the unified atomic mass unit (u), whichhas been established for expressing the mass
+of atoms as1 unified atomic mass unit = 1u    =(1/12) of the mass of an atom of  carbon-12
+isotope $%612C including the mass  of electrons    =1.66  10
+Œ27  kgMass of commonly available objects can bedetermined by a common balance like the one
+used in a grocery shop. Large masses in the
+universe like planets, stars, etc., based on
+Newton™s law of gravitation can be measured byusing gravitational method (See Chapter 8). For
+measurement of small masses of atomic/sub-
+atomic particles etc., we make use of mass
+spectrograph in which radius of the trajectoryis proportional to the mass of a charged particlemoving in uniform  electric and magnetic field.2.4.1  Range of  MassesThe masses of the objects, we come across inthe universe, vary over a very wide range.  These
+may vary from tiny  mass of the order of 10-30 kgof an electron to the huge mass of about 1055 kgof the known universe. Table 2.4 gives the range
+and order of the typical masses of variousobjects.Table 2.3  Range and order of lengths
+PHYSICS22Table 2.4  Range and order of masses2.5   MEASUREMENT OF TIMETo measure any time interval we need a clock.We now use an atomic standard of time, whichis based on the periodic vibrations produced ina cesium atom. This is the basis of the cesiumclock, sometimes called atomic clock, used inthe national standards. Such standards areavailable in many laboratories. In the cesium
+atomic clock, the second is taken as the timeneeded for 9,192,631,770 vibrations of the
+radiation corresponding to the transition
+between the two hyperfine levels of the ground
+state of cesium-133 atom. The vibrations of the
+cesium atom regulate the rate of this cesium
+atomic clock just as the vibrations of a balancewheel regulate an ordinary wristwatch or thevibrations of a small quartz crystal regulate a
+quartz wristwatch.The cesium atomic clocks are very accurate.In principle they provide portable standard.  The
+national standard of time interval ‚second™ as
+well as the frequency is maintained through four
+cesium atomic clocks.  A cesium atomic clock is
+used at the National Physical Laboratory (NPL),
+New Delhi to  maintain the Indian standard of
+time.In our country, the NPL has the responsibilityof maintenance and improvement of physicalstandards, including that of time, frequency, etc.
+Note that the Indian Standard Time (IST) is
+linked to this set of atomic clocks. The efficient
+cesium atomic clocks are so accurate that they
+impart the uncertainty in time realisation as± 1 × 10Œ13, i.e. 1 part in 1013.  This implies thatthe uncertainty gained over time by such adevice is less than 1 part in 1013; they lose orgain no more than 3 !s in one year. In view ofthe tremendous accuracy in time measurement,the SI unit of length has been expressed in termsthe path length light travels in certain interval
+of time (1/299, 792, 458 of a second) (Table 2.1).The time interval of events that we comeacross in the universe vary over a very widerange. Table 2.5 gives the range and order of
+some typical time intervals.You may notice that there is an interestingcoincidence between the numbers appearing
+in Tables 2.3 
+and 2.5. Note 
+that the ratio of thelongest and shortest lengths of objects in our
+universe is about 1041. Interestingly enough,the ratio of the longest and shortest timeintervals associated with the events and objectsin our universe is also about 1041. This number,1041 comes up again in Table 2.4, which lists
+typical masses of objects. The ratio of thelargest and smallest masses of the objects inour universe is about (1041)2. Is this a curious
+coincidence between these large numberspurely accidental ?
+2.6ACCURACY, PRECISION OF 
+INSTRUMENTSAND ERRORS IN MEASUREMENTMeasurement is the foundation of allexperimental science and technology. The result
+of every measurement by any measuringinstrument contains some uncertainty. Thisuncertainty is called error. Every calculatedquantity which is based on measured values,
+also has an error. We shall distinguish between
+two terms: accuracy and precision. Theaccuracy of a measurement is a measure of howclose the measured value is to the true value ofthe quantity. Precision tells us to what resolutionor limit the quantity is measured.The accuracy in measurement may depend onseveral factors, including the limit or the resolutionof the measuring instrument. For example, supposethe true value of a certain length is near 3.678 cm.In one experiment, using a measuring instrument
+of resolution 0.1 cm, the measured value is found tobe 3.5 cm, while in another experiment using ameasuring device of greater resolution, say 0.01 cm,the length is determined to be 3.38 cm. The firstmeasurement has more accuracy (because it is
+UNITS AND MEASUREMENT23closer to the true value) but less precision (itsresolution is only 0.1 cm), while thesecond measurement is less accurate butmore precise. Thus every measurement isapproximate due to errors in measurement. Ingeneral, the errors in measurement can bebroadly classified as (a) systematic errors and(b) random errors.Systematic errorsThe systematic errors are those errors thattend to be in one direction, either positive ornegative. Some of the sources of systematicerrors are :(a)Instrumental errors that arise from theerrors due to imperfect design or calibrationof the measuring instrument, zero error inthe instrument, etc. For example, thetemperature graduations of a thermometer
+may be inadequately calibrated (it may read
+104 °C at the boiling point of water at STPwhereas it should read 100 °C); in a verniercallipers the zero mark of vernier scale maynot coincide with the zero mark of the main
+scale, or simply an ordinary metre scale may
+be worn off at one end.(b)Imperfection in experimental techniqueor procedure To determine the temperatureof a human body, a thermometer placedunder the armpit will always give atemperature lower than the actual value ofthe body temperature. Other external
+conditions (such as changes in temperature,
+humidity, wind velocity, etc.) during the
+experiment may systematically affect themeasurement.(c)Personal errors that arise due to anindividual™s bias, lack of proper setting ofthe apparatus or individual™s carelessnessin taking observations without observingproper precautions, etc. For example, if you,by habit, always hold your head a bit too far
+to the right while reading the position of a
+needle on the scale, you will introduce anerror due to parallax
+.Systematic errors can be minimised byimproving experimental techniques, selecting
+better instruments and removing personal biasas far as possible. For a given set-up, theseerrors may be estimated to a certain extent andthe necessary corrections may be applied to thereadings.Random errorsThe random errors are those errors, which occurirregularly and hence are random with respectTable 2.5   Range and order of time intervals
+PHYSICS24to sign and size. These can arise due to randomand unpredictable fluctuations in experimental
+conditions (e.g. unpredictable fluctuations intemperature, voltage supply, mechanicalvibrations of experimental set-ups, etc), personal
+(unbiased) errors by the observer taking
+readings, etc. For example, when the same
+person repeats the same observation, it is verylikely that he may get different readings
+everytime.Least count errorThe smallest value that can be measured by themeasuring instrument is called its least count.All the readings or measured values are good only
+up to this value.The least count error is the errorassociated with the resolution of the instrument.For example, a vernier callipers has the least
+count as 0.01cm; a spherometer may have a
+least count of 0.001 cm. Least count error
+belongs to the category of random errors but
+within a limited size; it occurs with both
+systematic and random errors. If we use a metre
+scale for measurement of length, it may have
+graduations at 1 mm division scale spacing orinterval.Using instruments of higher precision,improving experimental techniques, etc., we canreduce the least count error. Repeating the
+observations several times and taking the
+arithmetic mean of all the observations, the
+mean value would be very close to the true value
+of the measured quantity.2.6.1Absolute Error, Relative Error andPercentage Error(a) Suppose the values obtained in severalmeasurements are a1, a2, a3...., an.  Thearithmetic mean of these values is taken as
+the best possible value of the quantity underthe given conditions of measurement as :amean = (a1+a2+a3+...+an ) / n(2.4)or,aa/n
+meani
+i1n))2(2.5)This is because, as explained earlier, it isreasonable to suppose that individualmeasurements are as likely to overestimateas to underestimate the true value of thequantity.The magnitude of the differencebetween the individual measurement andthe true value of the quantity is called theabsolute error of the measurement. Thisis denoted by a |. In absence of any othermethod of knowing true value, we consideredarithmatic mean as the true value.  Then theerrors in the individual measurement valuesfrom the true value, area1  = 
+a1 Œ amean,a2  = a2 Œ amean,....      ....      ........      ....      ....a n = an Œ ameanThe a calculated above may be positive incertain cases and negative in some othercases. But absolute error |a| will alwaysbe positive.(b)The arithmetic mean of all the 
+absolute errorsis taken as the final or mean absolute errorof the value of the physical quantity a. It isrepresented by amean.Thus,amean = (|a1|+|a2 |+|a3|+...+ |an|)/n(2.6)))2i1n|ai|/n(2.7)If we do a single measurement, the value weget may be in the range amean ±  ameani.e.      a = amean ±  ameanor,     amean Œ amean a   amean + amean(2.8)This implies that any measurement of thephysical quantity a is likely to lie between(amean+amean
+)  and  (ameanamean
+).(c)Instead of the absolute error, we often use
+the relative error or the percentage error(a).  The relative error is the ratio of themean absolute error amean to the meanvalue amean of the quantity measured.
+UNITS AND MEASUREMENT25!!Relative error = amean
+/amean(2.9)When the relative error is expressed in percent, it is called the percentage error (a).Thus, Percentage errora = (amean
+/amean
+)  100%
+(2.10)Let us now consider an example.Example 2.6  Two clocks are being testedagainst a standard clock located in anational laboratory.  At 12:00:00 noon bythe standard clock, the readings of the twoclocks are :Clock 1Clock 2
+Monday12:00:0510:15:06
+Tuesday12:01:1510:14:59
+Wednesday11:59:0810:15:18
+Thursday12:01:50
+10:15:07Friday11:59:1510:14:53
+Saturday12:01:3010:15:24
+Sunday12:01:19
+10:15:11If you are doing an experiment that requiresprecision time interval measurements, whichof the two clocks will you prefer ?Answer   The range of variation over the sevendays of observations is 162 s for clock 1, and31 s for clock 2.  The average reading of clock 1is much closer to the standard time than theaverage reading of clock 2.  The important point
+is that a clock™s zero error is not as significant
+for precision work as its variation, because a
+‚zero-error™ can always be easily corrected.Hence clock 2 is to be preferred to clock 1. ""!Example 2.7  We measure the period ofoscillation of a simple pendulum.  Insuccessive measurements, the readings
+turn out to be 2.63 s, 2.56 s, 2.42 s, 2.71s
+and 2.80 s. Calculate the absolute errors,
+relative error or percentage error.Answer   The mean period of oscillation of the
+pendulum$%T)3333
+2.632.562.422.712.80s
+5= 13.12
+5 s= 2.624  s= 2.62  sAs the periods are measured to a resolutionof 0.01 s, all times are to the second decimal; itis proper to put this mean period also to the
+second decimal.The errors in the measurements are2.63 s Œ 2.62 s =   0.01 s2.56 s Œ 2.62 s = Œ 0.06 s2.42 s Œ 2.62 s = Œ 0.20 s
+2.71 s Œ 2.62 s =    
+0.09 s2.80 s Œ 2.62 s =    
+0.18 sNote that the errors have the same units as the
+quantity to be measured.The arithmetic mean of all the absolute errors(for arithmetic mean, we take only themagnitudes) ismean = [(0.01+ 0.06+0.20+0.09+0.18)s]/5              = 0.54 s/5              = 0.11 sThat means, the period of oscillation of thesimple pendulum is (2.62 ± 0.11) s i.e. it liesbetween (2.62 + 0.11) s and (2.62 Œ 0.11) s orbetween 2.73 s and 2.51 s.  As the arithmetic
+mean of all the absolute errors is 0.11 s, thereis already an error in the tenth of a second.
+Hence there is no point in giving the period to ahundredth.  A more correct way will be to write             T = 2.6 ± 0.1 sNote that the last numeral 6 is unreliable, sinceit may be anything between 5 and 7. We indicate
+this by saying that the measurement has twosignificant figures. In this case, the twosignificant figures are 2, which is reliable and
+6, which has an error associated with it.  You
+will learn more about the significant figures in
+section 2.7.For this example, the relative error or thepercentage error is4a)')011004
+.2.6
+%              
+"""""""!2.6.2  
+Combination of ErrorsIf we do an experiment involving severalmeasurements, we must know how the errorsin all the measurements combine.  For example,
+PHYSICS26!density is the ratio of the mass to the volume ofthe substance. If we have errors in themeasurement of mass and of the sizes ordimensions, we must know what the error willbe in the density of the substance. To make suchestimates, we should learn how errors combinein various mathematical operations. For this,we use the following procedure.(a)  Error of a sum or a differenceSuppose two physical quantities A and B havemeasured values A ± A, B ± B respectivelywhere A and B are their absolute errors. Wewish to find the error Z in the sumZ = A + B.We have by addition, Z Z= (A ± A) + (B ± B).The maximum possible error in ZZ A +BFor the difference Z = A Œ B,  we have                    Z ±  Z =  (A ± A) Œ (B ± B)                                = (A Œ B) ± A ± Bor,
+± Z =  ± A ± BThe maximum value of the error Z  is againA + B.Hence the rule : When two quantities areadded or subtracted, the absolute error in thefinal result is the sum of the absolute errorsin the individual quantities.Example 2.8  The temperatures of twobodies measured by a thermometer aret1 = 20 0C ± 0.5 0C and t2 = 50 0C ± 0.5 0C.Calculate the temperature difference and
+the error theirin.Answer  t = t2Œt1 = (50 0C±0.5 0C)Œ (200C±0.5 0C) t = 30 0C ± 1 0C!(b)  Error of a product or a quotientSuppose Z = AB and the measured values of Aand B are A ± A and B ± B. ThenZ ± Z = (A ±A)  (B ±B)                     = 
+AB ± B A ± A B ±A B.Dividing LHS by Z and RHS by AB we have,1±(Z/Z) = 1 ± (A/A) ± (B/B) ± (A/A)(B/B).Since A and B are small, we shall ignore theirproduct.Hence the maximum relative errorZ/ Z = (A/A) + (B/B).You can easily verify that this is true for divisionalso.Hence the rule : When two quantities aremultiplied or divided, the relative error in theresult is the sum of the relative errors in themultipliers.How will you measure the length of a line?What a naïve question, at this stage, you mightsay! But what if it is not a straight line? Drawa zigzag line in your copy, or on the blackboard.Well, not too difficult again. You might take athread, place it along the line, open up the
+thread, and measure its length.Now imagine that you want to measure thelength of a national highway, a river, the railwaytrack between two stations, or the boundarybetween two states or two nations. If you take
+a string of length 1 metre or 100 metre, keep it
+along the line, shift its position every time, the
+arithmetic of man-hours of labour and expenseson the project is not commensurate with theoutcome. Moreover, errors are bound to occur
+in this enormous task. There is an interesting
+fact about this. France and Belgium share a
+common international boundary, whose lengthmentioned in the official documents of the twocountries differs substantially!Go one step beyond and imagine thecoastline where land meets sea. Roads and rivers
+have fairly mild bends as compared to acoastline. Even so, all documents, including ourschool books, contain information on the lengthof the coastline of Gujarat or Andhra Pradesh,or the common boundary between two states,
+etc. Railway tickets come with the distance
+between stations printed on them. We have‚milestones™ all along the roads indicating thedistances to various towns. So, how is it done?One has to decide how much error one cantolerate and optimise cost-effectiveness. If you
+want smaller errors, it will involve hightechnology and high costs. Suffice it to say thatit requires fairly advanced level of physics,
+mathematics, engineering and technology. It
+belongs to the areas of fractals, which has lately
+become popular in theoretical physics. Eventhen one doesn™t know how much to rely onthe figure that props up, as is clear from the
+story of France and Belgium. Incidentally, this
+story of the France-Belgium discrepancy
+appears on the first page of an advanced Physicsbook on the subject of fractals and chaos!
+UNITS AND MEASUREMENT27!!!!Example 2.9  The resistance R = V/I whereV = (100 ± 5)V and I = (10 ± 0.2)A. Find thepercentage error in R.Answer  The percentage error in V is 5% and inI  it is 2%.  The total error in R would thereforebe 5% + 2% = 7%.!Example 2.10  Two resistors of resistancesR1 = 100±3 ohm and 
+R2 = 200 ± 4 ohm areconnected (a) in series, (b) in parallel. Findthe equivalent resistance of the (a) seriescombination, (b) parallel combination. Usefor (a) the relation R =R1 + R2, and for (b)111
+12=+RRR
+ and        12222
+12RRRRRR
+Answer  (a) The equivalent resistance of seriescombinationR =R
+1 + R2 =  (100 ± 3) ohm + (200 ± 4) ohm        = 300 ± 7 ohm.(b) The equivalent resistance of parallelcombination12122003RRRRR&))3 = 66.7 ohmThen, from 12111
+RRR
+)3&we get,12222
+12RRRRRR
+&555)3&$%$%22122212RRRRR
+RR55&&&
+5)3
+ 2266.766.7
+34100200
+,-,-
+)3././
+0101
+ = 1.8Then, 66.71.8ohm
+R&)6(Here, R is expresed as 1.8 instead of 2 tokeep in confirmity with the rules of significantfigures.)""!(c)Error in case of a measured quantity
+raised to a powerSuppose   Z  = A2,Then,     Z/Z = (A/A) + (A/A) = 2 (A/A).Hence, the relative error in A2 is two times theerror in A.In general, if   Z = Ap Bq/CrThen,      Z/Z = p (A/A) + q (B/B) + r (C/C).Hence the rule : The relative error in aphysical quantity raised to the power k is thek times the relative error in the individual
+quantity.Example 2.11   Find the relative error inZ, if Z = A4B1/3/CD3/2.Answer  The relative 
+error in Z is  Z/Z =4(A/A) +(1/3) (B/B) + (C/C) + (3/2) (D/D).!Example 2.12  The period of oscillation ofa simple pendulum is TL/g.
+=2Measured value of L is 20.0 cm known to 1mm accuracy and time for 100 oscillations
+of the pendulum is found to be 90 s using
+a wrist watch of 1 s resolution. What is the
+accuracy in the determination of g ?Answer   g = 42L/T2Here, T = tn and tTn55). Therefore, TtTt55).The errors in both L and t are the least counterrors. Therefore,
+(g/g) = (L/L) + 2(T/T )  = 
+0.11
+20.027
+20.090
+        Thus, the percentage error in g is 100 (g/g) = 100(L/L) + 2 × 100 (T/T )= 3%!2.7  SIGNIFICANT FIGURESAs discussed above, every measurementinvolves errors. Thus, the result of
+measurement should be reported in a way thatindicates the precision of measurement.
+Normally, the reported result of measurement
+is a number that includes all digits in thenumber that are known reliably plus the firstdigit that is uncertain. The reliable digits plus
+PHYSICS28the first uncertain digit are known assignificant digits or significant figures. If wesay the period of oscillation of a simplependulum is 1.62 s, the digits 1 and 6 arereliable and certain, while the digit 2 is
+uncertain. Thus, the measured value has three
+significant figures. The length of an object
+reported after measurement to be 287.5 cm hasfour significant figures, the digits 2, 8, 7 are
+certain while the digit 5 is uncertain. Clearly,
+reporting the result of measurement that
+includes more digits than the significant digits
+is superfluous and also misleading since it would
+give a wrong idea about the precision ofmeasurement.The rules for determining the number ofsignificant figures can be understood from thefollowing examples. Significant figures indicate,
+as already mentioned, the precision of
+measurement which depends on the least count
+of the measuring instrument. A choice ofchange of different units does not change the
+number of significant digits or figures in a
+measurement. This important remark makesmost of the following observations clear:
+(1) For example, the length 2.308 cm has four
+significant figures. But in different units, thesame value can be written as 0.02308 m or 23.08mm or 23080 µm.All these numbers have the same number ofsignificant figures (digits 2, 3, 0, 8), namely four.This shows that the location of decimal point is
+of no consequence in determining the number
+of significant figures.
+The example gives the following rules :ŁAll the non-zero digits are significant.ŁAll the zeros between two non-zero digitsare significant, no matter where thedecimal point is, if at all.ŁIf the number is less than 1, the zero(s)on the right of decimal point but to theleft of the first non-zero digit are notsignificant. [In 0.00 2308, the underlined
+zeroes are not significant].ŁThe terminal or trailing zero(s) in anumber without a decimal point are notsignificant.[Thus 123 m = 12300 cm = 123000 mm has
+three significant figures, the trailing zero(s)being not significant.] However, you can alsosee the next observation.ŁThe trailing zero(s) in a number with adecimal point are significant.[The numbers 3.500 or 0.06900 have foursignificant figures each.](2) There can be some confusion regarding thetrailing zero(s). Suppose a length is reported tobe 4.700 m. It is evident that the zeroes here
+are meant to convey the precision ofmeasurement and are, therefore, significant. [Ifthese were not, it would be superfluous to writethem explicitly, the reported measurementwould have been simply 4.7 m]. Now suppose
+we change units, then4.700 m = 470.0 cm = 4700 mm = 0.004700 kmSince the last number has trailing zero(s) in anumber with no decimal, we would concludeerroneously from observation (1) above that the
+number has two significant figures, while infact, it has four significant figures and a mere
+
+change of units cannot change the number of
+significant figures.(3) To remove such ambiguities indetermining the number of significantfigures, the best way is to report every
+measurement in scientific notation (in the
+power of 10). In this notation, every number isexpressed as a  10
+b, where a is a numberbetween 1 and 10, and b is any positive ornegative exponent (or power) of 10.  In order toget an approximate idea of the number, we may
+round off the number a to 1 (for a 75) and to 10(for 5<a710). Then the number can beexpressed approximately as 10b in which theexponent (or power) b of 10 is called order ofmagnitude of the physical quantity. When onlyan estimate is required, the quantity is of the
+order of 10b. For example, the diameter of theearth (1.2810
+7m) is of the order of 107m withthe order of magnitude 7. The diameter ofhydrogen atom (1.06 10
+Œ10m) is of the order of10Œ10m, with the order of magnitudeŒ10. Thus, the diameter of the earth is 17 orders
+of magnitude larger than the hydrogen atom.It is often customary to write the decimal afterthe first digit. Now the confusion mentioned in(a) above disappears : 4.700 m = 4.700  10
+2 cm        = 4.700  103 mm = 4.700  10Œ3 kmThe power of 10 is irrelevant to thedetermination of significant figures. However, all

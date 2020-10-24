@@ -1,0 +1,156 @@
+307        C:\ChemistryXI\Unit-11\Unit-11-F\Unit-11(reprint).pmd, Reprint  27.7.6307THE p-BLOCK ELEMENTSUNIT 11After studying this unit, you will beable to•••••appreciate the general trends in thechemistry of p-block elements;•••••describe the trends in physical andchemical properties of group 13 and14 elements;•••••explain anomalous behaviour of
+boron and carbon;•••••describe allotropic forms of carbon;•••••know the chemistry of someimportant compounds of boron,
+carbon and silicon;•••••list the important uses of group 13
+and 14 elements and their
+compounds.THE p -BLOCK ELEMENTSIn p-block elements the last electron enters the outermostp orbital. As we know that the number of p orbitals is threeand, therefore, the maximum number of electrons that canbe accommodated in a set of p orbitals is six. Consequentlythere are six groups of pŒblock elements in the periodictable numbering from 13 to 18. Boron, carbon, nitrogen,oxygen, fluorine and helium head the groups. Their valenceshell electronic configuration is ns2np1-6(except for He).The inner core of the electronic configuration may,however, differ. The difference in inner core of elementsgreatly influences their physical properties (such as atomicand ionic radii, ionisation enthalpy, etc.) as well as chemicalproperties. Consequently, a lot of variation in properties ofelements in a group of p-block is observed. The maximumoxidation state shown by a p-block element is equal to thetotal number of valence electrons (i.e., the sum of the s-and p-electrons). Clearly, the number of possible oxidationstates increases towards the right of the periodic table. Inaddition to this so called group oxidation state, p-blockelements may show other oxidation states which normally,
+but not necessarily, differ from the total number of valenceelectrons by unit of two. The important oxidation statesexhibited by p-block elements are shown in Table 11.1. Inboron, carbon and nitrogen families the group oxidationstate is the most stable state for the lighter elements in thegroup. However, the oxidation state two unit less than thegroup oxidation state becomes progressively more stable
+for the heavier elements in each group. The occurrence ofoxidation states two unit less than the group oxidationstates are sometime attributed to the ‚inert pair effect™.The variation in properties of the p-block elements due to theinfluence of  d and f  electrons in the inner core of the heavier
+elements makes their chemistry interesting307        C:\ChemistryXI\Unit-11\Unit-11-F\Unit-11(reprint).pmd,  27.7.6, 16.10.6 (reprint)
+308        C:\ChemistryXI\Unit-11\Unit-11-F\Unit-11(reprint).pmd, Reprint  27.7.6308CHEMISTRYThe relative stabilities of these two oxidationstates Œ group oxidation state and two unit lessthan the group oxidation state Œ may vary fromgroup to group and will be discussed atappropriate places.It is interesting to note that the non-metalsand metalloids exist only in the p-block of theperiodic table. The non-metallic character ofelements decreases down the group. In fact theheaviest element in each p-block group is themost metallic in nature. This change from non-metallic to metallic character brings diversityin the chemistry of these elements dependingon the group to which they belong.In general, non-metals have higher ionisationenthalpies and higher electronegativities thanthe metals. Hence, in contrast to metals which
+readily form cations, non-metals readily formanions. The compounds formed by highlyreactive non-metals with highly reactive metals
+are generally ionic because of large differencesin their electronegativities. On the other hand,compounds formed between non-metals
+themselves are largely covalent in characterbecause of small differences in theirelectronegativities. The change of non-metallicto metallic character can be best illustrated bythe nature of oxides they form. The non-metaloxides are acidic or neutral whereas metal
+oxides are basic in nature.
+The first member of p-block differs from theremaining members of their correspondinggroup in two major respects. First is the sizeand  all other properties which depend on size.Thus, the lightest p-block elements show thesame kind of differences as the lightest s-blockelements, lithium and beryllium. The secondimportant difference, which applies only to thep-block elements, arises from the effect of d-orbitals in the valence shell of heavier elements(starting from the third period onwards) andtheir lack in second period elements. Thesecond period elements of p-groups startingfrom boron are restricted to a maximumcovalence of four (using 2s and three 2porbitals). In contrast, the third period elementsof p-groups with the electronic configuration3s23pn have the vacant 3d orbitals lyingbetween the 3p and the 4s levels of energy.Using these d-orbitals the third periodelements can expand their covalence abovefour. For example, while boron forms only
+[BF4]Œ, aluminium gives [AlF6]3Œ ion. Thepresence of these d-orbitals influences thechemistry of the heavier elements in a numberof other ways. The combined effect of size andavailability of d orbitals considerablyinfluences the ability of these elements to form bonds. The first member of a group differsfrom the heavier members in its ability to formp- p multiple bonds to itself ( e.g., C=C, C
+C,Table 11.1  General Electronic Configuration and Oxidation States of p-Block ElementsGroup131415161718
+Generalelectronicns2np1 ns2np2ns2np3ns2np4ns2np5ns2np6configuration(1s2 for He)First member
+of theBCNOFHe
+groupGroupoxidation +3 +4 +5 +6+7 +8
+stateOtheroxidation+1+2, Œ 4
++3, Œ 3+4, +2, Œ2+5, + 3, +1, Œ1+6, +4, +2
+states308        C:\ChemistryXI\Unit-11\Unit-11-F\Unit-11(reprint).pmd,  27.7.6, 16.10.6 (reprint)
+309        C:\ChemistryXI\Unit-11\Unit-11-F\Unit-11(reprint).pmd, Reprint  27.7.6309THE p-BLOCK ELEMENTSNN) and to other second row elements (e.g.,C=O, C=N, CN, N=O). This type of   - bondingis not particularly strong for the heavierp-block elements. The heavier elements do form bonds but this involves d orbitals (d Œ por d Œd).  As the d orbitals are of higherenergy than  the p orbitals, they contribute lessto the overall stability of molecules than doesp- p  bonding of the second row elements.However, the coordination number in species
+of  heavier elements may be higher than for
+the first element in the same oxidation state.For example, in +5 oxidation state both N andP form oxoanions : NO3Œ (three-coordinationwith  Œ bond involving one nitrogen p-orbital)and 34PO (four-coordination involving s, p andd orbitals contributing to the   Œ bond).  Inthis unit we will study the chemistry of group13 and 14 elements of the periodic table.
+11.1GROUP 13 ELEMENTS: THE BORONFAMILYThis group elements show a wide variation inproperties. Boron is a typical non-metal,
+aluminium is a metal but shows many
+chemical similarities to boron, and gallium,indium and thallium are almost exclusivelymetallic in character.Boron is a fairly rare element, mainlyoccurs as orthoboric acid, (H3BO3), borax,Na2B4O7·10H2O, and kernite, Na2B4O7·4H2O.In India borax occurs in Puga Valley (Ladakh)and Sambhar Lake (Rajasthan). Theabundance of boron in earth crust is less than0.0001% by mass. There are two isotopic
+forms of boron 10B (19%) and 11B (81%).Aluminium is the most abundant metal andthe third most abundant element in the earth™scrust (8.3% by mass) after oxygen (45.5%) andSi (27.7%). Bauxite, Al2O3. 2H2O and cryolite,Na3AlF6 are the important  minerals ofaluminium. In India it is found as mica inMadhya Pradesh, Karnataka, Orissa andJammu. Gallium, indium and thallium are lessabundant elements in nature.The atomic, physical and chemicalproperties of these elements are discussedbelow.11.1.1Electronic ConfigurationThe outer electronic configuration of theseelements is ns2np1. A close look at theelectronic configuration suggests that while
+boron and aluminium have noble gascore, gallium and indium have noble gas plus10 d-electrons, and thallium has noble gasplus 14 f- electrons plus 10 d-electron cores.Thus, the electronic structures of these
+elements are more complex than for the firsttwo groups of elements discussed in unit 10.
+This difference in electronic structures affects
+the other properties and consequently the
+chemistry of all the elements of this group.11.1.2Atomic RadiiOn moving down the group, for each successivemember one extra shell of electrons is added
+and, therefore, atomic radius is expected toincrease. However, a deviation can be seen.Atomic radius of Ga is less than that of Al. This
+can be understood from the variation in the
+inner core of the electronic configuration. The
+presence of additional  10 d-electrons  offeronly  poor screening effect (Unit 2) for the outerelectrons from the increased nuclear charge in
+gallium. Consequently, the atomic radius of
+gallium (135 pm) is less than that of
+aluminium (143 pm).11.1.3Ionization EnthalpyThe  ionisation enthalpy values as expectedfrom the general trends do not decrease
+smoothly down the group. The decrease fromB to Al is associated with increase in size. Theobserved discontinuity in the ionisation
+enthalpy values between Al and Ga, and
+between In and Tl are due to inability of d- andf-electrons ,which have low screening effect, tocompensate the increase in nuclear charge.The order of ionisation enthalpies, asexpected, is iH1<iH2<iH3. The sum of thefirst three ionisation enthalpies for each of theelements is very high. Effect of this will beapparent when you study their chemicalproperties.11.1.4Electronegativity
+Down the group, electronegativity firstdecreases from B to Al and then increases309        C:\ChemistryXI\Unit-11\Unit-11-F\Unit-11(reprint).pmd,  27.7.6, 16.10.6 (reprint)
+310        C:\ChemistryXI\Unit-11\Unit-11-F\Unit-11(reprint).pmd, Reprint  27.7.6310CHEMISTRYmarginally (Table 11.2). This is because of thediscrepancies  in atomic size of the elements.11.1.5  Physical PropertiesBoron is non-metallic in nature. It is extremely
+hard and black coloured solid. It exists in many
+allotropic forms. Due to very strong crystallinelattice, boron has unusually high melting point.Rest of the members are soft metals with low
+melting point and high electrical conductivity.
+It is worthwhile to note that gallium with
+unusually low melting point (303K), could
+exist in liquid state during summer. Its high
+boiling point (2676K) makes it a useful
+
+material for measuring high temperatures.
+Density of the elements increases down the
+group from boron to thallium.11.1.6 Chemical PropertiesOxidation state and trends in chemicalreactivityDue to small size of boron, the sum of its firstthree ionization enthalpies is very high. This
+prevents it to form +3 ions and forces it to formonly covalent compounds. But as we move fromB to Al, the sum of the first three ionisation
+enthalpies of Al  considerably decreases, andis therefore able to form Al3+ ions. In fact,aluminium is a highly electropositive metal.However, down the group, due to poorshielding effect of intervening d and f orbitals,the increased effective nuclear charge holds nselectrons tightly (responsible for inert paireffect) and thereby, restricting theirparticipation in bonding. As a result of this,only p-orbital electron may be involved inbonding. In fact in Ga, In  and Tl, both +1 and
++3 oxidation states are observed. The relative
+stability of +1 oxidation state progressivelyincreases for heavier elements: Al<Ga<In<Tl. Inthallium +1 oxidation state is predominantwhereas the +3 oxidation state is highlyoxidising in character. The compounds in+1 oxidation state, as expected from energy
+considerations, are more ionic than those in+3 oxidation state.In trivalent state, the number of electronsaround the central atom in a moleculeTable 11.2  Atomic and Physical Properties of Group 13 ElementsaMetallic radius, b 6-coordination, c Pauling scale,Atomic number513314981
+Atomic mass(g molŒ1)10.8126.9869.72114.82204.38
+Electronic Configuration[He]2s22p1[Ne]3s23p1[Ar]3d104s24p1[Kr]4d105s25p1[Xe]4f145d106s26p1Atomic radius/pma(88)143135167170
+Ionic radius(27)53.5
+62.080.088.5
+M3+/pmbIonic radius--120140150
+M+/pmIonizationiH1801577579558589
+enthalpyiH224271816197918201971
+(kJ molŒ1)iH336592744296227042877
+Electronegativityc2.01.51.61.71.8
+Density /g cmŒ32.352.705.907.3111.85
+at 298 KMelting point / K2453933303430576
+Boiling point / K39232740267623531730
+E/ V for (M3+/M)-Œ1.66Œ0.56Œ0.34+1.26
+E / V for (M+/M)- +0.55
+-0.79(acid)Œ0.18
+Œ0.34Œ1.39(alkali)PropertyElementBoronAluminiumGalliumIndium
+ThalliumBAlGaInTl
+310        C:\ChemistryXI\Unit-11\Unit-11-F\Unit-11(reprint).pmd,  27.7.6, 16.10.6 (reprint)
+311        C:\ChemistryXI\Unit-11\Unit-11-F\Unit-11(reprint).pmd, Reprint  27.7.6311THE p-BLOCK ELEMENTSof the compounds of these elements(e.g., boron in BF3) will be only six. Suchelectron deficient molecules have tendencyto accept a pair of electrons to achieve stableelectronic configuration and thus, behave asLewis acids. The tendency to behave as Lewis
+acid decreases with the increase in the size
+down the group. BCl3 easily accepts a lone pairof electrons from ammonia to form BCl3NH3.AlCl3 achieves stability by forming a dimersolution but is  a powerful oxidising agentalso. Thus Tl+ is more stable in solutionthan Tl3+. Aluminium being able to form+3 ions easily, is more electropositive thanthallium.(i)Reactivity towards air
+Boron is unreactive in crystalline form.
+Aluminium forms a very thin oxide layer on
+the surface which protects the metal fromfurther attack. Amorphous boron andaluminium metal on heating in air form B2O3and Al2O3 respectively. With dinitrogen at hightemperature they form nitrides.
+223
+22Es3Og2EOs
+2EsNg2ENs
+
+
+
+(E = element)The nature of these oxides varies down thegroup. Boron trioxide is acidic and reacts withbasic (metallic) oxides forming metal borates.
+Aluminium and gallium oxides are amphoteric
+and those of indium and thallium are basic in
+their properties.(ii)Reactivity towards acids and alkaliesBoron does not react with acids and alkalieseven at moderate temperature; but aluminium
+dissolves in mineral acids and aqueous alkaliesand thus shows amphoteric character.Aluminium dissolves in dilute HCl andliberates dihydrogen.2Al(s) + 6HCl (aq)  2Al3+ (aq) + 6ClŒ (aq)                            + 3H
+2 (g)However, concentrated nitric acid rendersaluminium passive by forming a protectiveoxide layer on the surface.Aluminium also reacts with aqueous alkaliand liberates dihydrogen.2Al (s) + 2NaOH(aq) + 6H2O(l)2 Na+ [Al(OH)4] Œ(aq)    +   3H2(g)Sodiumtetrahydroxoaluminate(III)(iii)Reactivity towards halogens
+These elements react with halogens to formtrihalides (except TlI
+3).2E(s) + 3 X2 (g)  2EX3 (s)       (X = F, Cl, Br, I)In trivalent state most of the compoundsbeing covalent are hydrolysed in water. For
+example, the trichlorides on hyrolysis in waterform tetrahedral 4MOH
+ species; thehybridisation state of element M is sp3.Aluminium chloride in acidified aqueoussolution forms octahedral  326AlHO
+ion.In this complex ion, the 3d orbitals of Al areinvolved and the hybridisation state of Al issp3d2.Problem 11.1Standard electrode potential values, Efor Al3+/Al is Œ1.66 V and that of Tl3+/Tlis +1.26 V. Predict about the formation ofM3+ ion in solution and compare theelectropositive character of the two
+metals.SolutionStandard electrode potential values for twohalf cell reactions suggest that aluminium
+has high tendency to make Al3+(aq) ions,whereas Tl3+ is not  only unstable in
+312        C:\ChemistryXI\Unit-11\Unit-11-F\Unit-11(reprint).pmd, Reprint  27.7.6312CHEMISTRYProblem 11.2White fumes appear around the bottle ofanhydrous aluminium chloride. Givereason.SolutionAnhydrous aluminium chloride ispartially hydrolysed with atmospheric
+moisture to liberate HCl gas. Moist HCl
+appears white in colour.11.2IMPORTANT TRENDS ANDANOMALOUS PROPERTIES OF
+BORONCertain important trends can be observed
+in the chemical behaviour of group
+13 elements. The tri-chlorides, bromidesand iodides of all these elements beingcovalent in nature are hydrolysed in water.
+Species like tetrahedral [M(OH)4]Œ andoctahedral [M(H2O)6]3+, except in boron, existin aqueous medium.The monomeric trihalides, being electrondeficient, are strong Lewis acids. Boron
+trifluoride easily reacts with Lewis bases such
+as NH3 to complete octet aroundboron.3333
+FB:NHFBNH
+
+It is due to the absence of d orbitals thatthe maximum covalence of B is 4. Since thed orbitals are available with Al and otherelements, the maximum covalence can beexpected beyond 4. Most of the other metal
+halides (e.g., AlCl3) are dimerised throughhalogen bridging (e.g., Al2Cl6). The metalspecies completes its octet by acceptingelectrons from halogen in these halogenbridged molecules.Problem 11.3Boron is unable to form BF63Œ ion. Explain.Solution
+Due to non-availability of d orbitals, boronis unable to expand its octet. Therefore,the maximum covalence of boron cannot
+exceed 4.11.3SOME IMPORTANT COMPOUNDS OFBORONSome useful compounds of boron are borax,
+orthoboric acid and diborane. We will briefly
+study their chemistry.11.3.1 BoraxIt is the most important compound of boron.It is a white crystalline solid of formula
+Na2B4O710H
+2O. In fact it contains thetetranuclear units 2454BOOH
+and correctformula; therefore, is Na
+2[B4O5 (OH)4].8H2O.Borax dissolves in water to give an alkalinesolution.Na2B4O7 + 7H2O  2NaOH  +   4H3BO3            Orthoboric acidOn heating, borax first loses watermolecules and swells up. On further heating itturns into a transparent liquid,  which solidifies
+into glass like material known as borax
+bead.Na2B4O7.10H2ONa2B4O72NaBO2 Sodium               +  B2O3        metaborate         Boric
+ anhydrideThe metaborates of many transition metals
+have characteristic colours and, therefore,borax bead test can be used to identify them
+in the laboratory. For example, when borax isheated in a Bunsen burner flame with CoO ona loop of platinum wire, a blue colouredCo(BO2)2 bead is formed.
+11.3.2Orthoboric acidOrthoboric acid, H
+3BO3  is a white crystallinesolid, with soapy  touch. It is sparingly solublein water but highly soluble in hot water. It can
+be prepared by acidifying an aqueous solution
+of borax.Na2B4O7 + 2HCl + 5H2O  2NaCl + 4B(OH)3It is also formed by the hydrolysis (reactionwith water or dilute acid) of most boroncompounds (halides, hydrides, etc.). It has alayer structure in which planar BO3 units are
+313        C:\ChemistryXI\Unit-11\Unit-11-F\Unit-11(reprint).pmd, Reprint  27.7.6313THE p-BLOCK ELEMENTSProblem 11.4Why is boric acid considered as a weakacid?SolutionBecause it is not able to release H+ ionson its own. It receives OHŒ ions from watermolecule to complete its octet and in turnreleases H+ ions.11.3.3 Diborane, B2H6The simplest boron hydride known, is
+diborane. It is prepared by treating boron
+trifluoride with LiAlH4 in diethyl ether.4BF3 + 3 LiAlH4  2B2H6 + 3LiF + 3AlF3A convenient laboratory method for thepreparation of diborane involves the oxidation
+of sodium borohydride with iodine.2NaBH4 + I2   B2H6 + 2NaI + H2Diborane is produced on an industrial scaleby the reaction of BF3 with sodium hydride.326
+450K
+2BF6NaH BH6NaF
+
+Diborane is a colourless, highly toxic gaswith a b.p. of 180 K. Diborane catches fire
+spontaneously upon exposure to air. It burnsin oxygen releasing an enormous amount ofenergy.262232
+1BH+3OBO + 3HO;
+ 1976 kJ mol
+
+cHMost of the higher boranes are alsospontaneously flammable in air. Boranes arereadily hydrolysed by water to give boric acid.B2H6(g) + 6H2O(l)  2B(OH)3(aq) + 6H2(g)Diborane undergoes cleavage reactionswith Lewis bases(L) to give borane adducts,BH3LB2H6 + 2 NMe3  2BH3NMe3B2H6 + 2 CO  2BH3COReaction of ammonia with diborane givesinitially B2H6.2NH3 which is formulated as[BH2(NH3)2]+ [BH4]Œ ; further heating givesborazine, B3N3H6 known as ﬁinorganicbenzeneﬂ in view of its ring structure withalternate BH and NH groups.Œ2632324
+3362
++Heat
+3BH+6NH3[BH(NH)][BH]
+2BNH+12H
+
+The structure of diborane is shown inFig.11.2(a).  The four terminal hydrogen atomsand the two boron atoms lie in one plane.Above and below this plane, there are twobridging hydrogen atoms.  The four terminalB-H bonds are regular two centre-two electron
+bonds while the two bridge (B-H-B) bonds aredifferent and can be described in terms of threeFig.11.2(a)  The structure of diborane, B2H6Fig. 11. 1Structure of boric acid; the dotted linesrepresent hydrogen bondsjoined by hydrogen bonds as shown inFig. 11.1.Boric acid is a weak monobasic acid. It isnot a protonic acid but acts as a Lewis acidby accepting electrons from a hydroxyl
+ion:B(OH)3 + 2HOH  [B(OH)4]Œ + H3O+On heating, orthoboric acid above 370Kforms  metaboric acid, HBO2 which on furtherheating yields boric oxide, B2O3.H3BO3HBO2B2O3

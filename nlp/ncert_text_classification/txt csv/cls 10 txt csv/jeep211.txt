@@ -1,0 +1,7 @@
+AREA RELATED TO CIRCLES
+CHAPTER 11(A) Main Concepts and ResultsPerimeters and areas of simple closed figures. Circumference and area of a circle.Area of a circular path (i.e., ring). Sector of a circle and its central angle Œ Major andMinor sectors. Segment of a circle Œ Major and Minor segments.ŁCircumference of a circle = 2  r and area of a circle =   r2, where r is theradius of the circle.ŁArea of the circular path formed by two concentric circles of radiir1 and r2 (r1 > r2) = 2212rr= 2212rr.ŁArea of the sector of a circle of radius r with central angle  = 2× ,360
+rwhere  is measured in degrees.ŁLength of the arc of the sector of a circle of radius r withcentral angle  × 2 
+,360
+r where is measured indegrees.ŁArea of the minor segment APB of the circle in
+Fig. 11.1 = area of sector OAPB Œ area of OAB.ŁArea of the major sector of a circle of radius r=  r2 Œ  area of the corresponding minor sector.
+

@@ -1,0 +1,350 @@
+10.1 Overview10.1.1  Slope of a lineIf  is the angle made by a line with positive direction of x-axis in anticlockwise direction,then the value of tan  is called the slope of the line and is denoted by m.The slope of a line passing through points P(x1, y1) and Q (x2, y2) is given by2121tan
+yymxx
+10.1.2  Angle between two lines  The angle  between the two lines having slopes m1 andm2 is given by1212()tan
+1mmmm
+If we take the acute angle between two lines, then tan  = 12121mmmmIf the lines are parallel, then m1 = m2.If the lines are perpendicular, then m1m2 = Œ 1.10.1.3  Collinearity of three points 
+ If three points P (h, k), Q (x1, y1) and R (x2,y2)are such that slope of PQ = slope of QR, i.e., 121
+121
+ykyy
+xhxx
+or(
+h Œ x1) (y2 Œ y1) = (k Œ y1) (x2 Œ x1) then they are said to be collinear.
+10.1.4  Various forms of the equation of a line
+(i)If a line is at a distance 
+a and parallel to x-axis, then the equation of the line isy = ± a.(ii)If a 
+line is parallel to y-axis at a distance b from y-axis then its equation isx = ± bChapter10STRAIGHT LINES
+166    EXEMPLAR PROBLEMS Œ MATHEMATICS(iii) 
+Point-slope form : The equation of a line having slope m and passing through thepoint (x0, y0) is given by y Œ y0 = m (x Œ x0)(iv)T
+wo-point-form : The equation of a line passing through two points (x1, y1) and(x2, y2) is given byy Œ y1 = 2121yyxx (x Œ x1)(v)Slope intercept form : 
+The equation of the line making an 
+intercept c on  
+y-axis andhaving slope m is given byy = mx + cNote that the value of c will be positive or negative as the intercept is made onthe positive or negative side of the y-axis, respectively.
+(vi)Intercept form : The equation of the line making intercepts a and b on x- and y-axis respectively is given by 1xyab.(vii)Normal form : Suppose a non-vertical line is known to us with following data:(a)Length of the perpendicular (normal) 
+p from origin to the line.(b)Angle 
+ which normal makes with the positive direction of x-axis.Then the equation of such a line is given by  x cos  + y sin  = p10.1.5  General equation of a lineAny equation of the form Ax + By + C = 0, where A and B are simultaneously not zero,
+is called the general equation of a line.
+Different forms of A
+x + By + C = 0The general form of the line can be reduced to various forms as given below:(i)Slope intercept form : If B 
+ 0, then A
+x + By + C = 0 can be written asACBByx  or y = mx + c, where ACand=
+BBmcIf  B = 0, then 
+x = CAwhich is a vertical line whose slope is not defined and x-interceptis CA.
+STRAIGHT LINES    167
+(ii)Intercept form : If C  0, then A
+x + By + C = 0 can be written as CCABxy= 1 or 1xyab, where CC=and=
+ABab.If C = 0, then A
+x + By + C = 0 can be written as Ax + By = 0 which is a linepassing through the origin and therefore has zero intercepts on the axes.(iii)Normal Form : The normal form of the equation A
+x + By + C = 0 isx cos+ y sin  = p where,2222
+ABcos,sin
+A+BA+B
+
+and  p = 22CA+B
+ .Note: Proper choice of signs is to be made so that p should be always positive.10.1.6  Distance of a point from a line  The perpendicular distance (or simply distance)d of a point P (
+x1, y1) from the line A
+x + By + C = 0 is given by1122ABC
+A+B
+xydDistance between two parallel linesThe distance d between two parallel lines y = mx + c1 and y = mx + c2 is given by1221+ccdm.10.1.7  Locus and Equation of Locus  The curve described by a point which movesunder certain given condition is called its locus. To find the locus of a point P whose
+coordinates are (h, k), express the condition involving h and k. Eliminate variables ifany and finally replace h by x and k by y to get the locus of P.10.1.8  Intersection of two given lines  Two lines 
+a1x + b1y + c1 = 0 and a2x + b2y +c2 = 0 are(i)intersecting if 
+1122abab
+168    EXEMPLAR PROBLEMS Œ MATHEMATICS(ii)parallel and distinct if  111222
+abc
+abc
+(iii)coincident if 111222
+abc
+abc
+Remarks(i)The points (
+x1, y1) and (x2, y2) are on the same side of the line or on the oppositeside of the line ax + by  + c = 0, if ax1 + by1 + c and ax2 + by2 + c are of the samesign or of opposite signs respectively.
+(ii)The condition that the lines a1x + b1y + c1 = 0 and a2x + b2y + c = 0 areperpendicular is a1a2 + b1b2 = 0.(iii)The equation of any line through the point of intersection of two lines 
+a1x + b1y +c1 = 0 and  
+a2x + b2y + c2 = 0 is a1x + b1y + c1 + k (ax2 + by2 + c2) = 0. The valueof k is determined from extra condition given in the problem.10.2  Solved ExamplesShort 
+Answer Type
+Example 1  Find the equation of a line which passes through the point (2, 3) andmakes an angle of 30° with the positive direction of x-axis.Solution  Here the slope of the line is m = tan = tan 30° = 13 and the given point is(2, 3). Therefore, using point slope formula of the equation of a line, we havey Œ 3 = 13 (x Œ 2)orx Œ 3y + (33 Œ 2) = 0.Example 2  Find the equation of the line where length of the perpendicular segmentfrom the origin to the line is 4 and the inclination of the perpendicular segment with thepositive direction of x-axis is 30°.Solution  The normal form of the equation of the line is x cos + y sin = p. Herep = 4 and  = 30°. Therefore, the equation of the line isx cos 30° + y sin 30° = 432x + y 12= 4     or     3 x + y = 8
+STRAIGHT LINES    169
+Example 3  Prove that every straight line has an equation of the form A
+x + By + C = 0,where A, B and C are constants.Proof  Given a straight line, either it cuts the y-axis, or is parallel to or coincident withit. We know that the equation of a line which cuts the 
+y-axis (i.e., it has y-intercept) canbe put in the form y = mx + b; further, if the line is parallel to or coincident with the y-axis, its equation is of the form x = x1, where x = 0 in the case of coincidence. Both ofthese equations are of the form given in the problem and hence the proof.Example 4  Find the equation of the straight line passing through (1, 2) and perpendicularto the line x + y + 7 = 0.Solution 
+ Let m be the slope of the line whose equation is to be found out which isperpendicular to the line x + y + 7 = 0. The slope of the given line y = (Œ 1) x Œ 7 is Œ 1.Therefore, using 
+the condition of perpendicularity of lines, we have 
+m × (Œ 1) = Œ 1or m = 1 (Why?)
+Hence, the required equation of the line is y Œ 1 = (1) (x Œ 2) or y Œ 1 = x Œ 2  x Œy Œ 1 = 0.Example 5  Find the distance between the lines 3x + 4y = 9 and 6x + 8y = 15.Solution  The equations of lines 3x + 4y = 9 and 6x + 8y = 15 may be rewritten as3x + 4y Œ 9 = 0       and       3x + 4y 152 = 0Since, the slope of these lines are same and hence they are parallel to each other.
+Therefore, the distance between them is given by22159321034Example 6  Show that the locus of the mid-point of the distance between the axes ofthe variable line x cos + y sin = p is 222
+114xyp where p is a constant.Solution  Changing the given equation of the line into intercept form, we have1cossin
+xypp which gives the coordinates ,0and0,
+cossin
+pp
+
+
+, where theline intersects x-axis and y-axis, respectively.
+170    EXEMPLAR PROBLEMS Œ MATHEMATICSLet (h, k) denote the mid-point of the line segment joining the points,0and0,,
+cossin
+pp
+
+
+Then2cos
+ph and   2sin
+pk(Why?)This givescos
+2ph and sin
+2pkSquaring and adding we get2222144pphk      or      
+222
+114
+hkp
+.Therefore,  the required locus is 222
+114
+xyp.Example 7  If the line joining two points A(2, 0) and B(3, 1) is rotated about A in
+anticlock wise direction through an angle of 15°. Find the equation of the line in newposition.Solution  The slope of the line AB is 
+101ortan45
+32 (Why?) (see Fig.). Afterrotation of the line through 15°, the slope of the line AC in new position is tan 60° = 
+3Fig. 10.1
+STRAIGHT LINES    171
+Therefore, the equation of the new line AC is
+y Œ 0 = 3(2)
+xory Œ 323
+x = 0Long Answer Type
+Example 8  If the slope of a line passing through the point A(3, 2) is 
+34, then findpoints on the line which are 5 units away from the point A.
+Solution  Equation of the line passing through (3, 2) having slope 34 is given byy Œ 2 =3
+4 (x Œ 3)or4
+y Œ 3x + 1 =0(1)
+Let (h, k) be the points on the line such that(h Œ 3)2 + (k Œ 2)2 =25(2)    (Why?)
+Also, we have4k Œ 3h + 1 =0(3)    (Why?)
+ork =314h(4)Putting the value of k in (2) and on simplifying, we get25h2 Œ 150h Œ 175 =0
+(How?)orh2 Œ 6h Œ 7 =0
+or(
+h + 1) (h Œ 7) =0 
+ h = Œ1, h = 7Putting these values of k in (4), we get k = Œ1 and k = 5. Therefore, the coordinates ofthe required points are either (Œ1, Œ1) or (7, 5).Example 9  Find the equation to the straight line passing through the point of intersectionof the lines 5x Œ 6y Œ 1 = 0 and 3x + 2y + 5 = 0 and perpendicular to the line 3x Œ 5y +11 = 0.
+Solution  First we find the point of intersection of lines 5x Œ 6y Œ 1 = 0 and 3x + 2y +5 = 0 which is (Œ 1, Œ 1). Also the slope of the line 3
+x Œ 5y + 11 = 0 
+3is5 .  Therefore,
+the slope of the line perpendicular to this line is 53 (Why?). Hence, the equation of therequired line is given by
+172    EXEMPLAR PROBLEMS Œ MATHEMATICSy + 1 =53 (x + 1)or5
+x + 3y + 8 =0
+Alternatively  The equation of 
+any line through the intersection of lines 5x Œ 6y Œ 1 = 0and 3x + 2y + 5 = 0 is5x Œ 6y Œ 1 + k(3x + 2y + 5) = 0(1)
+orSlope of this line is 
+(53)
+Œ62kkAlso, slope of the line 3x Œ 5y + 11 = 0 is 
+35Now, both are perpendicular
+so (53)3
+Œ1Œ625
+kkork =45
+Therefore, equation of required line in given by5x Œ 6y Œ 1 + 45 (3x + 2y + 5) =0
+or5
+x + 3y + 8 =0
+Example 10  A ray of light coming from the point (1, 2) is reflected at a point A on the
+x-axis and then passes through the point (5, 3). Find the coordinates of the point A.
+Solution  Let the incident ray strike x-axis at the point A whose coordinates be (
+x, 0).From the figure, the slope of the reflected ray is given bytan  =35Œx(1)Fig. 10.2
+STRAIGHT LINES    173
+Again, the slope of the incident ray is given bytan ( Œ ) =21x(Why?)orŒ tan 
+ =21x(2)Solving (1) and (2), we get35x =21x     or   
+x = 135Therefore, the required coordinates of the point A are 
+13,05.Example 11 
+ If one diagonal of a square is along the line 8x Œ 15y = 0 and one of itsvertex is at (1, 2), then find the equation of sides of the square passing through thisvertex.Solution  Let ABCD be the given square and the coordinates of the vertex D be (1, 2).
+We are required to find the equations of its sides DC and AD.
+Fig. 10.3Given that BD is along the line 8x Œ 15y = 0, so its slope is 815 (Why?). The anglesmade by BD with sides AD and DC is 45° (Why?). Let the slope of DC be 
+m. Then
+tan 45° =8158115mm(Why?)
+174    EXEMPLAR PROBLEMS Œ MATHEMATICSor15 + 8
+m =15
+m Œ 8or7
+m =23, which gives 
+m = 237Therefore, the equation of the side DC is given byy Œ 2 =237 (x Œ 1) or 23x Œ 7y Œ 9 = 0.Similarly, the equation 
+of another side AD is given by
+y Œ 2 =723 (x Œ 1)  or  7x + 23y Œ 53 = 0.Objective Type Questions
+Each of the Examples 12 to 20 has four possible options out of which only one option iscorrect. Choose the correct option (M.C.Q.).Example 12  The inclination of the line x Œ y + 3 = 0 with the positive direction ofx-axis is(A)45°(B)135°(C)Œ 45°(D)
+Œ135°Solution  (A) is the correct answer. The equation of the line 
+x Œ y + 3 = 0 can berewritten as y = x + 3  m = tan  = 1 and hence = 45°.Example 13  The two lines ax + by = c and ax + by =  c are perpendicular if(A)aa + bb = 0(B)
+ab = ba(C)ab + ab = 0(D)
+ab + ba = 0Solution  (A) is correct answer. Slope of the line ax + by = c is ab,and the slope of the line ax + by = c is ab. The lines are perpendicular iftan  =35Œx(1)                     1aabb
+
+
+
+  or   0aabb
+(Why?)Example 14  The equation of the line passing through (1, 2) and perpendicular to
+x + y + 7 = 0 is(A)y Œ x + 1 = 0(B)
+y Œ x  Œ  1 = 0
+STRAIGHT LINES    175
+(C)y Œ x + 2 = 0(D)
+y Œ x Œ 2 = 0.Solution  (B) is the correct answer. Let the slope of the line be 
+m. Then, its equation
+passing through (1, 2) is given byy Œ 2 =m (x Œ 1)(1)
+Again, this line is perpendicular to the given line x + y + 7 = 0 whose slope is Œ 1   (Why?)Therefore, we havem ( Œ 1) =Œ 1
+orm =1Hence, the required equation of the line is obtained by putting the value of m in (1), i.e.,y Œ 2 =x Œ 1ory Œ x Œ 1 =0
+Example 15  The distance of the point P (1, Œ 3) from the line 2y Œ 3x = 4 is(A)13(B)
+71313(C)13(D)None of these
+Solution 
+ (A) is the correct answer. The distance of the point P (1, Œ 3) from the line
+2y Œ 3 x Œ 4 = 0 is the length of perpendicular from the point to the line which is givenby2(Œ3)Œ3Œ4
+1313Example 16  The coordinates of the foot of the perpendicular from the point (2, 3) onthe line x + y Œ 11 = 0 are
+(A)(Œ6, 5)(B)(5, 6)(C)(Œ5, 6)(D)(6, 5)
+Solution  (B) is the correct choice. Let (h, k) be the coordinates of the foot of theperpendicular  from the point (2, 3) on the line x + y Œ 11 = 0. Then, the slope of the
+perpendicular line is  Œ32k
+h. Again the slope of the given line 
+x + y Œ 11 = 0 is Œ 1
+(why?)
+Using the condition of perpendicularity of lines, we haveŒ3
+2k
+h (Œ 1) =Œ 1(Why?)
+ork Œ h =1(1)
+
+176    EXEMPLAR PROBLEMS Œ MATHEMATICSSince (h, k) lies on the given line, we have,h + k Œ 11 =0  or   
+h + k = 11(2)
+Solving (1) and (2), we get h = 5 and k = 6. Thus (5, 6) are the required coordinates ofthe foot of the perpendicular.
+Example 17  The intercept cut off by a line from y-axis is twice than that from x-axis,and the line passes through the point (1, 2). The equation of the line is(A)2
+x + y = 4(B)2
+x + y + 4 = 0(C)2
+x Œ y = 4(D)2
+x Œ y + 4 = 0Solution  (A) is the correct choice. Let the line make intercept ‚a™ on x-axis. Then, itmakes intercept ‚2a™ on y-axis. Therefore, the equation of the line is given by12xyaaIt passes through (1, 2), so, we have121or2
+2aaa
+Therefore, the required equation of the line is given by124xy   or   2
+x + y = 4Example 18  A line passes through P (1, 2) such that its intercept between the axes is
+bisected at P. The 
+equation of the line is(A)x + 2y = 5(B)
+x Œ y + 1 = 0(C)x + y Œ 3 = 0(D)2
+x + y Œ 4 = 0Solution  The correct choice is (D). We know that the equation of a line making
+intercepts a and b with x-axis and y-axis, respectively, is given by
+1xyab.Here we have                  001and2
+22ab ,                                     (Why?)which give a = 2 and b = 4. Therefore, the required equation of the line is given by
+STRAIGHT LINES    177
+124xy   or   2
+x + y Œ 4 = 0Example 19  The reflection of the point (4, Œ 13) about the line 5x + y + 6 = 0 is(A)(Œ 1, Œ 14)(B)(3, 4)(C)(0, 0)(D)(1, 2)
+Solution 
+ The correct choice is (A). Let (h, k) be the point of reflection of the given point(4, Œ 13) about the line 5x + y + 6 = 0. The mid-point of the line segment joining points (
+h, k)and (4, Œ 13) is given by413
+,22hk      (Why?)This point lies on the given line, so we have                     413
+560
+22hk
+or                  5 
+h + k + 19 = 0(1)
+Again the slope of the line joining points (h, k) and (4, Œ13) is given by 134kh. This lineis perpendicular to the given line and hence 3(5)Œ1
+4kh       (Why?)This gives5
+k + 65 =h Œ 4orh Œ 5k Œ 69 =0(2)
+On solving (1) and (2), we get h = Œ1 and k = Œ14. Thus the point (Œ1, Œ 14) is thereflection of the given point.Example 20  A point moves such that its distance from the point (4, 0) is half that of
+its distance from the line x = 16. The locus of the point is(A)3
+x2 + 4y2 = 192(B)4
+x2 + 3y2 = 192(C)x2 + y2 = 192(D)None of these
+Solution  The correct choice is (A). Let (h, k) be the coordinates of the moving point.Then, we have               222116
+(Œ4)
+210hhk(Why?)
+178    EXEMPLAR PROBLEMS Œ MATHEMATICS(h Œ 4)2 + k2 =14 (h  Œ 16)24 (h2 Œ 8h + 16 + k2) =h2 Œ 32h + 256or3
+h2 + 4 k2 =192
+Hence, the required locus is given by  3x2 + 4y2  = 19210.3   EXERCISEShort Answer Type Questions
+1.Find the equation of the straight line which passes through the point (1, Œ 2) andcuts off equal intercepts from axes.2.Find the equation of the line passing through the point (5, 2) and perpendicular tothe line joining the points (2, 3) and (3, Œ 1).3.Find the angle between the lines y = (2 Œ3) (x + 5) and y = (2 + 3) (x Œ 7).4.Find the equation of the lines which passes through the point (3, 4) and cuts offintercepts from the coordinate axes such that their sum is 14.5.Find the points on the line x + y = 4 which lie at a unit distance from the line4x + 3y = 10.6.Show that the tangent of an angle between the lines 1xyab and  1xyab is222abab.7.Find the equation of lines passing through (1, 2) and making angle 30° withy-axis.8.Find the equation of the line passing through the point of intersection of 2x + y =5 and x + 3y + 8 = 0 and parallel to the line 3x + 4y = 7.9.For what values of a and b the intercepts cut off on the coordinate axes by theline ax + by + 8 = 0 are equal in length but opposite in signs to those cut off by theline 2x Œ 3y + 6 = 0 on the axes.10.If the intercept of a line between the coordinate axes is divided by the point (Œ5,4) in the ratio 1 : 2, then find the equation of the line.11.
+Find the equation of a straight line on which length of perpendicular from the
+origin is four units and the line makes an angle of 120° with the positive directionof x-axis.
+STRAIGHT LINES    179
+[Hint: Use normal form, here  =30°.]12.Find the equation of one of the sides of an isosceles right angled triangle whosehypotenuse is given by 3x + 4y = 4 and the opposite vertex of the hypotenuse is(2, 2).Long Answer Type
+13.If the equation of the base of an equilateral triangle is x + y = 2 and the vertex is(2, Œ 1), then find the length of the side of the triangle.[Hint: Find length of perpendicular (p) from (2, Œ 1) to the line and use p = l sin60°, where l is the length of side of the triangle].14.A variable line passes through a fixed point P. The algebraic sum of the
+perpendiculars drawn from the points (2, 0), (0, 2) and (1, 1) on the line is zero.Find the coordinates of the point P.
+[Hint: Let the slope of the line be m. Then the equation of the line passingthrough the fixed point P (
+x1, y1) is y Œ y1 = m (x Œ x1). Taking the algebraic sum
+of perpendicular distances equal to zero, we get y Œ 1 = m (x Œ 1). Thus (x1, y1)is (1, 1).]15.In what direction should a line be drawn through the point (1, 2) so that its pointof intersection with the line x + y = 4 is at a distance 63 from the given point.16.A straight line moves so that the sum of the reciprocals of its intercepts made onaxes is constant. Show that the line passes through a fixed point.[Hint: 1xyabwhere 11abconstant = 1
+k(say). This implies that1kk
+ab
+line passes through the fixed point (k, k).]17.Find the equation of the line which passes through the point (Œ 4, 3) and theportion of the line intercepted between the axes is divided internally in the ratio
+5 : 3 by this point.18.Find the equations of the lines through the point of intersection of the linesx Œ y + 1 = 0 and 2x Œ 3y + 5 = 0 and whose distance from the point (3, 2) is 75.19.If the sum of the distances of a moving point in a plane from the axes is 1, thenfind the locus of the point. [Hint: Given that 1xy, which gives four sidesof a square.]
+180    EXEMPLAR PROBLEMS Œ MATHEMATICS20.P1, P2 are points on either of the two lines y Œ 3x= 2 at a distance of 5 unitsfrom their point of intersection. Find the coordinates of the foot of perpendicularsdrawn from P1, P2 on the bisector of the angle between the given lines.[Hint: Lines are y = 3x + 2 and y = Œ 3 x + 2 according as x  0 or x < 0.y-axis is the bisector of the angles between the lines. P1, P2 are the points onthese lines at a distance of 5 units from the point of intersection of these lineswhich have a point on y-axis as common foot of perpendiculars from thesepoints. The y-coordinate of the foot of the perpendicular is given by 2 + 5 cos30°.]21.If p is the length of perpendicular from the origin on the line 1xyab and a2,p2, b2 are in A.P, then show that 
+a4 + b4 = 0.Objective Type Questions
+Choose the correct answer from the given four options in Exercises 22 to 4122.A line cutting off intercept Œ 3 from the y-axis and the tengent at angle to the x-axis is 3
+5, its equation is(A)5
+y Œ 3x + 15 = 0(B)3
+y Œ 5x + 15 = 0(C) 5
+y Œ 3x Œ 15 = 0(D)None of these
+23.Slope of a line which cuts off intercepts of equal lengths on the axes is(A)Œ 1(B)
+Œ 0(C) 2(D) 
+324.The equation of the straight line passing through the point (3, 2) and perpendicularto the line y = x is(A)x Œ y = 5(B)
+x + y = 5(C)x + y = 1(D)
+x Œ y = 125.The equation of the line passing through the point (1, 2) and perpendicular to theline x + y + 1 = 0 is(A)y Œ x + 1  = 0(B)
+y Œ x Œ 1 = 0(C)y Œ x + 2  = 0(D)
+y Œ x Œ 2  = 026.The tangent of angle between the lines whose intercepts on the axes are a, Œ band b, Œ a, respectively, is
+
+STRAIGHT LINES    181
+(A)22abab(B)222ba(C)222baab(D)None of these
+27.If the line 1xyab passes through the points (2, Œ3) and (4, Œ5), then (a, b) is(A)(1, 1)(B)(Œ 1, 1)(C)(1, Œ 1)(D)(Œ 1, Œ1)
+28.The distance of the point of intersection of the lines 2x Œ 3y + 5 = 0 and 3x + 4y = 0from the line 5x Œ 2y = 0 is(A)130
+1729
+(B)13729
+(C)130
+7(D)None of these
+29.The equations of the lines which pass through the point (3, Œ2) and are inclined at60° to the line 3 x + y = 1 is(A)y + 2 = 0,  3x Œ y Œ 2 Œ 33 = 0(B)x Œ 2 = 0,  3 x Œ y + 2 + 33 = 0(C)3 x Œ y Œ 2 Œ 33 = 0(D)None of these
+30.The equations of the lines passing through the point (1, 0) and at a distance 32from the origin, are(A)3x +  y Œ 3 = 0, 3x Œ  y Œ 3 = 0(B)3x +  y + 3 = 0, 3x Œ  y  + 
+3 = 0(C)x +3 y Œ 3 = 0, x Œ3 y  Œ 
+3 = 0(D)None of these.
+31.The distance between the lines y = mx + c1 and y = mx + c2 is(A)1221ccm(B)122||1ccm(C)2121ccm(D)0
+
+182    EXEMPLAR PROBLEMS Œ MATHEMATICS32.The coordinates of the foot of perpendiculars from the point (2, 3) on the liney = 3x + 4 is given by(A)371
+,1010
+(B)137
+,1010
+(C)10,10
+37
+(D)21,33
+33.If the coordinates of the middle point of the portion of a line intercepted betweenthe coordinate axes is (3, 2), then the equation of the line will be(A)2
+x + 3y = 12(B)3
+x + 2y = 12(C)4
+x Œ 3y = 6(D)5
+x Œ 2y = 1034.Equation of the line passing through (1, 2) and parallel to the line y = 3x Œ 1 is(A)y + 2 = x  + 1(B)
+y + 2 = 3 (x  + 1)(C)y Œ 2 = 3 (x  Œ 1)(D)
+y Œ 2 = x Œ 135.Equations of diagonals of the square formed by the lines x = 0, y = 0, x = 1 andy = 1 are(A)y = x,   y + x = 1(B)
+y = x,   x + y = 2(C)2
+y = x,  y + x = 13(D)y = 2x,   y + 2x = 136.For specifying a straight line, how many geometrical parameters should be known?(A)1(B)2(C)4(D)3
+37.The point (4, 1) undergoes the following two successive transformations :(i)Reflection about the line 
+y = x(ii)T
+ranslation through a distance 2 units along the positive x-axisThen the final coordinates of the point are(A)(4, 3)(B)(3, 4)(C)(1, 4)(D)
+77,2238.
+A point equidistant from the lines 4x + 3y + 10 = 0, 5x Œ 12y + 26 = 0 and7x + 24y Œ 50 = 0 is
+(A)(1, Œ1)(B)(1, 1)(C)(0, 0)(D)(0, 1)
+39.A line passes through (2, 2) and is perpendicular to the line 3x + y = 3. Its y-intercept is(A)13(B)2
+3(C)1(D)
+4
+3
+STRAIGHT LINES    183
+40.The ratio in which the line 3x + 4y + 2 = 0 divides the distance between the lines3x + 4y + 5 = 0 and 3x + 4y Œ 5 = 0 is(A)1 : 2(B)3 : 7(C)2 : 3(D)2 : 5
+41.One vertex of the equilateral triangle with centroid at the origin and one side asx + y Œ 2 = 0 is(A)(Œ1, Œ1)(B)(2, 2)(C)(Œ2, Œ2)(D)(2, Œ2)
+[Hint: Let ABC be the equilateral triangle with vertex A (
+h, k) and let D (, )be the point on BC. Then 22033hk. Also 
+ +  Œ 2 = 0 and0(1)1
+0kh
+].Fill in the blank in Exercises 42 to 47.42.If a, b, c are in A.P., then the straight lines 
+ax + by + c = 0 will always passthrough ____.43.
+The line which cuts off equal intercept from the axes and pass throughthe point (1, Œ2) is ____.44.
+Equations of the lines through the point (3, 2) and making an angle of 45° withthe line x Œ 2
+y = 3 are ____.45.The points (3, 4) and (2, Œ 6) are situated on the ____ of the line 3x Œ 4y Œ 8 = 0.46.A point moves so that square of its distance from the point (3, Œ2) is numericallyequal to its distance from the line 5x Œ 12y = 3. The equation of its locus is ____.47.Locus of the mid-points of the portion of the line x sin  + y cos  = p interceptedbetween the axes is ____.State whether the statements in Exercises 48 to 56 are true or false. Justify.
+48.If the vertices of a triangle have integral coordinates, then the triangle can not be
+equilateral.49.The points A (Œ 2, 1), B (0, 
+5), C (Œ 1, 2) are collinear.
+50.Equation of the line passing through the point (a cos3, a sin3) and perpendicularto the line x sec  + y cosec  = a is x cos  Œ y sin  = a sin 2.51.The straight line 5x + 4y = 0 passes through the point of intersection of thestraight lines x + 2y Œ 10 = 0 and 2x + y + 5 = 0.52.The vertex of an equilateral triangle is (2, 3) and the equation of the opposite side isx + y = 2. Then the other two sides are 
+y Œ 3 = (2  3) (x Œ 2).
+184    EXEMPLAR PROBLEMS Œ MATHEMATICS53.The equation of the line joining the point (3, 5) to the point of intersection of thelines 4x + y Œ 1 = 0 and 7x Œ 3y Œ 35 = 0 is equidistant from the points (0, 0) and(8, 34).54.The line 1xyab moves in such a way that 222
+111abc, where c is a constant.The locus of the foot of the perpendicular from the origin on the given line isx2 + y2 = c2.55.The lines ax + 2y + 1 = 0, bx + 3y + 1 = 0 and cx + 4y + 1 = 0 are concurrent ifa, b, c are in G.P.
+56.Line joining the points (3, Œ 4) and (Œ 2, 6) is perpendicular to the line joining thepoints (Œ3, 6) and (9, Œ18).Match the questions given under Column C1 with their appropriate answers givenunder the Column C2 in Exercises 57 to 59.57.            Column C1Column C2(a)The coordinates of the points(i)(3, 1), (Œ7, 11)
+P and Q on the line x + 5y = 13 whichare at a distance of 2 units from theline 12x Œ 5y + 26 = 0 are(b)The coordinates of the point on the line
+(ii)11147
+,,,
+3333
+
+
+
+x + y = 4, which are at a unit distancefrom the line 4x + 3y Œ  10 = 0 are(c)The coordinates of the point on the line
+(iii)1216
+1,,Œ3,
+55
+
+
+joining A (Œ2, 
+5) and B (3, 1) suchthat AP = PQ = QB are
+58.The value of the , if the lines(2x + 3y + 4) + (6x Œ y + 12) = 0 are            Column C1Column C2(a)parallel to 
+y-axis is(i)
+34
+STRAIGHT LINES    185
+(b)perpendicular to 7
+x + y Œ 4 = 0 is(ii)
+13(c)passes through (1, 2) is
+(iii)1741(d)parallel to 
+x axis is(iv)= 359.The equation of the line through the intersection of the lines 2x Œ 3y = 0 and4x Œ 5y = 2 and            Column C1Column C2(a)through the point (2, 1) is(i)2
+x Œ y = 4(b)perpendicular to the line
+(ii)x + y Œ 5 = 0x + 2y + 1 = 0 is(c)parallel to the line
+(iii)x Œ y Œ1 = 03x Œ 4y + 5 = 0 is(d)equally inclined to the axes is
+(iv)3
+x Œ 4y Œ 1 = 0

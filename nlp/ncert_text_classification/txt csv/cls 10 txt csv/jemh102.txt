@@ -1,0 +1,339 @@
+20M
+ATHEMA
+TICSFile Name : C:\Computer Station\Class - X (Maths)/Final/Chap-2/ChapŒ2(8th Nov).pmd22.1Introduction
+In Class IX, you have studied polynomials in one variable and their degrees. Recallthat if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree ofthe polynomial p(x). For example, 4x + 2 is a polynomial in the variable x ofdegree 1, 2y2 Œ 3y + 4 is a polynomial in the variable y of degree 2, 5x3 Œ 4x2 + x Œ 2is a polynomial in the variable x of degree 3 and 7u6 Œ 423482uuu
+
+ is a polynomialin the variable u of degree 6. Expressions like 11x, 2x, 2123xx etc., arenot polynomials.A polynomial of degree 1 is called a linear polynomial. For example, 2x Œ 3,35,
+x 2y, 211x, 3z + 4, 213u, etc.,  are all linear polynomials. Polynomialssuch as 2x + 5 Œ x2, x3 + 1, etc., are not linear polynomials.A polynomial of degree 2 is called a quadratic polynomial. The name ‚quadratic™has been derived from the word ‚quadrate™, which means ‚square™. 22,235xxy2 Œ 2, 223,
+xx 222
+2125,5,4
+337
+uuvvz
+
+ are some examples ofquadratic polynomials (whose coefficients are real numbers). More generally, any
+quadratic polynomial in x is of the form ax2 + bx + c, where a, b, c are real numbersand a  0. A polynomial of degree 3 is called a 
+cubic polynomial. Some examples ofPOLYNOMIALS
+
+POLYNOMIALS
+21File Name : C:\Computer Station\Class - X (Maths)/Final/Chap-2/ChapŒ2(8th Nov).pmda cubic polynomial are 2 Œ x3, x3, 32,x 3 Œ x2 + x3, 3x3 Œ 2x2 + x Œ 1. In fact, the mostgeneral form of a cubic polynomial isax3 + bx2 + cx + d,where, a, b, c, d are real numbers and a  0.Now consider the polynomial p(x) = x2 Œ 3x Œ 4. Then, putting x = 2 in thepolynomial, we get 
+p(2) = 22 Œ 3 × 2 Œ 4 = Œ 6. The value ‚Œ 6™, obtained by replacingx by 2 in x2 Œ 3x Œ 4, is the value of x2 Œ 3x Œ 4 at x = 2. Similarly, 
+p(0) is the value ofp(x) at x = 0, which is Œ 4.If p(x) is a polynomial in x, and if k is any real number, then the value obtained byreplacing x by k in p(x), is called the value of p(x) at x = k, and is denoted by p(k).What is the value of p(x) = x2 Œ3x Œ 4 at x = Œ1? We 
+have :p(Œ1) = (Œ1)2 Œ{3 × (Œ1)} Œ 4 = 0Also, note thatp(4) =4
+2 Œ (3 × 4) Œ 4 = 0.As p(Œ1) = 0 and p(4) = 0, Œ1 and 4 are called the zeroes of the quadraticpolynomial x2 Œ 3x Œ 4. More generally, a real number 
+k is said to be a zero of a
+polynomial p(x), if p(k) = 0.You have already studied in Class IX, how to find the zeroes of a linear
+polynomial. For example, if k is a zero of p(x) = 2x + 3, then p(k) = 0 gives us2k + 3 = 0, i.e., k = 32In general, if k is a zero of p(x) = ax + b, then p(k) = ak + b = 0, i.e., bkaSo, the zero of the linear polynomial ax + b is (Constant term)
+Coefficientof
+bax.Thus, the zero of a linear polynomial is related to its coefficients. Does this
+happen in the case of other polynomials too? For example, are the zeroes of a quadraticpolynomial also related to its coefficients?In this chapter, we will try to answer these questions. We will also study the
+division algorithm for polynomials.2.2Geometrical Meaning of the Zeroes of a Polynomial
+You know that a real number 
+k is a zero of the polynomial p(x) if p(k) = 0. But whyare the zeroes of a polynomial so important? To answer this, first we will see the
+geometrical representations of linear and quadratic polynomials and the geometricalmeaning of their zeroes.
+22M
+ATHEMA
+TICSFile Name : C:\Computer Station\Class - X (Maths)/Final/Chap-2/ChapŒ2(8th Nov).pmdConsider first a linear polynomial ax + b, a  0. You have studied in Class IX that the
+graph of y = ax + b is a straight line. For example, the graph of y = 2x + 3 is a straightline passing through the points (Œ 2, Œ1) and (2, 7).xŒ22
+y = 2x + 3Œ17
+From Fig. 2.1, you can seethat the graph of y = 2x + 3intersects the x-axis mid-way
+between x = Œ1 and x = Œ2,
+that is, at the point 3,02.You also know that the zero of
+2x + 3 is 32. Thus, the zero ofthe polynomial 2x + 3 is thex-coordinate of the point where thegraph of y = 2x + 3 intersects thex-axis.In general, for a linear polynomial ax + b, a  0, the graph of y = ax + b is astraight line which intersects the x-axis at exactly one point, namely, 
+,0ba.Therefore, the linear polynomial ax + b, a  0, has exactly one zero, namely, thex-coordinate of the point where the graph of y = ax + b intersects the x-axis.Now, let us look for the geometrical meaning of a zero of a quadratic polynomial.
+Consider the quadratic polynomial x2 Œ 3x Œ 4. Let us see what the graph* ofy = x2 Œ 3x Œ 4 looks like. Let us list  a few values of y = x2 Œ 3x Œ 4 corresponding toa few values for x as given in Table 2.1.
+*Plotting of graphs of quadratic or cubic polynomials is not meant to be done by the students,nor is to be evaluated.Fig. 2.1
+POLYNOMIALS
+23File Name : C:\Computer Station\Class - X (Maths)/Final/Chap-2/ChapŒ2(8th Nov).pmdTable 2.1
+xŒ 2Œ1012345
+y = x2 Œ 3x Œ 460Œ 4Œ 6Œ 6Œ 406
+If we locate the points listedabove on a graph paper and drawthe graph, it will actually look likethe one given in Fig. 2.2.In fact, for any quadraticpolynomial ax2 + bx + c, a  0, thegraph of the correspondingequation y = ax2 + bx + c has oneof the two shapes either openupwards like  or opendownwards like  depending onwhether a > 0 or a < 0. (Thesecurves are called parabolas.)You can see from Table 2.1
+that Œ1 
+and 4 are zeroes of thequadratic polynomial. Also
+note from Fig. 2.2 that Œ1 and 4
+are the x-coordinates of the points
+where the graph of y = x2 Œ 3x Œ 4intersects the x-axis. Thus, the
+zeroes of the quadratic polynomialx2 Œ 3x Œ 4 are x-coordinates of
+the points where the graph of
+y = x2 Œ 3x Œ 4 intersects thex-axis.
+This fact is true for any quadratic polynomial, i.e., the zeroes of a quadraticpolynomial ax2 + bx + c, a  0, are precisely the x-coordinates of the points where the
+parabola representing  y = ax2 + bx + c intersects the x-axis.
+From our observation earlier about the shape of the graph of y = ax2 + bx + c, thefollowing three cases can happen:Fig. 2.2
+24M
+ATHEMA
+TICSFile Name : C:\Computer Station\Class - X (Maths)/Final/Chap-2/ChapŒ2(8th Nov).pmdCase (i) : Here, the graph cuts x-axis at two distinct points A and A.The x-coordinates of A and A are the two zeroes of the quadratic polynomialax2 + bx + c in this case (see Fig. 2.3).Fig. 2.3Case (ii) : Here, the graph cuts the x-axis at exactly one point, i.e., at two coincidentpoints. So, the two points A and A
+ of Case (i) coincide here to become one point A(see Fig. 2.4).Fig. 2.4The x-coordinate of A is the 
+only zero for the quadratic polynomial ax2 + bx + cin this case.
+POLYNOMIALS
+25File Name : C:\Computer Station\Class - X (Maths)/Final/Chap-2/ChapŒ2(8th Nov).pmdCase (iii) : Here, the graph is either completely above the x-axis or completely below
+the x-axis. So, it does not cut the 
+x-axis at any point (see Fig. 2.5).
+Fig. 2.5So, the quadratic polynomial ax2 + bx + c has no zero in this case.So, you can see geometrically that a quadratic polynomial can have either twodistinct zeroes or two equal zeroes (i.e., one zero), or no zero. This also means that apolynomial of degree 2 has atmost two zeroes.Now, what do you expect the geometrical meaning of the zeroes of a cubic
+polynomial to be? Let us find out. Consider the cubic polynomial x3 Œ 4x. To see what
+the graph of y = x3 Œ 4x looks like, let us list a few values of y corresponding to a fewvalues for x as shown in Table 2.2.
+Table 2.2
+xŒ2Œ1012
+y = x3 Œ 4x030Œ30
+Locating the points of the table on a graph paper and drawing the graph, we seethat the graph of y = x3 Œ 4x actually looks like the one given in Fig. 2.6.
+26M
+ATHEMA
+TICSFile Name : C:\Computer Station\Class - X (Maths)/Final/Chap-2/ChapŒ2(8th Nov).pmdWe see from the table above
+that Œ 2, 0 and 2 are zeroes of thecubic polynomial x3 Œ 4x. Observethat Œ2, 
+0 and 2 are, in fact, thex-coordinates of the only pointswhere the graph of y = x3 Œ 4xintersects the x-axis. Since the curve
+meets the x-axis in only these 3
+points, their x-coordinates are the
+only zeroes of the polynomial.Let us take a few moreexamples. Consider the cubic
+polynomials x3 and x3 Œ x2. We draw
+the graphs of y = x3 and y = x3 Œ x2in Fig. 2.7 and Fig. 2.8 respectively.
+Fig. 2.7Fig. 2.8
+Fig. 2.6
+POLYNOMIALS
+27File Name : C:\Computer Station\Class - X (Maths)/Final/Chap-2/ChapŒ2(8th Nov).pmdNote that 0 is the only zero of the polynomial x3. Also, from Fig. 2.7, you can seethat 0 is the x-coordinate of the only point where the graph of 
+y = x3 intersects thex-axis. Similarly, since 
+x3 Œ x2 = x2 (x Œ 1),  0 and 1 are the only zeroes of the polynomialx3 Œ x2. Also, from Fig. 2.8, these values are the x-coordinates of the only points
+where the graph of y = x3 Œ x2 intersects the x-axis.
+From the examples above, we see that there are at most 3 zeroes for any cubicpolynomial. In other words, any polynomial of degree 3 can have at most three zeroes.Remark : In general, given a polynomial p(x) of degree n, the graph of y = p(x)intersects the x-axis at atmost 
+n points. Therefore, a polynomial p(x) of degree n hasat most n zeroes.Example 1 : Look at the graphs in Fig. 2.9 given below. Each is the graph of y = p(x),where p(x) is a polynomial. For each of the graphs, find the number of zeroes of p(x).Fig. 2.9Solution :(i)The number of zeroes is 1 as the graph intersects the 
+x-axis at one point only.
+(ii)The number of zeroes is 2 as the graph intersects the x-axis at two points.
+(iii)The number of zeroes is 3. (Why?)
+28M
+ATHEMA
+TICSFile Name : C:\Computer Station\Class - X (Maths)/Final/Chap-2/ChapŒ2(8th Nov).pmd(iv)The number of zeroes is 1. (Why?)(v)The
+ number of zeroes is 1. (Why?)(vi)The number of zeroes is 4. (Why?)EXERCISE2.1
+1.The graphs of y = p(x) are given in Fig. 2.10 below, for some polynomials 
+p(x). Find thenumber of zeroes of p(x), in each case.Fig. 2.102.3Relationship between Zeroes and Coefficients of a Polynomial
+You have already seen that zero of a linear polynomial 
+ax + b is ba. We will now try
+to answer the question raised in Section 2.1 regarding the relationship between zeroesand coefficients of a quadratic polynomial. For this, let us take a quadratic polynomial,say p(x) = 2x2 Œ 8x + 6. In Class IX, you have learnt how to factorise quadraticpolynomials by splitting the middle term. So, here we need to split the middle term
+‚Œ 8x™ as a sum of two terms, whose product is 6 × 2x2 = 12x2. So, we write2x2 Œ 8x + 6 =2
+x2 Œ 6x Œ 2x + 6 = 2x(x Œ 3) Œ 2(x Œ 3)=(2
+x Œ 2)(x Œ 3) = 2(x Œ 1)(x Œ 3)
+POLYNOMIALS
+29File Name : C:\Computer Station\Class - X (Maths)/Final/Chap-2/ChapŒ2(8th Nov).pmdSo, the value of p(x) = 2x2 Œ 8x + 6 is zero when x Œ 1 = 0 or x Œ 3 = 0, i.e., whenx = 1 or x = 3. So, the zeroes of 2x2 Œ 8x + 6 are 1 and 3. Observe that :Sum of its zeroes=2(8)(Coefficientof)
+134
+2Coefficientof
+xx
+
+Product of its zeroes=
+26Constantterm
+133
+2Coefficientof
+x
+Let us take one more quadratic polynomial, say, 
+p(x) = 3x2 + 5x Œ 2. By themethod of splitting the middle term,3x2 + 5x Œ 2 =3
+x2 + 6x Œ x Œ 2 = 3x(x + 2) Œ1(x + 2)=(3
+x Œ 1)(x + 2)Hence, the value of 3x2 + 5x Œ 2 is zero when either 3x Œ 1 = 0 or x + 2 = 0, i.e.,when x = 13 or x = Œ2. So, the zeroes of 3x2 + 5x Œ 2 are 1
+3 and Œ 2. Observe that :Sum of its zeroes=
+215(Coefficientof)
+(2)
+33Coefficientof
+xx
+Product of its zeroes=
+212Constantterm
+(2)
+33Coefficientof
+x
+In general, if * and * are the zeroes of the quadratic polynomial p(x) = ax2 + bx + c,a  0, then you know that x Œ  and x Œ  are the factors of p(x). Therefore,ax2 + bx + c =k(x Œ ) (x Œ ), where k is a constant=k[x2 Œ ( + )x + ]=kx2 Œ k( + )x + k Comparing the coefficients of x2, x and constant terms on both the sides, we geta = k, b =Œ 
+k( + ) and c = kThis gives +  =Œba,  =ca*,are Greek letters pronounced as ‚alpha™ and ‚beta™
+ respectively. We 
+will use later onemore letter ‚™ pronounced as ‚gamma™.
+30M
+ATHEMA
+TICSFile Name : C:\Computer Station\Class - X (Maths)/Final/Chap-2/ChapŒ2(8th Nov).pmdi.e.,sum 
+of zeroes =  +  = 2(Coefficientof)
+Coefficientof
+bxax,product of zeroes =  =2Constantterm
+Coefficientof
+cax.Let us consider some examples.Example 2 : Find the zeroes of the quadratic polynomial x2 + 7x + 10, and verify therelationship between the zeroes and the coefficients.Solution : We have
+x2 + 7x + 10 = (x + 2)(x + 5)So, the value of x2 + 7x + 10 is zero when x + 2 = 0 or x + 5 = 0, i.e., when x = Œ 2 orx = Œ5. Therefore, the zeroes of x2 + 7x + 10 are Œ 2 and Œ 5. Now,
+sum of zeroes =2(7)Œ(Coefficientof)
+,Œ2(Œ5)Œ(7)
+1Coefficientof
+xx
+product of zeroes =210Constantterm
+(2)(5)10
+1Coefficientof
+x
+Example 3 : Find the zeroes of the polynomial x2 Œ 3 and verify the relationshipbetween the zeroes and the coefficients.Solution : Recall the identity a2 Œ b2 = (a Œ b)(a + b). Using it, we can write:x2 Œ 3 =33xxSo, the value of x2 Œ 3 is zero when x = 3 or x = Œ3Therefore, the zeroes of x2 Œ 3 are 3 and 3Now,
+sum of zeroes =2(Coefficientof)
+,330
+Coefficientof
+xx
+product of zeroes =23Constantterm
+33Œ3
+1Coefficientof
+x
+
+POLYNOMIALS
+31File Name : C:\Computer Station\Class - X (Maths)/Final/Chap-2/ChapŒ2(8th Nov).pmdExample 4 : Find a quadratic polynomial, the sum and product of whose zeroes areŒ3 and 2, respectively.
+Solution : Let the quadratic polynomial be ax2 + bx + c, and its zeroes be  and .We have
+ +  =Œ 3 = 
+ba,and =2 = 
+ca.If a = 1, then b = 3 and c = 2.So, one quadratic polynomial which fits the given conditions is x2 + 3x + 2.You can check that any other quadratic polynomial that fits these conditions will
+be of the form k(x2 + 3x + 2), where k is real.Let us now look at cubic polynomials. Do you think a similar relation holdsbetween the zeroes of a cubic polynomial and its coefficients?Let us consider p(x) = 2x3 Œ 5x2 Œ 14x + 8.You can check that 
+p(x) = 0 for x = 4, Œ 2, 1
+2 Since p(x) can have atmost threezeroes, these are the zeores of 2x3 Œ 5x2 Œ 14x + 8. Now,
+sum of the zeroes =2315(5)(Coefficientof)
+4(2)
+222Coefficientof
+xx
+
+,product of the zeroes =318ŒConstantterm
+4(2)4
+22Coefficientof
+x
+.However, 
+there is one more relationship here. Consider the sum of the productsof the zeroes taken two at a time. We have
+114(2)(2)4
+22
+
+
+
+=14Œ8127
+2
+ = 3Coefficientof
+Coefficientof
+xx.In general, it can be proved that if , ,  are the zeroes of the cubic polynomialax3 + bx2 + cx + d, then
+32M
+ATHEMA
+TICSFile Name : C:\Computer Station\Class - X (Maths)/Final/Chap-2/ChapŒ2(8th Nov).pmd +  +  =Œba, +  +  =ca, =Œda.Let us consider an example.Example 5* : Verify that 3, Œ1, 
+13 are the zeroes of the cubic polynomialp(x) = 3x3 Œ 5x2 Œ 11
+x Œ 3, and then verify the relationship between the zeroes and thecoefficients.Solution : Comparing the given polynomial with ax3 + bx2 + cx + d, we geta = 3, b = Œ 5, c = Œ11, 
+d = Œ 3. Furtherp(3) = 3 × 33 Œ (5 × 32) Œ (11 × 3) Œ 3 = 81 Œ 45 Œ 33 Œ 3 = 0,p(Œ1) = 3 × (Œ1)3 Œ 5 × (Œ1)2 Œ 11 × (Œ1) Œ 3 = Œ3 Œ 5 + 11 Œ 3 = 0,
+321111
+35113
+3333
+p
+
+
+
+,            = 
+151122
+Œ3Œ0
+99333
+
+Therefore, 3, Œ1 and 13 are the zeroes of 3x3 Œ 5x2 Œ 11
+x Œ 3.So, we take  = 3,  = Œ1 and  = 1
+3Now,
+115(5)
+3(1)2
+3333
+ba
+
+,11111
+3(1)(1)331
+3333
+ca
+
+
+
+,1(3)
+3(1)1
+33da
+
+
+.*Not from the examination point of view.
+
+POLYNOMIALS
+33File Name : C:\Computer Station\Class - X (Maths)/Final/Chap-2/ChapŒ2(8th Nov).pmdEXERCISE2.2
+1.Find the zeroes of the following quadratic polynomials and verify the relationship betweenthe zeroes and the coefficients.(i)x2 Œ 2x Œ 8(ii)4
+s2 Œ 4s + 1(iii)6
+x2 Œ 3 Œ 7x(iv)4
+u2 + 8u(v)t2 Œ 15(vi)3
+x2 Œ x Œ 42.Find a quadratic polynomial each with the given numbers as the sum and product of itszeroes respectively.
+(i)1,14(ii)12,3(iii)0,5
+(iv)1, 1(v)
+11,44(vi)4, 1
+2.4Division Algorithm for Polynomials
+You know that a cubic polynomial has at most three zeroes. However, if you are given
+only one zero, can you find the other two? For this, let us consider the cubic polynomialx3 Œ 3x2 Œ x + 3. If we tell you that one of its zeroes is 1, then you know that x Œ 1 isa factor of x3 Œ 3x2 Œ x + 3. So, you can divide x3 Œ 3x2 Œ x + 3 by x Œ 1, as you havelearnt in Class IX, to get the quotient x2 Œ 2x Œ 3.Next, you could get the factors of x2 Œ 2x Œ 3, by splitting the middle term, as(x + 1)(x Œ 3). This would give youx3 Œ 3x2 Œ x + 3 =(
+x Œ 1)(x2 Œ 2x Œ 3)=(x Œ 1)(x + 1)(x Œ 3)So, all the three zeroes of the cubic polynomial are now known to you as1, Œ 1, 3.Let us discuss the method of dividing one polynomial by another in some detail.Before noting the steps formally, consider an example.Example 6 : Divide 2x2 + 3x + 1 by x + 2.Solution : Note that we stop the division process wheneither the remainder is zero or its degree is less than the
+degree of the divisor. So, here the quotient is 2x Œ 1 andthe remainder is 3. Also,(2x Œ 1)(x + 2) + 3 = 2x2 + 3x Œ 2 + 3 = 2x2 + 3x + 1i.e.,2
+x2 + 3x + 1 = (x + 2)(2x Œ 1) + 3Therefore, Dividend = Divisor × Quotient + RemainderLet us now extend this process to divide a polynomial by a quadratic polynomial.x + 22 + 3+ 1
+xx 
+22 + 4
+xx22 1x Œ
+34M
+ATHEMA
+TICSFile Name : C:\Computer Station\Class - X (Maths)/Final/Chap-2/ChapŒ2(8th Nov).pmdExample 7 : Divide 3x3 + x2 + 2x + 5 by 1 + 2x + x2.Solution : We first arrange the terms of the
+dividend and the divisor in the decreasing orderof their degrees. Recall that arranging the termsin this order is called writing the polynomials instandard form. In this example, the dividend isalready in standard form, and the divisor, in
+standard form, is x2 + 2x + 1.Step 1 :
+ To obtain the first term of the quotient, divide the highest degree term of the
+dividend (i.e., 3x3) by the highest degree term of the divisor (i.e., x2). This is 3x. Thencarry out the division process. What remains is Œ5
+x2 Œ x + 5.Step 2 :
+ Now, to obtain the second term of the quotient, divide the highest degree term
+of the new dividend (i.e., Œ5x2) by the highest degree term of the divisor (i.e., x2). Thisgives Œ5. Again carry out the division process with Œ5
+x2 Œ x + 5.Step 3 :
+ What remains is 9x + 10. Now, the degree of 9
+x + 10 is less than the degreeof the divisor x2 + 2x + 1. So, we cannot continue the division any further.
+So, the quotient is 3x Œ 5 and the remainder is 9x + 10. Also,(x2 + 2x + 1) × (3x Œ 5) + (9x + 10) =3
+x3 + 6x2 + 3x Œ 5x2 Œ 10x Œ 5 + 9x + 10=3x3 + x2 + 2x + 5Here again, we see thatDividend =Divisor × Quotient + RemainderWhat we are applying here is an algorithm which is similar to Euclid™s division
+algorithm that you studied in Chapter 1.This says thatIf p(x) and g(x) are any two polynomials with g(x)  0, then we can findpolynomials q(x) and r(x) such thatp(x) =g(x) × q(x) + r(x),where r(x) = 0 or degree of r(x) < degree of g(x).This result is known as the Division Algorithm for polynomials.Let us now take some examples to illustrate its use.Example 8 : Divide 3x2 Œ x3 Œ 3x + 5 by x Œ 1 Œ x2, and verify the division algorithm.x2 + 2+ 1
+x 3x Œ 53 + 6
+xx3x2 +3ŒŒŒŒ5 Œ 
+x2x + 5Œ5 Œ 10
+x2x Œ 5+++9x + 10
+
+POLYNOMIALS
+35File Name : C:\Computer Station\Class - X (Maths)/Final/Chap-2/ChapŒ2(8th Nov).pmdSolution : Note that the given polynomialsare not in standard form. To carry out
+division, we first write both the dividend and
+divisor in decreasing orders of their degrees.So, dividend = Œx3 + 3x2 Œ 3x + 5 anddivisor = Œx2 + x Œ 1.Division process is shown on the right side.We stop here since degree (3) = 0 < 2 = degree (Œ
+x2 + x Œ 1).So, quotient = x Œ 2, remainder = 3.Now,
+Divisor × Quotient +Remainder
+=(Œ
+x2 + x Œ 1) (x Œ 2) + 3=Œx3 + x2 Œ x + 2x2 Œ 2x + 2 + 3=Œx3 + 3x2 Œ 3x + 5=Dividend
+In this way, the division algorithm is verified.
+Example 9 : Find all the zeroes of 2
+x4 Œ 3x3 Œ 3x2 + 6x Œ 2, if you know that two ofits zeroes are 2 and 2.Solution : Since two zeroes are 2 and 2, 22xx = x2 Œ 2 is afactor of the given polynomial. Now, we divide the given polynomial by 
+x2 Œ 2.Œxx
+2 +  Œ 1
+Œ  + 3 5
+xx +
+3x2 Œ 3x Œ 2
+2 Œ 2 + 5
+xx23Œ  +   
+xx3x2 Œ   
++     Œ       +
+2 Œ 2 + 2
+xx2Œ      +       Œ
+x2 Œ 22Œ3Œ32
+xxxŒ
+43x2 +62 Œ 3 + 1
+xx22          
+x4x2Œ3 +  + 6 Œ 2
+xx3x2x2         Œ 2
+Œ3        
+x3x2         Œ 2
+0ŒŒ 4+++ 6xŒŒ+First term of quotient is 42222xxxSecond term of quotient is 3233xxxThird term of quotient is 221xx
+36M
+ATHEMA
+TICSFile Name : C:\Computer Station\Class - X (Maths)/Final/Chap-2/ChapŒ2(8th Nov).pmdSo, 2x4 Œ 3x3 Œ 3x2 + 6x Œ 2 = (x2 Œ 2)(2x2 Œ 3x + 1).Now, by splitting Œ3
+x, we factorise 2x2 Œ 3x + 1 as (2x Œ 1)(x Œ 1). So, its zeroesare given by x = 12 and x = 1. Therefore, the zeroes of the given polynomial are1,2,2,and1.
+2EXERCISE2.3
+1.Divide the polynomial p(x) by the polynomial g(x) and find the quotient and remainderin each of the following :(i)p(x) = x3 Œ 3x2 + 5x Œ 3,g(x) = x2 Œ 2(ii)p(x) = x4 Œ 3x2 + 4x + 5,  g(x) = x2 + 1 Œ x(iii)p(x) = x4 Œ 5x + 6,g(x) = 2 Œ x22.Check whether the first polynomial is a factor of the second polynomial by dividing thesecond polynomial by the first polynomial:(i)t2 Œ 3, 2t4 + 3t3 Œ 2t2 Œ 9t Œ 12(ii)x2 + 3x + 1, 3x4 + 5x3 Œ 7x2 + 2x + 2(iii)x3 Œ 3x + 1, x5 Œ 4x3 + x2 + 3x + 13.Obtain all other zeroes of 3x4 + 6x3 Œ 2x2 Œ 10x Œ 5, if two of its zeroes are 55andŒ
+334.On dividing x3 Œ 3x2 + x + 2 by a polynomial g(x), the quotient and remainder were x Œ 2and Œ2x + 4, respectively. Find 
+g(x).5.Give examples of polynomials p(x), g(x), q(x) and r(x), which satisfy the division algorithmand(i)deg 
+p(x) = deg q(x)(ii)
+deg q(x) = deg r(x)(iii)
+deg r(x) = 0EXERCISE2.4
+(Optional)*
+1.Verify that the numbers given alongside of the cubic polynomials below are their zeroes.
+
+Also verify the relationship between the zeroes and the coefficients in each case:(i)2
+x3 + x2 Œ 5x + 2;1,1,Œ2
+2(ii)x3 Œ 4x2 + 5x Œ 2;2, 1, 1
+2.Find a cubic polynomial with the sum, sum of the product of its zeroes taken two at atime, and the product of its zeroes as 2, Œ7, Œ14 respectively.
+*These exercises are not from the examination point of view.
+POLYNOMIALS
+37File Name : C:\Computer Station\Class - X (Maths)/Final/Chap-2/ChapŒ2(8th Nov).pmd3.If the zeroes of the polynomial x3 Œ 3x2 + x + 1 are a Œ b, a, a + b, find a and b.4.If two zeroes of the polynomial x4 Œ 6x3 Œ 26x2 + 138x Œ 35 are 23,
+ find other zeroes.5.If the polynomial x4 Œ 6x3 + 16x2 Œ 25x + 10 is divided by another polynomial x2 Œ 2x + k,the remainder comes out to be x + a, find k and a.2.5Summary
+In this chapter, you have studied the following points:1.Polynomials of degrees 1, 2 and 3 are called linear, quadratic and cubic polynomials
+respectively.
+2.A quadratic polynomial in x with real coefficients is of the form ax2 + bx + c, where a, b, care real numbers with a  0.3.The zeroes of a polynomial p(x) are precisely the x-coordinates of the points, where the
+graph of y = p(x) intersects the x-axis.
+4.A quadratic polynomial can have at most 2 zeroes and a cubic polynomial can haveat most 3 zeroes.5.If  and  are the zeroes of the quadratic polynomial ax2 + bx + c, thenba,c
+a.6.If , ,  are the zeroes of the cubic polynomial ax3 + bx2 + cx + d, thenba
+,c
+a,andda
+.7.The division algorithm states that given any polynomial p(x) and any non-zeropolynomial g(x), there are polynomials q(x) and r(x) such thatp(x) =g(x) q(x) + r(x),wherer(x) =0ordegree 
+r(x) < degree g(x).

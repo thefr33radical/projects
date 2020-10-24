@@ -1,0 +1,141 @@
+CHAPTER FIVELAWS OF MOTION5.1  INTRODUCTIONIn the preceding Chapter, our concern was to describe themotion of a particle in space quantitatively. We saw that
+uniform motion needs the concept of velocity alone whereasnon-uniform motion requires the concept of acceleration inaddition.  So far, we have not asked the question as to what
+governs the motion of bodies. In this chapter, we turn to this
+basic question.Let us first guess the answer based on our commonexperience. To move a football at rest, someone must kick it.To throw a stone upwards, one has to  give it an upward
+push.  A breeze causes the branches of a tree to swing; a
+strong wind can even move heavy objects. A boat moves in a
+flowing river without anyone rowing it. Clearly, some external
+agency is needed to provide force to move a body from rest.Likewise, an external force is needed also to retard or stopmotion.  You can stop a ball rolling down an inclined plane by
+applying a force against the direction of its motion.In these examples, the external agency of force (hands,wind, stream, etc) is in contact with the object. This is not
+always necessary. A stone released from the top of a building
+accelerates downward due to the gravitational pull of the
+earth.  A bar magnet can attract an iron nail from a distance.
+This shows that external agencies (e.g. gravitational and
+magnetic forces )  can exert  force on a body even from a
+distance.In short, a force is required to put a stationary body inmotion or stop a moving body, and some external agency isneeded to provide this force. The external agency may or may
+
+not be in contact with the body.So far so good. But what if a body is moving uniformly (e.g.a skater moving straight with constant speed on a horizontal
+ice slab) ?  Is an external force required to keep a body inuniform motion?5.1Introduction5.2Aristotle™s fallacy5.3The law of inertia5.4Newton™s first law of motion5.5Newton™s second law ofmotion5.6Newton™s third law of motion5.7Conservation of momentum5.8Equilibrium of a particle5.9Common forces in mechanics5.10Circular motion5.11Solving problems in
+mechanicsSummaryPoints to ponderExercises
+Additional exercises
+PHYSICS905.2  ARISTOTLE™S  FALLACYThe question posed above appears to be simple.However, it took ages to answer it. Indeed, the
+correct answer to this question given by Galileoin the seventeenth century was the foundationof Newtonian mechanics, which signalled the
+birth of modern science.The Greek thinker, Aristotle (384 B.CŒ 322
+B.C.), held the view that if a body is moving,something external is required to keep it moving.
+According to this view, for example, an arrow
+shot from a bow keeps flying since the air behind
+the arrow keeps pushing it. The view was part of
+an elaborate framework of ideas developed by
+Aristotle on the motion of bodies in the universe.Most of the Aristotelian ideas on motion are nowknown to be wrong and need not concern us.
+For our purpose here, the Aristotelian law of
+motion may be phrased thus: An external forceis required  to keep a body in motion.Aristotelian law of motion is flawed, as we shallsee.  However, it is a natural view that anyone
+would hold from common experience. Even a
+small child playing with a simple (non-electric)
+toy-car on a floor knows intuitively that it needs
+to constantly drag the string attached to the toy-
+car with some force to keep it going.  If it releases
+the string, it comes to rest. This experience iscommon to most terrestrial motion. External
+forces seem to be needed to keep bodies in
+motion. Left to themselves, all bodies eventually
+come to rest.What is the flaw in Aristotle™s argument? Theanswer is: a moving toy car comes to rest because
+the external force of friction on the car by the floor
+opposes its motion. To counter this force, the child
+has to apply an external force on the car in the
+direction of motion.  When the car is in uniform
+motion, there is no net external force acting on it:
+the force by the child cancels the force ( friction)
+
+by the floor.  The corollary is: if there were no friction,
+the child would not be required to 
+apply any forceto keep the toy car in uniform motion.The opposing forces such as friction (solids)and viscous forces (for fluids) are always present
+in the natural world.  This explains why forces
+by external agencies are necessary to overcome
+the frictional forces to keep bodies in uniform
+motion. Now we understand  where Aristotle
+went wrong.  He coded this practical experience
+in the form of a basic argument.  To get at thetrue law of nature for forces and motion, one hasto imagine a world in which uniform motion is
+possible with no frictional forces opposing. Thisis what Galileo did.5.3  THE LAW OF INERTIAGalileo studied motion of objects on an inclinedplane.  Objects (i) moving down an inclined plane
+accelerate, while those (ii) moving up retard.(iii) 
+Motion on a horizontal
+ plane  is an
+intermediate situation.  Galileo concluded thatan object moving on a frictionless horizontal
+plane must neither have acceleration nor
+retardation, i.e. it should move with constantvelocity (Fig. 5.1(a)).(i)(ii)(iii)
+Fig. 5.1(a)Another experiment by Galileo leading to the
+same conclusion involves a double inclined plane.A ball released from rest on one of the planes rollsdown and climbs up the other. If the planes aresmooth, the 
+final height of the ball is nearly the
+same as the initial height (a little less but nevergreater). In the ideal situation, when friction isabsent, the final height of the ball is the sameas its initial height.If the slope of the second plane is decreasedand the experiment repeated, the ball will stillreach the same height, but in doing so, it will
+travel a longer distance.  In the limiting case, whenthe slope of the second plane is zero (i.e. is ahorizontal) the ball travels an infinite distance.In other words, its motion never ceases. This is,
+of course, an idealised situation (Fig. 5.1(b)).Fig. 5.1(b)The law of inertia was inferred by Galileofrom observations of motion of a ball on adouble inclined plane.
+LAWS OF MOTION91In practice, the ball does come to a stop aftermoving a 
+finite distance on the horizontal plane,because of the opposing force of friction whichcan never be totally 
+eliminated.  However, if therewere no friction, the ball would continue  to movewith a constant velocity on the horizontal plane.
+Galileo thus, arrived at a new insight onmotion that had eluded Aristotle and those whofollowed him.  The state of rest and the state of
+uniform linear motion (motion with constant
+velocity) are equivalent. In both cases, there isno net force acting on the body.  It is incorrect toassume that a net force is needed to keep a body
+in uniform motion. To maintain a body in
+uniform motion, we need to apply an external
+force to ecounter the frictional force, so that
+the two forces sum up to zero net external
+force.To summarise, if the net external force is zero,a body at rest continues to remain at rest and a
+body in motion continues to move with a uniform
+velocity.  This property of the body is called
+inertia. Inertia means ‚resistance to  change™.A body does not change its state of rest or
+uniform motion, unless an external force
+compels it to change that state.5.4  NEWTON™S FIRST LAW OF MOTIONGalileo™s simple, but revolutionary ideasdethroned Aristotelian mechanics. A new
+mechanics had to be developed. This task wasIdeas on Motion in Ancient Indian ScienceAncient Indian thinkers had arrived at an elaborate system of ideas on motion. Force, the cause ofmotion, was thought to be of different kinds : force due to continuous pressure (nodan), as the forceof wind on a sailing vessel; impact (abhighat), as when a potter™s rod strikes the wheel; persistenttendency (sanskara) to move in a straight line(vega) or restoration of shape in an elastic body;
+transmitted force by a string, rod, etc. The notion of (vega) in the Vaisesika theory of motion perhapscomes closest to the concept of inertia.  Vega, the tendency to move in a straight line, was thought to
+be opposed by contact with objects including atmosphere, a parallel to the ideas of friction and airresistance.  It was correctly summarised that the different kinds of motion (translational, rotationaland vibrational) of an extended body arise from only the translational motion of its constituent
+particles. A falling leaf in the wind may have downward motion as a whole (patan) and also rotational
+and vibrational motion (bhraman, spandan), but each particle of the leaf at an instant only has a
+definite (small) displacement. There was considerable focus in Indian thought on measurement ofmotion and units of length and time.  It was known that the position of a particle in space can beindicated by distance measured along three axes.  Bhaskara (1150 A.D.) had introduced the concept
+of ‚instantaneous motion™ (tatkaliki gati), which anticipated the modern notion of instantaneousvelocity using Differential Calculus. The difference between a wave and a current (of water) was clearly
+understood; a current is a motion of particles of water under gravity and fluidity while a wave resultsfrom the transmission of vibrations of water particles.accomplished almost single-handedly by IsaacNewton, one of the greatest scientists of all times.Newton built on Galileo™s ideas and laid thefoundation of mechanics in terms of three lawsof  motion that go by his name.  Galileo™s law of
+inertia was his starting point which he
+formulated as the first law of motion:Every body continues to be in its stateof rest or of uniform motion in a straight
+line unless compelled by some external
+force to act otherwise.The state of rest or uniform linear motion bothimply zero acceleration. The first law of motion  can,
+therefore, be simply expressed as:
+If the net external force on a body is zero, its
+acceleration is zero.  Acceleration can be non
+zero only if there is a net external force on
+the body.Two kinds of situations are encountered in theapplication of this law in practice. In some
+examples, we know that the net external force
+on the object is zero. In that case we canconclude that the acceleration of the object iszero.  For example, a spaceship out in
+interstellar space, far from all other 
+objects andwith all its rockets turned off, has no net
+external force acting on it.  Its acceleration,
+
+according to the f
+irst law, must be zero.  If it isin motion, it must continue to move with a
+
+uniform velocity.
+PHYSICS92More often, however, we do not know all theforces to begin with.  In that case, if we knowthat an object is unaccelerated (i.e. it is eitherat rest or in uniform linear motion), we can inferfrom the first law that the net external force on
+the object must be zero. Gravity is everywhere.For terrestrial phenomena, in particular, everyobject experiences gravitational force due to the
+earth.  Also objects in motion generally experiencefriction, viscous drag, etc. If then, on earth, an
+object is at rest or in uniform linear motion, it is
+not because there are no forces acting on it, but
+because the various external forces cancel outi.e. add up to zero net external force.Consider a book at rest on a horizontal surfaceFig. (5.2(a)).  It is 
+subject to two external forces :
+the force due to gravity (i.e. its weight W) acting
+downward and the upward force on the book bythe table, the normal force R. R is a self-adjustingforce. This is an example of the kind of situation
+mentioned above. The forces are not quite known
+fully but the state of motion is known. We observe
+the book to be at rest.  Therefore, we conclude
+from the f
+irst law 
+that the magnitude of R equalsthat of W. A statement often encountered is :
+ﬁSince W = R, forces cancel and, therefore, the bookis at restﬂ. This is incorrect reasoning. The correct
+statement is : ﬁSince the book is observed to be at
+rest, the net external force on it must be zero,
+according to the first law. This implies that the
+Galileo Galilei, born in Pisa, Italy in 1564 was a key figure in the scientific revolutionin Europe about four centuries ago.  Galileo proposed the concept of acceleration.
+From experiments on motion of bodies on inclined planes or falling freely, hecontradicted the Aristotelian notion that a force was required to keep a body inmotion, and that heavier bodies fall faster than lighter bodies under gravity.  Hethus arrived at the law of inertia that was the starting point of the subsequent
+epochal work of Isaac Newton.Galileo™s discoveries in astronomy were equally revolutionary.  In 1609, he designedhis own telescope (invented earlier in Holland) and used it to make a number ofstartling  observations :  mountains  and depressions on  the  surface of the moon;
+dark spots on the sun; the moons of Jupiter and the phases of Venus.  He concluded
+that the Milky Way derived its luminosity because of a large number of stars not visible to the naked eye.
+In his masterpiece of scientific reasoning : Dialogue on the Two Chief World Systems, Galileo advocatedthe heliocentric theory of the solar system proposed by Copernicus, which eventually got universalacceptance.With Galileo came a turning point in the very method of scientific inquiry. Science was no longermerely observations of nature and inferences from them. Science meant devising and doing experiments
+to verify or refute theories. Science meant measurement of quantities and a search for mathematical
+relations between them. Not undeservedly, many regard Galileo as the father of modern science.normal force R  must be equal and opposite to the
+weight 
+Wﬂ.Fig. 5.2(a) a book at rest on the table, and (b) a carmoving with uniform velocity. The net forceis zero in each case.Consider the motion of a car starting fromrest, picking up speed and then moving on asmooth straight road with uniform speed (Fig.(5.2(b)).  When the car is stationary, there is nonet force acting on it. During pick-up, itaccelerates. This must happen due to a netexternal force. Note, it has to be an external force.The acceleration of the car cannot be accountedfor by any internal force.  This might soundsurprising, but it is true.  The only conceivableexternal force along the road is the force offriction.  It is the frictional force that acceleratesthe car as a whole.  (You will learn about frictionin section 5.9).  When the car moves withconstant velocity, there is no net external force.Galileo Galilei (1564 - 1642)

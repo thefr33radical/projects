@@ -1,0 +1,79 @@
+1Introduction to Maps
+Chapter 1Introduction to Maps
+You may be familiar with
+maps that you have seen inmost of your books of social
+sciences representing the
+earth or any of its parts.You may also know that the
+
+shape of the earth is geoid(three-dimensional) and a
+globe can best represent it
+
+(Fig. 1.1). A map, on the
+other hand, is a simplifieddepiction of whole or partof the earth on a piece of
+paper. In other words, it is
+a two-dimensional form of
+the three-dimensional
+
+earth. Hence, a map can bedrawn using a system ofmap projections (see
+Chapter 4). As it is impossible to represent all features of the earth™s
+surface in their true size and form, a map is drawn at a reduced
+scale. Imagine your school campus. If a plan/map of your school is
+to be drawn in its actual size, it will be as large as the campus itself.Hence, maps are drawn at a scale and projection so that each point
+on the paper corresponds to the actual ground position. Besides,
+
+the representation of different features is also simplified using
+symbols, colours and shades. A map is, therefore, defined as
+selective, symbolised and generalised representation of whole or a
+Figure 1.1 India as it is seen on the globe
+
+2Practical Work in Geography
+GlossaryCadastral Map :  A large-scale map drawn at a scale of 1 : 500 to 1 : 4000 to show property
+boundaries, designating each parcel of land with a number.
+Cardinal Points :
+ North (N), South (S), East (E) and West (W).
+Cartography :  Art, science and technology of making maps, charts, plans and other modes
+of graphical expression as well as their study and use.Generalisation-Map :  A simplified representation of the features on the map, appropriate
+to its scale or purpose, without affecting their visual form.
+Geoid : An oblate spheroid whose shape resembles the actual shape of the Earth.
+Map : A selective, symbolised and generalised representation of the whole or part of the
+earth at a reduced scale.
+Map series :  A group of maps produced at same scale, style and specifications for a country
+or a region.
+
+Projection-Map :  The system of the transformation of the spherical surface onto a plane
+surface.
+Scale : The ratio between the distances of two points on the map, plan or photograph andthe actual distance between the same two points on the ground.
+Sketch Map : A simplified map drawn freehand which fails to preserve the true scale or
+orientation.Figure 1.2   Sketch of the Environs of Delhi (Left) and a Map of Delhi  (Right)
+
+3Introduction to Maps
+part of the earth's surface on a plane surface at a reduced scale. It may
+also be understood that a simple network of lines and polygons withouta scale shall not be called a map. It is only referred to as ﬁthe sketchﬂ
+(Fig. 1.2).  In the present chapter, we will study the essential requirements
+
+of maps, their types and the uses.ESSENTIALS OF MAP MAKINGIn view of the variety of maps, we may find it difficult to summarise
+
+what they all have in common. Cartography, being an art and science of
+map-making, does include a series of processes that are common to all
+the maps. These processes that may also be referred to as essentials of
+maps are :
+ScaleMap Projection
+Map GeneralisationMap DesignMap Construction and  Production
+Scale:  We know that all maps are reductions. The first decision that a
+map-maker has to take is about the scale of the map. The choice of scaleis of utmost importance. The scale of a map sets limits of information
+contents and the degree of reality with which it can be delineated on the
+map. For example, figure 1.3 provides a comparison between maps having
+
+different scales and the improvements made thereupon with the change
+in scale.Projection:  We also know that maps are a simplified representation
+of the three-dimensional surface of the earth on a plane sheet of paper.
+The transformation of  all-side-curved-geoidal surface into a plane surface
+is another important aspect of the cartographic process. We should know
+that such a radical transformation introduces some unavoidable changes
+
+in directions, distances, areas and shapes from the way they appear on
+a geoid. A system of transformation of the spherical surface to the plane
+surface is called a map projection. Hence, the choice, utilisation and
+
+construction of projections is of prime importance in map-making.
+

@@ -1,0 +1,102 @@
+Exemplar ProblemsŒPhysics90MCQ I13.1A cubic vessel (with faces horizontal + vertical) contains an idealgas at NTP. The vessel is being carried by a rocket which is moving
+at a speed of 500m sŒ1 in vertical direction. The pressure of the
+gas inside the vessel as observed by us on the ground(a)remains the same because 
+1500ms
+ is very much smallerthan vrms of the gas.(b)remains the same because motion of the vessel as a whole
+does not affect the relative motion of the gas molecules andthe walls.(c)will increase by a factor equal to 
+222/(500)
+rms
+rms
+vv wherevrms was the original mean square  velocity of the gas.(d)will be different on the top wall and bottom wall of the vessel.
+13.21 mole of an ideal gas is contained in a cubical volume V,ABCDEFGH at 300 K (Fig. 13.1). One face of the cube (EFGH) ismade up of a material which totally absorbs any gas moleculeChapterThirteen
+KINETIC THEORY
+Kinetic Theory91incident on it. At any given time,(a)the pressure on EFGH would be zero.
+(b)the pressure on all the faces will the equal.
+
+(c)the pressure of EFGH would be double the pressure
+on ABCD.(d)the pressure on EFGH would be half that on ABCD.
+13.3Boyle™s law is applicable for an(a)adiabatic process.
+(b)isothermal process.
+(c)isobaric process.
+(d)isochoric process.
+13.4A cylinder containing an ideal gas is in vertical position and hasa piston of mass M that is able to move up or down without friction(Fig. 13.2). If the temperature is increased,Fig. 13.1Fig. 13.2Fig.13.310100200300400
+500203040VT(K)()lP2P1(a)both 
+p and V of the gas will change.(b)only 
+p will increase according to Charle™s law.(c)V will change but not p.(d)p will change but not V.13.5Volume versus temperature graphs for a given mass of an
+ideal gas are shown in Fig. 13.3 at two different values ofconstant pressure. What can be inferred about relationbetween P1 & P2?(a)P1 > P2(b)P1 = P2(c)P1 < P2(d)data is insufficient.
+
+Exemplar ProblemsŒPhysics9213.61 mole of H2 gas is contained in a box of volume V = 1.00 m3 atT = 300K. The gas is heated to a temperature of T = 3000K andthe gas gets converted to a gas of hydrogen atoms. The finalpressure would be (considering all gases to be ideal)(a)same as the pressure initially.
+(b)2 times the pressure initially.
+
+(c)10 times the pressure initially.
+
+(d)20 times the pressure initially.
+13.7 
+A vessel of volume V contains a mixture of 1 mole of Hydrogenand 1 mole of Oxygen (both considered as ideal). Let f1(v)dv, denotethe fraction of molecules with speed between v and (v + dv) withf2 (v)dv, similarly for oxygen. Then(a)12()()()
+fvfvfv obeys the Maxwell™s distribution law.
+(b)f1 (
+v), f2 (v) will obey the Maxwell™s distribution law separately.(c)Neither 
+f1 (v), nor f2 (v) will obey the Maxwell™s distributionlaw.(d)f2 (v)  and f1 (v) will be the same.13.8An inflated rubber balloon contains one mole of an ideal gas,has a pressure p, volume V and temperature T. If the temperaturerises to 1.1 T, and the volume is increaset to 1.05 V,  the finalpressure will be(a)1.1 
+p(b)p(c)less than 
+p(d)between 
+p and 1.1.MCQ II13.9ABCDEFGH is a hollow cube made of an insulator (Fig. 13.4).Face ABCD has positve charge on it. Inside the cube, we have
+ionized hydrogen.The usual kinetic theory expression for pressure(a)will be valid.
+(b)will not be valid since the ions would experience forces other
+than due to collisions with the walls.(c)will not be valid since collisions with walls would not be elastic.
+
+(d)will not be valid because isotropy is lost.
+13.10Diatomic molecules like hydrogen have energies due to bothtranslational as well as rotational motion. From the equation inkinetic theory 23pVE, E isFig. 13.4
+Kinetic Theory93(a)the total energy per unit volume.
+(b)only the translational part of energy because rotational energy
+is very small compared to the translational energy.(c)only the translational part of the energy because during
+collisions with the wall pressure relates to change in linearmomentum.(d)the translational part of the energy because rotational energies
+of molecules can be of either sign and its average over all themolecules is zero.13.11In a diatomic molecule, the rotational energy at a given
+temperature(a)obeys Maxwell™s distribution.
+(b)have the same value for all molecules.
+
+(c)equals the translational kinetic energy for each molecule.
+(d)is (2/3)rd the translational kinetic energy for each molecule.
+13.12Which of the following diagrams (Fig. 13.5) depicts ideal gas
+behaviour?(a)(c)Fig. 13.5(b)(d)VP = constTT = constVPV = constTPTPV13.13When an ideal gas is compressed adiabatically, its temperaturerises: the molecules on the average have more kinetic energy than
+before. The kinetic energy increases,(a)because of collisions with moving parts of the wall only.
+(b)because of collisions with the entire wall.
+
+Exemplar ProblemsŒPhysics94(c)because the molecules gets accelerated in their motion inside
+the volume.(d)because of redistribution of energy amongst the molecules.
+VSA13.14Calculate the number of atoms in 39.4 g gold. Molar mass ofgold is 197g moleŒ1.13.15The volume of a given mass of a gas at 27°C, 1 atm is 100 cc.What will be its volume at 327°C?13.16The molecules of a given mass of a gas have root mean squarespeeds of 1100ms
+ at 27C
+ and 1.00 atmospheric pressure.What will be the root mean square speeds of the molecules of thegas at 127°C and 2.0 atmospheric pressure?13.17Two molecules of a gas have speeds of 61910ms
+and61110ms
+, respectively. What is the root mean square speed ofthese molecules.13.18A gas mixture consists of 2.0 moles of oxygen and 4.0 moles ofneon at temperature T. Neglecting all vibrational modes, calculatethe total internal energy of the system. (Oxygen has two rotational
+modes.)13.19Calculate the ratio of the mean free paths of the molecules of twogases having molecular diameters 1A and 2A. The gases may
+be considered under identical conditions of temperature, pressureand volume.SA13.20The container shown in Fig. 13.6 has two chambers, separated
+by a partition, of volumes V1 = 2.0 litre and V2= 3.0 litre. Thechambers contain 124.0and5.0
+ moles of a gas atpressures p1 = 1.00 atm and p2 = 2.00 atm. Calculate the pressureafter the partition is removed and the mixture attains equilibrium.
+13.21A gas mixture consists of molecules of types A, B and C withmasses ABCmmm. Rank  the three types of molecules indecreasing order of (a) average K.E., (b) rms speeds.Fig 13.6V1V21, p12,p2
+Kinetic Theory9513.22We have 0.5 g of hydrogen gas in a cubic chamber of size 3cm
+kept at NTP. The gas in the chamber is compressed keeping the
+
+temperature constant till a final pressure of 100 atm. Is onejustified in assuming the ideal gas law, in the final state?(Hydrogen molecules can be consider as spheres of radius 1 Ao ).13.23When air is pumped into a cycle tyre the volume and pressure ofthe air in the tyre both are increased. What about Boyle™s law inthis case?13.24A ballon has 5.0 g mole of helium at 7°C. Calculate
+(a)the number of atoms of helium in the balloon,
+(b)the total internal energy of the system.
+13.25Calculate the number of degrees of freedom of molecules ofhydrogen in 1 cc of hydrogen gas at NTP.
+13.26An insulated container containing monoatomic gas of molar massm is moving with a velocity ov. If the container is suddenlystopped, find the change in temperature.LA13.27Explain why(a)there is no atmosphere on moon.
+(b)there is fall in temperature with altitude.
+13.28Consider an ideal gas with following distribution of speeds.Speed (m/s)% of molecules
+20010
+40020
+60040
+80020
+100010
+(i)Calculate 
+rms
+V and hence T. 26(3.010kg)
+m(ii)If 
+all the molecules with speed 1000 m/s escape from thesystem, calculate new rms
+V  and hence 
+T.
+Exemplar ProblemsŒPhysics9613.29Ten small planes are flying at a speed of 150 km/h in totaldarkness in an air space that is 20 × 20 × 1.5 km3 in volume. You
+are in one of the planes, flying at random within this space with
+no way of knowing  where the other planes are. On the averageabout how long a time will elapse between near collision withyour plane. Assume for this rough computation that a safteyregion around the plane can be approximated by a sphere of
+radius 10m.13.30A box of 1.00m3 is filled with nitrogen at 1.50 atm at 300K. Thebox has a hole of an area 0.010 mm2. How much time is requiredfor the pressure to reduce by 0.10 atm, if the pressure outside is1 atm.13.31Consider a rectangular block of wood moving with a velocity v0in a gas at temperature 
+T and mass density . Assume the velocityis along x-axis and the area of cross-section of the blockperpendicular to v0  is A. Show that the drag force on the block is40kTAvm, where m is the mass of the gas molecule.

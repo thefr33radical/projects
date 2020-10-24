@@ -1,0 +1,389 @@
+142BIOLOGYThere is a wide diversity in living organisms in our biosphere. Now aquestion that arises in our minds is: Are all living organisms made of the
+same chemicals, i.e., elements and compounds? You have learnt in
+chemistry how elemental analysis is performed. If we perform such an
+analysis on a plant tissue, animal tissue or a microbial paste, we obtain a
+list of elements like carbon, hydrogen, oxygen and several others and
+their respective content per unit mass of a living tissue. If the same analysis
+is performed on a piece of earth™s crust as an example of non-living matter,
+we obtain a similar list. What are the differences between the two lists? In
+absolute terms, no such differences could be made out. All the elements
+present in a sample of earth™s crust are also present in a sample of living
+tissue. However, a closer examination reveals that the relative abundance
+of carbon and hydrogen with respect to other elements is higher in any
+living organism than in earth™s crust (Table 9.1).9.1HOW TO ANALYSE CHEMICAL COMPOSITION?We can continue asking in the same way, what type of organic compoundsare found in living organisms? How does one go about finding the answer?
+To get an answer, one has to perform a chemical analysis. We can take any
+living tissue (a vegetable or a piece of liver, etc.) and grind it in trichloroaceticacid (Cl3CCOOH) using a mortar and a pestle. We obtain a thick slurry. Ifwe were to strain this through a cheesecloth or cotton we would obtain two
+fractions. One is called the filtrate or more technically, the acid-soluble
+pool, and the second, the retentate or the acid-insoluble fraction. Scientists
+have found thousands of organic compounds in the acid-soluble pool.BIOMOLECULESCHAPTER  99.1How to AnalyseChemicalComposition?9.2Primary andSecondaryMetabolites9.3Biomacromolecules9.4Proteins9.5Polysaccharides9.6Nucleic Acids9.7Structure ofProteins9.8Nature of BondLinking Monomersin a Polymer9.9Dynamic State ofBody Constituents
+- Concept ofMetabolism9.10Metabolic Basis forLiving9.11The Living State9.12Enzymes
+BIOMOLECULES143In higher classes you will learn about howto analyse a living tissue sample and identify aparticular organic compound. It will suffice to
+say here that one extracts the compounds, then
+subjects the extract to various separation
+techniques till one has separated a compound
+from all other compounds. In other words, one
+isolates and purifies a compound. Analytical
+techniques, when applied to the compound give
+us an idea of the molecular formula and the
+probable structure of the compound. All the
+carbon compounds that we get from living
+tissues can be called ‚biomolecules™. However,
+living organisms have also got inorganic
+elements and compounds in them. How do we
+know this? A slightly different but destructive
+experiment has to be done. One weighs a small
+amount of a living tissue (say a leaf or liver and
+this is called wet weight) and dry it. All the water,
+evaporates. The remaining material gives dry
+weight. Now if the tissue is fully burnt, all the
+carbon compounds are oxidised to gaseous
+form (CO2, water vapour) and are removed. Whatis remaining is called ‚ash™. This ash contains
+inorganic elements (like calcium, magnesium
+etc). Inorganic compounds like sulphate,
+phosphate, etc., are also seen in the acid-soluble
+fraction. Therefore elemental analysis gives
+elemental composition of living tissues in the
+form of hydrogen, oxygen, chlorine, carbon etc.
+while analysis for compounds gives an idea ofElement% Weight of  Earth™s crust Human bodyHydrogen (H)0.140.5Carbon  (C)0.0318.5
+Oxygen (O)46.665.0
+Nitrogen (N)very little3.3Sulphur (S)0.030.3Sodium (Na)2.80.2
+Calcium (Ca)3.61.5
+Magnesium (Mg)2.10.1
+Silicon (Si)27.7negligible* Adapted from CNR Rao, Understanding Chemistry,Universities Press, Hyderabad.TABLE 9.1A Comparison of Elements Presentin Non-living and Living Matter*ComponentFormulaSodiumNa+PotassiumK+CalciumCa++MagnesiumMg++WaterH2OCompoundsNaCl, CaCO3,POSO
+434
+2--
+,TABLE 9.2A List of Representative Inorganic
+Constituents of Living Tissuesthe kind of organic (Figure 9.1) and inorganic constituents (Table 9.2)present in living tissues. From a chemistry point of view, one can identify
+functional groups like aldehydes, ketones, aromatic compounds, etc. But
+from a biological point of view, we shall classify them into amino acids,
+nucleotide bases, fatty acids etc.Amino acids are organic compounds containing an amino group andan acidic group as substituents on the same carbon i.e., the a-carbon.Hence, they are called a-amino acids. They are substituted methanes. Thereare four substituent groups occupying the four valency positions. These
+are hydrogen, carboxyl group, amino group and a variable group
+designated as R group. Based on the nature of R group there are many
+amino acids. However, those which occur in proteins are only of twenty
+144BIOLOGYtypes. The R group in these proteinaceous amino acids could be a hydrogen(the amino acid is called glycine), a methyl group (alanine), hydroxy methyl
+(serine), etc. Three of the twenty are shown in Figure 9.1.The chemical and physical properties of amino acids are essentiallyof the amino, carboxyl and the R functional groups. Based on number ofamino and carboxyl groups, there are acidic (e.g., glutamic acid), basic(lysine) and neutral (valine) amino acids. Similarly, there are aromatic
+amino acids (tyrosine, phenylalanine, tryptophan). A particular property
+of amino acids is the ionizable nature of ŒNH2 and ŒCOOH groups. Hencein solutions of different pHs, the structure of amino acids changes.B is called zwitterionic form.Lipids are generally water insoluble. They could be simple fatty acids.A fatty acid has a carboxyl group attached to an R group. The R groupcould be a methyl (ŒCH3), or ethyl  (ŒC2H5) or higher number of ŒCH2groups (1 carbon to 19 carbons). For example, palmitic acid has 16
+carbons including carboxyl carbon. Arachidonic acid has 20 carbon
+atoms including the carboxyl carbon. Fatty acids could be saturated
+(without double bond) or unsaturated (with one or more C=C double
+bonds). Another simple lipid is glycerol which is trihydroxy propane. Many
+lipids have both glycerol and fatty acids. Here the fatty acids are found
+esterified with glycerol. They can be then monoglycerides, diglycerides
+and triglycerides. These are also called fats and oils based on melting
+point. Oils have lower melting point (e.g., gingely oil) and hence remain as
+oil in winters. Can you identify a fat from the market? Some lipids have
+phosphorous and a phosphorylated organic compound in them. These
+are phospholipids. They are found in cell membrane. Lecithin is one
+example. Some tissues especially the neural tissues have lipids with more
+complex structures.Living organisms have a number of carbon compounds in whichheterocyclic rings can be found. Some of these are nitrogen bases Œ
+adenine, guanine, cytosine, uracil, and thymine. When found attached to
+a sugar, they are called nucleosides. If a phosphate group is also found
+esterified to the sugar they are called nucleotides. Adenosine, guanosine,thymidine, uridine and  cytidine are nucleosides. Adenylic acid, thymidylicacid, guanylic acid, uridylic acid and cytidylic acid are nucleotides. Nucleic
+acids like DNA and RNA consist of nucleotides only. DNA and RNA function
+as genetic material.
+BIOMOLECULES145HOCholesterolPhospholipid (Lecithin)Fats and oils (lipids)(CH)
+214
+CH3COOHFatty acid(Palmitic acid)GlycerolTriglyceride (R1, R2and R3 are fatty acids)Nitrogen basesOHOHAdenineOOCH2PHOOHOAdenylic acidNucleotideOHOHHOCH2AdenineOOHOHHOCH2UracilOAdenosineUridineNucleosidesOHOHOHHOCH2OOHOHHOOHCHOH
+2OC6H12O6 (Glucose)C5H10O5 (Ribose)Sugars (Carbohydrates)SerineGlycineAmino acidsAlanineFigure 9.1Diagrammatic representation of small molecular weight organiccompounds in living tissuesOOHNNHAdenine (Purine)Uracil (Pyrimidine)
+146BIOLOGY9.2PRIMARY AND SECONDARY METABOLITESThe most exciting aspect of chemistry deals with isolating thousands ofcompounds, small and big, from living organisms, determining their
+structure and if possible synthesising them.If one were to make a list of biomolecules, such a list would havethousands of organic compounds including amino acids, sugars, etc.
+For reasons that are given in section 9.10, we can call these biomolecules
+as ‚metabolites™. In animal tissues, one notices the presence of all such
+categories of compounds shown in Figure 9.1. These are called primary
+metabolites. However, when one analyses plant, fungal and microbial cells,
+one would see thousands of compounds other than these called primary
+metabolites, e.g. alkaloids, flavonoids, rubber, essential oils, antibiotics,coloured pigments, scents, gums, spices. These
+are called secondary metabolites (Table 9.3).While primary metabolites have identifiable
+functions and play known roles in normal
+physiologial processes, we do not at the moment,
+understand the role or functions of all the
+‚secondary metabolites™ in host organisms.
+However, many of them are useful to ‚human
+welfare™ (e.g., rubber, drugs, spices, scents and
+pigments). Some secondary metabolites have
+ecological importance. In the later chapters and
+years you will learn more about this.9.3BIOMACROMOLECULESThere is one feature common to all those compounds found in the acid
+soluble pool. They have molecular weights ranging from 18 to around
+800 daltons (Da) approximately.The acid insoluble fraction, has only four types of organic compoundsi.e., proteins, nucleic acids, polysaccharides and lipids. These classes of
+compounds with the exception of lipids, have molecular weights in the
+range of ten thousand daltons and above. For this very reason,
+biomolecules, i.e., chemical compounds found in living organisms are of
+two types. One, those which have molecular weights less than one
+thousand dalton and are usually referred to as micromolecules or simply
+biomolecules while those which are found in the acid insoluble fraction
+are called macromolecules or biomacromolecules.The molecules in the insoluble fraction with the exception of lipidsare polymeric substances. Then why do lipids, whose molecular weights
+do not exceed 800 Da, come under acid insoluble fraction, i.e.,
+macromolecular fraction? Lipids are indeed small molecular weightPigmentsCarotenoids, Anthocyanins,etc.AlkaloidsMorphine, Codeine, etc.TerpenoidesMonoterpenes, Diterpenes etc.Essential oilsLemon grass oil, etc.ToxinsAbrin, RicinLectinsConcanavalin ADrugsVinblastin, curcumin, etc.PolymericRubber, gums, cellulosesubstancesTABLE 9.3  Some Secondary Metabolites
+BIOMOLECULES147Component% of the totalcellular massWater70-90Proteins10-15Carbohydrates3Lipids2Nucleic acids5-7Ions1TABLE 9.4  Average Composition of Cellscompounds and are present not only as such but alsoarranged into structures like cell membrane and other
+membranes. When we grind a tissue, we are disrupting
+the cell structure. Cell membrane and other
+membranes are broken into pieces, and form vesicles
+which are not water soluble. Therefore, these
+membrane fragments in the form of vesicles get
+separated along with the acid insoluble pool and hence
+in the macromolecular fraction. Lipids are not strictly
+macromolecules.The acid soluble pool represents roughly thecytoplasmic composition. The macromolecules from
+cytoplasm and organelles become the acid insoluble
+fraction. Together they represent the entire chemical
+composition of living tissues or organisms.In summary if we represent the chemicalcomposition of living tissue from abundance point of
+view and arrange them class-wise, we observe that
+water is the most abundant chemical in living
+organisms (Table 9.4).9.4PROTEINSProteins are polypeptides. They are linear chains ofamino acids linked by peptide bonds as shown in
+Figure 9.3.Each protein is a polymer of amino acids. As thereare 20 types of amino acids (e.g., alanine, cysteine,
+proline, tryptophan, lysine, etc.), a protein is a
+heteropolymer and not a homopolymer. A
+homopolymer has only one type of monomer repeating
+‚n™ number of times. This information about the amino
+acid content is important as later in your nutrition
+lessons, you will learn that certain amino acids are
+essential for our health and they have to be supplied
+through our diet. Hence, dietary proteins are the
+source of essential amino acids. Therefore, amino acids
+can be essential or non-essential. The latter are those
+which our body can make, while we get essential amino
+acids through our diet/food. Proteins carry out many
+functions in living organisms, some transport
+nutrients across cell membrane, some fight infectious
+organisms, some are hormones, some are enzymes,TABLE 9.5Some Proteins and theirFunctionsProteinFunctionsCollagenIntercellular groundsubstanceTrypsinEnzymeInsulinHormoneAntibodyFights infectious agentsReceptorSensory reception(smell, taste, hormone,etc.)GLUT-4Enables glucosetransportinto cells
+148BIOLOGYCHOH
+2CHOH
+2CH2OHOHOHOHOHOOOOOOOOOOOOOFigure 9.2 Diagrammatic representation of a portion of glycogenetc. (Table 9.5). Collagen is the most abundant protein in animal worldand Ribulose bisphosphate Carboxylase-Oxygenase (RuBisCO) is themost abundant protein in the whole of the biosphere.9.5POLYSACCHARIDESThe acid insoluble pellet also has polysaccharides (carbohydrates) asanother class of macromolecules. Polysaccharides are long chains of
+sugars. They are threads (literally a cotton thread) containing different
+monosaccharides as building blocks. For example, cellulose is apolymeric polysaccharide consisting of only one type of monosaccharide
+i.e., glucose. Cellulose is a homopolymer. Starch is a variant of this but
+present as a store house of energy in plant tissues. Animals have another
+variant called glycogen. Inulin is a polymer of fructose. In a
+polysaccharide chain (say glycogen), the right end is called the reducing
+end and the left end is called the non-reducing end. It has branches as
+shown in the form of a cartoon (Figure 9.2). Starch forms helical
+secondary structures. In fact, starch can hold I2 molecules in the helicalportion. The starch-I2 is blue in colour. Cellulose does not containcomplex helices and hence cannot hold I2.
+BIOMOLECULES149Plant cell walls are made of cellulose. Paper made from plant pulpand cotton fibre is cellulosic. There are more complex polysaccharides innature. They have as building blocks, amino-sugars and chemically
+modified sugars (e.g., glucosamine, N-acetyl galactosamine, etc.).
+Exoskeletons of arthropods, for example, have a complex polysaccharide
+called chitin. These complex polysaccharides are mostly homopolymers.9.6NUCLEIC ACIDSThe other type of macromolecule that one would find in the acid insolublefraction of any living tissue is the nucleic acid. These are polynucleotides.
+Together with polysaccharides and polypeptides these comprise the true
+macromolecular fraction of any living tissue or cell. For nucleic acids, the
+building block is a nucleotide. A nucleotide has three chemically distinct
+components. One is a heterocyclic compound, the second is a
+monosaccharide and the third a phosphoric acid or phosphate.As you notice in Figure 9.1, the heterocyclic compounds in nucleicacids are the nitrogenous bases named adenine, guanine, uracil, cytosine,
+and thymine. Adenine and Guanine are substituted purines while the
+rest are substituted pyrimidines. The skeletal heterocyclic ring is called
+as purine and pyrimidine respectively. The sugar found in polynucleotides
+is either ribose (a monosaccharide pentose) or 2™ deoxyribose. A nucleic
+acid containing deoxyribose is called deoxyribonucleic acid (DNA) while
+that which contains ribose is called ribonucleic acid (RNA).9.7STRUCTURE OF PROTEINSProteins, as mentioned earlier, are heteropolymers containing strings ofamino acids. Structure of molecules means different things in different
+contexts. In inorganic chemistry, the structure invariably refers to the
+molecular formulae (e.g., NaCl, MgCl2, etc.). Organic chemists always writea two dimensional view of the molecules while representing the structure
+of the molecules (e.g., benzene, naphthalene, etc.). Physicists conjure up
+the three dimensional views of molecular structures while biologists
+describe the protein structure at four levels. The sequence of amino acids
+i.e., the positional information in a protein Œ which is the first amino acid,
+which is second, and so on Œ is called the primary structure (Figure 9.3)of a protein. A protein is imagined as a line, the left end represented by
+the first amino acid and the right end represented by the last amino acid.
+The first amino acid is also called as N-terminal amino acid. The last
+amino acid is called the C-terminal amino acid. A protein thread does not
+exist throughout as an extended rigid rod. The thread is folded in the
+form of a helix (similar to a revolving staircase). Of course, only some
+150BIOLOGYportions of the protein thread are arrangedin the form of a helix. In proteins, only right
+handed helices are observed. Other regions
+of the protein thread are folded into other
+forms in what is called the secondarystructure. In addition, the long proteinchain is also folded upon itself like a hollow
+woolen ball, giving rise to the tertiarystructure (Figure 9.4 a, b). This gives us a3-dimensional view of a protein. Tertiary
+structure is absolutely necessary for the
+many biological activities of proteins.Some proteins are an assembly of morethan one polypeptide or subunits. The
+manner in which these individual folded
+polypeptides or subunits are arranged with
+respect to each other (e.g. linear string of
+spheres, spheres arranged one upon each
+other in the form of a cube or plate etc.) is
+the architecture of a protein otherwise called
+the quaternary structure of a protein. AdultFigure 9.3Primary structure of a portion of a hypothetical protein. N and C refer tothe two termini of every protein. Single letter codes and three  letterabbreviations for amino acids are also indicated.NCFigure 9.4Cartoon showing : (a) A secondarystructure and  (b) A tertiary structureof proteins(a)(b)
+BIOMOLECULES151human haemoglobin consists of 4 subunits. Two of these are identical toeach other. Hence, two subunits of a type and two subunits of b typetogether constitute the human haemoglobin (Hb).9.8NATURE OF BOND LINKING MONOMERS IN A POLYMERIn a polypeptide or a protein, amino acids are linked by a peptide bondwhich is formed when the carboxyl (-COOH) group of one amino acidreacts with the amino (-NH2) group of the next amino acid with theelimination of a water moiety (the process is called dehydration). In a
+polysaccharide the individual monosaccharides are linked by a glycosidicbond. This bond is also formed by dehydration. This bond is formedbetween two carbon atoms of two adjacent monosaccharides. In a nucleic
+acid a phosphate moiety links the 3™-carbon of one sugar of one nucleotide
+to the 5™-carbon of the sugar of the succeeding nucleotide. The bond
+between the phosphate and hydroxyl group of sugar is an ester bond. As
+there is one such ester bond on either side, it is called phosphodiester
+bond (Figure 9.5).Nucleic acids exhibit a wide variety of secondary structures. Forexample, one of the secondary structures exhibited by DNA is the famous
+Watson-Crick model. This model says that DNA exists as a double helix.
+The two strands of polynucleotides are antiparallel i.e., run in the opposite
+direction. The backbone is formed by the sugar-phosphate-sugar chain.
+The nitrogen bases are projected more or less perpendicular to this
+backbone but face inside. A and G of one strand compulsorily base pairsOOOOOOOOHOOHOOPPCH2CH2CH2OCH2AdenineGuanineCytosineThymineOOO.......
+.......
+.......
+.......
+.......
+5'3'3'5'Figure 9.5  Diagram indicating secondary structure of DNA
+152BIOLOGYwith T and C, respectively, on the other strand. There are two hydrogenbonds between A and T and three hydrogen bonds between G and C.
+Each strand appears like a helical  staircase. Each step of ascent is
+represented by a pair of bases. At each step of ascent, the strand turns
+36°. One full turn of the helical strand would involve ten steps or ten base
+pairs. Attempt drawing a line diagram. The pitch would be 34Å. The rise
+per base pair would be 3.4Å. This form of DNA with the above mentioned
+salient features is called B-DNA. In higher classes, you will be told that
+there are more than a dozen forms of DNA named after English alphabets
+with unique structural features.9.9DYNAMIC STATE OF BODY CONSTITUENTS Œ CONCEPT OFMETABOLISMWhat we have learnt till now is that living organisms, be it a simple bacterialcell, a protozoan, a plant or an animal, contain thousands of organiccompounds. These compounds or biomolecules are present in certainconcentrations (expressed as mols/cell or mols/litre etc.). One of the greatestdiscoveries ever made was the observation that all these biomolecules havea turn over. This means that they are constantly being changed into someother biomolecules and also made from some other biomolecules. This
+breaking and making is through chemical reactions constantly occuringin living organisms. Together all these chemical reactions are calledmetabolism. Each of the metabolic reactions results in the transformationof biomolecules. A few examples for such metabolic transformations are:
+removal of CO2 from amino acids making an amino acid into an amine,removal of amino group in a nucleotide base; hydrolysis of a glycosidic
+bond in a disaccharide, etc. We can list tens and thousands of suchexamples. Majority of these metabolic reactions do not occur in isolationbut are always linked to some other reactions. In other words, metabolitesare converted into each other in a series of linked reactions called metabolicpathways. These metabolic pathways are similar to the automobile trafficin a city. These pathways are either linear or circular. These pathways criss-cross each other, i.e., there are traffic junctions. Flow of metabolites throughmetabolic pathway has a definite rate and direction like automobile traffic.This metabolite flow is called the dynamic state of body constituents. Whatis most important is that this interlinked metabolic traffic is very smoothand without a single reported mishap for healthy conditions. Another featureof these metabolic reactions is that every chemical reaction is a catalysedreaction. There is no uncatalysed metabolic conversion in living systems.Even CO2 dissolving in water, a physical process, is a catalysed reaction inliving systems. The catalysts which hasten the rate of a given metabolic
+conversation are also proteins. These proteins with catalytic power arenamed enzymes.
+BIOMOLECULES1539.10METABOLIC BASIS FOR LIVINGMetabolic pathways can lead to a more complex structure from a simplerstructure (for example, acetic acid becomes cholesterol) or lead to a simpler
+structure from a complex structure (for example, glucose becomes lactic
+acid in our skeletal muscle). The former cases are called biosynthetic
+pathways or anabolic pathways. The latter constitute degradation andhence are called catabolic pathways. Anabolic pathways, as expected,consume energy. Assembly of a protein from amino acids requires energy
+input. On the other hand, catabolic pathways lead to the release of energy.
+For example, when glucose is degraded to lactic acid in our skeletal muscle,
+energy is liberated. This metabolic pathway from glucose to lactic acid which
+occurs in 10 metabolic steps is called glycolysis. Living organisms have
+learnt to trap this energy liberated during degradation and store it in the
+form of chemical bonds. As and when needed, this bond energy is utilised
+for biosynthetic, osmotic and mechanical work that we perform. The most
+important form of energy currency in living systems is the bond energy in
+a chemical called adenosine triphosphate (ATP).How do living organisms derive their energy? What strategies have theyevolved? How do they store this energy and in what form? How do they
+convert this energy into work? You will study and understand all this under
+a sub-discipline called ‚Bioenergetics™ later in your higher classes.9.11THE LIVING STATEAt this level, you must understand that the tens and thousands ofchemical compounds in a living organism, otherwise called metabolites,or biomolecules, are present at concentrations characteristic of each of
+them. For example, the blood concentration of glucose in a normal healthy
+individual is 4.5-5.0 mM, while that of hormones would be nanograms/
+mL. The most important fact of biological systems is that all living
+organisms exist in a steady-state characterised by concentrations of each
+of these biomolecules. These biomolecules are in a metabolic flux. Any
+chemical or physical process moves spontaneously to equilibrium. The
+steady state is a non-equilibrium state. One should remember fromphysics that systems at equilibrium cannot perform work. As living
+organisms work continuously, they cannot afford to reach equilibrium.
+Hence the living state is a non-equilibrium steady-state to be able
+to perform work; living process is a constant effort to prevent fallinginto equilibrium. This is achieved by energy input. Metabolism provides
+a mechanism for the production of energy. Hence the living state and
+metabolism are synonymous. Without metabolism there cannot be a
+living state.
+154BIOLOGY9.12ENZYMESAlmost all enzymes are proteins. There are some nucleic acids that behavelike enzymes. These are called ribozymes. One can depict an enzyme by a
+line diagram. An enzyme like any protein has a primary structure, i.e.,
+amino acid sequence of the protein. An enzyme like any protein has the
+secondary and the tertiary structure. When you look at a tertiary structure
+(Figure 9.4 b)  you will notice that the backbone of the protein chain folds
+upon itself, the chain criss-crosses itself and hence, many crevices or
+pockets are made. One such pocket is the ‚active site™. An active site of an
+enzyme is a crevice or pocket into which the substrate fits. Thus enzymes,
+through their active site, catalyse reactions at a high rate. Enzyme catalysts
+differ from inorganic catalysts in many ways, but one major difference
+needs mention. Inorganic catalysts work efficiently at high temperatures
+and high pressures, while enzymes get damaged at high temperatures
+(say above 40°C). However, enzymes isolated from organisms who normally
+live under extremely high temperatures (e.g., hot vents and sulphur
+springs), are stable and retain their catalytic power even at high
+temperatures (upto 80°-90°C). Thermal stability is thus an important
+quality of such enzymes isolated from thermophilic organisms.9.12.1Chemical ReactionsHow do we understand these enzymes? Let us first understand a chemicalreaction. Chemical compounds undergo two types of changes. A physical
+change simply refers to a change in shape without breaking of bonds.
+This is a physical process. Another physical process is a change in state
+of matter: when ice melts into water, or when water becomes a vapour.
+These are also physical processes. However, when bonds are broken and
+new bonds are formed during transformation, this will be called a chemical
+reaction. For example:Ba(OH)2 + H2SO4 ® BaSO4 + 2H2Ois an inorganic chemical reaction. Similarly, hydrolysis of starch into
+glucose is an organic chemical reaction. Rate of a physical or chemical
+process refers to the amount of product formed per unit time. It can be
+expressed as:rate = ddPtRate can also be called velocity if the direction is specified. Rates of physical
+and chemical processes are influenced by temperature among other
+factors. A general rule of thumb is that rate doubles or decreases by half
+BIOMOLECULES155for every 10°C change in either direction. Catalysed reactions proceed atrates vastly higher than that of uncatalysed ones. When enzyme catalysed
+reactions are observed, the rate would be vastly higher than the same but
+uncatalysed reaction. For exampleCO2             +           H2O  
+Carbonicanhydrase
+ H2CO3carbon dioxidewatercarbonic acidIn the absence of any enzyme this reaction is very slow, with about200 molecules of H2CO3 being formed in an hour. However, by using theenzyme present within the cytoplasm called carbonic anhydrase, the
+reaction speeds dramatically with about 600,000 molecules being formed
+every second. The enzyme has accelerated the reaction rate by about 10
+million times. The power of enzymes is incredible indeed!There are thousands of types of enzymes each catalysing a uniquechemical or metabolic reaction. A multistep chemical reaction, when each
+of the steps is catalysed by the same enzyme complex or different enzymes,
+is called a metabolic pathway. For example,Glucose ®2 Pyruvic acidC6H12O6  +  O2 ® 2C3H4 O3 + 2H2Ois actually a metabolic pathway in which glucose becomes pyruvic acidthrough ten different enzyme catalysed metabolic reactions. When youstudy respiration in Chapter 14 you will study these reactions.  At thisstage you should know that this very metabolic pathway with one or twoadditional reactions gives rise to a variety of metabolic end products. Inour skeletal muscle, under anaerobic conditions, lactic acid is formed.Under normal aerobic conditions, pyruvic acid is formed. In yeast,  duringfermentation, the same pathway leads to the production of ethanol(alcohol). Hence, in different conditions different products are possible.9.12.2How do Enzymes bring about such High Rates ofChemical Conversions?To understand this we should study enzymes a little more. We have already
+understood the idea of an ‚active site™. The chemical or metabolic conversion
+refers to a reaction. The chemical which is converted into a product is
+called a ‚substrate™. Hence enzymes, i.e. proteins with three dimensional
+structures including an ‚active site™, convert a substrate (S) into a product
+(P). Symbolically, this can be depicted as:S ®PIt is now understood that the substrate ‚S™ has to bind the enzyme atits ‚active site™ within a given cleft or pocket. The substrate has to diffuse
+
+156BIOLOGYtowards the ‚active site™. There is thus, anobligatory formation of an ‚ES™ complex. E
+stands for enzyme. This complex formation is
+a transient phenomenon. During the state
+where substrate is bound to the enzyme active
+site, a new structure of the substrate called
+transition state structure is formed. Very soon,
+after the expected bond breaking/making is
+completed, the product is released from the
+active site. In other words, the structure of
+substrate gets transformed into the structure
+of product(s). The pathway of this
+transformation must go through the so-called
+transition state structure. There could be
+many more ‚altered structural states™ between
+the stable substrate and the product. Implicit
+in this statement is the fact that all otherintermediate structural states are unstable. Stability is something related
+to energy status of the molecule or the structure. Hence, when we look at
+this pictorially through a graph it looks like something as in Figure 9.6.The y-axis represents the potential energy content. The x-axisrepresents the progression of the structural transformation or states
+through the ‚transition state™. You would notice two things. The energy
+level difference between S and P. If ‚P™ is at a lower level than ‚S™, the reaction
+is an exothermic reaction. One need not supply energy (by heating) in
+order to form the product. However, whether it is an exothermic or
+spontaneous reaction or an endothermic or energy requiring reaction,
+the ‚S™ has to go through a much higher energy state or transition state.
+The difference in average energy content of ‚S™ from that of this transition
+state is called ‚activation energy™.Enzymes eventually bring down this energy barrier making thetransition of ‚S™ to ‚P™ more easy.9.12.3Nature of Enzyme ActionEach enzyme (E) has a substrate (S) binding site in its molecule so that ahighly reactive enzyme-substrate complex (ES) is produced. This
+complex is short-lived and dissociates into its product(s) P and the
+unchanged enzyme with an intermediate formation of the enzyme-product
+complex (EP).The formation of the ES complex is essential for catalysis.E + S 
+
+ ES  ¾®¾
+ EP ¾®¾
+  E + PActivation energywithout enzymePotential EnergyActivationenergy with enzymeSubstrate (s)Product (P)Progress of reactionTransition stateFigure  9.6 Concept of activation energy
+BIOMOLECULES157The catalytic cycle of an enzyme action can be described in the followingsteps:1.First, the substrate binds to the active site of the enzyme, fitting
+into the active site.2.The binding of the substrate induces the enzyme to alter its shape,
+fitting more tightly around the substrate.3.The active site of the enzyme, now in close proximity of the
+substrate breaks the chemical bonds of the substrate and the
+new enzyme- product complex is formed.4.The enzyme releases the products of the reaction and the free
+enzyme is ready to bind to another molecule of the substrate and
+run through the catalytic cycle once again.9.12.4Factors Affecting Enzyme ActivityThe activity of an enzyme can be affected by a change in the conditions
+which can alter the tertiary structure of the protein. These include
+temperature, pH, change in substrate concentration or binding of specific
+chemicals that regulate its activity.Temperature and pHEnzymes generally function in a narrow range of temperature and pH(Figure 9.7). Each enzyme shows its highest activity at a particular
+temperature and pH called the optimum temperature and optimum pH.
+Activity declines both below and above the optimum value. Low
+temperature preserves the enzyme in a temporarily inactive state whereas
+high temperature destroys enzymatic activity because proteins are
+denatured by heat.Figure 9.7Effect of change in : (a) pH  (b) Temperature and (c) Concentration ofsubstrate on enzyme activityVmaxVelocityof re
+action(V)[S]V2maxKm(a)(b)(c)pHTemperature
+Enzymeactivity
+158BIOLOGYConcentration of SubstrateWith the increase in substrate concentration, the velocity of the enzymaticreaction rises at first. The reaction ultimately reaches a maximum velocity
+(Vmax) which is not exceeded by any further rise in concentration of thesubstrate. This is because the enzyme molecules are fewer than the
+substrate molecules and after saturation of these molecules, there are no
+free enzyme molecules to bind with the additional substrate molecules
+(Figure 9.7).The activity of an enzyme is also sensitive to the presence of specificchemicals that bind to the enzyme. When the binding of the chemical
+shuts off enzyme activity, the process is called inhibition and the chemicalis called an inhibitor.When the inhibitor closely resembles the substrate in its molecularstructure and inhibits the activity of the enzyme, it is known as
+competitive inhibitor. Due to its close structural similarity with thesubstrate, the inhibitor competes with the substrate for the substrate-
+binding site of the enzyme. Consequently, the substrate cannot bind and
+as a result, the enzyme action declines, e.g., inhibition of succinic
+dehydrogenase by malonate which closely resembles the substrate
+succinate in structure. Such competitive inhibitors are often used in the
+control of bacterial pathogens.9.12.5Classification and Nomenclature of EnzymesThousands of enzymes have been discovered, isolated and studied. Mostof these enzymes have been classified into different groups based on the
+type of reactions they catalyse. Enzymes are divided into 6 classes each
+with 4-13 subclasses and named accordingly by a four-digit number.Oxidoreductases/dehydrogenases: Enzymes which catalyseoxidoreduction between two substrates S and S™ e.g.,S reduced + S™ oxidised ¾®¾
+ S oxidised + S™ reduced.Transferases: Enzymes catalysing a transfer of a group, G (other thanhydrogen) between a pair of substrate S and S™ e.g.,S - G + S™  ¾®¾
+ S + S™ - GHydrolases: Enzymes catalysing hydrolysis of ester, ether, peptide,glycosidic, C-C, C-halide or P-N bonds.
+Lyases: Enzymes that catalyse removal of groups from substrates bymechanisms other than hydrolysis leaving double bonds.
+BIOMOLECULES159Isomerases: Includes all enzymes catalysing inter-conversion of optical,geometric or positional isomers.Ligases: Enzymes catalysing the linking together of 2 compounds, e.g.,enzymes which catalyse joining of C-O, C-S, C-N,  P-O etc. bonds.9.12.6Co-factorsEnzymes are composed of one or several polypeptide chains. However,there are a number of cases in which non-protein constituents called co-factors are bound to the the enzyme to make the enzyme catalyticallyactive. In these instances, the protein portion of the enzymes is called theapoenzyme. Three kinds of cofactors may be identified: prosthetic groups,co-enzymes and metal ions.Prosthetic groups are organic compounds and are distinguished fromother cofactors in that they are tightly bound to the apoenzyme. Forexample, in peroxidase and catalase, which catalyze the breakdown ofhydrogen peroxide to water and oxygen, haem is the prosthetic groupand it is a part of the active site of the enzyme.Co-enzymes are also organic compounds but their association withthe apoenzyme is only transient, usually occurring during the course ofcatalysis. Furthermore, co-enzymes serve as co-factors in a number ofdifferent enzyme catalyzed reactions. The essential chemical componentsof many coenzymes are vitamins, e.g., coenzyme nicotinamide adeninedinucleotide (NAD) and NADP contain the vitamin niacin.A number of enzymes require metal ions for their activity which formcoordination bonds with side chains at the active site and at the sametime form one or more cordination bonds with the substrate, e.g., zinc isa cofactor for the proteolytic enzyme carboxypeptidase.Catalytic  activity is lost when the co-factor is removed from the enzymewhich testifies that they play a crucial role in the catalytic activity of theenzyme.SUMMARYAlthough there is a bewildering diversity of living organisms, their chemicalcomposition and metabolic reactions appear to be remarkably similar. Theelemental composition of living tissues and non-living matter appear also to besimilar when analysed qualitatively. However, a closer examination reveals thatthe relative abundance of carbon, hydrogen and oxygen is higher in living systems
+when compared to inanimate matter. The most abundant chemical in livingorganisms is water. There are thousands of small molecular weight (<1000 Da)
+160BIOLOGYbiomolecules. Amino acids, monosaccharide and disaccharide sugars, fatty acids,glycerol, nucleotides, nucleosides and nitrogen bases are some of the organiccompounds seen in living organisms. There are 20 types of amino acids and 5types of nucleotides. Fats and oils are glycerides in which fatty acids are esterifiedto glycerol. Phospholipids contain, in addition, a phosphorylated nitrogenouscompound.Only three types of macromolecules, i.e., proteins, nucleic acids andpolysaccharides are found in living systems. Lipids, because of their association
+with membranes separate in the macromolecular fraction. Biomacromoleculesare polymers. They are made of building blocks which are different. Proteinsare heteropolymers made of amino acids. Nucleic acids (RNA and DNA) are
+composed of nucleotides. Biomacromolecules have a hierarchy of structures Œprimary, secondary, tertiary and quaternary. Nucleic acids serve as genetic
+material. Polysaccharides are components of cell wall in plants, fungi and alsoof the exoskeleton of arthropods. They also are storage forms of energy (e.g.,starch and glycogen). Proteins serve a variety of cellular functions. Many ofthem are enzymes, some are antibodies, some are receptors, some are hormonesand some others are structural proteins. Collagen is the most abundant proteinin animal world and Ribulose bisphosphate Carboxylase-Oxygenase (RuBisCO)is the most abundant protein in the whole of the biosphere.Enzymes are proteins which catalyse biochemical reactions in the cells.Ribozymes are nucleic acids with catalytic power. Proteinaceous enzymes
+exhibit substrate specificity, require optimum temperature and pH for maximal
+activity. They are denatured at high temperatures. Enzymes lower activationenergy of reactions and enhance greatly the rate of the reactions. Nucleic acidscarry hereditary information and are passed on from parental generation to
+progeny.EXERCISES1.What are macromolecules? Give examples.2.Illustrate a glycosidic, peptide and a phospho-diester bond.3.What is meant by tertiary structure of proteins?4.Find and write down structures of 10 interesting small molecular weightbiomolecules. Find if there is any industry which manufactures the compounds
+by isolation. Find out who are the buyers.5.Proteins have primary structure. If you are given a method to know which amino
+acid is at either of the two termini (ends) of a protein, can you connect this
+information to purity or homogeneity of a protein?6.Find out and make a list of proteins used as therapeutic agents. Find other
+applications of proteins (e.g., Cosmetics etc.)7.Explain the composition of triglyceride.
+BIOMOLECULES1618.Can you describe what happens when milk is converted into curd or yoghurt,from your understanding of proteins.9.Can you attempt building models of biomolecules using commercially available
+atomic models (Ball and Stick models).10.Attempt titrating an amino acid against a weak base and discover the number
+of dissociating ( ionizable )  functional groups in the amino acid.11.Draw the structure of the amino acid, alanine.12.What are gums made of? Is Fevicol different?13.Find out a qualitative test for proteins, fats and oils, amino acids and test any
+fruit juice, saliva, sweat and urine for them.14.Find out how much cellulose is made by all the plants in the biosphere and
+compare it with how much of paper is manufactured by man and hence what is
+the consumption of plant material by man annually. What a loss of vegetation!15.Describe the important properties of enzymes.

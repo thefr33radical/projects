@@ -1,0 +1,170 @@
+SOLAR RADIATION, HEAT BALANCEAND TEMPERATUREDo you feel air around you? Do you
+know that we live at the bottom of ahuge pile of air? We inhale and exhalebut we feel the air when it is  in motion. It meansair in motion is wind. You have already learnt
+about the fact that earth is surrounded by airall around. This envelop of air is atmospherewhich is composed of numerous gases. Thesegases support life over the earth™s surface.The earth receives almost all of its energyfrom the sun. The earth in turn radiates backto space the energy received from the sun. Asa result, the earth neither warms up nor does
+it get cooled over a period of time. Thus, theamount of heat received by different parts ofthe earth is not the same. This variation causes
+pressure differences in the atmosphere. Thisleads to transfer of heat from one region to theother by winds. This chapter explains the
+process of heating and cooling of theatmosphere and the resultant temperaturedistribution over the earth™s surface.SOLAR RADIATIONThe earth™s surface receives most of its energyin short wavelengths. The energy received bythe earth is known as incoming solar radiationwhich in short is termed as insolation.As the earth is a geoid resembling a sphere,the sun™s rays fall obliquely at the top of theatmosphere and the earth intercepts a verysmall portion of the sun™s energy. On anaverage the earth receives 1.94 calories per sq.
+cm per minute at the top of its atmosphere.The solar output received at the top of the
+atmosphere varies slightly in a year due to the
+variations in the distance between the earth andthe sun. During its revolution around the sun,the earth is farthest from the sun (152 million
+km) on 4th July. This position of the earth iscalled aphelion. On 3rd January, the earth isthe nearest to the sun (147 million km). Thisposition is called perihelion. Therefore, theannual insolation received by the earth on 3rd
+January is slightly more than the amountreceived on 4th July. However, the effect of thisvariation in the solar output is masked by
+other factors like the distribution of land andsea and the atmospheric circulation. Hence, thisvariation in the solar output does not have
+great effect on daily weather changes on thesurface of the earth.Variability of Insolation atthe Surface of the EarthThe amount and the intensity of insolation varyduring a day, in a season and in a year.  The factors
+that cause these variations in insolation are : (i)the rotation of earth on its axis; (ii)  the angle ofinclination of the sun™s rays; (iii) the length of the
+day; (iv) the transparency of the atmosphere; (v)the configuration of land in terms of its aspect.The last two however, have less influence.The fact that the earth™s axis makes an angle
+of 66˜ with the plane of its orbit round the sun
+has a greater influence on the amount ofinsolation received at different latitudes. Note thevariations in the duration of the day at differentlatitudes on solstices given in Table 9.1.
+CHAPTER
+FUNDAMENTALS OF PHYSICAL GEOGRAPHY80The second factor that determines theamount of insolation received is the angle of
+inclination of the rays. This depends on thelatitude of a place. The higher the latitude the
+less is the angle they make with the surface of
+the earth resulting in slant sun rays. The area
+covered by vertical rays is always less than theslant rays. If more area is covered, the energygets distributed and the net energy received
+per unit area decreases. Moreover, the slant rays
+are required to pass through greater depth of
+the atmosphere resulting in more absorption,scattering and diffusion.Figure 9.1 : Summer Solstice
+Latitude0°20°40°60°90°
+December 2212h 00m10h 48m9h 8m5h 33m0
+
+June 2112 h13h 12m14h 52m18h 27m6 
+monthsTable 9.1 : Length of the Day in Hours and Minutes on Winter and Summer Solstices in the Northern Hemispherecolour of the sky are the result of scattering oflight within the atmosphere.The Passage of Solar Radiationthrough the AtmosphereThe atmosphere is largely transparent to shortwave solar radiation. The incoming solarradiation passes through the atmospherebefore striking the earth™s surface. Within the
+troposphere water vapour, ozone and othergases absorb much of the near infraredradiation.Very small-suspended particles in thetroposphere scatter visible spectrum both tothe space and towards the earth surface. This
+process adds colour to the sky. The red colour
+of the rising and the setting sun and the blueSpatial Distribution of Insolation
+at the Earth™s SurfaceThe insolation received at the surface variesfrom about 320 Watt/m2 in the tropics to about70 Watt/m2 in the poles. Maximum insolationis received over the subtropical deserts, wherethe cloudiness is the least. Equator receivescomparatively less insolation than the tropics.Generally, at the same latitude the insolation
+is more over the continent than over the oceans.In winter, the middle and higher latitudesreceive less radiation than in summer.HEATING AND COOLING OF ATMOSPHEREThere are different ways of heating and coolingof the atmosphere.The earth after being heated by insolationtransmits the heat to the atmospheric layers nearto the earth in long wave form. The air in contact
+with the land gets heated slowly and the upperlayers in contact with the lower layers also getheated. This process is called conduction.Conduction takes place when two bodies ofunequal temperature are in contact with oneanother, there is a flow of energy from the warmer
+to cooler body. The transfer of heat continues untilboth the bodies attain the same temperature orthe contact is broken. Conduction is important
+in heating the lower layers of the atmosphere.The air in contact with the earth risesvertically on heating in the form of currents
+and further transmits the heat of theatmsphere. This process of vertical heating ofthe atmosphere is known as convection. Theconvective transfer of energy is confined onlyto the troposphere.The transfer of heat through horizontalmovement of air is called advection. Horizontalmovement of the air is relatively more important
+SOLAR RADIATION, HEAT BALANCE AND TEMPERATURE81accumulate or loose heat. It maintains itstemperature. This can happen only if theamount of heat received in the form of insolationequals the amount lost by the earth throughterrestrial radiation.Consider that the insolation received at thetop of the atmosphere is 100 per cent. While
+passing through the atmosphere some amountof energy is reflected, scattered and absorbed.Only the remaining part reaches the earth
+surface. Roughly 35 units are reflected backto space even before reaching the earth™ssurface. Of these, 27 units are reflected back
+from the top of the clouds and 2 units from thesnow and ice-covered areas of the earth. Thereflected amount of radiation is called the
+albedo of the earth.The remaining 65 units are absorbed, 14units within the atmosphere and 51 units by
+the earth™s surface. The earth radiates back51 units in the form of terrestrial radiation.Of these, 17 units are radiated to spacedirectly and the remaining 34 units areabsorbed by the atmosphere (6 units
+absorbed directly by the atmosphere, 9 unitsthrough convection and turbulence and 19units through latent heat of condensation).48 units absorbed by the atmosphere(14 units from insolation +34 units fromthan the vertical movement. In middle latitudes,most of dirunal (day and night) variation indaily weather are caused by advection alone.
+In tropical regions particularly in northern
+India during summer season local winds called‚loo™ is the outcome of advection process.Terrestrial RadiationThe insolation received by the earth is in shortwaves forms and heats up its surface. The earth
+after being heated itself becomes a radiating
+body and it radiates energy to the atmosphere
+in long wave form. This energy heats up the
+atmosphere from below. This process is knownas terrestrial radiation.The long wave radiation is absorbed by theatmospheric gases particularly by carbon
+dioxide and the other green house gases. Thus,
+the atmosphere is indirectly heated by the
+earth™s radiation.The atmosphere in turn radiates andtransmits heat to the space. Finally the amountof heat received from the sun is returned tospace, thereby maintaining constant temperatureat the earth™s surface and in the atmosphere.Heat Budget of the Planet EarthFigure 9.2 depicts the heat budget of the planetearth. The earth as a whole does notFigure 9.2 : Heat budget of the earth
+FUNDAMENTALS OF PHYSICAL GEOGRAPHY82terrestrial radiation) are also radiated backinto space. Thus, the total radiation
+returning from the earth and the atmosphere
+respectively is 17+48=65 units which
+balance the total of 65 units received fromthe sun. This is termed the heat budget or
+heat balance of the earth.This explains, why the earth neither warmsup nor cools down despite the huge transfer of
+heat that takes place.Variation in the Net Heat Budget at theEarth™s SurfaceAs explained earlier, there are variations in theamount of radiation received at the earth™s
+surface. Some part of the earth has surplus
+radiation balance while the other part has
+deficit.Figure 9.3 depicts the latitudinal variationin the net radiation balance of the earth Š the
+atmosphere system. The figure shows that
+there is a surplus of net radiation balance
+between 40 degrees north and south and the
+regions near the poles have a deficit. The
+surplus heat energy from the tropics is
+redistributed pole wards and as a result the
+tropics do not get progressively heated up due
+to the accumulation of excess heat or the high
+latitudes get permanently frozen due to excess
+deficit.Figure 9.3 : Latitudinal variation in net    radiation balanceheat which is measured in terms oftemperature. While heat represents the
+molecular movement of particles comprising a
+substance, the temperature is the measurementin degrees of how hot (or cold) a thing (or aplace) is.Factors Controlling Temperature DistributionThe temperature of air at any place is influencedby  (i) the latitude of the place;  (ii) the altitudeof the place; (iii) distance from the sea, the air-
+mass circulation; (iv) the presence of warm and
+cold ocean currents; (v) local aspects.The latitude : The temperature of a placedepends on the insolation received. It has beenexplained earlier that the insolation varies
+according to the latitude hence the
+temperature also varies accordingly.The altitude : The atmosphere is indirectlyheated by terrestrial radiation from below.Therefore, the places near the sea-level record
+higher temperature than the places situated
+at higher elevations. In other words, the
+temperature generally decreases with
+increasing height. The rate of decrease of
+temperature with height is termed as the
+normal lapse rate. It is 6.5°C per 1,000 m.Distance from the sea : Another factor thatinfluences the temperature is the location of aplace with respect to the sea. Compared to land,
+the sea gets heated slowly and loses heat
+slowly. Land heats up and cools down quickly.
+Therefore, the variation in temperature over the
+sea is less compared to land. The places
+situated near the sea come under the
+moderating influence of the sea and land
+breezes which moderate the temperature.Air-mass and Ocean currents : Like the landand sea breezes, the passage of air masses alsoaffects the temperature. The places, which
+come under the influence of warm air-masses
+experience higher temperature and the places
+that come under the influence of cold air-
+masses experience low temperature. Similarly,TemperatureThe interaction of insolation with theatmosphere and the earth™s surface creates
+SOLAR RADIATION, HEAT BALANCE AND TEMPERATURE83the places located on the coast where the warmocean currents flow record higher temperature
+than the places located on the coast where the
+cold currents flow.Distribution of TemperatureThe global distribution of temperature can wellbe understood by studying the temperature
+distribution in January and July. The
+temperature distribution is generally shown
+on the map with the help of isotherms. The
+Isotherms are lines joining places having equaltemperature. Figure 9.4 (a) and (b) show thedistribution of surface air temperature in the
+month of January and July.In general the effect of the latitude ontemperature is well pronounced on the map,
+as the isotherms are generally parallel to the
+latitude.  The deviation from this general trend
+is more pronounced in January than in July,
+especially in the northern hemisphere. In thenorthern hemisphere the land surface area is
+much larger than in the southern hemisphere.Hence, the effects of land mass and the oceancurrents are well pronounced. In January theisotherms deviate to the north over the oceanand to the south over the continent. This canbe seen on the North Atlantic Ocean. Thepresence of warm ocean currents, Gulf Streamand North Atlantic drift, make the NorthernAtlantic Ocean warmer and the isotherms bend
+towards the north. Over the land thetemperature decreases sharply and theisotherms bend towards south in Europe.It is much pronounced in the Siberianplain. The mean January temperature along60° E longitude is minus 20° C both at 80° N
+and 50°N latitudes. The mean monthly
+temperature for January is over 27° C, inequatorial oceans over 24° C in the tropics
+and 2° C - 0° C in the middle latitudesand Œ18° C to Œ48° C in the Eurasian
+continental interior.Figure 9.4 (a) : The distribution of surface air temperature in the month of January
+FUNDAMENTALS OF PHYSICAL GEOGRAPHY84Figure 9.5 : The range of temperature between January and JulyFigure 9.4 (b) : The distribution of surface air temperature in the month of July
+SOLAR RADIATION, HEAT BALANCE AND TEMPERATURE85 The effect of the ocean is well pronouncedin the southern hemisphere. Here the 
+isothermsare more or less parallel to the latitudes andthe variation in temperature is more gr
+adualthan in the northern hemisphere. The isothermof 20° C, 10° C, and 0° C runs parallel to 35° S,
+45° S and 60° S latitudes respectively.In July the isotherms generally runparallel to the latitude. The equatorial oceans
+record warmer temperature, more than 27°C.
+Over the land more than 30°C is noticed in
+the subtropical continental region of Asia,
+along the 30° N latitude. Along the 40° N runs
+the isotherm of 10° C and along the 40°S the
+temperature is 10° C.Figure 9.5 shows the range of
+temperature be
+tween January and July. Thehighest range of 
+temperature is more than 60°C over the north-eastern part of Eurasiancontinent. This is due to continentality. The
+least range of temperature, 3°C, is found
+between 20° S and 
+15° N.INVERSION OF TEMPERATURENormally, temperature decreases with increasein elevation. It is called normal lapse rate. Attimes, the situations is reversed and thenormal lapse rate is inverted. It is calledInversion of temperature. Inversion is usuallyof short duration but quite commonnonetheless. A long winter night with clearskies and still air is ideal situation forinversion. The heat of the day is radiated offduring the night, and by early morning hours,
+the earth is cooler than the air above. Over polarareas, temperature inversion is normalthroughout the year.Surface inversion promotes stability in thelower layers of the atmosphere. Smoke and
+dust particles get collected beneath the
+inversion layer and spread horizontally to fillthe lower strata of the atmosphere. Dense fogsin mornings are common occurrences
+especially during winter season. This inversioncommonly lasts for few hours until the suncomes up and beings to warm the earth.The inversion takes place in hills andmountains due to air drainage. Cold air at the
+hills and mountains, produced during night,
+flows under the influence of gravity. Beingheavy and dense, the cold air acts almost likewater and moves down the slope to pile up
+deeply in pockets and valley bottoms withwarm air above. This is called air drainage. Itprotects plants from frost damages.Plank™s law states that hotter a body,the more energy it will radiate and
+shorter the wavelength of thatradiation.Specific heat is the energy needed toraise the temperature of one gram ofsubstance by one Celsius.EXERCISES1.Multiple choice questions.
+  (i)The sun is directly overhead at noon on 21st June at:
+(a) The equator(c) 23.5° N
+(b) 23.5° S(d) 66.5° N
+ (ii)In which one of the following cities, are the days the longest?
+(a) Tiruvanantpuram(c) Hyderabad(b) Chandigarh(d) Nagpur
+FUNDAMENTALS OF PHYSICAL GEOGRAPHY86(iii)The atmosphere is mainly heated by the:(a) Short wave solar radiation(c) Long wave terrestrial radiation
+
+(b) Reflected solar radiation(d) Scattered solar radiation(iv)Make correct pairs from the following two columns.(i) Insolation     (a)The difference between the mean
+temperature of the warmest and the coldestmonths(ii)Albedo
+     (b)The lines joining the places of equal
+temperature(iii)Isotherm
+     (c)The incoming solar radiation
+(iv)Annual range
+     (d)The percentage of visible light reflected by
+an object (v)The main reason that the earth experiences highest temperatures in the
+subtropics in the northern hemisphere rather than at the equator is :(a)Subtropical areas tend to have less cloud cover than equatorial areas.
+
+(b)Subtropical areas have longer day hours in the summer than the
+equatorial.(c)Subtropical areas have an enhanced ﬁgreen house effectﬂ compared
+to equatorial areas.(d)Subtropical areas are nearer to the oceanic areas than the equatorial
+locations.2.Answer the following questions in about 30 words.
+(i)How does the unequal distribution of heat over the planet earth in space
+and time cause variations in weather and climate?(ii)What are the factors that control temperature distribution on the surfaceof the earth?(iii)In 
+India, why is the day temperature maximum in May and why not afterthe summer solstice?(iv)Why is the annual range of temperature high in the Siberian plains?3.Answer the following questions in about 150 words.
+(i)How do the latitude and the tilt in the axis of rotation of the earth affect
+the amount of radiation received at the earth™s surface?(ii)Discuss the processes through which the earth-atmosphere system
+maintains heat balance.(iii)Compare the global distribution of temperature in January over the
+northern and the southern hemisphere of the earth.Project WorkSelect a meteorological observatory located in your city or near your town.  Tabulatethe temperature data as given in the climatological table of observatories :(i)Note the altitude, latitude of the observatory and the period for which the
+mean is calculated.

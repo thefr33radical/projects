@@ -1,0 +1,23 @@
+WEB PAGE DESIGNINGUSING HTMLAs we have learnt earlier, the Internet is a verylarge network of computers spread across the
+world. The Internet allows for each of thesecomputers to send and receive information fromeach other. One of the major applications of
+the Internet is the World Wide Web (WWW). The
+World Wide Web or the web in short, can be
+
+thought of as an interconnected set ofdocuments, images, audio, video files or
+software files.When you connect to the Internet and lookaround (we call it browsing), you are using a
+very interesting feature of the web, hyperlinks.
+Each time you click on a highlighted piece of
+text or image, you jump to another piece of text
+or image and this could be on the same page,
+another page on the same hard disk or on a page
+residing on another computer, half way across
+the world.How this works and how we could make ithappen is what we will learn in this chapter. Web
+pages use a language called the Hyper Text
+Markup Language (HTML). The browserIntroduction9 ﬁLogic will get you from A to B. Imagination willtake you everywhere.ﬂ Albert Einstein
+ObjectivesAfter completing this Chapter, the
+student will be able to:Łrecognise HTML tags and theirattributes,Łuse HTML tags and attributes to
+develop web pages,Łuse HTML tags and attributes toformat text and images, design
+layouts, present tables and lists
+and create hyperlinks,Łuse HTML forms to add
+interactivity to web pages andŁdesign a web site and construct it
+using HTML.

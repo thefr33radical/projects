@@ -1,0 +1,107 @@
+MCQ I9.1Modulus of rigidity of ideal liquids is(a)infinity.
+(b)zero.
+(c)unity.
+(d)some finite small non-zero constant value.
+9.2The maximum load a wire can withstand without breaking, whenits length is reduced to half of its original length, will(a)be double.
+(b)be half.
+(c)be four times.
+
+(d)remain same.
+9.3The temperature of a wire is doubled. The Young™s modulus of
+elasticity(a)will also double.
+(b)will become four times.
+Chapter NineMECHANICALPROPERTIES OFSOLIDS
+Exemplar ProblemsŒPhysics66(c) will remain same.
+(d) will decrease.
+9.4A spring is stretched by applying a load to its free end. The strainproduced in the spring is(a)volumetric.
+(b)shear.
+
+(c)longitudinal and shear.
+
+(d)longitudinal.
+9.5A rigid bar of mass M is supported symmetrically by three wireseach of length l . Those at each end are of copper and the middleone is of iron. The ratio of their diameters, if each is to have thesame tension, is equal to(a)Y
+copper/Yiron(b)iron
+copper
+YY(c)22iron
+copperYY(d) 
+iron
+copper
+YY.9.6A mild steel wire of length 2L and cross-sectional area A isstretched, well within elastic limit, horizontally between two pillars(Fig. 9.1). A mass m is suspended from the mid point of the wire.Strain in the wire isFig. 9.12Lxm(a)222xL(b) 
+xL
+Mechanical Properties of Solids67(c)2xL(d) 
+22xL.9.7A rectangular frame is to be suspended symmetrically by twostrings of equal length on two supports (Fig. 9.2). It can be donein one of the following three ways;Fig. 9.2(a)(b)(c)
+The tension in the strings will be(a)the same in all cases.
+(b)least in (a).
+(c)least in (b).
+
+(d)least in (c).
+9.8Consider two cylindrical rods of identical dimensions, one of rubber
+and the other of steel. Both the rods are fixed rigidly at one end tothe roof. A mass M is attached to each of the free ends at the centreof the rods.(a)Both the rods will elongate but there shall be no perceptible
+change in shape.(b)The steel rod will elongate and change shape but the rubber
+rod will only elongate.(c)The steel rod will elongate without any perceptible change in
+shape, but the rubber rod will elongate and the shape of thebottom edge will change to an ellipse.(d)The steel rod will elongate, without any perceptible change in
+shape, but the rubber rod will elongate with the shape of thebottom edge tapered to a tip at the centre.
+Exemplar ProblemsŒPhysics68ABAlsteelmMCQ II9.9The stress-strain graphs for two materials are shown in Fig.9.3(assume same scale).Fig. 9.3(a)Material (ii) is more elastic than material (i) and hence material
+(ii) is more brittle.(b)Material (i) and (ii) have the same elasticity and the same
+brittleness.(c)Material (ii) is elastic over a larger region of strain as compared to
+ (i).
+(d)Material (ii) is more brittle than material (i).
+9.10A wire is suspended from the ceiling and stretched under the actionof a weight F suspended from its other end. The force exerted bythe ceiling on it is equal and opposite to the weight.(a)Tensile stress at any cross section 
+A of the wire is F/A.(b)Tensile stress at any cross section is zero.
+(c)Tensile stress at any cross section 
+A of the wire is 2F/A.(d)Tension at any cross section A of the wire is 
+F.9.11A rod of length l and negligible mass is suspended at its two endsby two wires of steel (wire A) and aluminium (wire B) of equallengths (Fig. 9.4). The cross-sectional areas of wires A and B are
+1.0 mm2 and 2.0 mm2, respectively.929Œ2
+7010Nmand20010Nm
+Alsteel
+YY
+Fig. 9.4
+Mechanical Properties of Solids69(a)Mass 
+m should be suspended close to wire A to have equalstresses in both the wires.(b)Mass 
+m should be suspended close to B to have equal stressesin both the wires.(c)Mass 
+m should be suspended at the middle of the wires tohave equal stresses in both the wires.(d)Mass 
+m should be suspended close to wire A to have equalstrain in both wires.9.12For an ideal liquid(a)the bulk modulus is infinite.
+(b) the bulk modulus is zero.
+
+(c) the shear modulus is infinite.
+(d) the shear modulus is zero.
+9.13A copper and a steel wire of the same diameter are connected endto end. A deforming force F is applied to this composite wire whichcauses a total elongation of 1cm. The two wires will have(a)the same stress.
+(b) different stress.
+
+(c) the same strain.
+(d) different strain.
+VSA9.14The Young™s modulus for steel is much more than that for rubber.
+For the same longitudinal strain, which one will have greatertensile stress?9.15Is stress a vector quantity?
+9.16Identical springs of steel and copper are equally stretched. Onwhich, more work will have to be done?9.17What is the Young™s modulus for a perfect rigid body?
+9.18What is the Bulk modulus for a perfect rigid body?
+SA9.19A wire of length L and radius r is clamped rigidly at one end. Whenthe other end of the wire is pulled by a force f, its length increasesby l. Another wire of the same material of length 2L and radius 2r,is pulled by a force 2f. Find the increase in length of this wire.
+Exemplar ProblemsŒPhysics709.20A steel rod (Y = 2.0 × 1011 NmŒ2; and  = 10Œ50 CŒ1) of length 1 mand area of cross-section 1 cm2 is heated from 0°C to 200°C, withoutbeing allowed to extend or bend. What is the tension produced inthe rod?9.21To what depth must a rubber ball be taken in deep sea so that itsvolume is decreased by 0.1%. (The bulk modulus of rubber is
+9.8×108 N mŒ2; and the density of sea water is 103 kg mŒ3.)9.22A truck is pulling a car out of a ditch by means of a steel cablethat is 9.1 m long and has a radius of 5 mm. When the car justbegins to move, the tension in the cable is 800 N. How much hasthe cable stretched? (Y
+oung™s modulus for steel is 2 × 1011 NmŒ2.)9.23Two identical solid balls, one of ivory and the other of wet-clay,are dropped from the same height on the floor. Which one will rise
+to a greater height after striking the floor and why?LA9.24Consider a long  steel bar under a tensile stress due to forces Facting at the edges along the length of the bar (Fig. 9.5). Considera plane making an angle  with the length. What are the tensileand shearing stresses on this plane?Fig. 9.5FFa'a(a)For what angle is the tensile stress a maximum?
+(b)For what angle is the shearing stress a maximum?
+9.25(a)A steel wire of mass 
+per unit length with a circular crosssection has a radius of 0.1 cm. The wire is of length 10 m whenmeasured lying horizontal, and hangs from a hook on the wall.
+A mass of 25 kg is hung from the free end of the wire. Assumingthe wire to be uniform and lateral strains << longitudinalstrains, find the extension in the length of the wire. The density
+of steel is 7860 kg mŒ3 (Young™s modules Y=2×10
+11 NmŒ2).(b)If the yield strength of steel is 2.5×10
+8 NmŒ2, what is the maximumweight that can be hung at the lower end of the wire?
+Mechanical Properties of Solids719.26A steel rod of length 2
+l, cross sectional area A and mass M is setrotating in a horizontal plane about an axis passing through thecentre. If 
+Y is the Young™s modulus for steel, find the extension in
+the length of the rod. (Assume the rod is uniform.)9.27An equilateral triangle ABC is formed by two Cu rods AB and BCand one Al rod. It is heated in such a way that temperature of
+each rod increases by T. Find change in the angle ABC. [Coeff. oflinear expansion for 1Cuis
+,Coeff. of linear expansion for2Alis
+]9.28In nature, the failure of structural members usually result from
+large torque because of twisting or bending rather than due to
+tensile or compressive strains. This process of structural
+breakdown is called buckling and in cases of tall cylindricalstructures like trees, the torque is caused by its own weight bendingthe structure. Thus the vertical through the centre of gravity doesnot fall within the base. The elastic torque caused because of thisbending about the central axis of the tree is given by 44YrR. Y isthe Young™s modulus, 
+r is the radius of the trunk and 
+R is theradius of curvature of the bent surface along the height of the treecontaining the centre of gravity (the neutral surface). Estimate the
+critical height of a tree for a given radius of the trunk.9.29A stone of mass m is tied to an elastic string of negligble mass andspring constant k. The unstretched length of the string is L  andhas negligible mass. The other end of the string is fixed to a nail ata point P. 
+Initially the stone is at the same level as the point P. The
+stone is dropped vertically from point P.
+(a)Find the distance 
+y from the top when the mass comes to restfor an instant, for the first time.(b)What is the maximum velocity attained by the stone in this
+drop?(c)What shall be the nature of the motion after the stone has
+reached its lowest point?

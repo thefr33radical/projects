@@ -1,0 +1,16 @@
+COMPONENTSOF CCTIntroductionAfter completing this Chapter, thestudent will be able to:Łtrace the evolution of computers,
+Łdescribe the computer and its
+devices,Łlist the components of a computer
+system,Łcompare various input and output
+devices,Łclassify various ports,
+
+Łunderstand  different storage
+devices,Łrecall the evolution of
+communication technology,Łexplain computer languages and
+their development,Łcompare  various types  of
+software andŁinterpret steps involved in
+programming.2In the first chapter we were introduced to a devicethat has changed the way we work, live and play.
+Only once in a lifetime does a new invention come
+about to touch every aspect of our lives in thisway. This incredible invention is the computer.The electronic computer has been around forover half a century, but its ancestors have beenaround for 2000 years. However, only in the last40 years has it changed society. From the firstwooden abacus to the latest high-speed
+microprocessor, the computer has changed nearly
+every aspect of our lives for the better.ObjectivesI think it™s fair to say that personal computershave become the most empowering tool we™veever created. They™re tools of communication,they™re tools of creativity, and they can beshaped by their user.Bill Gates

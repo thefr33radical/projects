@@ -1,0 +1,159 @@
+ATMOSPHERIC CIRCULATIONAND WEATHER SYSTEMSEarlier Chapter 9 described the unevendistribution of temperature over thesurface of the earth. Air expands whenheated and gets compressed when cooled. This
+results in variations in the atmosphericpressure. The result is that it causes themovement of air from high pressure to low
+pressure, setting the air in motion. You alreadyknow that air in horizontal motion is wind.
+Atmospheric pressure also determines whenthe air will rise or sink. The wind redistributesthe heat and moisture across the planet,
+thereby, maintaining a constant temperaturefor the planet as a whole. The vertical rising ofmoist air cools it down to form the clouds and
+bring precipitation. This chapter has beendevoted to explain the causes of pressuredifferences, the forces that control theatmospheric circulation, the turbulent patternof wind, the formation of air masses, the
+disturbed weather when air masses interactwith each other and the phenomenon of violenttropical storms.ATMOSPHERIC PRESSUREDo you realise that our body is subjected to alot of air pressure. As one moves up the airgets varified and one feels breathless.The weight of a column of air contained ina unit area from the mean sea level to the top
+of the atmosphere is called the atmosphericpressure. The atmospheric pressure isexpressed in units of milibar. At sea level theaverage atmospheric pressure is 1,013.2milibar. Due to gravity the air at the surface isdenser and hence has higher pressure. Airpressure is measured with the help of amercury barometer or the aneroid barometer.Consult your book, Practical Work inGeography Š Part I (NCERT, 2006) and learnabout these instruments. The pressuredecreases with height. At any elevation it variesfrom place to place and its variation is the
+primary cause of air motion, i.e. wind whichmoves from high pressure areas to lowpressure areas.Vertical Variation of PressureIn the lower atmosphere the pressuredecreases rapidly with height. The decreaseamounts to about 1 mb for each 10 mincrease in elevation. It does not always
+decrease at the same rate. Table 10.1 givesthe average pressure and temperature atselected levels of elevation for a standardatmosphere.Table 10.1 : Standard Pressure and Temperature atSelected LevelsLevelPressure in mbTemperature °CSea Level1,013.2515.21 km898.768.75 km540.48Œ17. 310 km265.00Œ49.7The vertical pressure gradient force is muchlarger than that of the horizontal pressure
+gradient. But, it is generally balanced by anearly equal but opposite gravitational force.Hence, we do not experience strong upwardwinds.CHAPTER
+ATMOSPHERIC CIRCULATION AND WEATHER SYSTEMS89Horizontal Distribution of PressureSmall differences in pressure are highlysignificant in terms of the wind direction andpurposes of comparison. The sea level pressuredistribution is shown on weather maps.Figure 10.1 shows the patterns of isobarscorresponding to pressure systems. Low-
+pressure system is enclosed by one or more
+isobars with the lowest pressure in the centre.High-pressure system is also enclosed by oneor more isobars with the highest pressure in
+the centre.World Distribution of Sea Level PressureThe world distribution of sea level pressure inJanuary and July has been shown in Figures10.2 and 10.3. Near the equator the sea level
+pressure is low and the area is known as
+equatorial low. Along 30° N and 30o S arefound the high-pressure areas known as thesubtropical highs. Further pole wards along60oN and 60oS, the low-pressure belts aretermed as the sub polar lows. Near the poles
+the pressure is high and it is known as the polarhigh. These pressure belts are not permanentFigure 10.2 : Distribution of pressure (in millibars) Š JanuaryFigure 10.1 : Isobars, pressure and wind systems inNorthern Hemispherevelocity. Horizontal distribution of pressure is
+studied by drawing isobars at constant levels.Isobars are lines connecting places havingequal pressure. In order to eliminate the effectof altitude on pressure, it is measured at anystation after being reduced to sea level for
+FUNDAMENTALS OF PHYSICAL GEOGRAPHY90Pressure Gradient ForceThe differences in atmospheric pressureproduces a force. The rate of change of pressurewith respect to distance is the pressuregradient. The pressure gradient is strong wherethe isobars are close to each other and is weakwhere the isobars are apart.Frictional ForceIt affects the speed of the wind. It is greatest atthe surface and its influence generally extendsupto an elevation of 1 - 3 km. Over the seasurface the friction is minimal.Coriolis ForceThe rotation of the earth about its axis affectsthe direction of the wind. This force is calledthe Coriolis force after the French physicist whodescribed it in 1844. It deflects the wind to the
+right direction in the northern hemisphere andin nature. They oscillate with the apparentmovement of the sun. In the northern
+hemisphere in winter they move southwardsand in the summer northwards.Forces Affecting the Velocityand Direction of WindYou already know that the air is set in motiondue to the differences in atmospheric pressure.The air in motion is called wind. The windblows from high pressure to low pressure. Thewind at the surface experiences friction. Inaddition, rotation of the earth also affects the
+wind movement. The force exerted by therotation of the earth is known as the Coriolisforce. Thus, the horizontal winds near theearth surface respond to the combined effectof three forces Œ the pressure gradient force,
+the frictional force and the Coriolis force. Inaddition, the gravitational force actsdownward.Figure 10.3 : Distribution of pressure (in millibars) Š July
+ATMOSPHERIC CIRCULATION AND WEATHER SYSTEMS91to the left in the southern hemisphere. Thedeflection is more when the wind  velocity ishigh. The Coriolis force is directly proportionalto the angle of latitude. It is maximum at thepoles and is absent at the equator.The Coriolis force acts perpendicular to thepressure gradient force. The pressure gradient
+force is perpendicular to an isobar. The higherthe pressure gradient force, the more is the
+velocity of the wind and the larger is thedeflection in the direction of wind. As a result ofthese two forces operating perpendicular to eachother, in the low-pressure areas the wind blowsaround it. At the equator, the Coriolis force iszero and the wind blows perpendicular to theisobars. The low pressure gets filled instead ofgetting intensified. That is the reason why tropicalcyclones are not formed near the equator.Pressure and WindThe velocity and direction of the wind are thenet result of the wind generating forces. Thewinds in the upper atmosphere, 2 - 3 km above
+the surface, are free from frictional effect of thesurface and are controlled mainly by thepressure gradient and the Coriolis force. Whenisobars are straight and when there is nofriction, the pressure gradient force is balanced
+by the Coriolis force and the resultant windblows parallel to the isobar. This wind is knownas the geostrophic wind (Figure 10.4).Table 10.2 : Pattern of Wind Direction in Cyclones and AnticyclonesPressure SystemPressure ConditionPattern of Wind Directionat the CentreNorthern HemisphereSouthern HemisphereCycloneLowAnticlockwiseClockwiseAnticycloneHighClockwiseAnticlockwiseThe wind circulation around a low iscalled cyclonic circulation. Around a highit is called anti cyclonic circulation. Thedirection of winds around such systemschanges according to their location indifferent hemispheres (Table 10.2).The wind circulation at the earth™s surfacearound low and high on many occasions is
+closely related to the wind circulation at higher
+level. Generally, over low pressure area the air
+will converge and rise. Over high pressure areathe air will subside from above and diverge atthe surface (Figure10.5). Apart from
+convergence, some eddies, convection
+currents, orographic uplift and uplift along
+fronts cause the rising of air, which is essentialfor the formation of clouds and precipitation.Figure 10.4 : Geostropic WindGeneral circulation of the atmosphereThe pattern of planetary winds largely dependson : (i) latitudinal variation of atmosphericheating; (ii) emergence of pressure belts; (iii)the migration of belts following apparent pathof the sun; (iv) the distribution of continents
+and oceans; (v) the rotation of earth. The patternof the movement of the planetary winds iscalled the general circulation of theatmosphere. The general circulation of theatmosphere also sets in motion the ocean water
+circulation which influences the earth™sFigure 10.5 : Convergence and divergence of winds
+FUNDAMENTALS OF PHYSICAL GEOGRAPHY92climate. A schematic description of the generalcirculation is shown in Figure 10.6.The general circulation of the atmospherealso affects the oceans. The large-scale windsof the atmosphere initiate large and slow
+moving currents of the ocean. Oceans in turn
+provide input of energy and water vapour intothe air. These interactions take place ratherslowly over a large part of the ocean.General Atmospheric Circulation andits Effects on OceansWarming and cooling of the Pacific Oceanis most important in terms of general
+atmospheric circulation. The warm waterof the central Pacific Ocean slowly drifts
+towards South American coast and
+replaces the cool Peruvian current. Suchappearance of warm water off the coastof Peru is known as the El Nino.  The El
+Nino event is closely associated with thepressure changes in the Central Pacificand Australia. This change in pressure
+condition over Pacific is known as thesouthern oscillation.  The combinedphenomenon of southern oscillation and
+El Nino is known as ENSO. In the years
+when the ENSO is strong, large-scalevariations in weather occur over theworld.  The arid west coast of South
+America receives heavy rainfall, droughtoccurs in Australia and sometimes inIndia and floods in China. This
+phenomenon is closely monitored and is
+used for long range forecasting in majorparts of the world.Seasonal WindThe pattern of wind circulation is modified indifferent seasons due to the shifting of regionsof maximum heating, pressure and wind belts.
+The most pronounced effect of such a shift isnoticed in the monsoons, especially oversoutheast Asia. You would be studying thedetails of monsoon in the book India : PhysicalEnvironment (NCERT, 2006). The other localdeviations from the general circulation system
+are as follows.Local WindsDifferences in the heating and cooling of earthsurfaces and the cycles those develop daily or
+annually can create several common, local or
+regional winds.Figure 10. 6 : Simplified general circulation    of the atmosphereThe air at the Inter Tropical ConvergenceZone (ITCZ) rises because of convection caused
+by high insolation and a low pressure iscreated. The winds from the tropics convergeat this low pressure zone. The converged air
+rises along with the convective cell. It reaches
+the top of the troposphere up to an altitude of14 km. and moves towards the poles. Thiscauses accumulation of air at about 30o N andS. Part of the accumulated air sinks to theground and forms a subtropical high. Anotherreason for sinking is the cooling of air when it
+reaches 30o N and S latitudes. Down belownear the land surface the air flows towards theequator as the easterlies. The easterlies fromeither side of the equator converge in the Inter
+Tr
+opical Convergence Zone (ITCZ). Suchcirculations from the surface upwards and
+vice-versa are called cells. Such a cell in thetropics is called Hadley Cell. In the middlelatitudes the circulation is that of sinking cold
+air that comes from the poles and the rising
+warm air that blows from the subtropical high.
+At the surface these winds are called westerliesand the cell is known as the Ferrel cell. At polarlatitudes the cold dense air subsides near thepoles and blows towards middle latitudes asthe polar easterlies. This cell is called the polarcell. These three cells set the pattern for the
+general circulation of the atmosphere.  Thetransfer of heat energy from lower latitudes tohigher latitudes maintains the general
+circulation.
+ATMOSPHERIC CIRCULATION AND WEATHER SYSTEMS93Land and Sea BreezesAs explained earlier, the land and sea absorband transfer heat differently. During the day theland heats up faster and becomes warmer thanthe sea. Therefore, over the land the air risesgiving rise to a low pressure area, whereas thesea is relatively cool and the pressure over seais relatively high. Thus, pressure gradient from
+sea to land is created and the wind blows fromthe sea to the land as the sea breeze. In the nightthe reversal of condition takes place. The landloses heat faster and is cooler than the sea. Thepressure gradient is from the land to the seaand hence land breeze results (Figure 10.7).Figure 10.7 : Land and sea breezesMountain and Valley WindsIn mountainous regions, during the day theslopes get heated up and air moves upslopeand to fill the resulting gap the air from thevalley blows up the valley. This wind is knownas the valley breeze. During the night theslopes get cooled and the dense air descendsinto the valley as the mountain wind. The coolair, of the high plateaus and ice fields draininginto the valley is called katabatic wind. Another
+type of warm wind occurs on the leeward sideof the mountain ranges. The moisture in these
+winds, while crossing the mountain rangescondense and precipitate. When it descendsdown the leeward side of the slope the dry airgets warmed up by adiabatic process. This dryair may melt the snow in a short time.Air MassesWhen the air remains over a homogenous areafor a sufficiently longer time, it acquires thecharacteristics of the area.  The homogenousregions can be the vast ocean surface or vast
+plains. The air with distinctive characteristicsin terms of temperature and humidity is calledan airmass. It is defined as a large body of airhaving little horizontal variation in temperatureand moisture. The homogenous surfaces, over
+which air masses form, are called the sourceregions.The air masses are classified according tothe source regions. There are five major sourceregions. These are: (i) Warm tropical andsubtropical oceans; (ii) The subtropical hotdeserts; (iii) The relatively cold high latitudeoceans; (iv) The very cold snow coveredcontinents in high latitudes; (v) Permanentlyice covered continents in the Arctic and
+Antarctica. Accordingly, following types of air-masses are recognised: (i) Maritime tropical
+(mT); (ii) Continental tropical (cT); (iii) Maritimepolar (mP); (iv) Continental polar (cP);(v) Continental arctic (cA). Tropical air massesare warm and polar air masses are cold.FrontsWhen two different air masses meet, theboundary zone between them is called afront. The process of formation of thefronts is known as frontogenesis. Thereare four types of fronts: (a) Cold; (b) Warm;(c) Stationary; (d) Occluded. When thefront remains stationary, it is called astationary front. When the cold air moves
+FUNDAMENTALS OF PHYSICAL GEOGRAPHY94towards the warm air mass, its contact zone iscalled the cold front, whereas if the warm airmass moves towards the cold air mass, the
+contact zone is a warm front. If an air mass is
+fully lifted above the land surface, it is called
+the occluded front. The fronts occur in middlelatitudes and are characterised by steep gradientin temperature and pressure. They bring
+abrupt changes in temperature and cause the
+air to rise to form clouds and cause precipitation.Extra Tropical CyclonesThe systems developing in the mid and high
+latitude, beyond the tropics are called the
+middle latitude or extra tropical cyclones. Thepassage of front causes abrupt changes in the
+weather conditions over the area in the middle
+and high latitudes.Extra tropical cyclones form along the polarfront. Initially, the front is stationary. In the
+northern hemisphere, warm air blows from the
+south and cold air from the north of the front.
+When the pressure drops along the front, the
+warm air moves northwards and the cold air
+move towards, south setting in motion ananticlockwise cyclonic circulation. The cyclonic
+circulation leads to a well developed extra
+tropical cyclone, with a warm front and a cold
+front. The plan and cross section of a well
+developed cyclone is given in Figure 10.9.
+There are pockets of warm air or warm sector
+wedged between the forward and the rear cold
+air or cold sector. The warm air glides over thecold air and a sequence of clouds appear over
+the sky ahead of the warm front and cause
+precipitation. The cold front approaches the
+warm air from behind and pushes the warm
+air up. As a result, cumulus clouds develop
+along the cold front. The cold front moves faster
+than the warm front ultimately overtaking the
+warm front. The warm air is completely lifted
+up and the front is occluded and the cyclone
+dissipates.The processes of wind circulation both atthe surface and aloft are closely interlinked.
+The extra tropical cyclone differs from the
+tropical cyclone in number of ways. The extra
+tropical cyclones have a clear frontal systemFigure 10.8 : Vertical Sections of : (a) Warm Front;(b) Cold Front; (c) Occluded FrontFigure 10. 9 : Extra tropical cyclones
+ATMOSPHERIC CIRCULATION AND WEATHER SYSTEMS95which is not present in the tropical cyclones.They cover a larger area and can originate overthe land and sea. Whereas the tropical cyclonesoriginate only over the seas and on reachingthe land they dissipate. The extra tropicalcyclone affects a much larger area as
+compared to the tropical cyclone. The windvelocity in a tropical cyclone is much higherand it is more destructive. The extra tropicalcyclones move from west to east but tropicalcyclones, move from east to west.Tr
+opical CyclonesTr
+opical cyclones are violent storms thatoriginate over oceans in tropical areas andmove over to the coastal areas bringing aboutlarge scale destruction caused by violent
+winds, very heavy rainfall and storm surges.This is one of the most devastating naturalcalamities. They are known as Cyclones in theIndian Ocean, Hurricanes in the Atlantic,Typhoons in the Western Pacific and SouthChina Sea, and Willy-willies in the WesternAustralia.Tr
+opical cyclones originate and intensifyover warm tropical oceans.  The conditions
+favourable for the formation and intensification
+of tropical storms are: (i) Large sea surface withtemperature higher than 27° C;  (ii) Presenceof the Coriolis force; (iii) Small variations in thevertical wind speed; (iv) A pre-existing weak-low-pressure area or low-level-cyclonic
+circulation; (v) Upper divergence above the sealevel system.The energy that intensifies the storm, comesfrom the condensation process in the toweringcumulonimbus clouds, surrounding the
+centre of the storm. With continuous supplyof moisture from the sea, the storm is furtherstrengthened. On reaching the land themoisture supply is cut off and the stormdissipates. The place where a tropical cyclone
+crosses the coast is called the landfall of thecyclone. The cyclones, which cross 20o Nlatitude generally, recurve and they are more
+destructive.A schematic representation of the verticalstructure of a mature tropical cyclonic stormis shown in Figure 10.10.A mature tropical cyclone is characterisedby the strong spirally circulating wind aroundthe centre, called the eye. The diameter of the
+circulating system can vary between 150 and
+250 km.The eye is a region of calm with subsidingair. Around the eye is the eye wall, where thereis a strong spiralling ascent of air to greater
+height reaching the tropopause. The wind
+reaches maximum velocity in this region,
+reaching as high as 250 km per hour.Torrential rain occurs here. From the eye wall
+rain bands may radiate and trains of cumulus
+and cumulonimbus clouds may drift into the
+outer region. The diameter of the storm over
+the Bay of Bengal, Arabian sea and Indianocean is between 600 - 1200 km. The system
+moves slowly about 300 - 500 km per day.
+The cyclone creates storm surges and they
+inundate the coastal low lands. The stormpeters out on the land.Figure 10.10 : Vertical section of the tropical cyclone(after Rama Sastry)
+FUNDAMENTALS OF PHYSICAL GEOGRAPHY96EXERCISES1.Multiple choice questions.  (i)If the surface air pressure is 1,000 mb, the air pressure at 1 km above thesurface will be:(a) 700 mb(c) 900 mb(b) 1,100 mb(d) 1,300 mb
+ (ii)The Inter Tropical Convergence Zone normally occurs:
+(a) near the Equator(b) near the Tropic of Cancer(c) near the Tropic of Capricorn(d) near the Arctic Circle(iii)The direction of wind around a low pressure in northern hemisphere is:
+(a) clockwise(c) anti-clock wise(b) perpendicular to isobars(d) parallel to isobars(iv)Which one of the following is the source region for the formation of airmasses?(a) the Equatorial forest(c) the Siberian Plain(b) the Himalayas(d) the Deccan Plateau2.Answer the following questions in about 30 words.(i)What is the unit used in measuring pressure? Why is the pressure measuredat station level reduced to the sea level in preparation of weather maps?(ii)While the pressure gradient force is from north to south, i.e. from thesubtropical high pressure to the equator in the northern hemisphere,why are the winds north easterlies in the tropics.(iii)What are the geotrophic winds?(iv)Explain the land and sea breezes.Thunderstorms and TornadoesOther severe local storms are thunderstormsand tornadoes. They are of short duration,
+occurring over a small area but are violent.
+Thunderstorms are caused by intenseconvection on moist hot days. A thunderstorm
+is a well-grown cumulonimbus cloud
+producing thunder and lightening. When the
+clouds extend to heights where sub-zero
+temperature prevails, hails are formed and they
+come down as hailstorm. If there is insufficient
+moisture, a thunderstorm can generate dust-
+storms. A thunderstorm is characterised by
+intense updraft of rising warm air, whichcauses the clouds to grow bigger and rise togreater height. This causes precipitation. Later,downdraft brings down to earth the cool air
+and the rain. From severe thunderstorms
+sometimes spiralling wind descends like a
+trunk of an elephant with great force, with very
+low pressure at the centre, causing massive
+destruction on its way. Such a phenomenon is
+called a tornado. Tornadoes generally occurin middle latitudes. The tornado over the sea
+is called water spouts.These violent storms are the manifestationof the atmosphere™s adjustments to varying
+energy distribution. The potential and heat
+energies are converted into kinetic energy in
+these storms and the restless atmosphere again
+returns to its stable state.
+ATMOSPHERIC CIRCULATION AND WEATHER SYSTEMS973.Answer the following questions in about 150 words.(i)Discuss the factors affecting the speed and direction of wind.(ii)Draw a simplified diagram to show the general circulation of theatmosphere over the globe. What are the possible reasons for the formationof subtropical high pressure over 30o N and S latitudes?(iii)Why does tropical cyclone originate over the seas? In which part of thetropical cyclone do torrential rains and high velocity winds blow and why?Project Work(i)Collect weather information over media such as newspaper, TV and radiofor understanding the weather systems.(ii)Read the section on weather in any newspaper, preferably, one having amap showing a satellite picture. Mark the area of cloudiness. Attempt toinfer the atmospheric circulation from the distribution of clouds. Comparethe forecast given in the newspaper with the TV coverage, if you have
+access to TV. Estimate, how many days in a week was the forecast wereaccurate.

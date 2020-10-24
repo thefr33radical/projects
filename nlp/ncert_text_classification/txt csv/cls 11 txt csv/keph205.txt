@@ -1,0 +1,16 @@
+CHAPTER THIRTEENKINETIC THEORY13.1 INTRODUCTIONBoyle discovered the law named after him in 1661. Boyle,Newton and several others tried to explain the behaviour of
+gases by considering that gases are made up of tiny atomicparticles. The actual atomic theory got established more than150 years later. Kinetic theory explains the behaviour of gases
+based on the idea that the gas  consists of rapidly moving
+atoms or molecules. This is possible as the inter-atomic forces,
+which are short range forces that are important for solidsand liquids,  can be neglected for gases. The kinetic theory
+was developed in the nineteenth century by Maxwell,Boltzmann and others. It has been remarkably successful. Itgives a molecular interpretation of  pressure and temperature
+of a gas, and is consistent with gas laws and Avogadro™s
+hypothesis. It correctly explains specific heat capacities of
+many gases. It also relates measurable properties of gases
+such as viscosity, conduction and diffusion with molecular
+parameters, yielding estimates of molecular sizes and masses.
+This chapter gives an introduction to kinetic theory.13.2 MOLECULAR NATURE OF MATTERRichard Feynman, one of the great physicists of 20th centuryconsiders the discovery that ﬁMatter is made up of atomsﬂ to
+be a very significant one. Humanity may suffer annihilation(due to nuclear catastrophe) or extinction (due toenvironmental disasters) if we do not act wisely. If that
+happens, and all of scientific knowledge were to be destroyedthen Feynman would like the ‚Atomic Hypothesis™ to becommunicated to the next generation of creatures in the
+universe. Atomic Hypothesis: All things are made of atoms -little particles that move around in perpetual motion,attracting each other when they are a little distance apart,
+but repelling upon being squeezed into one another.Speculation that matter may not be continuous, existed inmany places and cultures. Kanada in India and Democritus13.1Introduction13.2Molecular nature of matter13.3Behaviour of gases13.4Kinetic theory of an ideal gas13.5Law of equipartition of energy13.6Specific heat capacity13.7Mean free pathSummaryPoints to ponderExercisesAdditional exercises

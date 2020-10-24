@@ -1,0 +1,5 @@
+CONSTRUCTIONSCHAPTER 10(A) Main Concepts and ResultsŁDivision of a line segment internally in a given ratio.ŁConstruction of a triangle similar to a given triangle as per given scale factorwhich may be less than 1 or greater than 1.ŁConstruction of the pair of tangents from an external point to a circle.(B) Multiple Choice QuestionsChoose the correct answer from the given four options:Sample Question 1 : To divide a line segment AB in the ratio 
+p : q (p, q are positiveintegers), draw a ray AX so that BAX is an acute angle and then mark points on rayAX at equal distances such that the minimum number of these points is(A) greater of p and q(B)p + q(C) p + q Œ 1(D)
+pqSolution : Answer (B)Sample Question 2 : To draw a pair of tangents to a circle which are inclined to each
+other at an angle of 35°, it is required to draw tangents at the end points of those tworadii of the circle, the angle between which is(A) 105°(B) 70°(C) 140°(D) 145°
+Solution : Answer (D)

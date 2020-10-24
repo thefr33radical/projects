@@ -1,0 +1,40 @@
+26CHEMISTRYThe rich diversity of chemical behaviour of different elementscan be traced to the differences in the internal structure ofatoms of these elements.UNIT 2STRUCTURE OF ATOMAfter studying this unit you will beable to··
+··
+·know about the discovery ofelectron, proton and neutron andtheir characteristics;··
+··
+·describe Thomson, Rutherfordand Bohr atomic models;··
+··
+·understand the importantfeatures of the quantummechanical model of atom;··
+··
+·understand nature ofelectromagnetic radiation andPlanck™s quantum theory;··
+
+··
+·explain the photoelectric effectand describe features of atomicspectra;··
+
+··
+·state the de Broglie relation andHeisenberg uncertainty principle;··
+
+··
+·define an atomic orbital in termsof quantum numbers;··
+
+··
+·state aufbau principle, Pauliexclusion principle and Hund™s
+rule of maximum multiplicity;··
+··
+·write the electronic configurationsof atoms.The existence of atoms has been proposed since the timeof early Indian and Greek philosophers (400 B.C.) whowere of the view that atoms are the fundamental buildingblocks of matter. According to them, the continuedsubdivisions of matter would ultimately yield atoms whichwould not be further divisible. The word ‚atom™  has beenderived from the Greek word ‚a-tomio™ which means ‚uncut-able™ or ‚non-divisible™. These earlier ideas were merespeculations and there was no way to test themexperimentally. These ideas remained dormant  for a verylong time and were revived again by scientists in thenineteenth century.The atomic theory of matter was first proposed on afirm scientific basis by John Dalton, a British schoolteacher in 1808. His theory, called Dalton™s atomictheory, regarded the atom as the ultimate particle ofmatter (Unit 1).In this unit we start with the experimentalobservations made by scientists towards the end ofnineteenth and beginning of twentieth century. These
+established that atoms can be further divided into sub-
+atomic particles, i.e., electrons,  protons and neutronsŠa concept very different from that of Dalton. The majorproblems before the scientists at that time were:··
+··
+·to account for the stability of atom after the discoveryof sub-atomic particles,··
+··
+·to compare the behaviour of one element from otherin terms of both physical and chemical properties,
+27STRUCTURE OF ATOM··
+··
+·to explain the formation of different kindsof molecules by the combination ofdifferent atoms and,··
+··
+·to understand the origin and nature of thecharacteristics of electromagneticradiation absorbed or emitted by atoms.2.1 SUB-ATOMIC PARTICLESDalton™s atomic theory was able to explainthe law of conservation of mass, law ofconstant composition and law of multipleproportion very successfully. However, it failedto explain the results of many experiments,for example, it was known that substances
+like glass or ebonite when rubbed with silk orfur generate electricity. Many different kindsof sub-atomic particles were discovered in thetwentieth century. However, in this sectionwe will talk about only two particles, namely
+electron and proton.2.1.1 Discovery of ElectronIn 1830, Michael Faraday showed that ifelectricity is passed through a solution of anelectrolyte, chemical reactions occurred at theelectrodes, which resulted in the liberationand deposition of matter at the electrodes. Heformulated certain laws which you will studyin class XII. These results suggested theparticulate nature of electricity.An insight into the structure of atom wasobtained from the experiments on electricaldischarge through gases. Before we discussthese results we need to keep in mind a basicrule regarding the behaviour of chargedparticles : ﬁLike charges repel each other andunlike charges attract each otherﬂ.In mid 1850s many scientists mainlyFaraday began to study electrical dischargein partially evacuated tubes, known ascathode ray discharge tubes. It is depictedin Fig. 2.1. A cathode ray tube is made of glass
+containing two thin pieces of metal, calledelectrodes, sealed in it. The electricaldischarge through the gases could beobserved only at very low pressures and atvery high voltages. The pressure of differentgases could be adjusted by evacuation. When
+sufficiently high voltage is applied across theelectrodes, current starts flowing through astream of particles moving in the tube fromthe negative electrode (cathode) to the positiveelectrode (anode). These were called cathoderays or cathode ray particles. The flow ofcurrent from cathode to anode was furtherchecked by making a hole in the anode andcoating the tube behind anode withphosphorescent material zinc sulphide. Whenthese rays, after passing through anode, strikethe zinc sulphide coating, a bright spot on
+the coating is developed(same thing happensin a television set) [Fig. 2.1(b)].Fig. 2.1(a)  A cathode ray discharge tubeFig. 2.1(b)A cathode ray discharge tube withperforated anodeThe results of these experiments aresummarised below.(i)The cathode rays start from cathode andmove towards the anode.(ii)These rays themselves are not visible buttheir behaviour can be observed with thehelp of certain kind of materials(fluorescent or phosphorescent) whichglow when hit by them. Televisionpicture tubes are cathode ray tubes andtelevision pictures result due tofluorescence on the television screencoated with certain fluorescent orphosphorescent materials.

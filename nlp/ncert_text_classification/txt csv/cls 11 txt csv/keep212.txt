@@ -1,0 +1,374 @@
+12.1 Overview12.1.1 Coordinate axes and coordinate planes   Let XOX, YOY, Z
+OZ be threemutually perpendicular lines that pass through a point O such that XOX and YOY lies
+in the plane of the paper and  line ZOZ is perpendicular to the plane of paper. These
+three lines are called rectangular axes ( lines XOX, YOY and Z
+OZ are called x-axis,y-axis and z-axis). We call 
+this coordinate systema three dimensional space, or simply space.The three axes taken together in pairs determinexy, yz, zx-plane , i.e., three coordinate planes. Eachplane divide the space in two parts and the three
+coordinate planes together divide the space into
+eight regions (parts) called octant, namely (i)  OXYZ
+(ii) OXYZ (iii) OXYZ (iv) OXYZ (v) OXYZ(vi) OXYZ (vii) OXYZ (viii) OXYZ.(Fig.12.1).Let P be any point in the space, not in a coordinateplane, and through P pass planes parallel to the
+coordinate planes yz, zx and xy meeting thecoordinate axes in the points A, B, C respectively.
+Three planes are(i)ADPF || 
+yz-plane(ii)BDPE || xz-plane(iii)CFPE || xy-planeThese planes determine a rectangular parallelopiped which has three pairs of rectangularfaces(A D P F, O B E C),(B D P E, C F A O) and (A O B D, FPEC) (Fig 12.2)
+12.1.2  Coordinate of a point in space  An arbitrary point P in three-dimensional
+space is assigned coordinates (x0, y0, z0) provided thatChapter12INTRODUCTION TO THREE
+DIMENSIONAL GEOMETRY
+Fig. 12.1
+(1)the plane through P parallel to the 
+yz-plane intersects the x-axis at (x0, 0, 0);(2)the plane through P parallel to the 
+xz-plane intersects the y-axis at (0, y0, 0);(3)the plane through P parallel to the 
+xy-plane intersects the z-axis at (0, 0, z0).The space coordinates (x0, y0, z0) are called the Cartesian coordinates of P or simplythe rectangular coordinates of P.
+Moreover we can say,  the plane 
+ADPF( Fig.12.2) is perpendicular to the x-axis or x-axis is perpendicular to the plane ADPF and
+hence perpendicular to every line in the plane.Therefore, PA is perpendicular to OX and OX
+is perpendicular to PA. Thus A is the foot of
+perpendicular drawn from P on x-axis anddistance of this foot A from O is 
+x-coordinateof  point  P. 
+ Similarly, we 
+call  B and C are thefeet of perpendiculars drawn from point P on
+
+the y and z-axis and distances of these feet Band C from O are the y and z coordinates ofthe point P.
+Hence the coordinates x, y z of a point P are the perpendicular distance of P from thethree coordinate planes yz, zx and xy,
+ respectively.
+12.1.3 Sign of coordinates of a point  The distance measured along or parallel to OX,OY, OZ will be positive and distance moved along or parallel to OX
+, OY, OZ will benegative. The three mutually perpendicular coordinate plane which in turn divide thespace into eight parts and each part is know as octant. The sign of the coordinates ofa point depend upon the octant in which it lies. In first octant all the coordinates arepositive and in seventh octant all coordinates are negative. In third octant x, y coordinatesare negative and z is positive. In fifth octant x, y are positive and z is negative. In fourthoctant x, z are positive and y is negative. In sixth octant x, z are negative y is positive.In the second octant x is negative and y and z are positive.Octants IIIIIIIVVVIVIIVIII
+CoordinatesOXYZOX
+YZOX
+YZOXY
+ZOXYZ
+OXYZOXYZOXYZ        x+ŒŒ++ŒŒ+
+y++ŒŒ++ŒŒ
+z++++ŒŒŒŒINTRODUCTION TO THREE DIMENSIONAL GEOMETRY    209
+Fig. 12.2
+210    EXEMPLAR PROBLEMS Œ MATHEMATICS12.1.4 Distance formula  The distance between two points P (x1, y1, z1) and Q (x2, y2,z2) is given by222
+212121
+PQ)()()
+xxyyzz
+
+A paralleopiped is formed by planes drawn through the points (x1, y1, z1) and (x2, y2, z2)parallel to the coordinate planes. The length of edges are x2Œ x1, y2 Œ y1, z2 Œ z1 andlength of diagonal is  222
+212121
+()()()
+xxyyzz
+
+.12.1.5  Section formula  The coordinates of the point R which divides the line segmentjoining two points P(x1, y1, z1) and Q(x2, y2, z2) internally or externally in the ratio m : nare given by 212121212121
+,,,,,,
+mxnxmynymznzmxnxmynymznz
+mnmnmnmnmnmn
+
+
+
+
+
+,respectively.
+The coordinates of the mid-point of the line segment joining two points P (x1, y1, z1) andQ (x2, y2, z2) are 121212
+,,222xxyyzz
+.The coordinates of the centroid of the triangle, whose vertices are (x1, y1, z1), (x2, y2, z2)and  x3, y3, z3 are 123123123
+,,333xxxyyyzzz
+
+.12.2 Solved ExamplesShort 
+Answer Type
+Example 1  Locate the points  (i) (2, 3, 4)(ii) (Œ2, Œ2, 3) in space.Solution(i)To locate the point (2, 3, 4) in space, we
+move 2 units from O along the positivedirection of x-axis. Let this point be A
+(2, 0, 0). From the point A moves 3 units
+parallel  to +ve direction of y-axis.Let
+this point be B (2, 3, 0). From the pointB moves 4 units along positive 
+directionof 
+z-axis. Let this point be  P (2, 3, 4)
+Fig.(12.3).
+Fig. 12.3
+INTRODUCTION TO THREE DIMENSIONAL GEOMETRY    211
+ (ii)From the origin, move 2 
+units along the negative 
+direction of x-axis. Let this pointbe A (Œ2, 0, 0). From the point A 
+move 2 units parallel to negative direction of
+y-axis.Let this point be B (Œ2, Œ2, 0). From B move 3 units parallel  to positive direction ofz - axis.  This is our requir
+ed point Q (Œ2, Œ2, 
+3) (Fig.12.4.)
+Fig. 12.4Example 2  Sketch the plane (i) x = 1  (ii)  y = 3 (iii)  z = 4Solution(i)The equation of the plan 
+x = 0 represents the yz-plane and equation of the planex = 1 represents the plane parallel to yz-plane at a distance 1 unit above yz-plane. Now, we draw a plane  parallel to 
+yz- plane at a distance 1 unit above  yz-plane Fig.12.5(a).(ii)The equation of the plane y = 0 represents the xz plane and the equation of theplane y = 3 represents the plane parallel to xz plane at a distance 3 unit above xzplane (Fig. 12.5(b)).(iii)The equation of the plane z = 0 represents the xy-plane and z = 3 represents theplane parallel to xy-plane at a distance 3 unit above xy-plane (Fig. 12.5(c)).(a)(b)(c)
+Fig. 12.5
+212    EXEMPLAR PROBLEMS Œ MATHEMATICSExample 3  Let L, M, N be the feet of the perpendiculars drawn from a point P (3, 4, 5)on the x, y and z-axes respectively. Find the coordinates of L, M and N.Solution  Since L is the foot of perpendicular from P on the x-axis,  its y and z co-ordinates are zero. The coordinates of L is 
+(3, 0, 0). Similarly, the coordinates of M andN are (0, 4, 0) and (0, 0, 5), respectively.
+Example 4  Let L, M, N be the feet of theperpendicular segments drawn from a pointP (3, 4, 5) on the 
+xy, yz and zx-planes, respectively.
+What are the coordinates of L, M and N?Solution  Since L is the foot of perpendicularsegment from P on the xy-plane,  z-coordinate iszero in the xy-plane. Hence, coordinates of  L is(3, 4, 0). Similarly, we can find the coordinates of
+
+of M (0, 4, 5) and N (3, 0, 5), Fig.12.6.Example 5  Let L, M, N are the feet of theperpendiculars drawn from the point P (3, 4, 5) on
+the xy, yz and zx-planes, respectively. Find the
+distance of these points  L, M, N from the
+point P, Fig.12.7.
+Solution  L is the foot of perpendicular drawnfrom the point P (3, 4, 5) to the xy-plane.Therefore, the coordinate of the point L is
+(3, 4, 0). The distance between the point (3, 4,
+5) and (3, 4, 0) is 5.  Similarly, we can find thelengths of the foot of perpendiculars on yz andzx-plane which are 3 and 4 units, respectively.
+Example 6  Using distance formula show  thatthe points P (2, 4, 6), Q (Œ 2, Œ 2, Œ 2) andR (6, 10, 14) are collinear.
+Solution  Three points are collinear if the sum of any two distances is equal to the thirddistance.PQ = 222
+(Œ2Œ2)(Œ2Œ4)(Œ2Œ6)163664116229
+
+QR = 222(62)(102)(142)64144256464429
+
+PR = 222
+(62)(104)(14Œ6)
+
+ =  163664
+ = 116
+ = 229
+Since QR = PQ + PR. Therefore, the given points are collinear.
+Fig. 12.6Fig. 12.7
+INTRODUCTION TO THREE DIMENSIONAL GEOMETRY    213
+Example 7 Find the coordinates of a point equidistant from the four points O (0, 0, 0),A (l, 0, 0), B (0, m, 0) and C (0, 0, n).Solution  Let P (
+x, y, z) be the required point. Then OP = PA = PB = PC.
+Now OP = PA 
+OP2 = PA
+2   x2 + y2 + z2 = (x Œ l)2 + (y  Œ 0)2 + (z Œ 0)2  x  = 2lSimilarly, OP = PB 
+ y = 2m and OP = PC 
+ z = 2
+nHence, the coordinate of the required point are (2
+l, 2m, 2
+n).Example 8 Find the point on x-axis which is equidistant from the point A (3, 2, 2) and
+B (5, 5, 4).Solution  The point on the x-axis is of  form P (
+x, 0, 0). Since the points A and B are
+equidistant from P.
+ Therefore PA
+2 = PB2, i.e.,(x Œ 3)2 + ( 0 Œ 2)2 + (0 Œ 2)2 = (x Œ 5)2 + (0 Œ 5)2 + (0 Œ 4)2   4x = 25 + 25 + 16 Œ 17 i.e., x = 494.Thus, the point P on the 
+x - axis is (494, 0, 0) which is equidistant from A and B.
+Example 9  Find the point on y-axis which is at a distance 10 from the point (1, 2, 3)Solution  Let the point P be on y-axis. Therefore, it is of the form P (0, y, 0).The point (1, 2, 3) is at a distance 10 from (0, y, 0). Therefore222
+(10)(2)(30)10
+y
+y2 Œ 4y + 4 = 0   (y Œ 2)2 = 0  y = 2Hence, the required point is (0, 2, 0).Example 10  If a parallelopiped is formed by planes drawn through the points (2, 3, 5)and (5, 9, 7) parallel to the coordinate planes, then find the  length of edges of aparallelopiped and length of the diagonal.Solution  Length of edges of the parallelopiped are 5 Œ 2, 9 Œ 3, 7 Œ 5 i.e., 3, 6, 2.Length of diagonal is 222
+362= 7 units.
+214    EXEMPLAR PROBLEMS Œ MATHEMATICSExample 11
+  Show that the points (0, 7, 10), (Œ1, 6, 6) and (Œ 4, 9, 6) form a rightangled isosceles triangle.Solution Let P (0, 7, 10), Q (Œ1, 6, 6) and R (Œ4, 9, 6) be the given three points.
+HerePQ = 
+111632
+
+QR = 99032
+
+PR = 16416
+ = 6Now PQ2 + QR2 = 22(32)(32)
+= 18 + 18 = 36 = (PR)2Therefore, PQR is a right angled triangle at Q. Also PQ = QR. Hence 
+PQR is anisosceles triangle.Example 12  Show that the points (5, Œ1, 1), (7, Œ 4, 7), (1 Œ 6, 10) and (Œ1, Œ 3, 4) arethe vertices of a rhombus.Solution  Let A (5, 
+Œ 1, 1), B (7, Œ 4, 7), C(1, Œ 6, 10) and D (Œ 1, Œ 3, 4) be the fourpoints of a quadrilateral. Here AB = 
+4936
+ = 7 , BC = 3649
+ = 7, CD = 4936
+ = 7,DA = 2349
+ = 7Note that AB = BC = CD = DA. Therefore, 
+ABCD is a rhombus.Example 13  Find the ratio in which the line segment joining the points (2, 4, 5) and(3, 5, Œ 4) is divided by the xz-plane.Solution  Let the joint of P (2, 4, 5) and Q (3, 5, Œ 4) be divided by xz-plane in the ratiok:1 at the point R(x, y, z). Therefore
+321kxk, 541kyk, 451kzkSince the point R (x, y, z) lies on the xz-plane, the y-coordinate should be zero,i.e.,541kk = 0  k = 45Hence, the required ratio is Œ 4 : 5, i.e.; externally in the ratio 4 : 5.Example 14  Find the coordinate of the point P which is five - sixth of the way from A
+(Œ 2, 0, 6) to B (10, Œ 6, Œ 12).
+INTRODUCTION TO THREE DIMENSIONAL GEOMETRY    215
+Solution  Let P (x, y, z) be the required point, i.e., P divides AB in 
+the ratio 5 : 1. Then P (
+x, y, z) 5101Œ25Œ61051216
+,,515151
+
+ = (8, Œ 5, Œ 9)Example 15 Describe the vertices and edges of the rectangular parallelopiped withvertex (3, 5, 6) placed in the first octant with one vertex at origin and edges ofparallelopiped lie along x, y and z-axes.Solution  The six planes of the parallelopiped are as follows:Plane OABC lies in the xy-plane. The z-coordinate of every point in this plane is zero.z = 0 is the equation of this xy-plane. Plane PDEF is parallel to xy-plane and 6 unitdistance above it. The equation of the plane is z = 6. Plane ABPF represents planex = 3. Plane OCDE lies in the yz-plane and x = 0 is the equation of this plane. PlaneAOEF lies in the xz-plane. The  y coordinate of everypoint in this plane is zero. Therefore,y = 0 is the equation of plane.Plane BCDP is parallel  to the plane AOEF at a distance 
+y = 5.Edge OA lies on the x-axis. The x-axis has equation y = 0 and z = 0.Edges OC and OE lie on y-axis and z-axis, respectively. 
+The y-axis has its equationz = 0, x = 0. The z-axis has its equation x = 0,  y = 0. The perpendicular distance of thepoint P (3, 5, 6) from the x-axis is 2256 = 61.The perpendicular distance
+of the point P (3, 5, 6)
+from y-axis and z-axisare 2236= 45 and2235=, respectively.
+The coordinates of the feet
+of perpendiculars from the
+point P (3, 5, 6) to thecoordinate axes are A, C,
+E. The coordinates of feet
+of perpendiculars from thepoint P on the coordinateplanes xy, yz and zx are(3, 5, 0), (0, 5, 6) and
+(3, 0, 6). Also, perpendicularFig. 12.8
+216    EXEMPLAR PROBLEMS Œ MATHEMATICSdistance of the point P from the 
+xy, yz and zx-planes are 6, 5 and 3, respectively,
+Fig.12.8.Example 16 Let A (3, 2, 
+0), B (5, 3, 2), C (Œ 9, 6, Œ 3) be three points forming a triangle.AD, the bisector of  BAC, meets BC in D. Find the coordinates of the point D.Solution  Note that222
+AB(5Œ3)(32)(20)414
+
+ = 3222
+AC(Œ9Œ3)(62)(30)144169
+
+ = 13Since AD is the bisector of BAC,We have 
+BDAB
+DCAC
+= 313i.e., D divides BC in the ratio 3 : 13. Hence, the coordinates of D are3(9)13(5)3(6)13(3)3(3)13(2)195717
+,,,,
+31331331381616
+
+
+
+
+Example 17  Determine the point in yz-plane which is equidistant from three points A
+(2, 0 3)  B (0, 3, 2) and C (0, 0, 1).Solution  Since x-coordinate of every point in yz-plane is zero. Let P (0, 
+y, z) be a pointon the yz-plane such that PA = PB = PC. Now
+PA = PB 
+(0 Œ 2)2 + (y Œ 0)2 + (z Œ 3)2 = (0 Œ 0)2 + (y Œ 3)2 + (z Œ 2)2 , i.e. z Œ 3y = 0and PB = PCy2 + 9 Œ 6y + z2 + 4 Œ 4z = y2 + z2 + 1 Œ 2z , i.e. 3y + z = 6Simplifying the two equating, we get y = 1, z = 3Here, the coordinate of the point P are (0, 1, 3).Objective Type QuestionsChoose the correct answer out of given four options in each of the Examples from 18to 23 (M.C.Q.).Example 18  The length of the foot of perpendicular drawn from the point P (3, 4, 5)on y-axis is(A)10(B)
+34(C) 
+113
+(D)52Solution  Let  l be the foot of perpendicular from point P on the y-axis. Therefore, itsx and z-coordinates are zero, i.e., (0, 4, 0). Therefore, distance between the points (0,4, 0) and (3, 4, 5) is 925
+ i.e., 34.
+INTRODUCTION TO THREE DIMENSIONAL GEOMETRY    217
+Example 19  What is the perpendicular distance of the point P (6, 7, 8) from xy-plane?(A)8(B)7(C)6(D)None of these
+Solution  Let L be the foot of perpendicular drawn from the point P (6, 7, 8) to the xy-plane and the distance of this foot L from P is 
+z-coordinate of P, i.e., 8 units.
+Example 20  L is the foot of the perpendicular drawn from a point P (6, 7, 8) on the xy-plane. What are the coordinates of point L?(A)(6, 0, 0)(B)(6, 7, 0)(C)(6, 0, 8)(D)none of these
+Solution  Since L is the foot of  perpendicular from P on the xy-plane, z-coordinate iszero in the xy-plane. Hence, coordinates of L are (6, 7, 0).Example 21 
+ L is the foot of the perpendicular 
+drawn from a point (6, 7, 8) on x-axis.The coordinates of L are
+(A)(6, 0, 0)(B)(0, 7, 0)(C)(0, 0, 8)(D)none of these
+Solution  Since L is the foot of  perpendicular from P on the x- axis,  y and z-coordinatesare zero.  Hence, the coordinates of  L are (6, 0, 0).Example 22  What is the locus of a point for which y = 0, z = 0?(A)equation of 
+x-axis(B)
+equation of y-axis         (C)   equation of z-axis      
+  (D)  none of theseSolution  Locus of the point y = 0, z = 0 is x-axis, since on x-axis both y = 0 and z = 0.Example 23  L, is the foot of the perpendicular drawn from a point P (3, 4, 5) on thexz plane. What are the coordinates of point L ?(A)(3, 0, 0)(B)(0, 4, 5)(C)(3, 0, 5)(D)(3, 4, 0)
+Solution  Since L is the foot of perpendicular segment drawn from the point P (3, 4, 5)on the xz-plane. Since the y-coordinates of all points in the xz-plane are zero, coordinateof the foot of perpendicular are (3, 0, 5).
+Fill in the blanks in Examples 24 to 28.Example 24  A line is parallel to 
+xy-plane if all the points on the line have equal _____.Solution  A line parallel to 
+xy-plane if all the points on the line have equal z-coordinates.Example 25  The equation x = b represents a plane parallel to _____ plane.Solution  Since x = 0 represent yz-plane, therefore x = b represent a plane parallel toyz -plane at a unit distance b from the origin.Example 26  Perpendicular distance of the point P (3, 5, 6) from y-axis is ________
+218    EXEMPLAR PROBLEMS Œ MATHEMATICSSolution  Since M is the foot of perpendicular from P on the y-axis, therefore, its x andz-coordinates are zero. The coordinates of M is (0, 5, 0). Therefore, the perpendiculardistance of the point P from y-axis 2236= 45.Example 27  L is the foot of perpendicular drawn from the point P (3, 4, 5) on zx-planes. The coordinates of L are ________.Solution  Since L is the foot of perpendicular from P on the zx-plane, y-coordinate ofevery point is zero in the zx-plane. Hence, coordinate of L are (3, 0, 5).Example 28  The length of the foot of perpendicular drawn from the point P (a, b, c)on z-axis is _____.Solution  The coordinates of the foot of perpendicular from the point P (a, b, c) on z-axis is (0, 0,c). The distance between the point P (a, b, c) and (0, 0, c) is 22ab.Check whether the statements in Example from 30 to 37 are True or False
+Example 29 The y-axis and z-axis, together determine a plane known as yz-plane.Solution True
+Example 30  The point (4, 5, Œ 6) lies in the VIth octant.Solution  False, the point (4, 5, Œ 6) lies in the Vth octant,Example 31  The x-axis is the intersection of two planes xy-plane and xz plane.Solution  True.
+Example 32  Three mutually perpendicular planes divide the space into 8 octants.Solution  True.
+Example 33  The equation of the plane z = 6 represent a plane parallel to the xy-plane,having a z-intercept of 6 units.Solution True.
+Example 34  The equation of the plane x = 0 represent the yz-plane.Solution  True.
+Example 35  The point on the x-axis with x-coordinate equal to x0 is written as (x0, 0, 0).Solution  True.
+Example 36  x = x0 represent a plane parallel to the yz-plane.Solution  True.
+
+INTRODUCTION TO THREE DIMENSIONAL GEOMETRY    219
+Match each item given under the column C1 to its correct answer given undercolumn C2.Example 37Column C1Column C2(a)If the centriod of 
+the triangle is(i)Parallelogram
+origin and two of its verticesare (3, Œ 5, 7) and (Œ1, 7, Œ 6)then the third vertex is(b)If the mid-points of the sides of
+(ii)(Œ2, Œ2, Œ1)
+triangle are (1, 2, Œ 3), (3, 0, 1)
+and (Œ1, 1, Œ 4) then the centriod is(c)The points (3, Œ 1, Œ 1), (5, Œ 4, 0),
+(iii)as 
+Isosceles right-angledtriangle(2, 3, Œ 2) and (0, 6, Œ 3) are thevertices of a(d)Point A(1, Œ1, 3), B (2, Œ 4, 5) and
+(iv)(1, 1, Œ 2)C (5, Œ 13, 11) are
+(e)Points A (2, 4, 3), B (4, 1, 9) and(v)
+CollinearC (10, Œ 1, 6) are the vertices ofSolution  (a)Let A (3, Œ 5, 7), B (Œ 1, 7, Œ 6), C (
+x, y, z) be the vertices of a  ABC with centriod (0,
+0, 0)Therefore, (0, 0, 0) = 315776
+,,333xyz
+. This implies 203x, 203y,103z.Hence x = Œ 2, y = Œ 2, and z = Œ 1.Therefore (a)
+ii(b) Let ABC be the given  and DEF be the mid-points of the sides BC, CA, AB,respectively. We know that the centriod of the 
+ ABC = centriod of 
+ DEF.
+Therefore, centriod of  DEF is 131201314
+,,333
+
+= (1, 1, Œ 2)
+220    EXEMPLAR PROBLEMS Œ MATHEMATICSHence (b)
+iv(c)Mid-point of diagonal AC is 
+3213Œ1Œ2
+,,222
+
+= 53,1,
+22Mid-point of diagonal BD is 504603
+,,222
+
+ =  53,1,
+22Diagonals of parallelogram bisect each other. Therefore (c) 
+i(d)222
+AB(21)(41)(53)14
+
+222
+BC(52)(134)(115)314
+
+222
+AC(51)(131)(113)414
+
+Now ABBCAC
+. Hence Points A, B, C are collinear. Hence (d) 
+
+v(e)AB = 
+49367
+
+BC = 36497
+
+CA = 6425972
+
+Now AB
+2 +BC2 = AC
+2 . Hence ABC is an isosceles right angled triangle and hence(e) 
+iii)12.3   EXERCISEShort 
+Answer Type
+1.Locate the following points:(i)(1, Œ 1, 3),
+(ii)(Œ 1, 2, 4)
+(iii)(Œ 2, Œ 4, Œ7)
+(iv)(Œ 4, 2, Œ 5).
+2.Name the octant in which each of the following  points lies.(i)(1, 2, 3),
+(ii)(4, Œ 2, 3),(iii)(4, Œ2, Œ5)(iv)(4, 2, Œ5)(v)(Œ 4, 2, 5)(vi)
+(Œ3, Œ1, 6)(vii)(2, Œ 4, Œ 7)(viii)(Œ 4, 2, Œ 5).
+3.Let A, B, C be the feet of perpendiculars from a point P on the 
+x, y, z-axisrespectively. Find the 
+coordinates of A, B and C in each of the following where
+the point P is :
+INTRODUCTION TO THREE DIMENSIONAL GEOMETRY    221
+(i)A = (3, 4, 2)
+(ii)(Œ5, 3, 7)(iii)(4, Œ 3, Œ 5)4.Let A, B, C be the feet of perpendiculars from a point P on the 
+xy, yz and zx-planes respectively. Find the coordinates of A, B, C in each of the following
+where the point P is(i)(3, 4, 5)
+(ii)(Œ5, 3, 7)(iii)(4, Œ 3, Œ 5).5.How far apart are the points (2, 0, 0) and (Œ3, 0, 0)?6.Find the distance from the origin to (6, 6, 7).7.Show that if x2 + y2 = 1, then the point (x, y, 221xy) is at a distance 1 unitfrom the origin.8.Show that the point A (1, Œ 1, 3), B (2, Œ 4, 5) and (5, Œ 13, 11) are collinear.
+9.Three consecutive vertices of a parallelogram ABCD are A (6, Œ 2, 4), B (2, 4, Œ 8),
+C (Œ2, 2, 4). Find the coordinates of the fourth vertex.[Hint: Diagonals of a parallelogram have the same mid-point.]10.Show that the triangle ABC with vertices A (0, 4, 1), 
+B (2, 3, Œ 1) and C (4, 5, 0)is right angled.11.
+Find the third vertex of triangle whose centroid is origin and two vertices are(2, 4, 6) and (0, Œ2, Œ5).12.Find the centroid of a triangle, the mid-point of whose sides are D (1, 2, Œ 3),
+E (3, 0, 1) and F (Œ 1, 1, Œ 4).13.The mid-points of the sides of a triangle are (5, 7, 11), (0, 8, 5) and (2, 3, Œ 1).
+
+Find its vertices.14.Three vertices of a Parallelogram ABCD are A (1, 2, 3), B 
+(Œ 1, Œ 2, Œ 1) andC (2, 3, 2). Find the fourth vertex D.15.Find the coordinate of the points which trisect the line segment joining the pointsA (2, 1, Œ 3) and B (5, Œ 8, 3).16.If the origin is the centriod of  a triangle ABC having vertices A (
+a, 1, 3),B (Œ 2, b, Œ 5) and C (4, 7, c), find the values of a, b, c.17.Let A 
+(2, 2, Œ 3), B (5, 6, 9) and C (2, 7, 9) be the vertices of a triangle. The internal
+bisector of the angle A meets BC at the point D. Find the coordinates of D.
+Long Answer Type
+18.Show that the three points A (2, 3, 4), B (Œ1, 2, Œ 3) and C (Œ 4, 1, Œ 10) are
+collinear and find the ratio in which C divides AB.
+
+222    EXEMPLAR PROBLEMS Œ MATHEMATICS19.The mid-point of the sides of a triangle are (1, 5, Œ 1), (0, 4, Œ 2) and (2, 3, 4).Find its vertices. Also find the centriod of the triangle.
+20.Prove that the points (0, Œ 1, Œ 7), (2, 1, Œ 9) and (6, 5, Œ 13) are collinear. Find
+the ratio in which the first point divides the join of the other two.21.What are the coordinates of the vertices of a cube whose edge is 2 units, one of
+whose vertices coincides with the origin and the three edges passing through the
+origin, coincides with the positive direction of the axes through the origin?Objective Type QuestionsChoose the correct answer from the given four options inidcated against each of the
+Exercises from 22 (M.C.Q.).22.The distance of point P(3, 4, 5) from the yz-plane is(A)3 units(B)4 units(C)5 units(D)550
+23.What is the length of foot of perpendicular drawn from the point P (3, 4, 5) on
+y-axis(A)41(B)34(C)5(D)none of these
+24.Distance of the point (3, 4, 5) from the origin (0, 0, 0) is(A)50(B)3(C)4(D)5
+25.If the distance between the points (a, 0, 1) and (0, 1, 2) is 27, then the value ofa is(A)5(B)± 5(C)Œ 5(D)none of these
+26.x-axis is the intersection of two planes(A)xy and xz(B)yz and zx(C)xy and yz(D)none of these
+27.Equation of y-axis is considered as(A)x = 0, y = 0(B)
+y = 0, z = 0(C)
+z = 0, x = 0(D)none of these
+28.The point (Œ2, Œ3, Œ4) lies in the(A)First octant
+(B)Seventh octant
+(C)Second octant(D)Eighth octant
+29.A plane is parallel to yz-plane so it is perpendicular to :(A)x-axis(B)
+y-axis(C)
+z-axis(D)none 
+of these30.The locus of a point for which y = 0, z = 0 is(A)equation of 
+x-axis(B) equation of y-axis(C)equation at 
+z-axis(D) 
+none of these
+INTRODUCTION TO THREE DIMENSIONAL GEOMETRY    223
+31.The locus of a point for which x = 0 is(A)xy-plane(B)
+yz-plane(C)
+zx-plane(D)none of these
+32.If a parallelopiped is formed by planes drawn through the points (5, 8, 10) and(3, 6, 8) parallel to the coordinate planes, then the length of diagonal of theparallelopiped is(A)23(B)32(C)2(D)333.L is the foot of the perpendicular drawn from a point P (3, 4, 5) on the xy-plane.The coordinates of point L are(A)(3, 0, 0)(B)(0, 4, 5)(C)(3, 0, 5)(D)none of these
+34.L is the foot of the perpendicular drawn from a point (3, 4, 5) on x-axis. Thecoordinates of L are(A)(3, 0, 0)(B)(0, 4, 0)(C)(0, 0, 5)(D)none of these
+Fill in the blanks in Exercises from 35 to 49.35.The three axes OX, OY, OZ determine ________ .
+36.The three planes determine a rectangular parallelopiped which has ________of rectangular faces.37.The coordinates of a point are the perpendicular distance from the ________
+on the respectives axes.38.The three coordinate planes divide the space into ________ parts.39.If a point P lies in yz-plane, then the coordinates of a point on yz-plane is of theform ________.40.The equation of yz-plane is ________.41.If the point P lies on z-axis, then coordinates of P are of the form ________.42.The equation of z-axis, are ________.43.A line is parallel to xy-plane if all the points on the line have equal ________.44.A line is parallel to x-axis if all the points on the line have equal ________.45.x = a represent a plane parallel to ________.46.The plane parallel to yz - plane is perpendicular to  
+________.47.The length of the longest piece of a string that can be stretched straight in a
+rectangular room whose dimensions are 10, 13 and 8 units are ______.
+224    EXEMPLAR PROBLEMS Œ MATHEMATICS48.If the distance between the points (a, 2, 1) and (1, Œ1, 1) is 5, then a _______.49.
+If the mid-points of  the sides of a triangle AB; BC; CA are D (1, 2, Œ 3), E (3, 0, 1)
+and F (Œ1, 1, Œ 4), then the centriod of  the triangle ABC is ________.
+50.Match each item given under the column C1 to its correct answer given undercolumn C2.Column C1Column C2(a)In 
+xy-plane(i)
+Ist octant(b)Point (2, 3,4) lies in the
+(ii)yz-plane(c)Locus of the points having
+ x(iii)z-coordinate is zerocoordinate 0 is(d)A line is parallel to 
+x-axis if and only(iv)z-axis(e)If 
+x = 0, y = 0 taken together will(v)plane parallel to 
+xy-planerepresent the(f)z = c represent the plane(vi)if all the po
+ints on theline have equal y andz-coordinates.(g)Planes
+ x = a, y = b represent the line(vii)from the 
+point on the respective(h)Coordinates of a point are the
+(viii)parallel to z - axis.distances from the origin to the feet ofperpendiculars(i)A ball is the solid region in the space
+(ix)disc
+enclosed by a(j)Region in the plane enclosed 
+by a circle is(x)sphere
+known as a

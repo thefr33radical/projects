@@ -1,0 +1,31 @@
+(A) Main Concepts and ResultsŁTrigonometric Ratios of the angle A in a triangle ABC right angled at B
+are defined as:
+sine of  A = sin A = 
+sideoppositetoABC
+hypotenuseAC
+  cosine of  
+A = cos  A = 
+sideadjacenttoAAB
+hypotenuseAC
+tangent of  
+A = tan  A = 
+sideoppositetoABC
+sideadjacenttoangleAAB
+cosecant of  
+A = cosec  A = 
+1AC
+sinABC
+secant of  A = sec A 
+1AC
+ cosAAB
+cotangent of  A = cot  A = 
+1AB
+tan ABC
+ tan A = 
+sinA
+cosA
+, cot A = 
+cosA
+sinA
+INTRODUCTION TO TRIGONOMETRY 
+AND ITS APPLICATIONSCHAPTER 8

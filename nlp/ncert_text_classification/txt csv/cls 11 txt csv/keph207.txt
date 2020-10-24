@@ -1,0 +1,160 @@
+CHAPTER FIFTEENWAVES15.1INTRODUCTIONIn the previous Chapter, we studied the motion of objectsoscillating in isolation. What happens in a system, which isa collection of such objects? A material medium providessuch an example. Here, elastic forces bind the constituentsto each other and, therefore, the motion of one affects that ofthe other. If you drop a little pebble in a pond of still water,
+the water surface gets disturbed. The disturbance does notremain confined to one place, but propagates outward alonga circle. If you continue dropping pebbles in the pond, yousee circles rapidly moving outward from the point where thewater surface is disturbed. It gives a feeling as if the water ismoving outward from the point of disturbance. If you put
+some cork pieces on the disturbed surface, it is seen thatthe cork pieces move up and down but do not move awayfrom the centre of disturbance. This shows that the water
+mass does not flow outward with the circles, but rather amoving disturbance is created. Similarly, when we speak,the sound moves outward from us, without any flow of air
+from one part of the medium to another. The disturbancesproduced in air are much less obvious and only our ears ora microphone can detect them. These patterns, which move
+without the actual physical transfer or flow of matter as awhole, are called waves. In this Chapter, we will study suchwaves.Waves transport energy and the pattern of disturbance hasinformation that propagate from one point to another. All ourcommunications essentially depend on transmission of sig-nals through waves. Speech means production of sound
+waves in air and hearing amounts to their detection. Often,
+communication involves different kinds of waves. For exam-
+ple, sound waves may be first converted into an electric cur-
+rent signal which in turn may generate an electromagnetic
+wave that may be transmitted by an optical cable or via a15.1Introduction15.2Transverse andlongitudinal waves15.3Displacement relation in a
+progressive wave15.4The speed of a travellingwave15.5The principle of
+superposition of waves15.6Reflection of waves15.7Beats15.8Doppler effectSummaryPoints to ponderExercisesAdditional exercises
+PHYSICS364satellite. Detection of the original signal will usu-ally involve these steps in reverse order.Not all waves require a medium for theirpropagation. We know that light waves cantravel through vacuum. The light emitted bystars, which are hundreds of light years away,
+reaches us through inter-stellar space, which
+is practically a vacuum.The most familiar type of waves such as waveson a string, water waves, sound waves, seismicwaves, etc. is the so-called mechanical waves.
+These waves require a medium for propagation,
+they cannot propagate through vacuum. They
+involve oscillations of constituent particles anddepend on the elastic properties of the medium.The electromagnetic waves that you will learn
+in Class XII are a different type of wave.
+Electromagnetic waves do not necessarily require
+a medium - they can travel through vacuum.
+Light, radiowaves, X-rays, are all electromagnetic
+waves. In vacuum, all electromagnetic waves
+have the same speed c, whose value is :c = 299, 792, 458 msŒ1.(15.1)
+A third kind of wave is the so-called Matterwaves. They are associated with constituents ofmatter : electrons, protons, neutrons, atoms and
+molecules. They arise in quantum mechanical
+description of nature that you will learn in your
+later studies. Though conceptually more abstractthan mechanical or electro-magnetic waves, they
+have already found applications in several
+devices basic to modern technology; matter
+waves associated with electrons are employedin electron microscopes.In this chapter we will study mechanicalwaves, which require a material medium fortheir propagation.The aesthetic influence of waves on art andliterature is seen from very early times; yet the
+first scientific analysis of wave motion dates back
+to the seventeenth century. Some of the famousscientists associated with the physics of wave
+motion are Christiaan Huygens (1629-1695),
+Robert Hooke and Isaac Newton. The
+understanding of physics of waves followed the
+physics of oscillations of masses tied to springs
+and physics of the simple pendulum. Waves in
+elastic media are intimately connected withharmonic oscillations. (Stretched strings, coiled
+springs, air, etc., are examples of elastic media).We shall illustrate this connection throughsimple examples.Consider a collection of springs connected toone another as shown in Fig. 15.1. If the spring
+at one end is pulled suddenly and released, the
+disturbance travels to the other end. What hashappened? The first spring is disturbed from itsequilibrium length. Since the second spring is
+connected to the first, it is also stretched orcompressed, and so on. The disturbance movesfrom one end to the other; but each spring onlyexecutes small oscillations about its equilibrium
+position. As a practical example of this situation,
+consider a stationary train at a railway station.Different bogies of the train are coupled to each
+other through a spring coupling. When an
+engine is attached at one end, it gives a push to
+the bogie next to it; this push is transmitted from
+one bogie to another without the entire train
+being bodily displaced.Now let us consider the propagation of soundwaves in air. As the wave passes through air, itcompresses or expands a small region of air. Thiscauses a change in the density of that region,say , this change induces a change in pressure,p, in that region. Pressure is force per unit area,so there is a restoring force proportional tothe disturbance, just like in a spring. In this
+case, the quantity similar to extension orcompression of the spring is the change indensity. If a region is compressed, the molecules
+in that region are packed together, and they tendto move out to the adjoining region, therebyincreasing the density or creating compression
+in the adjoining region. Consequently, the airin the first region undergoes rarefaction. If aregion is comparatively rarefied the surroundingair will rush in making the rarefaction move to
+the adjoining region. Thus, the compression or
+rarefaction moves from one region to another,
+making the propagation of a disturbance
+possible in air.Fig. 15.1A collection of springs connected to eachother. The end A is pulled suddenly
+generating a disturbance, which thenpropagates to the other end.
+WAVES365In solids, similar arguments can be made. Ina crystalline solid, atoms or group of atoms arearranged in a periodic lattice. In these, eachatom or group of atoms is in equilibrium, due toforces from the surrounding atoms. Displacing
+one atom, keeping the others fixed, leads to
+restoring forces, exactly as in a spring. So we
+can think of atoms in a lattice as end points,with springs between pairs of them.In the subsequent sections of this chapterwe are going to discuss various characteristic
+properties of waves.15.2TRANSVERSE AND LONGITUDINALWAVESWe have seen that motion of mechanical waves
+involves oscillations of constituents of the
+medium. If the constituents of the mediumoscillate perpendicular to the direction of wavepropagation, we call the wave a transverse wave.
+If they oscillate along the direction of wave
+propagation, we call the wave a longitudinal
+wave.Fig.15.2 shows the propagation of a singlepulse along a string, resulting from a single upand down jerk. If the string is very long comparedposition as the pulse or wave passes throughthem. The oscillations are normal to the
+direction of wave motion along the string, so this
+is an example of transverse wave.We can look at a wave in two ways. We can fixan instant of time and picture the wave in space.
+This will give us the shape of the wave as awhole in space at a given instant. Another way
+is to fix a location i.e. fix our attention on a
+particular element of string and see its
+oscillatory motion in time.Fig. 15.4 describes the situation forlongitudinal waves in the most familiar exampleof the propagation of sound waves. A long pipefilled with air has a piston at one end. A single
+sudden push forward and pull back of the piston
+will generate a pulse of condensations (higher
+density) and rarefactions (lower density) in the
+medium (air). If the  push-pull of the piston is
+continuous and periodic (sinusoidal), aFig. 15.3A harmonic (sinusoidal) wave travellingalong a stretched string is an example of atransverse wave. An element of the stringin the region of the wave oscillates aboutits equilibrium position perpendicular to the
+direction of wave propagation.Fig. 15.2When a pulse travels along the length of astretched string (x-direction), the elements
+of the string oscillate up and down (y-direction)to the size of the pulse, the pulse will damp outbefore it reaches the other end and reflection
+from that end may be ignored. Fig. 15.3 shows asimilar situation, but this time the externalagent gives a continuous periodic sinusoidal up
+and down jerk to one end of the string. The
+resulting disturbance on the string is then a
+sinusoidal wave. In either case the elements ofthe string oscillate about their equilibrium meanFig. 15.4Longitudinal waves (sound) generated in apipe filled with air by moving the piston up
+and down. A volume element of air oscillatesin the direction parallel to the direction ofwave propagation.
+PHYSICS366sinusoidal wave will be generated propagatingin air along the length of the pipe. This is clearly
+an example of longitudinal waves.The waves considered above, transverse orlongitudinal, are travelling or progressive wavessince they travel from one part of the mediumto another. The material medium as a whole
+does not move, as already noted. A stream, forexample, constitutes motion of water as a whole.In a water wave, it is the disturbance that moves,
+not water as a whole. Likewise a wind (motionof air as a whole) should not be confused with asound wave which is a propagation of
+disturbance (in pressure density) in air, withoutthe motion of air medium as a whole.Mechanical waves are related to the elasticproperties of the medium. In transverse waves,
+the constituents of the medium oscillateperpendicular to wave motion causing change
+is shape. That is, each element of the mediumin subject to shearing stress. Solids and stringshave shear modulus, that is they sustain
+shearing stress. Fluids have no shape of theirown - they yield to shearing stress. This is whytransverse waves are possible in solids and
+strings (under tension) but not in fluids.However, solids as well as fluids have bulkmodulus, that is, they can sustain compressivestrain. Since longitudinal waves involvecompressive stress (pressure), they can bepropagated through solids and fluids. Thus asteel bar possessing both bulk and sheer elastic
+moduli can propagate longitudinal as well astransverse waves. But air can propagate onlylongitudinal pressure waves (sound). When a
+medium such as a steel bar propagates bothlongitudinal and transverse waves, their speedscan be different since they arise from different
+elastic moduli.Example 15.1  Given below are some
+examples of wave motion. State in each caseif the wave motion is transverse, longitudinalor a combination of both:(a)Motion of a kink in a long
+itudinal springproduced by displacing one end of thespring sideways.(b)Waves produced in a cylinder
+containing a liquid by moving its piston
+back and forth.(c)Waves produced by a motorboat sailing
+in water.(d)Ultrasonic waves in air produced by a
+vibrating quartz crystal.Answer(a)Transverse and longitudinal
+(b)Longitudinal
+
+(c)Transverse and longitudinal
+(d)Longitudinal
+15.3DISPLACEMENT RELATION IN APROGRESSIVE WAVEFor mathematical description of  a travellingwave, we need a function of both position x andtime t. Such a function at every instant shouldgive the shape of the wave at that instant. Alsoat every given location, it should describe the
+motion of the constituent of the medium at that
+location. If we wish to describe a sinusoidal
+travelling wave (such as the one shown in Fig.15.3) the corresponding function must also be
+sinusoidal. For convenience, we shall take the
+wave to be transverse so that if the position of
+the constituents of the medium is denoted by x,the displacement from the equilibrium position
+may be denoted by y. A sinusoidal travellingwave is then described by :(,)sin()
+     
+yxtakxt
+(15.2)The term  in the argument of sine functionmeans equivalently that we are considering alinear combination of sine and cosine functions:(,)sin()cos()
+yxtAkxtBkxt
+      
+(15.3)From Equations (15.2) and (15.3),22aAB
+   and  1tan
+BA         To understand why Equation (15.2)represents a sinusoidal travelling wave, take afixed instant,  say t = t0. Then the argument ofthe sine function in Equation (15.2) is simply
+kx + constant. Thus the shape of the wave (atany fixed instant) as a function of x is a sinewave. Similarly, take a fixed location, say x = x0.Then the argument of the sine function in
+Equation (15.2) is constant -t. Thedisplacement y, at a fixed location, thus variessinusoidally with time. That is, the constituentsof the medium at different positions execute
+simple harmonic motion. Finally, as t increases,x must increase in the positive direction to keepkx Œ t +   constant. Thus Eq. (15.2) representsa sinusiodal (harmonic) wave travelling alongthe positive direction of the x-axis. On the otherhand, a function
+WAVES367(,)sin()
+     
+yxtakxt
+(15.4)represents a wave travelling in the negativedirection of x-axis. Fig. (15.5) gives the names ofthe various physical quantities appearing in Eq.(15.2) that we now interpret.crest. In the same manner, we can see the motionof a particular constituent of the medium at a
+fixed location, say at the origin of the x-axis. Thisis shown by a solid dot (Ł) The plots of Fig. 15.6show that with time, the solid dot (Ł) at the origin
+moves periodically i.e. the particle at the origin
+oscillates about its mean position as the wave
+progresses. This is true for any other locationalso. We also see that during the time the solid
+dot (Ł) has completed one full oscillation, the
+crest has moved further by a certain distance.Using the plots of Fig. 15.6, we now definethe various quantities of Eq. (15.2).15.3.1 
+Amplitude and PhaseIn Eq. (15.2), since the sine function variesbetween 1 and Œ1, the displacement y (x,t) variesbetween a and Œa. We can take a to be a positiveconstant, without any loss of generality. Then arepresents the maximum displacement of theconstituents of the medium from their
+equilibrium position. Note that the displacement
+y may be positive or negative, but a is positive.It is called the amplitude of the wave.The quantity (kx Œ t + ) appearing as theargument of the sine function in Eq. (15.2) iscalled the phase of the wave. Given theamplitude a, the phase determines thedisplacement of the wave at any position and atany instant. Clearly  is the phase at x = 0 andt = 0. Hence  is called the initial phase angle.By suitable choice of origin on the x-axis andthe intial time, it is possible to have  = 0. Thusthere is no loss of generality in dropping , i.e.,in taking Eq. (15.2) with  = 0.15.3.2 
+Wavelength and Angular WaveNumberThe minimum distance between two pointshaving the same phase is called the wave length
+of the wave, usually denoted by . For simplicity,we can choose points of the same phase to becrests or troughs. The wavelength is then the
+distance between two consecutive crests or
+troughs in a wave. Taking   = 0 in Eq. (15.2),the displacement at  t = 0 is given by(,0)sin
+ yxakx
+(15.5)Since the sine function repeats its value afterevery 2 change in angle,2sinsin(2)sin
+nkxkxnkx
+k        
+    Fig. 15.6A harmonic wave progressing along thepositive direction of x-axis at different times.Fig. 15.5The meaning of standard symbols in
+Eq. (15.2)Fig. 15.6 shows the plots of Eq. (15.2) fordifferent values of time differing by equal
+intervals of time. In a wave, the crest is the pointof maximum positive displacement, the troughis the point of maximum negative displacement.
+To see how a wave travels, we can fix attention
+on a crest and see how it progresses with time.
+In the figure, this is shown by a cross () on they(x,t):displacement as a function of
+position x and time ta:amplitude of a wave
+:angular frequency of the wave
+k:angular wave number
+(kxŒt+f:initial phase angle (
+a+x = 0, t = 0)

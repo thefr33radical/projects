@@ -1,0 +1,964 @@
+260M
+ATHEMA
+TICS1414.1Introduction
+In Class IX, you have studied the classification of given data into ungrouped as well asgrouped frequency distributions. You have also learnt to represent the data pictorially
+in the form of various graphs such as bar graphs, histograms (including those of varyingwidths) and frequency polygons. In fact, you went a step further by studying certain
+numerical representatives of the ungrouped data, also called measures of central
+tendency, namely, 
+mean, median and 
+mode. In this chapter, we shall extend the study
+of these three measures, i.e., mean, median and mode from ungrouped data to that ofgrouped data
+. We shall also discuss the concept of cumulative frequency, the
+cumulative frequency distribution and how to draw cumulative frequency curves, called
+ogives.14.2Mean of Grouped Data
+The mean (or average) of observations, as we know, is the sum of the values of all theobservations divided by the total number of observations. From Class IX, recall that if
+x1, x2,. . ., xn are observations with respective frequencies 
+f1, f2, . . ., fn, then thismeans observation x1 occurs 
+f1 times, 
+x2 occurs 
+f2 times, and so on.
+Now, the sum of the values of all the observations = 
+f1x1 + f2x2 + . . . + 
+fnxn,  and
+the number of observations = f1 + f2 + . . . + 
+fn.So, the mean x of the data is given byx =1122
+12nnnfxfxfx
+fff
+
+
+LLRecall that we can write this in short form by using the Greek letter  (capital
+sigma) which means summation. That is,STATISTICS
+
+STATISTICS
+261x =11niiiniifxfwhich, more briefly, is written as 
+x = 
+iiifxf, if it is understood that i varies from1 to n.Let us apply this formula to find the mean in the following example.Example 1 : The marks obtained by 30 students of Class X of a certain school in a
+Mathematics paper consisting of 100 marks are presented in table below. Find the
+mean of the marks obtained by the students.Marks obtained10203640505660707280889295
+(xi)    Number of
+1134324411231
+student (fi)Solution: Recall that to find the mean marks, we require the product of each xi with
+the corresponding frequency fi. So, let us put them in a column as shown in Table 14.1.
+Table 14.1
+Marks obtained (xi)Number of students
+ (fi)fixi10110
+20120
+.363108
+404160
+
+503150
+
+562112
+604240
+704280
+
+72172
+
+80180
+
+882176
+923276
+95195
+Total
+fi = 30
+fixi = 1779
+
+262M
+ATHEMA
+TICSNow, 
+iiifxxf = 1779
+30 = 59.3Therefore, the mean marks obtained is 59.3.In most of our real life situations, data is usually so large that to make a meaningfulstudy it needs to be condensed as grouped data. So, we need to convert given ungrouped
+data into grouped data and devise some method to find its mean.Let us convert the ungrouped data of Example 1 into grouped data by formingclass-intervals of width, say 15. Remember that, while allocating frequencies to each
+class-interval, students falling in any upper class-limit would be considered in the next
+class, e.g., 4 students who have obtained 40 marks would be considered in the class-
+interval 40-55 and not in 25-40. With this 
+convention in our mind, let us form a groupedfrequency distribution table (see Table 14.2).
+Table 14.2
+Class interval10 - 2525 - 4040 - 5555 - 7070 - 8585 - 100
+Number of students237666
+Now, for each class-interval, we require a point which would serve as the
+representative of the whole class. It is assumed that the frequency of each class-interval is centred around its mid-point. So the mid-point (or 
+class mark) of eachclass can be chosen to represent the observations falling in the class. Recall that we
+find the mid-point of a class (or its class mark) by finding the average of its upper and
+lower limits. That is,Class mark =Upperclasslimit+Lowerclasslimit
+2With reference to Table 14.2, for the class 10-25, the class mark is 
+1025
+2 , i.e.,17.5. Similarly, we can find the class marks of the remaining class intervals. We put
+them in Table 14.3. These class marks serve as our 
+xi™s. Now, in general, for the 
+ithclass interval, we have the frequency fi corresponding to the class mark 
+xi. We can
+now proceed to compute the mean in the same manner as in Example 1.
+STATISTICS
+263Table 14.3
+Class intervalNumber of students (fi)Class mark
+ (xi)fixi10 - 25217.535.0
+25 - 40332.597.5
+
+40 - 55
+747.5
+332.555 - 70
+662.5
+375.070 - 85
+677.5
+465.085 - 100
+692.5
+555.0Total
+ fi = 30
+ fixi = 1860.0
+The sum of the values in the last column gives us fixi. So, the mean x of thegiven data is given byx =1860.0
+6230iiifxfThis new method of finding the mean is known as the Direct Method.We observe that Tables 14.1 and 14.3 are using the same data and employing the
+same formula for the calculation of the mean but the results obtained are different.
+Can you think why this is so, and which one is more accurate? The difference in the
+two values is because of the mid-point assumption in Table 14.3, 59.3 being the exact
+
+mean, while 62 an approximate mean.Sometimes when the numerical values of xi and 
+fi are large, finding the product
+of xi and fi becomes tedious and time consuming. So, for such situations, let us think of
+a method of reducing these calculations.We can do nothing with the 
+fi™s, but we can change each 
+xi to a smaller numberso that our calculations become easy. How do we do this? What about subtracting a
+
+fixed number from each of these xi™s? Let us try this method.
+The first step is to choose one among the xi™s as the assumed mean, and denoteit by ‚a™. Also, to further reduce our calculation work, we may take ‚
+a™ to be that 
+xiwhich lies in the centre of x1, x2, . . ., xn. So, we can choose a = 47.5 or a = 62.5. Letus choose a = 47.5.The next step is to find the difference 
+di between 
+a and each of the 
+xi™s, that is,
+the deviation of ‚
+a™ from each of the 
+xi™s.
+i.e.,di =xi Œ 
+a = xi Œ 47.5
+
+264M
+ATHEMA
+TICSThe third step is to find the product of di with the corresponding 
+fi, and take the sumof all the fi di™s. The calculations are shown in Table 14.4.
+Table 14.4
+Class intervalNumber ofClass markdi = xi Œ 47.5fidi students
+ (fi) (xi)10 - 25217.5Œ30Œ60
+25 - 40332.5Œ15Œ45
+
+40 - 55747.500
+
+55 - 70662.51590
+
+70 - 85677.530180
+
+85 - 100692.545270
+Total
+fi = 30
+fidi = 435
+So, from Table 14.4, the mean of the deviations, 
+d = 
+iiifdf.Now, let us find the relation between 
+d and x.Since in obtaining di, we subtracted ‚a™ from each 
+xi, so, in order to get the meanx, we need to add ‚a™ to d. This can be explained mathematically as:Mean of deviations,d =iiifdf So,
+d =()iiifxa
+f =iii
+iifxfa
+ff =iifxaf =xaSo,x =a + 
+di.e.,x =iiifdaf
+STATISTICS
+265Substituting the values of a, fidi and 
+fi from T
+able 14.4, we getx =435
+47.547.514.562
+30
+.Therefore, the mean of the marks obtained by the students is 62.The method discussed above is called the Assumed Mean Method.Activity 1 : From the Table 14.3 find the mean by taking each of 
+xi (i.e., 17.5, 32.5,and so on) as ‚a™. What do you observe? You will find that the mean determined in
+each case is the same, i.e., 62. (Why ?)So, we can say that the value of the mean obtained does not depend on thechoice of ‚a™.Observe that in Table 14.4, the values in Column 4 are all multiples of 15. So, if
+we divide the values in the entire Column 4 by 15, we would get smaller numbers to
+multiply with fi. (Here, 15 is the class size of each class interval.)So, let ui = 
+ixah, where a is the assumed mean and 
+h is the class size.
+Now, we calculate 
+ui in this way and continue as before (i.e., find 
+fi ui andthen fiui). Taking 
+h = 15, let us form Table 14.5.
+Table 14.5
+Class intervalfixidi = x
+i Œ au
+i = 
+ixŒa
+hfiui10 - 25217.5Œ30Œ2Œ4
+25 - 40332.5Œ15Œ1Œ3
+
+40 - 55747.5000
+55 - 70662.51516
+70 - 85677.530212
+
+85 - 100692.545318
+Total
+fi = 30
+fiui = 29
+Letu =iiifufHere, again let us find the relation between u and x.
+266M
+ATHEMA
+TICSWe have,
+ui =ixahTherefore,u =()1iiiii
+iixaffxaf
+hfhf
+
+ =1iii
+iifxf
+ahff
+ =1xahSo,hu =xai.e.,x =a + 
+huSo,x =iiifuahfNow, substituting the values of 
+a, h,  fiui and fi from T
+able 14.5,  we get
+x =2947.515
+30=47.5 + 14.5 = 62
+So, the mean marks obtained by a student is 62.The method discussed above is called the Step-deviation
+ method.
+We note that :
+the step-deviation method will be convenient to apply if all the di™s have a
+common factor.
+The mean obtained by all the three methods is the same.The assumed mean method and step-deviation method are just simplifiedforms of the direct method.The formula x = 
+a + 
+hu still holds if 
+a and 
+h are not as given above, but are
+any non-zero numbers such that ui = 
+ixah.Let us apply these methods in another example.
+STATISTICS
+267Example 2 : The table below gives the percentage distribution of female teachers inthe primary schools of rural areas of various states and union territories (U.T.) of
+
+India. Find the mean percentage of female teachers by all the three methods discussed
+in this section.Percentage of15 - 2525 - 3535 - 4545 - 5555 - 6565 - 7575 - 85
+female teachersNumber of61174421
+States/U.T.
+Source : Seventh All India School Education Survey conducted by NCERTSolution : Let us find the class marks, 
+xi, of each class, and put them in a column(see Table 14.6):
+Table 14.6
+Percentage of femaleNumber ofxiteachersS
+tates /U.T.
+ (fi)15 - 25620
+25 - 351130
+
+35 - 45740
+
+45 - 55450
+
+55 - 65460
+
+65 - 75270
+
+75 - 85180
+Here we take a = 50, 
+h = 10, then 
+di = 
+xi Œ 50 and 
+5010iixu  .We now find 
+diand ui and put them 
+in Table 14.7.
+
+268M
+ATHEMA
+TICSTable 14.7
+Percentage ofNumber ofxidi = xi Œ 5050=10iixufixifidifiuifemalestates/U.T.
+teachers (fi)15 - 25620Œ30Œ3120Œ180Œ18
+25 - 351130Œ20Œ2330Œ220Œ22
+35 - 45740Œ10Œ1280Œ70Œ7
+
+45 - 554500020000
+55 - 65460101240404
+65 - 75270202140404
+
+75 - 8518030380303
+Total35
+1390Œ360Œ36
+From the table above, we obtain fi = 35,
+fixi = 1390,
+fidi = Œ 360,
+fiui = Œ36.
+Using the direct method, 1390
+39.71
+35
+iiifxxfUsing the assumed mean method,x =iiifdaf = 
+(360)
+5039.71
+35Using the step-deviation method,x =Œ36
+501039.71
+35iiifuahf
+Therefore, the mean percentage of female teachers in the primary schools ofrural areas is 39.71.Remark : The result obtained by all the three methods is the same. So the choice ofmethod to be used depends on the numerical values of xi and 
+fi. If xi and fi aresufficiently small, then the direct method is an appropriate choice. If xi and fi arenumerically large numbers, then we can go for the assumed mean method orstep-deviation method. If the class sizes are unequal, and xi are large 
+numerically, we
+can still apply the step-deviation method by 
+taking h to be a suitable divisor of all the 
+di™s.
+
+STATISTICS
+269Example 3 : The distribution below shows the number of wickets taken by bowlers inone-day cricket matches. Find the mean number of wickets by choosing a suitable
+method. What does the mean signify?Number of20 - 6060 - 100100 - 150150 - 250250 - 350350 - 450
+wicketsNumber of75161223
+bowlersSolution : Here, the class size varies, and the xi,s are large. Let us still apply the step-deviation method with a = 200 and 
+h = 20. Then, we obtain the data as in Table 14.8.
+Table 14.8
+Number ofNumber of
+xidi = xi Œ 200=20iiduuifiwicketsbowlerstaken (fi)20 - 60740Œ160Œ8Œ56
+60 - 100580Œ120Œ6Œ30
+100 - 15016125Œ75Œ3.75Œ60
+
+150 - 25012200000
+250 - 3502300100510
+350 - 45034002001030
+Total45
+Œ106So, 106
+45u Therefore, 
+x = 200 + 
+106
+2045 = 200 Œ 47.11 
+= 152.89.This tells us that, on an average, the number of wickets taken by these 45 bowlersin one-day cricket is 152.89.Now, let us see how well you can apply the concepts discussed in this section!
+
+270M
+ATHEMA
+TICSActivity 2 :Divide the students of your class into three groups and ask each group to do one of the
+following activities.1.Collect the marks obtained by all the students of your class in Mathematics in the
+latest examination conducted by your school. Form a grouped frequency distributionof the data obtained.2.Collect the daily maximum temperatures recorded for a period of 30 days in your
+city. 
+Present this data as a grouped frequency table.3.Measure the heights of all the students of your class (in cm) and form a grouped
+frequency distribution table of this data.After all the groups have collected the data and formed grouped frequencydistribution tables, the groups should find the mean in each case by the method which
+they find appropriate.EXERCISE14.11.A survey was conducted by a group of students as a part of their environment awarenessprogramme, in which they collected the following data regarding the number of plants in
+20 houses in a locality. Find the mean number of plants per house.
+Number of plants0 - 22 - 44 - 66 - 88 - 1010 - 1212 - 14
+Number of houses1215623
+Which method did you use for finding the mean, and why?2.Consider the following distribution of daily wages of 50 workers of a factory.Daily wages (in `)100 - 120120 - 140140 - 160160 - 180180 - 200
+Number of workers12148610
+Find the mean daily wages of the workers of the factory by using an appropriate method.3.The following distribution shows the daily pocket allowance of children of a locality.
+The mean pocket allowance is Rs 18. Find the missing frequency 
+f.Daily pocket11 - 1313 - 1515 - 1717 - 1919 - 2121 - 2323 - 25
+allowance (in `````)Number of children76913
+f54
+STATISTICS
+2714.Thirty women were examined in a hospital by a doctor and the number of heart beats perminute were recorded and summarised as follows. Find the mean heart beats per minute
+for these women, choosing a suitable method.Number of heart beats65 - 6868 - 7171 - 7474 - 7777 - 8080 - 8383 - 86
+per minuteNumber of women24387425.In a retail market, fruit vendors were selling mangoes kept in packing boxes. Theseboxes contained varying number of mangoes. The following was the distribution of
+mangoes according to the number of boxes.Number of  mangoes50  -  5253  -  5556  -  5859  -  6162  -  64
+Number of boxes1511013511525
+Find the mean number of mangoes kept in a packing box. Which method of findingthe mean did you choose?6.The table below shows the daily expenditure on food of 25 households in a locality.
+Daily expenditure100 - 150150 - 200200 - 250250 - 300300 - 350
+(in `````)Number of451222
+householdsFind the mean daily expenditure on food by a suitable method.7.To find out the concentration of SO
+2 in the air (in parts per million, i.e., ppm), the data
+was collected for 30 localities in a certain city and is presented below:Concentration of SO2 (in ppm)Frequency
+0.00  -  0.044
+0.04  -  0.089
+
+0.08  -  0.129
+
+0.12  -  0.162
+
+0.16  -  0.204
+
+0.20  -  0.242
+Find the mean concentration of SO2 in the air.
+
+272M
+ATHEMA
+TICS8.A class teacher has the following absentee record of 40 students of a class for the wholeterm. Find the mean number of days a student was absent.Number of0  -  66  -  1010  -  1414  -  2020  - 2828  -  3838  -  40
+daysNumber of111074431
+students9.The following table gives the literacy rate (in percentage) of 35 cities. Find the meanliteracy rate.Literacy rate (in %)45  -  5555 - 6565  -  7575  -  8585  -  95
+Number of cities3101183
+14.3Mode of Grouped Data
+Recall from Class IX, a mode is that value among the observations which occurs mostoften, that is, the value of the observation having the maximum frequency. Further, we
+discussed finding the mode of ungrouped data. Here, we shall discuss ways of obtaininga mode of grouped data. It is possible that more than one value may have the samemaximum frequency. In such situations, the data is said to be multimodal.  
+Thoughgrouped data can also be multimodal, we shall restrict ourselves to problems having asingle mode only.
+Let us first recall how we found the mode for ungrouped data through the followingexample.Example 4 : The wickets taken by a bowler in 10 cricket matches are as follows:2645021323Find the mode of the data.Solution : Let us form the frequency distribution table of the given data as follows:Number of0123456
+wicketsNumber of1132111
+matches
+STATISTICS
+273Clearly, 2 
+is the number of wickets taken by the bowler in the maximum number(i.e., 3) of matches. So, the mode of this data is 2.In a grouped frequency distribution, it is not possible to determine the mode bylooking at the frequencies. Here, we can only locate a class with the maximumfrequency, called the modal class. The mode is a value inside the modal class, and is
+given by the formula:Mode =10102
+2fflhfff
+wherel =lower limit of the modal class,
+h =size of the class interval (assuming all class sizes to be equal),
+f1 =frequency of the modal class,
+f0 =frequency of the class preceding the modal class,
+f2 =frequency of the class succeeding the modal class.
+Let us consider the following examples to illustrate the use of this formula.Example 5 : A survey conducted on 20 households in a locality by a group of studentsresulted in the following frequency table for the number of family members in a
+household:Family size1 - 33 - 55 - 77 - 99 - 11
+Number of78221
+familiesFind the mode of this data.Solution : Here the maximum class frequency is 8, and the class corresponding to this
+frequency is 3 Œ 5. So, the modal class is 3 Œ 5.Nowmodal class = 3 Œ 5,lower limit (
+l) of modal class = 3,class size (
+h) = 2frequency (f1) of the modal class = 8,frequency (f0) of class preceding the modal class = 7,frequency (f2) of class succeeding the modal class = 2.Now, let us substitute these values in the formula :
+
+274M
+ATHEMA
+TICSMode =10102
+2fflhfff
+=872
+3233.286
+28727
+
+
+Therefore, the mode of the data above is 3.286.Example 6 : The marks distribution of 30 students in a mathematics examination aregiven in Table 14.3 of Example 1. Find the mode of this data. Also compare and
+
+interpret the mode and the mean.Solution : Refer to Table 14.3 of Example 1. Since the maximum number of students
+(i.e., 7) have got marks in the interval 40 - 55, the modal class is 40 - 55. Therefore,
+the lower limit (l) of the modal class = 40,the class size (h) = 15,the frequency (f1) of modal class = 7,the frequency (f0) of the class preceding the modal class = 3,the frequency (f2) of the class succeeding the modal class = 6.Now, using the formula:
+Mode =10102
+2fflhfff
+,we getMode =
+734015
+1463
+ = 52
+So, the mode marks is 52.Now, from Example 1, you know that the mean marks is 62.
+So, the maximum number of students obtained 52 marks, while on an average astudent obtained 62 marks.Remarks :1. In Example 6, the mode is less than the mean. But for some other problems it may
+
+be equal or more than the mean also.2. It depends upon the demand of the situation whether we are interested in finding theaverage marks obtained by the students or the average of the marks obtained by most
+STATISTICS
+275of the students. In the first situation, the mean is required and in the second situation,the mode is required.Activity 3 : Continuing with the same groups as formed in Activity 2 and the situations
+assigned to the groups. Ask each group to find the mode of the data. They should also
+compare this with the mean, and interpret the meaning of both.Remark : The mode can also be calculated for grouped data with unequal class sizes.However, we 
+shall not be discussing it.EXERCISE 14.21.The following table shows the ages of the patients admitted in a hospital during a year:Age (in years)5 - 1515 
+- 2525 
+- 3535 
+- 4545 
+- 5555 
+- 65
+Number of patients6112123145
+Find the mode and the mean of the data given above. Compare and interpret the twomeasures of central tendency.
+2.The following data gives the information on the observed lifetimes (in hours) of 225electrical components :Lifetimes (in hours)0 - 2020 
+- 4040 
+- 6060 
+- 8080 
+- 100100 
+- 120
+Frequency103552613829
+Determine the modal lifetimes of the components.3.The following data gives the distribution of total monthly household expenditure of 200families of a village. Find the modal monthly expenditure of the families. Also, find the
+
+mean monthly expenditure :Expenditure (in `````)Number of families
+1000 - 150024
+1500 - 200040
+2000 - 250033
+2500 - 300028
+3000 - 350030
+3500 - 400022
+4000 - 450016
+4500 - 50007
+
+276M
+ATHEMA
+TICS4.The following distribution gives the state-wise teacher-student ratio in higher
+secondary schools of India. Find the mode and mean of this data. Interpret the twomeasures.Number of students per teacherNumber of states / U.T.
+15 - 203
+20 - 258
+25 - 309
+30 - 3510
+35 - 403
+40 - 450
+45 - 500
+50 - 552
+5.The given distribution shows the number of runs scored by some top batsmen of theworld in one-day international cricket matches.Runs scoredNumber of batsmen3000 - 40004
+4000 - 500018
+5000 - 60009
+6000 - 70007
+7000 - 80006
+8000 - 90003
+9000 - 100001
+10000 - 110001
+Find the mode of the data.6.A student noted the number of cars passing through a spot on a road for 100periods each of 3 minutes and summarised it in the table given below. Find the mode
+
+of the data :Number of cars0 - 1010 
+- 2020 
+- 3030 
+- 4040 
+- 5050 
+- 6060 
+- 7070 
+- 80
+Frequency71413122011158
+
+STATISTICS
+27714.4Median of Grouped Data
+As you have studied in Class IX, the median is a measure of central tendency whichgives the value of the middle-most observation in the data. Recall that for finding themedian of ungrouped data, we first arrange the data values of the observations inascending order. Then, if 
+n is odd, the median is the 
+12nth observation. And, if nis even, then the median will be the average of the th2nand the 1th
+2n observations.
+Suppose, we have to find the median of the following data, which gives themarks, out of 50, obtained by 100 students in a test :Marks obtained2029283342384325
+Number of students628241524120
+First, we arrange the marks in ascending order and prepare a frequency table asfollows :Table 14.9
+Marks obtainedNumber of students(Frequency)206
+2520
+
+2824
+
+2928
+
+3315
+
+384
+
+422
+
+431
+Total100
+
+278M
+ATHEMA
+TICSHere n = 100, which is even. The median will be the average of the 
+2nth and the
+12nth observations, i.e., the 50th and 51st observations. To find these
+observations, we proceed as follows:Table 14.10
+Marks obtainedNumber of students206
+upto 256 + 20 = 26
+
+upto 2826 + 24 = 50
+
+upto 2950 + 28 = 78
+
+upto 3378 + 15 = 93
+
+upto 3893 + 4 = 97
+
+upto 4297 + 2 = 99
+
+upto 4399 + 1 = 100
+Now we add another column depicting this information to the frequency tableabove and name it as cumulative frequency column
+.Table 14.11
+Marks obtainedNumber of studentsCumulative frequency2066
+252026
+
+282450
+
+292878
+
+331593
+
+38497
+
+42299
+
+431100
+
+STATISTICS
+279From the table above, we see that:
+50th observaton is 28(Why?)
+
+51st observation is 29So,Median =
+2829
+28.5
+2Remark : The part of Table 14.11 consisting Column 1 and Column 3 is known as
+Cumulative Frequency Table
+. The median marks 28.5 conveys the information thatabout 50% students obtained marks less than 28.5 and another 50% students obtained
+marks more than 28.5.Now, let us see how to obtain the median of grouped data, through the following
+situation.Consider a grouped frequency distribution of marks obtained, out of 100, by 53students, in a certain examination, as follows:Table 14.12
+MarksNumber of students0 - 105
+10 - 203
+
+20 - 304
+
+30 - 403
+
+40 - 503
+
+50 - 604
+
+60 - 707
+
+70 - 809
+
+80 - 907
+90 - 1008
+From the table above, try to answer the following questions:How many students have scored marks less than 10? The answer is clearly 5.
+280M
+ATHEMA
+TICSHow many students have scored less than 20 marks? Observe that the numberof students who have scored less than 20 include the number of students who have
+scored marks from 0 - 10 as well as the number of students who have scored marks
+from 10 - 20. So, the total number of students with marks less than 20 is 5 + 3, i.e., 8.We say that the cumulative frequency of the class 10-20 is 8.
+Similarly, we can compute 
+the cumulative frequencies of the other classes, i.e.,the number of students with marks less than 30, less than 40, . . ., less than 100. We
+
+give them in Table 14.13 given below:
+Table 14.13
+Marks obtainedNumber of students(Cumulative frequency)Less than 105
+Less than 205 + 3 = 8
+Less than 308 + 4 = 12
+Less than 4012 + 3 = 15
+
+Less than 5015 + 3 = 18
+
+Less than 6018 + 4 = 22
+Less than 7022 + 7 = 29
+Less than 8029 + 9 = 38
+
+Less than 9038 + 7 = 45
+Less than 10045 + 8 = 53
+The distribution given above is called the cumulative frequency distribution ofthe less than type. Here 10, 20, 30, . . . 100, are the upper limits of the respectiveclass intervals.We can similarly make the table for the number of students with scores, more
+than or equal to 0, more than or equal to 10, more than or equal to 20, and so on. FromTable 14.12, we observe that all 53 students have scored marks more than or equal to
+0. Since there are 5 students scoring marks in the interval 0 - 10, this means that there
+
+are 53 Œ 5 = 48 students getting more than or equal to 10 marks. Continuing in thesame manner, we get the number of students scoring 20 or above as 48 Œ 3 = 45, 30 orabove as 45 Œ 4 = 41, and so on, as shown in Table 14.14.
+
+STATISTICS
+281Table 14.14
+Marks obtainedNumber of students(Cumulative frequency)More than or equal to 053
+More than or equal to 1053 Œ 5 = 48
+More than or equal to 2048 Œ 3 = 45
+
+More than or equal to 3045 Œ 4 = 41
+
+More than or equal to 4041 Œ 3 = 38
+
+More than or equal to 5038 Œ 3 = 35
+More than or equal to 6035 Œ 4 = 31
+More than or equal to 7031 Œ 7 = 24
+
+More than or equal to 8024 Œ 9 = 15
+
+More than or equal to 9015 Œ 7 =  8
+The table above is called a cumulative frequency distribution of the more
+than type. Here 0, 10, 20, . . ., 90 give the lower limits of the respective class intervals.Now, to find the median of grouped data, we can make use of any of these
+cumulative frequency distributions.Let us combine Tables 14.12 and 14.13 to get Table 14.15 given below:
+Table 14.15
+MarksNumber of students (f)Cumulative frequency
+ (cf)
+0 - 1055
+10 - 2038
+20 - 30412
+30 - 40315
+40 - 50318
+50 - 60422
+60 - 70729
+70 - 80938
+80 - 90745
+90 - 100853
+Now in a grouped data, we may not be able to find the middle observation bylooking at the cumulative frequencies as the middle observation will be some value in
+282M
+ATHEMA
+TICSa class interval. It is, therefore, necessary to find the value inside a class that dividesthe whole distribution into two halves. But which class should this be?To find this class, we find the cumulative frequencies of all the classes and 
+2n.We now locate the class whose cumulative frequency is greater than (and nearest to)
+2n This is called the 
+median class. In the distribution above, n = 53. So, 
+2n = 26.5.
+Now 60 Œ 70 is the class whose cumulative frequency 29 is greater than (and nearest
+to) 2n, i.e., 26.5.
+Therefore, 60 Œ 70 is the 
+median class.After finding the median class, we use the following formula for calculating themedian.Median =cf2+,nlhfwherel =lower limit of median class,
+n =number of observations,
+cf =cumulative frequency of class preceding the median class,
+f =frequency of median class,
+h =class size (assuming class size to be equal).
+Substituting the values 26.5,
+2n l = 60, cf = 22, 
+f = 7, 
+h = 10
+in the formula above, we getMedian =26.522
+6010
+7=60 + 
+457=66.4
+So, about half the students have scored marks less than 66.4, and the other half havescored marks more than 66.4.
+STATISTICS
+283Example 7 : A survey regarding the heights (in cm) of 51 girls of Class X of a schoolwas conducted and the following data was obtained:Height (in cm)Number of girls
+Less than 1404
+Less than 14511
+
+Less than 15029
+
+Less than 15540
+
+Less than 16046
+
+Less than 16551
+Find the median height.Solution : To calculate the median height, we need to find the class intervals and their
+corresponding frequencies.The given distribution being of the less than type, 140, 145, 150, . . ., 165 give theupper limits of the corresponding class intervals. So, the classes should be below 140,
+140 - 145, 145 - 150, . . ., 160 - 165. Observe that from the given distribution, we findthat there are 4 girls with height less than 140, i.e., the frequency of class intervalbelow 140 is 4. Now, there are 11 girls with heights less than 145 and 4 girls with
+
+height less than 140. Therefore, the number of girls with height in the interval
+140 - 145 is 11 Œ 4 = 7. Similarly, the frequency of 145 - 150 is 29 Œ 11 = 18, for
+
+150 - 155, it is 40 Œ 29 = 11, and so on. So, our frequency distribution  table with the
+given cumulative frequencies becomes:Table 14.16
+Class intervalsFrequency
+Cumulative frequencyBelow 14044
+140 - 145711
+145 - 1501829
+150 - 1551140
+
+155 - 160646
+
+160 - 165551
+
+284M
+ATHEMA
+TICSNown = 51. So, 
+5125.5
+22n. This observation lies in the class 145 - 150. Then,
+l(the lower limit) = 145,cf(the cumulative frequency of the class 
+preceding 145 - 
+150) = 11,
+f(the frequency of the median class 145 - 150) = 18,h(the class size) = 5.Using the formula, Median=
+l + 
+cf2nhf
+, we haveMedian =25.511
+1455
+18=145 + 
+72.5
+18 = 149.03.
+So, the median height of the girls is 149.03 cm.This means that the height of about 50% of the girls is less than this height, and50% are taller than this height.Example 8 : The median of the following data is 525. Find the values of x and 
+y, if thetotal frequency is 100.Class intervalFrequency0 - 1002
+100 - 2005
+
+200 - 300x300 - 40012
+
+400 - 50017
+
+500 - 60020
+
+600 - 700y700 - 8009
+800 - 9007
+900 - 10004
+
+STATISTICS
+285Solution :Class intervalsFrequency
+Cumulative frequency0 - 10022
+100 - 20057
+200 - 300
+x7 + x300 - 4001219 + 
+x400 - 5001736 + 
+x500 - 6002056 + 
+x600 - 700
+y56 + x + 
+y700 - 800965 + 
+x + 
+y800 - 900772 + 
+x + 
+y900 - 
+1000476 + 
+x + 
+yIt is given that n = 100
+So,76 + 
+x + y = 100,i.e.,
+x + y = 24(1)
+The median is 525, which lies in the class 500 Œ 600
+
+So,l = 500,
+f = 20,cf = 36 + 
+x,h = 100
+Using  the formula :Median =
+cf2,nlhf
+ we get                    525 =5036
+500100
+20xi.e.,525 Œ 500 =(14 Œ 
+x) × 5i.e.,25 =70 Œ 5
+xi.e.,5
+x =70 Œ 25 = 45
+So,x =9
+Therefore, from (1), we get9 + 
+y =24
+i.e.,y =15
+
+286M
+ATHEMA
+TICSNow, that you have studied about all the three measures of central tendency, let
+us discuss which measure would be best suited for a particular requirement.The mean is the most frequently used measure of central tendency because ittakes into account all the observations, and lies between the extremes, i.e., the largest
+and the smallest observations of the entire data. It also enables us to compare two or
+more distributions. For example, by comparing the average (mean) results of students
+of different schools of a particular examination, we can conclude which school has a
+better performance.However, 
+extreme values in the data affect the mean. For example, the mean of
+classes having frequencies more or less the same is a good representative of the data.
+But, if one class has frequency, say 2, and the five others have frequency 20, 25, 20,
+
+21, 18, then the mean will certainly not reflect the way the data behaves. So, in such
+cases, the mean is not a good representative of the data.In problems where individual observations are not important, and we wish to findout a ‚typical™ observation, the median is more appropriate, e.g., finding the typical
+productivity rate of workers, average wage in a country, 
+etc. These are situationswhere extreme values may be there. So, rather than the mean, we take the median as
+a better measure of central tendency.
+In situations which require establishing the most frequent value or most popularitem, the mode is the best choice, e.g., to find the most popular T.V. programme being
+
+watched, the consumer item in greatest demand, the colour of the vehicle used by
+most of the people, etc.Remarks :1. There is a empirical relationship between the three measures of central tendency :3 Median = Mode + 2 Mean2. The median of grouped data with unequal class sizes can also be calculated. However,
+we shall not discuss it here.
+STATISTICS
+287EXERCISE 14.31.The following frequency distribution gives the monthly consumption of electricity of68 consumers of a locality. Find the median, mean and mode of the data and compare
+
+them.Monthly consumption (in units)Number of consumers
+65 - 854
+85 - 1055
+105 - 12513
+125 - 14520
+145 - 16514
+165 - 1858
+185 - 2054
+2.If the median of the distribution given below is 28.5, find the values of x and 
+y.Class intervalFrequency0 -  105
+10 -  20
+x20 -  3020
+30 -  4015
+40 - 50
+y50 -  605
+Total
+603.A life insurance agent found the following data for distribution of ages of 100 policyholders. Calculate the median age, if policies are given only to persons having age 18
+years onwards but less than 60 year.
+288M
+ATHEMA
+TICSAge (in years)Number of policy holdersBelow 202
+Below 256
+
+Below 3024
+
+Below 3545
+
+Below 4078
+
+Below 4589
+
+Below 5092
+
+Below 5598
+
+Below 60100
+4.The lengths of 40 leaves of a plant are measured correct to the nearest millimetre, andthe data obtained is represented in the following table :Length (in mm)Number of leaves
+118 - 1263
+127 - 1355
+136 - 1449
+145 - 15312
+154 - 1625
+163 - 1714
+172 - 1802
+Find the median length of the leaves.(Hint : The data needs to be converted to continuous classes for finding the median,since the formula assumes continuous classes. The classes then change to117.5 - 
+126.5, 126.5 - 135.5, . . ., 171.5 - 180.5.)
+
+STATISTICS
+2895.The following table gives the distribution of the life time of 400 neon lamps :Life time (in hours)Number of lamps1500 - 200014
+2000 - 250056
+2500 - 300060
+3000 - 350086
+3500 - 400074
+4000 - 450062
+4500 - 500048
+Find the median life time of a lamp.6.100 surnames were randomly picked up from a local telephone directory and thefrequency distribution of the number of letters in the English alphabets in the surnames
+was obtained as follows:Number of letters1 - 44 
+- 77 
+- 1010 
+- 1313 
+- 1616 
+- 19
+Number of surnames630401644
+Determine the median number of letters in the surnames. Find the mean number ofletters in the surnames? Also, find the modal size of the surnames.
+7.The distribution below gives the weights of 30 students of a class. Find the medianweight of the students.Weight (in kg)
+40 - 4545 
+- 5050 
+- 5555 
+- 6060 
+- 6565 
+- 7070 
+- 75
+Number of students238663214.5Graphical Representation of Cumulative Frequency DistributionAs we all know, pictures speak better than words. A graphical representation helps us
+in understanding given data at a glance. In Class IX, we have represented the datathrough bar graphs, histograms and frequency polygons. Let us now represent acumulative frequency distribution graphically.
+For example, let us consider the cumulative frequency distribution given inTable 14.13.
+
+290M
+ATHEMA
+TICSRecall that the values 10, 20, 30,. . ., 100 are the upper limits of the
+respective class intervals. To represent
+
+the data in the table graphically, we mark
+the upper limits of the class intervals onthe horizontal axis (x-axis) and theircorresponding cumulative frequencies
+on the vertical axis (y-axis), choosing aconvenient scale. The scale may not bethe same on both the axis. Let us nowplot the points corresponding to the
+ordered pairs given by (upper limit,
+corresponding cumulative frequency),
+i.e., (10, 5), (20, 8), (30, 12), (40, 15),(50, 18), (60, 22), (70, 29), (80, 38), (90, 45), (100, 53) on a graph paper and join themby a free hand smooth curve. The curve we get is called a cumulative frequencycurve, or an ogive (of the less than type). (See Fig. 14.1)
+The term ‚ogive™ is pronounced as ‚ojeev™ and is derived from the word ogee.An ogee is a shape consisting of a concave arc flowing into a convex arc, soforming an S-shaped curve with vertical ends. In architecture, the ogee shapeis one of the characteristics of the 14th and 15th century Gothic styles.Next, again we consider the cumulative frequency distribution given inTable 14.14 and draw its ogive (of the more than type).
+Recall that, here 0, 10, 20, . . ., 90are the lower limits of the respective class
+intervals 0 - 10, 10 - 20, . . ., 90 - 100. To
+
+represent ‚the more than type™ graphically,
+
+we plot the lower limits on the x-axis andthe corresponding cumulative frequencies
+on the y-axis. Then we plot the points(lower limit, corresponding cumulative
+frequency), i.e., (0, 53), (10, 48), (20, 45),
+(30, 41), (40, 38), (50, 35), (60, 31),
+(70, 24), (80, 15), (90, 8), on a graph paper,
+
+and join them by a free hand smooth curve.
+The curve we get is a cumulative frequency curve,
+ or an 
+ogive (of the more than
+type). (See Fig. 14.2)
+Fig. 14.1Fig. 14.2
+STATISTICS
+291Fig. 14.3Fig. 14.4Remark : Note that both the ogives (in Fig. 14.1 and Fig. 14.2) correspond to thesame data, which is given in Table 14.12.
+Now, are the ogives related to the median in any way? Is it possible to obtain the
+median from these two cumulative frequency curves corresponding to the data in
+Table 14.12? Let us see.
+One obvious way is to locate5326.5
+22n on the 
+y-axis (see Fig.14.3). From this point, draw a line parallelto the x-axis cutting the curve at a point.From this point, draw a perpendicular to
+the x-axis. The point of intersection ofthis perpendicular with the x-axisdetermines the median of the data (see
+Fig. 14.3).Another way of obtaining themedian is the following :Draw both ogives (i.e., of the lessthan type and of the more than type) on
+the same axis. The two ogives will
+intersect each other at a point. From this
+point, if we draw a perpendicular on thex-axis, the point  at which it cuts the
+x-axis gives us the median (see Fig. 14.4).Example 9 : The annual profits earned by 30 shops of a shopping complex in alocality give rise to the following distribution :Profit (in lakhs `````)Number of shops (frequency)
+More than or equal to 530
+More than or equal to 1028
+
+More than or equal to 1516
+
+More than or equal to 2014
+
+More than or equal to 2510
+More than or equal to 307
+More than or equal to 353
+
+292M
+ATHEMA
+TICSDraw both ogives for the data above.
+Hence obtain the median profit.Solution : We first draw the coordinate
+axes, with lower limits of the profit alongthe horizontal axis, and the cumulativefrequency along the vertical axes. Then,we plot the points (5, 30), (10, 28), (15, 16),(20, 14), (25, 10), (30, 7) and (35, 3). We
+join these points with a smooth curve toget the ‚more than™ ogive, as shown inFig. 14.5.Now, let us obtain the classes, their
+frequencies and the cumulative frequency
+from the table above.Table
+14.17Classes5 - 1010 - 1515 - 2020 - 2525 - 3030 - 3535 - 40
+No. of shops21224343
+Cumulative2141620232730
+frequencyUsing these values, we plot the points(10, 2), (15, 14), (20, 16), (25, 20), (30, 23),
+(35, 27), (40, 30) on the same axes as in
+Fig. 14.5 to get the ‚less than™ ogive, as
+shown in Fig. 14.6.The abcissa of their point of intersection isnearly 17.5, which is the median. This can
+also be verified by using the formula.
+Hence, the median profit (in lakhs) is
+Rs 17.5.Remark : In the above examples, it maybe noted that the class intervals were
+continuous. For drawing ogives, it should
+be ensured that the class intervals are
+continuous. (Also see constructions of
+histograms in Class IX)Fig. 14.5Fig. 14.6
+STATISTICS
+293EXERCISE14.41.The following distribution gives the daily income of 50 workers of a factory.
+Daily income (in `````)100 - 120120 - 140140 - 160160 - 180180 - 200
+Number of workers12148610
+Convert the distribution above to a less than type cumulative frequency distribution,and draw its ogive.2.During the medical check-up of 35 students of a class, their weights were recorded asfollows:Weight (in kg)
+Number of studentsLess than 380
+Less than 403
+
+Less than 425
+
+Less than 449
+
+Less than 4614
+
+Less than 4828
+
+Less than 5032
+
+Less than 5235
+ Draw a less than type ogive for the given data. Hence obtain the median weight from
+the graph and verify the result by using the formula.3.The following table gives production yield per hectare of wheat of 100 farms of a village.Production yield50 - 5555 - 6060 - 6565 - 7070 - 7575 - 80
+(in kg/ha)Number of farms2812243816
+Change the distribution to a more than type distribution, and draw its ogive.14.6Summary
+In this chapter, you have studied the following points:1.The mean for grouped data can be found by :(i)the direct method : 
+iiifxxf
+294M
+ATHEMA
+TICS(ii)the assumed mean method : iiifdxaf(iii)the step deviation method : iiifuxahf
+,with the assumption that the frequency of a class is centred at its mid-point, called itsclass mark.2.The mode for grouped data can be found by using the formula:Mode = 10102
+2fflhfff
+where symbols have their usual meanings.3.The cumulative frequency of a class is the frequency obtained by adding the frequenciesof all the classes preceding the given class.4.The median for grouped data is formed by using the formula:Median = cf2nlhf,where symbols have their usual meanings.5.Representing a cumulative frequency distribution graphically as a cumulative frequencycurve, or an ogive of the less than type and of the more than type.6.The median of grouped data can be obtained graphically as the x-coordinate of the pointof intersection of the two ogives for this data.A NOTE TO THE READERFor calculating mode and median for grouped data, it should beensured that the class intervals are continuous before applying theformulae. Same condition also apply for construction of an ogive.Further, in 
+case of ogives, the scale may not be the same on both the axes.

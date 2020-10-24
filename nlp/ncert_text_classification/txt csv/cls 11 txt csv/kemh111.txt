@@ -1,0 +1,287 @@
+Let the relation of knowledge to real life be very visible to your pupilsand let them understand how by knowledge the world could betransformed. Œ BERTRAND RUSSELL 11.1Introduction
+In the preceding Chapter 10, we have studied various formsof the equations of a line. In this Chapter, we shall study
+
+about some other curves, viz., circles, ellipses, parabolasand hyperbolas. The names parabola and hyperbola aregiven by Apollonius. These curves are in fact, known as
+
+conic sections or more commonly conics because theycan be obtained as intersections of a plane with a double
+napped right circular cone. These curves have a very wide
+range of applications in fields such as planetary motion,design of telescopes and antennas, reflectors in flashlightsand automobile headlights, etc.  Now, in the subsequent sections we will see how the
+
+intersection of a plane with a double napped right circular coneresults in different types of curves.11.2Sections of a Cone
+Let l be a fixed vertical line and m be another line intersecting it ata fixed point V and inclined to it at an angle 
+ (Fig11.1).
+Suppose we rotate the line m around the line l in such a waythat the angle  remains constant.  Then the surface generated isa double-napped right circular hollow cone herein after referred asApollonius(262 B.C. -190 B.C.)11ChapterFig 11. 1
+CONIC SECTIONS
+CONIC SECTIONS       237Fig 11. 2
+Fig 11. 3
+cone and extending indefinitely far in both directions (Fig11.2).
+The point V is called the vertex; the line l is the axis of the cone. The rotating line
+m is called a generator of the cone.  The vertex separates the cone into two partscalled nappes.If we take the intersection of a plane with a cone, the section so obtained is calleda conic section. Thus, conic sections are the curves obtained by intersecting a rightcircular cone by a plane.We obtain different kinds of conic sections depending on the position of the
+intersecting plane with respect to the cone and by the angle made by it with the verticalaxis of the cone. Let  be the angle made by the intersecting plane with the verticalaxis of the cone (Fig11.3).
+The intersection of the plane with the cone can take place either at the vertex ofthe cone or at any other part of the nappe either below or above the vertex.11.2.1 
+Circle, ellipse, parabola and hyperbola When the plane cuts the nappe (otherthan the vertex) of the cone, we have the following situations:(a)When  = 90o,  the section is a circle
+ (Fig11.4).
+(b)When  <  <  90o, the section is an ellipse (Fig11.5).
+(c)When  = ; the section is a parabola (Fig11.6).
+(In each of the above three situations, the plane cuts entirely across one nappe ofthe cone).(d)When 0   < ; the plane cuts through both the nappes and the curves ofintersection is a hyperbola (Fig11.7).
+
+238    MATHEMATICS
+Fig 11. 4
+11.2.2  
+Degenerated conic sectionsWhen the plane cuts at the vertex of the cone, we have  the following  different cases:(a)When  <   90o, then the section is a point (Fig11.8).
+(b)When  = , the plane contains a generator of the cone and the section is astraight line  (Fig11.9).
+It is the degenerated case of a parabola.(c)When 0   < , the section is a pair of intersecting straight lines (Fig11.10).  It is
+the degenerated case of a hyperbola.Fig 11. 6
+Fig 11. 7
+Fig 11. 5
+
+CONIC SECTIONS       239In the following sections, we shall obtain the equations of each of  these conicsections in standard form  by defining them based on geometric properties.Fig 11. 8
+Fig 11. 9
+Fig 11. 10
+11.3Circle
+Definition 1 A circle is the set of all points in a plane that are equidistant from a fixed
+point in the plane.The fixed point is called the centre of the circle
+ and the distance from the centreto a point on the circle is called the radius of the circle (Fig 11.11).
+
+240    MATHEMATICS
+The equation of the circle is simplest if the centre of the circle is at the origin.However, we derive below the equation of the circle with a given centre and radius
+(Fig 11.12).
+Given C (h, k) be the centre and r the radius of circle. Let P(x, y) be any point onthe circle (Fig11.12).  Then,  by the definition, | CP | = 
+r . By the distance formula,we have22()()
+xŒhyŒkr
+i.e.(
+x Œ h)2 + (y Œ k)2 = r2This is the required equation of the circle with centre at (h,k) and radius r .Example 1  Find an equation of the circle with centre at (0,0) and radius r.Solution Here  h = k = 0. Therefore, the equation of the circle is x2 + y2 = r2.Example 2 Find the equation of the circle with centre (Œ3, 2) and radius 4.Solution Here h = Œ3, k = 2 and r = 4. Therefore, the equation of the required circle is(x + 3)2 + (y Œ2)2 = 16Example 3 Find the centre and the radius of the circle x2 + y2 + 8x + 10y Œ 8 = 0Solution  The given equation is(x2 + 8x)  + (y2 + 10y) = 8Now, completing the squares within the parenthesis, we get
+(x2 + 8x + 16)  +  (y2 + 10y + 25)  = 8 + 16 + 25i.e.(
+x + 4)2 + (y + 5)2 = 49i.e.{
+x Œ (Œ 4)}2 + {y Œ (Œ5)}2 = 72Therefore, the given circle has centre at (Œ 4, Œ5) and radius 7.Fig 11. 11
+Fig 11. 12
+
+CONIC SECTIONS       241Example 4 Find the equation of the circle which passes through the points (2, Œ 2), and(3,4) and whose centre lies on the line x + y = 2.Solution Let the equation of the circle be (x Œ h)2 + (y Œ k)2 = r2.Since the circle passes through (2, Œ 2) and (3,4), we have(2 Œ h)2 + (Œ2 Œ k)2 = r2... (1)and(3 Œ 
+h)2 + (4 Œ k)2 = r2... (2)Also since the centre lies on the line x + y = 2, we haveh + k = 2... (3)
+Solving the equations (1), (2) and (3), we geth = 0.7,   k = 1.3  and r2 = 12.58Hence, the equation of the required circle is(x Œ 0.7)2 + (y Œ 1.3)2 = 12.58.EXERCISE 11.1
+In each of the following Exercises 1 to 5, find the equation of the circle with1.centre (0,2) and radius 22.centre (Œ2,3) and radius 43.centre (41,21) and radius 1214.centre (1,1) and radius 25.centre (Œa, Œb) and radius 22ba.In each of the following Exercises 6 to 9, find the centre and radius of the circles.6.(x + 5)2 + (y Œ 3)2 = 367.x2 + y2 Œ 4x Œ 8y Œ 45 = 08.x2 + y2 Œ 8x + 10y Œ 12 = 09.2x2 + 2y2 Œ x = 010.Find the equation of the circle passing through the points (4,1) and (6,5) andwhose centre is on the line 4x + y = 16.11.
+Find the equation of the circle passing through the points (2,3) and (Œ1,1) and
+whose centre is on the line x Œ 3y Œ 11 = 0.
+12.Find the equation of the circle with radius 5 whose centre lies on x-axis andpasses through the point (2,3).13.Find the equation of the circle passing through (0,0) and making intercepts a andb on the coordinate axes.14.Find the equation of a circle with centre (2,2) and passes through the point (4,5).15.Does the point (Œ2.5,  3.5) lie inside, outside or on the circle x2 + y2 = 25?
+242    MATHEMATICS
+Fig 11. 13
+Fig 11.14
+11.4  Parabola
+Definition 2 A parabola is the set of all points
+in a plane that are equidistant from a fixed lineand a fixed point (not on the line) in the plane.The fixed line is called the directrix
+ ofthe parabola and the fixed point F is called thefocus (Fig 11.13). (‚Para™ means ‚for™ and
+‚bola™ means ‚throwing™, i.e., the shape
+described when you throw a ball in the air).Note   If the fixed point lies on the fixedline, then the set of points in the plane, whichare equidistant from the fixed point and thefixed line is the straight line through the fixedpoint and perpendicular to the fixed line.  We
+
+call this straight line as degenerate case ofthe parabola.A line through the focus  and perpendicularto the directrix
+  is called the axis of theparabola. The point of intersection of parabolawith the axis is called the vertex of the parabola
+(Fig11.14).
+11.4.1 
+Standard equations of parabola 
+Theequation of a parabola is simplest if the vertexis at the origin and the axis of symmetry is along the x-axis or y-axis. The four possiblesuch orientations of parabola are shown below in  Fig11.15 (a) to (d).
+
+CONIC SECTIONS       243We will derive the equation for the parabola shown above in Fig 11.15 (a) with
+focus at (a, 0) a > 0; and directricx x = Œ a as below:Let F be the focus and l the directrix
+.  LetFM be perpendicular to the directrix
+ and bisectFM at the point O.  Produce MO to X.  By thedefinition of  parabola, the mid-point O is on the
+parabola and is called the vertex of the parabola.Take O as origin, OX the 
+x-axis and OYperpendicular to it as the y-axis.  Let the distancefrom the directrix to the focus be 2a. Then, thecoordinates of the focus are (a, 0),  and theequation of the directrix
+ is x + a = 0 as in Fig11.16.
+Let P(x, y) be any point on the parabola such thatPF = PB,... (1)
+where PB is perpendicular to l. The coordinates of B are (Œ a, y). By the distanceformula, we havePF = 22()xŒay
+ and PB = 2()xaSince PF = PB, we have222
+()()
+xŒayxa
+
+i.e.(
+x Œ a)2 + y2 = (x + a)2orx2 Œ 2ax + a2 + y2 = x2 + 2ax + a2ory2 = 4ax ( a > 0).Fig 11.15 (a) to (d)
+Fig 11.16
+
+244    MATHEMATICS
+Hence, any point on the parabola satisfiesy2 = 4ax.... (2)
+Conversely, let P(
+x, y) satisfy the equation (2)PF= 
+22()xŒay
+= 2()4
+xŒaax
+= 2()xa= PB... (3)
+and  so P(x,y) lies  on the parabola.Thus, from (2) and (3) we have  proved that the equation to the parabola withvertex at the origin, focus at (a,0) and directrix x = Œ a is y2 = 4ax.Discussion In equation (2), since a > 0, x  can assume any positive value or zero butno negative value and the curve extends indefinitely far into the first and the fourthquadrants. The axis of the parabola is the positive x-axis.Similarly, we can derive the equations of the parabola
+s in:Fig 11.15 (b) as 
+y2 = Œ 4ax,Fig 11.15 (c) as 
+x2 = 4ay,Fig 11.15 (d) as 
+x2 = Œ 4ay,These four equations are known as standard equations 
+of parabolas.Note   The standard equations of  parabolas have focus on one of the coordinateaxis; vertex at the origin and thereby the directrix is parallel to the other coordinateaxis. However, the study of the equations of parabolas with focus at any point and
+any line as directrix is beyond the scope here.From the standard equations of the parabolas, Fig11.15, we have the following
+observations:1.Parabola is symmetric with respect to the axis of the parabola.If the equationhas a y2 term, then the axis of symmetry is along the x-axis and if theequation has an x2 term, then the axis of symmetry is along the y-axis.2.When the axis of symmetry is along the x-axis the parabola opens to the
+(a)right if the coefficient of 
+x is positive,(b)left if the coefficient of 
+x  is negative.3.When the axis of symmetry is along the y-axis the parabola opens(c)upwards if the coefficient of 
+y is positive.(d)downwards if the coefficient of 
+y is negative.
+CONIC SECTIONS       24511.4.2
+ Latus rectumDefinition 3 Latus rectum of a parabola is a line segment perpendicular to the axis ofthe parabola, through the focus and whose end points lie on the parabola (Fig11.17).
+To find the Length of the latus rectum of the parabola 
+y2 = 4ax (Fig 11.18).
+By the definition of the parabola, AF = AC.
+ButAC= FM = 2
+aHenceAF= 2
+a.And since the parabola is symmetric with respect to x-axis AF = FB and so
+AB = Length of the latus rectum = 4a.Fig 11.17Fig 11.18
+Example 5 Find the coordinates of the focus, axis,the equation of the directrix and latus rectum ofthe parabola y2 = 8x.Solution The given equation involves y2, so theaxis of symmetry is along the x-axis.The coefficient of x is positive so the parabola opensto the right. Comparing with the given equationy2 = 4ax, we find that a = 2.Thus, the focus of the parabola is (2, 0) and the equation of the directrix of the parabolais x = Œ 2 (Fig 11.19).
+Length of the latus rectum is 4a = 4 × 2 = 8.Fig 11.19
+
+246    MATHEMATICS
+Example 6 Find the equation of the parabola with focus (2,0) and directrix x = Œ 2.Solution Since the focus (2,0) lies on the  x-axis, the x-axis itself is the axis of theparabola. Hence the equation of the parabola is of the form eithery2 = 4ax or  y2 = Œ 4ax. Since the directrix is x = Œ 2 and the focus is (2,0), the parabolais to be of the form y2 = 4ax with a = 2. Hence the required equation is       y2 = 4(2)x = 8xExample 7 Find the equation of the parabola with vertex  at (0, 0) and focus at (0, 2).Solution Since the vertex is at (0,0) and the focus is at (0,2) which lies on y-axis, they-axis is the axis of the parabola. Therefore, equation of the parabola is of the formx2 = 4ay. thus, we havex2 = 4(2)y, i.e., x2 = 8y.Example 8 Find the equation of the parabola which is symmetric about the y-axis, andpasses through the point (2,Œ3).Solution Since the parabola is symmetric about y-axis and has its vertex at the origin,the equation is of the form x2 = 4ay or x2 = Œ 4ay, where the sign depends on whetherthe parabola opens upwards or downwards. But the parabola passes through (2,Œ3)
+which lies in the fourth quadrant, it must open downwards. Thus  the  equation  is  ofthe form x2 = Œ 4ay.Since the parabola passes through ( 2,Œ3), we have22   = Œ 4a (Œ3), i.e., a   =  
+13Therefore, the equation of the parabola isx2 = 143 y,  i.e.,  3x2 = Œ 4y.EXERCISE 11.2
+In each of the following Exercises 1 to 6, find the coordinates of the focus, axis of theparabola, the equation of the directrix and the length of the latus rectum.1.y2 = 12x2.x2 = 6y3.    y2 = Œ 8x4.x2 = Œ 16y5.y2 = 10x6.    x2 = Œ 9yIn each of the Exercises 7 to 12, find the equation of the parabola that satisfies thegiven conditions:
+CONIC SECTIONS       247Fig 11.20
+Fig 11.21
+Fig 11.22
+We denote the length of the major axis by 2
+a, the length of the minor axis by 2band the distance between the foci by 2c.  Thus, the length of the semi major axis is aand semi-minor axis is b (Fig11.22).
+7.Focus (6,0); directrix x = Œ 68.Focus (0,Œ3); directrix y = 39.Vertex (0,0); focus (3,0)
+10.Vertex (0,0); focus (Œ2,0)
+11.
+Vertex (0,0) passing through (2,3) and axis is along 
+x-axis.12.Vertex (0,0), passing through (5,2) and symmetric with respect to 
+y-axis.11. 5Ellipse
+Definition 4 An ellipse is the set of all points ina plane, the sum of whose distances from twofixed points in the plane is a constant.The two fixed points are called the foci (pluralof ‚focus™) of the ellipse (Fig11.20).
+NoteThe constant which is the sum ofthe distances of a point on the ellipse from thetwo fixed points is always greater than thedistance between the two fixed points.The mid point of the line segment joining the foci is called the centre
+ of theellipse.  The line segment through the foci of the ellipse is called the major axis and theline segment through the centre and perpendicular to the major axis is called the minoraxis.  The end points of the major axis are called the vertices of the ellipse(Fig 11.21).
+
+248    MATHEMATICS
+11.5.1 
+Relationship between semi-majoraxis, semi-minor axis and the distance ofthe focus from the centre of the ellipse(Fig 11.23).
+Take a point P at one end of the major axis.
+Sum of the distances of the point P to thefoci is F1 P + F2P = F1O + OP + F2P(Since,  F
+1P  = F1O + OP)          = 
+c + a + a Œ c = 2aTake a point Q at one end of the minor axis.
+Sum of the distances from the point Q  to the foci isF1Q + F2Q= 
+2222cbcb =  222cbSince both P and Q lies on the  ellipse.By the definition of ellipse, we have222cb=  2a, i.e.,a =22cbora2= b2 + c2 , i.e.,c = 22ba.11.5.2 
+Special cases of an ellipse In the equationc2 = a2 Œ b2 obtained above, if we keep a fixed andvary c from 0 to a, the resulting ellipses will vary inshape.Case (i) When c = 0, both foci merge together withthe centre of the ellipse and a2 = b2, i.e., a = b, and sothe ellipse becomes circle (Fig11.24). Thus, circle is a
+special case of an ellipse which is dealt in Section 11.3.
+Case (ii) When c = a, then b = 0. The ellipse reducesto the line segment F1F2 joining the two foci (Fig11.25).
+11.5.3 
+EccentricityDefinition 5 The eccentricity of an ellipse is the ratio of the distances from the centreof the ellipse to one of the foci and to one of the vertices of the ellipse (eccentricity isdenoted by e) i.e., cea.Fig 11.23
+Fig 11.24
+Fig 11.25
+
+CONIC SECTIONS       249Then since the focus is at a distance of c from the centre, in terms of the eccentricitythe focus is at a distance of ae from the centre.11.5.4 
+Standard equations of an ellipse
+ The  equation of  an ellipse is simplest if thecentre of the ellipse is at the origin and the foci areFig 11.26
+ (a)on the x-axis or y-axis.  The two such possible orientations are shown in Fig 11.26.
+We will derive the equation for the ellipse shown above in Fig 11.26 (a) with foci
+on the x-axis.Let F1 and F2 be the foci and O be the mid-point of the line segment F1F2. Let O be the originand the line from O through F2 be the positivex-axis and that through F1as the negative x-axis.Let, the line through O perpendicular to thex-axis be the y-axis. Let the coordinates of F1 be(Œ c, 0) and F2 be (c, 0) (Fig 11.27).
+Let P(x, y) be any point on the ellipse suchthat the sum of the distances from P to the twofoci  be 2a so givenPF1 + PF2 = 2
+a. ... (1)
+Using the distance formula, we have    2222)()(ycxycx  =  2
+ai.e., 22)(ycx  =  2
+a Œ 22)(ycxFig 11.27
+22221xyab
+250    MATHEMATICS
+Squaring both sides, we get(x + c)2 + y2 = 4a2 Œ 4a 2222)()(ycxycxwhich on simplification givesxacaycx22)(Squaring again and simplifying, we get22222cayax  = 1
+i.e.,2222byax = 1(Since 
+c2 = a2 Œ b2)Hence any point on the ellipse satisfies2222byax  = 1.... (2)
+Conversely, let P (
+x, y) satisfy the equation (2) with 0 < c < a. Theny2  = 
+b2  221axTherefore, PF1= 22()xcy=    22222)(axabcx=    22222
+2()()
+axxcac
+a
+ (since b2 = a2 Œ c2)=     
+2cxc
+aax
+aa
+SimilarlyPF
+2  = caxa
+CONIC SECTIONS       251HencePF
+1 + PF2  =  
+2ccaxaŒxa
+aa
+... (3)So, any point that satisfies  2222byax= 1, satisfies the geometric condition and soP(x, y) lies on the ellipse.Hence from (2) and (3), we proved that the equation of an ellipse with centre ofthe origin and major axis along the x-axis is2222xyab= 1.Discussion From the equation of the ellipse obtained above, it follows that for everypoint P (x, y) on the ellipse, we have22221byax    1,  i.e.,  x2   a2, so Œ a   x   a.Therefore, the ellipse lies between the lines x = Œ a and x = a and touches these lines.Similarly, the ellipse lies between the lines 
+y = Œ b and y = b and touches theselines.Similarly, we can derive the equation of the ellipse in Fig 11.26 (b) as 
+22221xyba.These two equations are known as standard equations
+ of the ellipses.Note  The standard equations of  ellipses have centre at the origin and themajor and minor axis are coordinate axes. However, the study of the ellipses with
+centre at any other point, and any line through the centre as major and the minoraxes passing through the centre and perpendicular to major axis are beyond the
+scope here.From the standard equations of the ellipses (Fig11.26), we have the following
+observations:1.Ellipse is symmetric with respect to both the coordinate axes since if (
+x, y) is apoint on the ellipse, then (Œ x, y), (x, Œy) and (Œ x, Œy) are also points on the ellipse.2.The foci  always lie on the major axis.  The major axis can be determined by
+finding the intercepts on the axes of symmetry.  That is, major axis is along the 
+x-axisif the coefficient of x2 has the larger denominator and it is along the y-axis if thecoefficient of  
+y2 has the larger denominator.
+
+252    MATHEMATICS
+11.5.5 
+Latus rectumDefinition 6 Latus rectum of an ellipse is aline segment perpendicular to the major axisthrough any of the foci and whose end pointslie on the ellipse (Fig 11.28).
+To find the length of the latus rectum
+of the ellipse 1xyab2222+=Let the length of AF
+2 be l.Then the coordinates of A are (
+c, l ),i.e.,(ae, l )Since A lies on the ellipse 
+22221xyab, we have2222()1ael
+ab l2 = b2 (1 Œ e2)But2222
+2222
+1caŒbb
+eŒaaa
+
+Thereforel2 = 42ba, i.e., 2blaSince the ellipse is symmetric with respect to y-axis (of course, it is symmetric w.r.t.
+both the coordinate axes), AF
+2 = F2B and so length of the latus rectum is 22ba.Example 9 Find the coordinates of the foci, the vertices, the length of major axis, theminor axis, the eccentricity and the latus rectum of the ellipse221259
+xySolution Since denominator of 225x is larger than the denominator of 29y, the majorFig  11. 28
+
+CONIC SECTIONS       253axis is along the x-axis. Comparing the given equation with  22221xyab, we geta = 5 and b = 3. Also
+222594
+caŒbŒ
+
+Therefore, the coordinates of the foci are (Œ 4,0) and (4,0), vertices are (Œ 5, 0) and(5, 0). Length of the major axis is 10 units length of the minor axis 2b is 6 units and theeccentricity is 45 and latus rectum is 2218
+5ba .Example 10 Find the coordinates of the foci, the vertices, the lengths of major andminor axes and the eccentricity of the ellipse  9x2 + 4y2 = 36.Solution The given equation of the ellipse can be written in standard form as22149xySince the denominator of 29y is larger than the denominator of 24x, the major axis isalong the y-axis. Comparing the given equation with the standard equation22221xyba, we have 
+b = 2 and a = 3.Alsoc = 22aŒb
+   =  
+945
+Œand53ceaHence the foci are (0, 5)  and (0, Œ5), vertices are (0,3) and (0, Œ3), length of themajor axis is 6 units, the length of the minor axis is 4 units and the eccentricity of theellipse is 53.Example 11
+ Find the equation of the ellipse whose vertices are (± 13, 0) and foci are(± 5, 0).Solution Since the vertices are on x-axis, the equation will be of the form22221xyab, where a is the semi-major axis.
+254    MATHEMATICS
+Given that  a = 13, c = ± 5.Therefore, from the relation c2 = a2 Œ b2, we get25=169 Œ 
+b2 , i.e., b = 12Hence the equation of the ellipse is 221169144
+xy.Example 12 Find the equation of the ellipse, whose length of the major axis is 20 andfoci are (0, ± 5).Solution Since the foci are on y-axis, the major axis is along the y-axis.  So, equationof the ellipse is of the form  22221xyba.Given thata= semi-major axis 20102and the relationc2=  a2 Œ b2 gives52= 102 Œ b2  i.e., b2 = 75Therefore, the equation of the ellipse is22175100
+xyExample 13 Find the equation of the ellipse, with major axis along the x-axis andpassing through the points (4, 3) and (Œ 1,4).Solution The standard form of the ellipse is 2222byax = 1.  Since the points (4, 3)and (Œ1, 4) lie on the ellipse, we have191622ba... (1)and22161ba  = 1–.(2)
+Solving equations (1) and (2), we find that 2247
+7a and 224715b.Hence the required equation is
+CONIC SECTIONS       255221247247157xy, i.e., 7x2 + 15y2 = 247.EXERCISE 11.3
+In each of the Exercises 1 to 9, find the coordinates of the foci, the vertices, the lengthof major axis, the minor axis, the eccentricity and the length of the latus rectum of the
+ellipse.1.2213616
+xy2.221425
+xy3.221169
+xy4.22125100
+xy5.2214936
+xy6.40010022yx= 17.36x2 + 4y2 = 1448.16x2 + y2 = 169.4x2 + 9y2 = 36In each of the following Exercises 10 to 20, find the equation for the ellipse that satisfies
+the given conditions:10.Vertices (
+± 5, 0), foci (± 4, 0)11.
+Vertices (0, 
+± 13), foci (0, ± 5)12.Vertices (
+± 6, 0), foci (± 4, 0)13.Ends of major axis (± 3, 0), ends of minor axis (0, ± 2)14.Ends of major axis (0, ±5),  ends of minor axis (± 1, 0)15.Length of major axis 26,  foci (± 5, 0)16.Length of minor axis 16, foci (0, ± 6).17.Foci (± 3, 0), a = 418.b = 3,  c = 4, centre at the origin; foci on the x axis.19.Centre at (0,0), major axis on the y-axis and  passes through the points (3, 2) and(1,6).20.Major axis on the x-axis and passes through the points (4,3) and (6,2).11.6Hyperbola
+Definition 7 A hyperbola is the set of all points in a plane, the difference of whose
+distances from two fixed points in the plane is a constant.
+256    MATHEMATICS
+The term ﬁdifference
+ﬂ that is used in the definition means the distance to thefarther point  minus the distance to the closer point. The two fixed points are called thefoci of the hyperbola. The mid-point of the line segment joining the foci is called the
+centre of the hyperbola
+. The line through the foci is called the 
+transverse axis andthe line through the centre and perpendicular to the transverse axis is called the conjugateaxis. The points at which the hyperbolaintersects the transverse axis are called the
+vertices of the hyperbola (Fig 11.29).
+We denote the distance between the
+two foci by 2c, the distance between twovertices (the length of the transverse axis)
+by 2a and we define the quantity b asb  = 
+22cŒa
+Also 2b is the length of the conjugate axis(Fig 11.30).
+To find the constant P
+1F2 Œ P1F1 :By taking the point P at A and  B   in the Fig 11.30, we have
+BF1  Œ BF2 =  AF
+2 Œ AF
+1 (by the definition of the hyperbola)BA +AF
+1Œ BF2 = AB + BF
+2Œ AF1i.e., AF1 =  BF2So that,  BF1 Œ BF2 =  BA + AF
+1Œ BF2 = BA = 2
+aFig 11.29
+Fig 11.30
+

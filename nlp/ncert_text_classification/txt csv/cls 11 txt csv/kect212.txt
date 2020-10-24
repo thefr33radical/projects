@@ -1,0 +1,22 @@
+CCT PROJECTS INLOCAL CONTEXTThere are several services provided by thegovernment to solve our day-to-day problems. With
+the growth of CCT the government has taken stepsto use various computer communication tools andtechnology to modernise its working. It helps in
+providing the services more conveniently and a
+means for the public to easily avail these services.
+This affects the service provider (Government) andthe recipient (the citizen) both. Most of these
+projects are driven by local needs to exploit CCT
+for better services, efficiency and transparency.
+Various state governments have implemented
+projects with reference to the local context.This chapter will provide exposure to variousinitiatives taken by the government in
+implementing projects covering various aspects of
+our society.Introduction12ObjectivesAfter completing this Chapter, thestudent will be able to:Łunderstand the meaning of
+e-Governance,Łdescribe National e-Governance
+Plan (NeGP),Łrecognise the relevance of
+e-Governance from thegovernance point of view,Łcomprehend the architecture of
+e-Governance,Łappreciate the evolution of
+e-Governance practices in India
+andŁidentify some of the
+Government™s e-Governance
+initiatives in local context.ﬁThree years ago India was emerging as an ITsuperpower. Today, the country is handling the
+most sophisticated projects in the worldﬂ- Bill Gates, 30 July 200412.1 NEED FOR e-GOVERNANCEAn organisation, be it government or private, will
+be left out of the race if it does not keep pace with
+the major global shifts towards increased

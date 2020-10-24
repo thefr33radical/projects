@@ -1,0 +1,1072 @@
+70M
+ATHEMA
+TICS44.1Introduction
+In Chapter 2, you have studied different types of polynomials. One type was thequadratic polynomial of the form ax2 + 
+bx + 
+c, a  0. When we equate this polynomial
+to zero, we get a quadratic equation. Quadratic equations come up when we deal withmany real-life situations. For instance, suppose acharity trust decides to build a prayer hall having
+a carpet area of 300 square metres with its length
+one metre more than twice its breadth. What
+should be the length and breadth of the hall?Suppose the breadth of the hall is x metres. Then,
+its length should be (2x + 1) metres. We can depict
+this information pictorially as shown in Fig. 4.1.Now,area of the hall =(2
+x + 1). 
+x m2 = (2
+x2 + 
+x) m2So,2
+x2 + 
+x =300(Given)
+Therefore,2
+x2 + 
+x Œ 300 =0
+So, the breadth of the hall should satisfy the equation 2x2 + 
+x Œ 300 = 0 which is a
+quadratic equation.Many people believe that Babylonians were the first to solve quadratic equations.For instance, they knew how to find two positive numbers with a given positive sumand a given positive product, and this problem is equivalent to solving a quadratic
+equation of the form x2 Œ 
+px + 
+q = 0. Greek mathematician Euclid developed a
+geometrical approach for finding out lengths which, in our present day terminology,
+
+are solutions of quadratic equations. Solving of quadratic equations, in general form, isoften credited to ancient Indian mathematicians. In fact, Brahmagupta (A.D.598Œ665)gave an explicit formula to solve a quadratic equation of the form ax2 + 
+bx = 
+c. Later,
+QUADRATIC
+ EQUATIONS
+Fig. 4.1
+QUADRATIC
+ EQUATIONS
+71Sridharacharya (A.D. 1025) derived a formula, now known as the quadratic formula,(as quoted by Bhaskara II) for solving a quadratic equation by the method of completing
+the square. An  Arab mathematician Al-Khwarizmi (about A.D. 800) also studied
+
+quadratic equations of different types. Abraham bar Hiyya Ha-Nasi, in his book‚Liber embadorum™ published in Europe in A.D. 1145 gave complete solutions of
+different quadratic equations.In this chapter, you will study quadratic equations, and various ways of finding
+their roots. You will also see some applications of quadratic equations in daily life
+
+situations.4.2Quadratic Equations
+A quadratic equation in the variable x is an equation of the form 
+ax2 + 
+bx + 
+c = 0, where
+a, b, c are real numbers, 
+a  0. For example, 2
+x2 + 
+x Œ 300 = 0 is a 
+quadratic equation.Similarly, 2
+x2 Œ 3
+x + 1 = 0, 4
+x Œ 3
+x2 + 2 = 0 and 1 Œ 
+x2 + 300 = 0 
+are also quadraticequations.In fact, any equation of the form p(x) = 0, where p(x) is a polynomial of degree2, is a quadratic equation. But when we write the terms of p(x) in descending order oftheir degrees, then we get the standard form of the equation. That is, ax2 + 
+bx + 
+c = 0,
+a  0 is called the 
+standard form of a quadratic equation.Quadratic equations arise in several situations in the world around us and in
+different fields of mathematics. Let us consider a few examples.Example 1 : Represent the following situations mathematically:
+(i)John and Jivanti together have 45 marbles. Both of them lost 5 marbles each, and
+the product of the number of marbles they now have is 124. We would like to find
+
+out how many marbles they had to start with.(ii)A 
+cottage industry produces a certain number of toys in a day. The cost of
+production of each toy (in rupees) was found to be 55 minus the number of toysproduced in a day. On a particular day, the total cost of production was
+Rs 750. We 
+would like to find out the number of toys produced on that day.Solution :(i)Let the number of marbles John had be 
+x.Then the number of marbles Jivanti had = 45 Œ x (Why?).The number of marbles left with John, when he lost 5 marbles = x Œ 5The number of marbles left with Jivanti, when she lost 5 marbles = 45 Œ x Œ 5
+=40 Œ 
+x
+72M
+ATHEMA
+TICSTherefore, their product=(
+x Œ 5) (40 Œ 
+x)=40
+x Œ 
+x2 Œ 200 + 5
+x=Œ 
+x2 + 45
+x Œ 200
+So,Œ 
+x2 + 45
+x Œ 200 =124
+(Given that product = 124)i.e.,Œ 
+x2 + 45
+x Œ 324 =0
+i.e.,x2 Œ 45
+x + 324 =0
+Therefore, the number of marbles John had, satisfies the quadratic equationx2 Œ 45
+x + 324 =0
+which is the required representation of the problem mathematically.
+(ii)Let the number of toys produced on that day be x.Therefore, the cost of production (in rupees) of each toy that day = 55 Œ xSo, the total cost of production (in rupees) that day = x (55 Œ x)Therefore,x (55 Œ 
+x) =750
+i.e.,55
+x Œ 
+x2 =750
+i.e.,Œ 
+x2 + 55
+x Œ 750 =0
+i.e.,x2 Œ 55
+x + 750 =0
+Therefore, the number of toys produced that day satisfies the quadratic equationx2 Œ 55
+x + 750 =0
+which is the required representation of the problem mathematically.
+Example 2 : Check whether the following are quadratic equations:(i)(
+x Œ 2)
+2 + 1 = 2
+x Œ 3(ii)
+x(x + 1) + 8 = (
+x + 2) (
+x Œ 2)
+(iii)x (2x + 3) = 
+x2 + 1(iv)(
+x + 2)
+3 = 
+x3 Œ 4
+Solution :(i)LHS = (
+x Œ 2)
+2 + 1 = 
+x2 Œ 4
+x + 4 + 1 = 
+x2 Œ 4
+x + 5
+Therefore, (x Œ 2)
+2 + 1 = 2x Œ 3 can be rewritten as
+x2 Œ 4
+x + 5 =2
+x Œ 3
+i.e.,x2 Œ 6
+x + 8 =0
+It is of the form ax2 + 
+bx + 
+c = 0.
+Therefore, the given equation is a quadratic equation.
+QUADRATIC
+ EQUATIONS
+73(ii)Since x(x + 1) + 8 = 
+x2 + 
+x + 8 and (
+x + 2)(
+x Œ 2) = 
+x2 Œ 4
+Therefore,x2 + 
+x + 8 =
+x2 Œ 4
+i.e.,x + 12 =0
+It is not of the form ax2 + 
+bx + 
+c = 0.
+Therefore, the given equation is not a quadratic equation.(iii)Here,LHS = x (2
+x + 3) =2
+x2 + 3
+xSo,x (2
+x + 3) =
+x2 + 1 can be rewritten as
+2x2 + 3
+x =x2 + 1
+Therefore, we getx2 + 3
+x Œ 1 =0
+It is of the form ax2 + 
+bx + 
+c = 0.
+So, the given equation is a quadratic equation.(iv)Here,LHS = (x + 2)
+3 =x3 + 6
+x2 + 12
+x + 8
+Therefore,(
+x + 2)
+3 =x3 Œ 4 can be rewritten as
+x3 + 6
+x2 + 12
+x + 8 =
+x3 Œ 4
+i.e.,6
+x2 + 12x + 12 =0or,
+x2 + 2x + 2 = 0It is of the form ax2 + 
+bx + 
+c = 0.
+So, the given equation is a quadratic equation.Remark : Be careful! In (ii) above, the given equation appears to be a quadratic
+equation, but it is not a quadratic equation.In (iv) above, the given equation appears to be a cubic equation (an equation ofdegree 3) and not a quadratic equation. But it turns out to be a quadratic equation. As
+
+you can see, often we need to simplify the given equation before deciding whether it
+is quadratic or not.EXERCISE4.1
+1.Check whether the following are quadratic equations :(i)(
+x + 1)
+2 = 2(
+x Œ 3)(ii)
+x2 Œ 2
+x = (Œ2) (3 Œ
+ x)(iii)(
+x Œ 2)(
+x + 1) = (
+x Œ 1)(
+x + 3)(iv)(
+x Œ 3)(2
+x +1) = 
+x(x + 5)
+(v)(2
+x Œ 1)(
+x Œ 3) = (
+x + 5)(
+x Œ 1)(vi)
+x2 + 3
+x + 1 = (
+x Œ 2)
+2(vii)(
+x + 2)
+3 = 2
+x (x2 Œ 1)(viii)
+x3 Œ 4
+x2 Œ x + 1 = (
+x Œ 2)
+32.Represent the following situations in the form of quadratic equations :(i)The area of a rectangular plot is 528 m
+2. The length of the plot (in metres) is onemore than twice its breadth. We need to find the length and breadth of the plot.
+
+74M
+ATHEMA
+TICS(ii)The product of two consecutive positive integers is 306. We need to find the
+integers.(iii)Rohan™s 
+mother is 26 years older than him. The product of their ages (in years)3 years from now will be 360. We would like to find Rohan™s present age.
+(iv)A 
+train travels a distance of 480 km at a uniform speed. If the speed had been8 km/h less, then it would have taken 3 hours more to cover the same distance. We
+
+need to find the speed of the train.4.3Solution of a Quadratic Equation by Factorisation
+Consider the quadratic equation 2x2 Œ 3
+x + 1 = 0. If we replace 
+x by 1 on the
+LHS of this equation, we get (2 × 12) Œ (3 × 1) + 1 = 0 = RHS of the equation.We say that 1 is a root of the quadratic equation 2
+x2 Œ 3
+x + 1 = 0. This also means that
+1 is a zero of the quadratic polynomial 2x2 Œ 3
+x + 1.
+In general, a real number  is called a root of the quadratic equation
+ax2 + 
+bx + 
+c = 0, 
+a  0 if 
+a 2 + 
+b + 
+c = 0. We also say that 
+x =  is a solution of
+the quadratic equation, or that  satisfies the quadratic equation
+. Note that the
+zeroes of the quadratic polynomial ax2 + 
+bx + 
+c and the roots of the quadratic
+equation ax2 + 
+bx + 
+c = 0 are the same
+.You have observed, in Chapter 2, that a quadratic polynomial can have at most
+two zeroes. So, any quadratic equation can have atmost two roots.You have learnt in Class IX, how to factorise quadratic polynomials by splitting
+their middle terms. We shall use this knowledge for finding the roots of a quadratic
+equation. Let us see how.
+Example 3 : Find the roots of the equation 2x2 Œ 5x + 3 = 0, by factorisation.Solution : Let us first split the middle term Œ 5x as Œ2
+x Œ3
+x [because (Œ2
+x) × (Œ3x) =6x2 = (2
+x2) × 3].So,2
+x2 Œ 5
+x + 3 = 2
+x2 Œ 2
+x Œ 3
+x + 3 = 2
+x (x Œ 1) Œ3(
+x Œ 1) = (2
+x Œ 3)(
+x Œ 1)
+Now, 2
+x2 Œ 5
+x + 3 = 0 can be rewritten as (2
+x Œ 3)(
+x Œ 1) = 0.
+So, the values of x for which 2
+x2 Œ 5
+x + 3 = 0 are the same for which (2
+x Œ 3)(
+x Œ 1) = 0,
+i.e., either 2x Œ 3 = 0 or 
+x Œ 1 = 0.
+Now, 2
+x Œ 3 = 0 gives 
+32x and x Œ 1 = 0 gives 
+x = 1.
+So, 32x and 
+x = 1 are the solutions of the equation.
+In other words, 1 and 32 are the roots of the equation 2
+x2 Œ 5
+x + 3 = 0.
+Verify
+ that these are the roots of the given equation.
+
+QUADRATIC
+ EQUATIONS
+75Note that we have found the roots of 2x2 Œ 5
+x + 3 = 0 
+by factorising2x2 Œ 5
+x + 3 
+into two linear factors and equating each factor to zero.Example 4 : Find the roots of the quadratic equation 6x2 Œ 
+x Œ 2 = 0.
+Solution : We have
+6x2 Œ 
+x Œ 2 =6
+x2 + 3
+x Œ 4
+x Œ 2
+=3x (2
+x + 1) Œ 2 (2
+x + 1)
+=(3
+x Œ 2)(2
+x + 1)
+The roots of 6x2 Œ 
+x Œ 2 = 0 are the values of 
+x for which (3
+x Œ 2)(2
+x + 1) = 0
+Therefore, 3x Œ 2 = 0 or 2
+x + 1 = 0,
+i.e.,x =23orx = 
+12Therefore, the roots of 6x2 Œ 
+x Œ 2 = 0 are 
+21.andŒ
+32We verify the roots, by checking that 
+21and
+32 satisfy 6
+x2 Œ x Œ 2 = 0.
+Example 5 : Find the roots of the quadratic equation 232620
+xx
+.Solution :23262
+xx =23662
+xxx
+=332232
+xxx
+
+=3232
+xxSo, the roots of the equation are the values of 
+x for which32320
+xx
+Now, 
+320
+x for 
+23x.So, this root is repeated twice, one for each repeated factor 32x.Therefore, the roots of 232620
+xx
+ are 
+23, 2
+3.
+76M
+ATHEMA
+TICSExample 6 : Find the dimensions of the prayer hall discussed in Section 4.1.Solution : In Section 4.1, we found that if the breadth of the hall is 
+x m, then xsatisfies the equation 2x2 + 
+x Œ 300 = 0. Applying the factorisation method, we write
+this equation as2x2 Œ 24
+x + 25
+x Œ 300 =0
+2x (x Œ 12) + 25 (
+x Œ 12) =0
+i.e.,(
+x Œ 12)(2
+x + 25) =0
+So, the roots of the given equation are x = 12 or 
+x = Œ 12.5. Since 
+x is the breadth
+of the hall, it cannot be negative.Thus, the breadth of the hall is 12 m. Its length = 2
+x + 1 = 25 m.
+EXERCISE 4.21.Find the roots of the following quadratic equations by factorisation:(i)x2 Œ 3
+x Œ 10 = 0(ii)2
+x2 + 
+x Œ 6 = 0
+(iii)227520
+xx
+(iv)2
+x2 Œ 
+x + 
+18 = 0
+(v)100
+x2 Œ 20
+x + 1 = 0
+2.Solve the problems given in Example 1.3.Find two numbers whose sum is 27 and product is 182.4.Find two consecutive positive integers, sum of whose squares is 365.5.The altitude of a right triangle is 7 cm less than its base. If the hypotenuse is 13 cm, findthe other two sides.6.A cottage industry produces a certain number of pottery articles in a day. It was observed
+on a particular day that the cost of production of each article (in rupees) was 3 more than
+twice the number of articles produced on that day. If the total cost of production on that
+day was ` 90, find the number of articles produced and the cost of each article.
+4.4Solution of a Quadratic Equation by Completing the Square
+In the previous section, you have learnt one method of obtaining the roots of a quadraticequation. In this section, we shall study another method.Consider the following situation:
+The product of Sunita™s age (in years) two years ago and her age four years
+from now is one more than twice her present age. What is her present age?To answer this, let her present age (in years) be 
+x. Then the product of her ages
+two years ago and four years from now is (x Œ 2)(
+x + 4).
+
+QUADRATIC
+ EQUATIONS
+77Therefore,(
+x Œ 2)(
+x + 4) =2
+x + 1i.e.,x2 + 2
+x Œ 8 =2
+x + 1i.e.,x2 Œ 9 =0
+So, Sunita™s present age 
+satisfies the quadratic equation x2 Œ 9 = 0.
+We can write this as 
+x2 = 9. Taking square roots, we get 
+x = 3 or 
+x = Œ 3. Since
+the age is a positive number, 
+x = 3.
+So, Sunita™s present age is 3 years.Now consider the quadratic equation (x + 2)2 Œ 9 = 0. To solve it, we can write
+it as (x + 2)
+2 = 9. Taking square roots, we get 
+x + 2 = 3 or 
+x + 2 = Œ 3.
+Therefore,x = 1 or
+x = Œ5
+So, the roots of the equation (x + 2)
+2 Œ 9 = 0 are 1 and Œ 5.
+In both the examples above, the term containing x is completely inside a square,
+and we found the roots easily by taking the square roots. But, what happens if we areasked to solve the equation x2 + 4
+x Œ 5 = 0? We would probably apply factorisation to
+do so, unless we realise (somehow!) that x2 + 4
+x Œ 5 = (
+x + 2)
+2 Œ 9.
+So, solving x2 + 4
+x Œ 5 = 0 is equivalent to solving (
+x + 2)
+2 Œ 9 = 0, which we have
+seen is very quick to do. In fact, we can convert any quadratic equation to the form(x + 
+a)2 Œ 
+b2 = 0 and then we can easily find its roots. Let us see if this is possible.
+Look at Fig. 4.2.In this figure, we can see how x2 + 4
+x is being converted to (
+x + 2)
+2 Œ 4.
+Fig. 4.2
+78M
+ATHEMA
+TICSThe process is as follows:x2 + 4
+x =(
+x2 + 
+42x) + 4
+2x=x2 + 2
+x + 2
+x=(x + 2) x + 
+2 × x=(x + 2) x + 
+2 × x + 2 × 2 Œ 2 × 2
+=(x + 2) x + 
+(x + 2) × 2 Œ 2 × 2
+=(x + 2) (
+x + 2) Œ 2
+2=(x + 2)
+2 Œ 4
+So,x2 + 4
+x Œ 5 =(
+x + 2)
+2 Œ 4 Œ 5 = (
+x + 2)
+2 Œ 9So, x2 + 4
+x Œ 5 = 0 can be written as (
+x + 2)
+2 Œ 9 = 0 by this process of completing
+the square. This is known as the method of completing the square.In brief, this can be shown as follows:x2 + 4
+x =222
+444
+4222
+xx
+
+
+
+So,x2 + 4
+x Œ 5 =0 can be rewritten as
+24452x
+ =0
+i.e.,(
+x + 2)
+2 Œ 9 =0
+Consider now the equation 3x2 Œ 5
+x + 2 = 0. Note that the coefficient of 
+x2 is not
+a perfect square. So, we multiply the equation throughout by 3 to get9x2 Œ 15
+x + 6 =0
+Now,9
+x2 Œ 15
+x + 6 =
+25(3)236
+2xx
+=222555
+(3)236
+222
+xx
+
+
+
+=2525
+3624x
+ = 
+251324x
+QUADRATIC
+ EQUATIONS
+79So, 9x2 Œ 15
+x + 6 = 0 can be written as
+251324x =0
+i.e.,2532x =14So, the solutions of 9x2 Œ 15
+x + 6 = 0 are the same as those of 
+251324x.i.e.,3
+x Œ 
+52 =1
+2or532x = 
+12(We can also write this as 
+51322x
+, where ‚±™ denotes ‚plus minus™.)
+Thus,3
+x =5122 or 
+51322xSo,x =5166 or 
+5166xTherefore,x =1 or 
+x = 
+46i.e.,x =1 or 
+x = 
+23Therefore, the roots of the given equation are 1 and 2.3Remark : Another way of showing this process is as follows :The equation3
+x2 Œ 5
+x + 2 =0
+is the same as25233xx =0
+Now,
+x2 Œ 
+5233x =2215152
+23233
+x
+
+
+
+
+
+
+
+80M
+ATHEMA
+TICS=25225
+6336
+x
+=222
+5151
+63666
+xx
+
+
+
+So, the solutions of 3x2 Œ 5
+x + 2 = 0 are the same as those of 
+2251066x
+
+,which are x Œ 
+56 = ± 
+16, i.e.,x = 
+5166 = 1 and 
+x = 
+5166 = 
+23.Let us consider some examples to illustrate the above process.Example 7 : Solve the equation given in Example 3 by the method of completing thesquare.Solution : The equation 2x2 Œ 5
+x + 3 = 0 is the same as 
+2530.22xx
+Now,
+25322xx =22553
+442
+x
+
+
+
+ = 
+251416
+xTherefore, 2x2 Œ 5
+x + 3 = 0 can be written as 
+2510416
+x
+.So, the roots of the equation 2x2 Œ 5
+x + 3 = 0 are exactly the same as those of
+2510416
+x
+. Now, 
+251416
+x =0 is the same as 
+251416
+xTherefore,54x =14i.e.,x =5144i.e.,x =5151
+or4444
+x
+i.e.,x =32 or 
+x = 1
+
+QUADRATIC
+ EQUATIONS
+81Therefore, the solutions of the equations are 32x and 1.Let us verify our solutions.
+Putting 32x in 2
+x2 Œ 5
+x + 3 = 0, we get 
+2332Œ530
+22
+
+
+, which iscorrect. Similarly, you can verify that x = 1 also satisfies the given equation.
+In Example 7, we divided the equation 2x2 Œ 5
+x + 3 = 0 throughout by 2 to get
+x2 Œ 
+5322x = 0 to make the first term a perfect square and then completed the
+square. Instead, we can multiply throughout by 2 to make the first term as 4x2 = (2
+x)2and then complete the square.This method is illustrated in the next example.Example 8 : Find the roots of the equation 5x2 Œ 6
+x Œ 2 = 0 by the method of completing
+the square.Solution : Multiplying the equation throughout by 5, we get
+25x2 Œ 30
+x Œ 10 =0
+This is the same as(5x)2 Œ 2 × (5
+x) × 3 + 32 Œ 3
+2 Œ 10 =0
+i.e.,(5
+x Œ 3)
+2 Œ 9 Œ 10 =0
+i.e.,(5
+x Œ 3)
+2 Œ 19 =0
+i.e.,(5
+x Œ 3)
+2 =19
+i.e.,5
+x Œ 3 =
+19i.e.,5
+x =319
+So,x =319
+5Therefore, the roots are 319
+5 and 
+319
+5.Verify that the roots are 
+319
+5 and 
+319
+5.
+82M
+ATHEMA
+TICSExample 9 : Find the roots of 4x2 + 3
+x + 5 = 0 by the method of completing the
+square.Solution : Note that 4x2 + 3
+x + 5 = 0 is the same as
+(2x)2 + 2 × (2
+x) × 22333
+5444
+
+
+
+
+ =0
+i.e.,23925416
+x
+ =0
+i.e.,2371
+2416
+x =0
+i.e.,2324x =7106But 2324x cannot be negative for any real value of 
+x (Why?). So, there isno real value of x satisfying the given equation. Therefore, the given equation has no
+real r
+oots.Now, you have seen several examples of the use of the method of completing
+the square. So, let us give this method in general.Consider the quadratic equation ax2 + 
+bx + 
+c = 0 (
+a  0). Dividing throughout by
+a, we get 20bcxxaa
+This is the same as22022bbc
+xaaa
+
+
+
+
+i.e.,222424bbac
+xaa = 0So, the roots of the given equation are the same as those of 22240,24bbac
+xaa
+ i.e., those of 
+222424bbac
+xaa(1)
+QUADRATIC
+ EQUATIONS
+83If b2 Œ 4
+ac  0, then by taking the square roots in (1), we get
+2bxa =242bac
+aTherefore,x =242bbac
+a
+So, the roots of ax2 + 
+bx + 
+c = 0 are 
+2244and
+22bbacbbac
+aa
+, ifb2 Œ 4
+ac  0. If 
+b2 Œ 4
+ac < 0, the equation will have no real roots. (Why?)
+Thus, if b2 Œ 4
+ac 0, then the roots of the quadratic equationax2 + 
+bx + c = 0 are given by 
+2Œ±Œ4
+2bbac
+aThis formula for finding the roots of a quadratic equation is known as thequadratic formula.Let us consider some examples for illustrating the use of the quadratic formula.Example 10 : Solve Q. 2(i) of Exercise 4.1 by using the quadratic formula.Solution : Let the breadth of the plot be 
+x metres. Then the length is (2
+x + 1) metres.
+Then we are given that x(2x + 1) = 528, i.e., 2
+x2 + 
+x Œ 528 = 0.
+This is of the form ax2 + 
+bx + 
+c = 0, where 
+a = 2, 
+b = 1, 
+c = Œ 528.
+So, the quadratic formula gives us the solution asx =114(2)(528)
+14225165
+444
+
+
+i.e.,x =64Œ66
+or44xi.e.,x = 16or
+x = 
+332Since x cannot be negative, being a dimension, the breadth of the plot is
+16 metres and hence, the length of the plot is 33m.You should verify that these values satisfy the conditions of the problem.
+
+84M
+ATHEMA
+TICSExample 11 :
+ Find two consecutive odd positive integers, sum of whose squaresis 290.Solution : Let the smaller of the two consecutive odd positive integers be 
+x. Then, thesecond integer will be x + 2. According to the question,
+x2 + (
+x + 2)
+2 =290
+i.e.,x2 + 
+x2 + 4
+x + 4 =290
+i.e.,2
+x2 + 4
+x Œ 286 =0
+i.e.,x2 + 2
+x Œ 143 =0
+which is a quadratic equation in x.Using the quadratic formula, we getx =24572
+2576224
+222
+
+
+i.e.,x =11or
+x = Œ 13But x is given to be an odd positive integer. Therefore, 
+x  Œ 13, x = 11.
+Thus, the two consecutive odd integers are 11 and 13.
+Check : 112 + 13
+2  = 121 + 169 = 290.Example 12 : A rectangular park is to be designed whose breadth is 3 m less than itslength. Its area is to be 4 square metres more than the area of a park that has alreadybeen made in the shape of an isosceles triangle with its base as the breadth of the
+rectangular park and of altitude 12 m (see Fig. 4.3). Find its length and breadth.Solution : Let the breadth of the rectangular park be 
+x m.So, its length = (x + 3) m.
+Therefore, the area of the rectangular park = 
+x(x + 3) m
+2 = (
+x2 + 3
+x) m2.Now, base of the isosceles triangle = 
+x m.
+Therefore, its area = 12 × 
+x × 12 = 6
+x m2.According to our requirements,x2 + 3
+x =6
+x + 4i.e.,x2 Œ 3
+x Œ 4 =0
+Using the quadratic formula, we getFig. 4.3
+QUADRATIC
+ EQUATIONS
+85x =325
+2 = 
+352 = 4 or Œ 1
+But x  Œ 1 (Why?). Therefore, 
+x = 4.
+So, the breadth of the park = 4m and its length will be 7m.Verification :
+Area of rectangular park =28 m
+2,area of triangular park =24 m
+2 = (28 Œ 4) m
+2Example 13 : Find the roots of the following quadratic equations, if they exist, usingthe quadratic formula:(i)3
+x2 Œ 5
+x + 2 = 0(ii)
+x2 + 4
+x + 5 = 0(iii)2
+x2 Œ 2
+2x + 1 = 0
+Solution :(i)3
+x2 Œ 5x + 2 = 0. Here, 
+a = 3, 
+b =  Œ 5, 
+c = 2. So, 
+b2 Œ 4
+ac = 25 Œ 24 = 1 
+> 0.
+Therefore, x  = 
+5151
+66, i.e., x = 1or
+x = 
+23So, the roots are 2
+3 and 1.
+(ii)x2 + 4
+x + 5 = 0. Here, 
+a = 1, b = 4, 
+c = 5. So, 
+b2 Œ 4
+ac = 16 Œ 20 = Œ 4 < 0.
+Since the square of a real number cannot be negative, therefore 24bac
+ will
+not have any real value.So, there are no real roots for the given equation.(iii)2
+x2 Œ 
+22x + 1 = 0. Here, 
+a = 2, 
+b = 
+22, c = 1.
+So,b2 Œ 4
+ac = 8 Œ 8 = 0
+Therefore, x = 
+2202
+042, 1.i.e.,
+2xSo, the roots are 12, 12.
+86M
+ATHEMA
+TICSExample 14 : Find the roots of the following equations:(i)13,0
+xxx
+(ii)113,0,2
+2xxx
+Solution :(i)13xx. Multiplying throughout by x, we getx2 + 1 =3
+xi.e.,x2 Œ 3
+x + 1 =0, which is a quadratic equation.
+Here,a = 1, 
+b =Œ 3, 
+c = 1
+So,b2 Œ 4
+ac =9 Œ 4 = 5 > 0
+Therefore,x =352(Why?)So, the roots are 3535
+and
+22.(ii)113,0,2
+2xxx
+.As x  0, 2, multiplying the equation by 
+x (x Œ 2), we get
+(x Œ 2) Œ 
+x =3
+x (x Œ 2)
+=3x2 Œ 6
+xSo, the given equation reduces to 3x2 Œ 6x + 2 = 0, which is a quadratic equation.Here,a = 3, 
+b =Œ 6, 
+c = 2.So,
+b2 Œ 4
+ac = 36 Œ 24 = 12 > 0
+Therefore,x =61262333
+.663
+
+So, the roots are 3333
+and
+33.
+QUADRATIC
+ EQUATIONS
+87Example 15 : A motor boat whose speed is 18 km/h in still water takes 1 hour more
+to go 24 km upstream than to return downstream to the same spot. Find the speed of
+the stream.Solution : Let the speed of the stream be x km/h.
+Therefore, the speed of the boat upstream = (18 Œ x) km/h and the speed of the boat
+downstream = (18 + x) km/h.The time taken to go upstream = distance24
+speed18
+x hours.Similarly, the time taken to go downstream = 2418x hours.
+According to the question,2424
+1818
+xx =1
+i.e.,24(18 
++ x) Œ 24(18 Œ x) =(18 Œ 
+x) (18 + x)i.e.,x2 + 48
+x Œ 324 =0
+Using the quadratic formula, we getx =248481296
+2
+ = 
+483600
+2=4860
+2 = 6 or Œ 54
+Since x is the speed of the stream, it cannot be negative. So, we ignore the root
+x = Œ 54. Therefore, 
+x = 6 gives the speed of the stream as 6 km/h.
+EXERCISE 4.31.Find the roots of the following quadratic equations, if they exist, by the method ofcompleting the square:(i)2
+x2 Œ 7
+x + 3 = 0(ii)2
+x2 + 
+x Œ 4 = 0
+(iii)244330
+xx
+(iv)2
+x2 + 
+x + 4 = 0
+2.Find the roots of the quadratic equations given in Q.1 above by applying the quadraticformula.
+88M
+ATHEMA
+TICS3.Find the roots of the following equations:(i)13,0
+xxx
+(ii)1111
+4730
+xx, x  Œ 4, 7
+4.The sum of the reciprocals of Rehman™s ages, (in years) 3 years ago and 5 years fromnow is 1.3Find his present age.5.In a class test, the sum of Shefali™s marks in Mathematics and English is 30. Had she got2 marks more in Mathematics and 3 marks less in English, the product of their marks
+would have been 210. Find her marks in the two subjects.6.The diagonal of a rectangular field is 60 metres more than the shorter side. If the longer
+side is 30 metres more than the shorter side, find the sides of the field.7.The difference of squares of two numbers is 180. The square of the smaller number is 8times the larger number. Find the two numbers.
+8.A train travels 360 km at a uniform speed. If the speed had been 5 km/h more, it wouldhave taken 1 hour less for the same journey. Find the speed of the train.9.Two water taps together can fill a tank in 
+938 hours. The tap of larger diameter takes 10
+hours less than the smaller one to fill the tank separately. Find the time in which each tap
+can separately fill the tank.10.An express train takes 1 hour less than a passenger train to travel 132 km betweenMysore and Bangalore (without taking into consideration the time they stop at
+intermediate stations). If the average speed of the express train is 11km/h more than that
+of the passenger train, find the average speed of the two trains.11.
+Sum of the areas of two squares is 468 m2. If the difference of their perimeters is 24 m,find the sides of the two squares.4.5Nature of Roots
+In the previous section, you have seen that the roots of the equation ax2 + bx + c = 0are given byx =2Œ42bbac
+aIf b2 Œ 4
+ac > 0, we get two distinct real roots 
+2422bac
+baa and
+24Œ22bac
+baa.
+QUADRATIC
+ EQUATIONS
+89If b2 Œ 4
+ac = 0, then 
+x = 
+02ba, i.e.,orŒ
+22bbxaa
+So, the roots of the equation ax2 + 
+bx + 
+c = 0 are both 
+2baTherefore, we say that the quadratic equation ax2 + 
+bx + 
+c = 0 has two equal
+real roots in this case.If b2 Œ 4
+ac < 0, then there is no real number whose square is 
+b2 Œ 4
+ac. Therefore,there are no real roots for the given quadratic equation in this case.Since b2 Œ 4
+ac determines whether the quadratic equation 
+ax2 + 
+bx + 
+c = 0 has
+real roots or not, b2 Œ 4ac is called the 
+discriminant of this quadratic equation.
+So, a quadratic equation ax2 + 
+bx + 
+c = 0 has
+(i)two distinct real roots, if 
+b2 Œ 4
+ac > 0,
+(ii)two equal real roots, if b2 Œ 4
+ac = 0,
+(iii) no real roots, if b2 Œ 4
+ac < 0.
+Let us consider some examples.Example 16 : Find the discriminant of the quadratic equation 2x2 Œ 4
+x + 3 = 0, and
+hence find the nature of its roots.Solution : The given equation is of the form ax2 + 
+bx + 
+c = 0, where 
+a = 2, 
+b = Œ 4 and
+c = 3. Therefore, the discriminant
+b2 Œ 4
+ac = (Œ 4)
+2 Œ (4 × 2 × 3) = 16 Œ 24 = Œ 8 < 0So, the given equation has no real roots.Example 17 : A pole has to be erected at a point on the boundary of a circular parkof diameter 13 metres in such a way that the differences of its distances from two
+diametrically opposite fixed gates A and B on the boundary is 7 metres. Is it possible to
+
+do so? If yes, at what distances from the two gates should the pole be erected?Solution : Let us first draw the diagram(see Fig. 4.4).Let P be the required location of thepole. Let the distance of the pole from thegate B be x m, i.e., BP = 
+x m. Now the
+difference of the distances of the pole from
+the two gates = AP Œ BP (or, BP Œ AP) =
+
+7 m. Therefore, AP = (
+x + 7) m.
+Fig. 4.4
+90M
+ATHEMA
+TICSNow, AB = 13m, and since AB is a diameter,
+APB =90°(Why?)
+Therefore,AP
+2 + PB
+2 =AB
+2(By Pythagoras theorem)i.e.,(
+x + 7)
+2 + 
+x2 =13
+2i.e.,x2 + 14
+x + 49 + 
+x2 =169
+i.e.,2
+x2 + 14
+x Œ 120 =0
+So, the distance ‚x™ of the pole from gate B satisfies the equationx2 + 7
+x Œ 60 =0
+So,  it would be possible to place the pole if this equation has real roots. To see if this
+is so or not, let us consider its discriminant. The discriminant isb2 Œ 4
+ac = 7
+2 Œ 4 × 1 × (Œ 60) =289 > 0.
+So, the given quadratic equation has two real roots, and it is possible to erect thepole on the boundary of the park.Solving the quadratic equation x2 + 7
+x Œ 60 = 0, by the quadratic formula, we get
+x =7289
+2 = 
+717
+2Therefore, x = 5 or Œ 12.
+Since 
+x is the distance between the pole and the gate B, it must be positive.
+Therefore, x = Œ 12 will have to be ignored. So, x = 5.Thus, the pole has to be erected on the boundary of the park at a distance of 5mfrom the gate B and 12m from the gate A.
+Example 18 : Find the discriminant of the equation 3x2 Œ 2x +13 = 0 and hence findthe nature of its roots. Find them, if they are real.Solution : Here a = 3, 
+b = Œ 2 and 
+13c.Therefore, discriminant b2 Œ 4
+ac = (Œ 2)
+2 Œ 4 × 3 × 
+13 = 4 Œ 4 = 0.
+Hence, the given quadratic equation has two equal real roots.The roots are 2211
+,,,,.i.e.,,i.e.,
+226633
+bbaa
+QUADRATIC
+ EQUATIONS
+91EXERCISE4.4
+1.Find the nature of the roots of the following quadratic equations. If the real roots exist,find them:(i)2
+x2 Œ 3
+x + 5 = 0(ii)3
+x2 Œ 4
+3x + 4 = 0
+(iii)2
+x2 Œ 6x + 3 = 0
+2.Find the values of k for each of the following quadratic equations, so that they have two
+equal roots.(i)2
+x2 + 
+kx + 3 = 0(ii)
+kx (x Œ 2) + 6 = 03.Is it possible to design a rectangular mango grove whose length is twice its breadth,and the area is 800 m2? If so, find its length and breadth.4.Is the following situation possible? If so, determine their present ages.The sum of the ages of two friends is 20 years. Four years ago, the product of their agesin years was 48.5.Is it possible to design a rectangular park of perimeter 80 m and area 400 m2? If  so, find
+its length and breadth.4.6Summary
+In this chapter, you have studied the following points:1.A quadratic equation in the variable x is of the form 
+ax2 + bx + 
+c = 0, where 
+a, b, c are real
+numbers and a  0.
+2.A real number  is said to be a root of the quadratic equation 
+ax2 + 
+bx + 
+c = 0, if
+a2 + 
+b + 
+c = 0. The zeroes of the quadratic polynomial 
+ax2 + 
+bx + 
+c and the roots of the
+quadratic equation ax2 + 
+bx + 
+c = 0 are the same.
+3.If we can factorise ax2 + 
+bx + 
+c, a  0, into a product of two linear factors, then the roots
+of the quadratic equation ax2 + 
+bx + 
+c = 0 can be found by equating each factor to zero.
+4.A quadratic equation can also be solved by the method of completing the square.5.Quadratic formula: The roots of a quadratic equation ax2 + 
+bx + 
+c = 0 are given by
+24,2bbac
+a
+ provided 
+b2 Œ 4
+ac  0.
+6.A quadratic equation ax2 + 
+bx + 
+c = 0 has
+(i)two distinct real roots, if 
+b2 Œ 4
+ac > 0,
+(ii)two equal roots (i.e., coincident roots), if b2 Œ 4
+ac = 0, and
+(iii)no 
+real roots, if b2 Œ 4
+ac < 0.
+
+92M
+ATHEMA
+TICSA NOTE TO THE READERIn case of word problems, the obtained solutions should always beverified with the conditions of the original problem and not in theequations formed (see Examples 11, 13, 19 of Chapter 3 and
+Examples 10, 11, 
+12 of Chapter 4).

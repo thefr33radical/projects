@@ -1,0 +1,106 @@
+A mathematician knows how to solve a problem,he can not solve it. Œ MILNE 3.1  Introduction
+The word ‚trigonometry™ is derived from the Greek words‚trigon™ and ‚
+metron
+™ and it means ‚measuring the sides of
+a triangle™. The subject was originally developed to solve
+geometric problems involving triangles. It was studied by
+sea captains for navigation, surveyor to map out the new
+lands, by engineers and others. Currently, trigonometry is
+
+used in many areas such as the science of seismology,
+
+designing electric circuits, describing the state of an atom,
+predicting the heights of tides in the ocean, analysing a
+musical tone and in many other areas.In earlier classes, we have studied the trigonometricratios of acute angles as the ratio of the sides of a right
+angled triangle. We have also studied the trigonometric identities and application of
+
+trigonometric ratios in solving the problems related to heights and distances. In this
+Chapter, we will generalise the concept of trigonometric ratios to trigonometric functions
+
+and study their properties.3.2  Angles
+Angle is a measure of rotation of a given ray about its initial point. The original ray isChapter3TRIGONOMETRIC FUNCTIONSArya Bhatt (476-550)Fig  3.1
+Vertex
+
+50MATHEMATICS
+called the initial side and the final position of the ray after rotation is called the
+terminal side of the angle. The point of rotation is called the 
+vertex. If the direction ofrotation is anticlockwise, the angle is said to be positive and if the direction of rotation
+is clockwise, then the angle is negative (Fig 3.1).The measure of an angle is the amount ofrotation performed to get the terminal side from
+the initial side. There are several units for
+measuring angles. The definition of an angle
+suggests a unit, viz. one complete revolution
+ from the position of the initial side as
+indicated in Fig 3.2.This is often convenient for large angles. For example, we can say that a rapidlyspinning wheel is making an angle of say 15 revolution per second. We shall  describe
+
+two other units of measurement of an angle which are most commonly used, viz.
+degree measure and radian measure.3.2.1  Degree measure 
+ If a rotation from the initial side to terminal side is 
+th1360ofa revolution, the angle is said to have a measure of one degree
+, written as 1°.  A degree is
+divided into 60 minutes, and a minute is divided into 60 seconds . One sixtieth of a degree is
+called a minute, written as 1, and one sixtieth of a minute is called a second, written as 1.Thus,1° = 60
+1 = 60
+Some of the angles whose measures are 360°,180°, 270°, 420°, Œ 30°, Œ 420° areshown in Fig 3.3.Fig  3.2
+Fig  3.3
+
+TRIGONOMETRIC FUNCTIONS     513.2.2  Radian measure  There is another unit for measurement of an angle, called
+the radian measure. Angle subtended at the centre by an arc of length 1 unit in a
+unit circle (circle of radius 1 unit) is said to have a measure of 1 radian. In the Fig
+3.4(i) to (iv), OA is the initial side and OB is the terminal side. The figures show theangles whose measures are 1 radian, Œ1 radian, 112 radian and Œ1
+12 radian.
+(i)(ii)(iii)Fig  3.4 (i) to (iv)
+(iv)We know that the circumference of a circle of radius
+ 1 unit is 2. Thus, one
+complete revolution of the initial side subtends an angle of  2
+ radian.
+More generally, in a circle of radius
+ r, an arc of length r will subtend an angle of
+1 radian. It is well-known that equal arcs of a circle subtend equal angle at the centre.
+Since in a circle of radius r, an arc of length r subtends an angle whose measure is 1radian, an arc of length l will subtend an angle whose measure is lr radian. Thus, if in
+a circle of radius r, an arc of length l subtends an angle  radian at the centre, we have
+  = 
+lr  or  
+l  = 
+r 
+52MATHEMATICS
+3.2.3  Relation between radian and real numbers
+Consider the unit circle with centre O. Let A be any point
+on the circle. Consider OA as initial side of an angle.
+Then the length  of an arc of the circle will give the radian
+
+measure of the angle which the arc will subtend at the
+centre of the circle. Consider the line PAQ which is
+
+tangent to the circle at A. Let the point A represent the
+
+real number zero, AP represents positive real number and
+
+AQ represents negative real numbers (Fig 3.5). If we
+rope the line AP in the anticlockwise direction along the
+
+circle, and AQ in the clockwise direction, then every real
+
+number will correspond to a radian measure and
+conversely. Thus, radian measures and real numbers can
+
+be considered as one and the same.
+3.2.4   Relation between degree and radian
+   Since a circle subtends at the centre
+an angle whose radian measure is 2 and its degree measure is 360°, it follows that
+2 radian = 360°  or
+ radian = 180°
+The above relation enables us to express a radian measure in terms of degree
+measure and a degree measure in terms of radian measure. Using approximate value
+of  as 
+227, we have1 radian = 
+180
+= 57° 16
+ approximately.
+Also1° = 
+180
+ radian  =  0.01746 radian approximately.
+The relation between degree measures and radian measure of some common anglesare given in the following table:
+AO1P12−1−−2−Q0Fig  3.5
+Degree30°45°60°90°
+180°270°360°
+Radian6432322

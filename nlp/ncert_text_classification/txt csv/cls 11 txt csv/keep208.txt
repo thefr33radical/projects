@@ -1,0 +1,322 @@
+8.1 Overview:8.1.1  An expression consisting of two terms, connected by + or Œ sign is called abinomial expression. For example, x + a, 2x Œ 3y, 3114
+,75xxyx, etc., are all binomialexpressions.8.1.2  Binomial theoremIf a and b are real numbers and n is a positive integer, then(a + b)n =nC0 an + nC1 an Œ 1 b1 + nC2 an Œ 2 b2 + ...... + nCr an Œ r br + ... + nCn bn, where nCr = nrnr
+ for 0  r  nThe general term or (r + 1)th term in the expansion is given byTr + 1 = nCr anŒr br8.1.3  Some important observations1.The total number of terms in the binomial expansion of (a + b)n is n + 1, i.e. onemore than the exponent n.2.In the expansion, the first term is raised to the power of the binomial and in eachsubsequent terms the power of a reduces by one with simultaneous increase inthe power of b by one, till power of b becomes equal to the power of binomial,i.e., the power of a is n in the first term, (n Œ 1) in the second term and so onending with zero in the last term. At the same time power of b is 0 in the firstterm, 1 in the second term and 2 in the third term and so on, ending with n in thelast term.3.In any term the sum of the indices (exponents) of ‚a™ and ‚b™ is equal to n (i.e.,the power of the binomial).4.The coefficients in the expansion follow a certain pattern known as pascal™s
+triangle.Chapter8BINOMIAL THEOREM
+
+130   EXEMPLAR PROBLEMS Œ MATHEMA
+TICSIndex of BinomialCoefficient of various terms01111
+2121
+31331
+414641
+
+515101051
+Each coefficient of any row is obtained by adding two coefficients in the precedingrow, one on the immediate left and the other on the immediate right and each row is
+bounded by 1 on both sides.The (r + 1)th term or general term is given byTr + 1 =nCr an Œ r br8.1.4  Some particular casesIf n is a positive integer, then
+(a + b)n = nC0 an b0 + nC1 an b1 + nC2 an Œ 2  b2 + ... + nCr an Œ r br + ... + nCn a0 bn... (1)In particular1.Replacing b by Œ b in (i), we get(a Œ b)n = nC0 an b0 Œ nC1 an Œ 1 b1 + nC2 an Œ 2 b2 + ... + (Œ1)r nCr an Œ r br + ... +(Œ1)n nCn a0 bn... (2)2.Adding (1) and (2), we get(a + b)n + (a Œ b)n =2 [
+nC0 an b0 + nC2 an Œ 2 b2 + nC4 an Œ 4 b4 + ... ]=2 [terms at odd places]
+3.Subtracting (2) from (1), we get(a + b)n Œ (a Œ b)n =2 [
+nC1 an Œ 1 b1 + nC3 an Œ 3 b3 + ... ]=2 [sum of terms at even places]
+4.Replacing a by 1 and b by x in (1), we get(1 + x)n =nC0 x0 + nC1 x + nC2 x2 + ... + nCr xr + ... + nCn Œ 1 xn Œ 1  + 
+nCn xni.e.(1 + 
+x)n =0Cnnrrrx
+BINOMIAL THEOREM    131
+5.Replacing 
+a by 1 and b by Œx in ... (1), we get(1 Œ x)n =nC0 x0 Œ nC1 x + nC2 x2  ... + nCnŒ1 (Œ1)nŒ1 xn-1 + nCn  (Œ1)n  xni.e.,(1 Œ 
+x)n =0(1)C
+nrnr
+rrx8.1.5 The pth term from the endThe pth  term from the end in the expansion of (a + b)n is (n Œ p + 2)th term from thebeginning.8.1.6  Middle termsThe middle term depends upon the value of n.(a)If 
+n is even: then the total number of terms in the expansion of (a + b)n is n + 1(odd). Hence, there is only one middle term, i.e., th12n term is the middleterm.(b)If 
+n is odd: then the total number of terms in the expansion of (a + b)n is n + 1(even). So there are two middle terms i.e., thth
+13and
+22
+
+
+nn are twomiddle terms.8.1.7  Binomial coefficientIn the Binomial expression, we have(a + b)n =nC0 an + nC1 an Œ 1 b + nC2 an Œ 2 b2 + ... + nCn bn... (1)The coefficients nC0, nC1, nC2, ... , nCn are known as binomial or combinatorialcoefficients.Putting a = b = 1 in (1), we getnC0 + nC1 + nC2 + ... + nCn = 2nThus the sum of all the binomial coefficients is equal to 2n.Again, putting a = 1 and b = Œ1 in (i), we getnC0 + nC2 + nC4 + ... = nC1 + nC3 + nC5 + ...Thus, the sum of all the odd binomial coefficients is equal to the sum of all the evenbinomial coefficients and each is equal to 1222nn.nC0 + nC2 + nC4 + ... = nC1 + nC3 + nC5 + ... = 2n Œ 1
+132   EXEMPLAR PROBLEMS Œ MATHEMA
+TICS8.2 Solved ExamplesShort 
+Answer Type
+Example 1  Find the rth term in the expansion of 21rxx.Solution  We haveT
+r =2rCr Œ 1 (x)2r Œ r + 1 11rx= 211rrr xr + 1 Œ  r + 1=2211rxrrExample 2  Expand the following (1 Œ x + x2)4Solution  Put 1 Œ x = y. Then
+(1 Œ x + x2)4 =(y + x2)4=4C0  y4 (x2)0 + 4C1  y3 (x2)1+ 4C2  y2 (x2)2 + 4C3  y (x2)3 +  4C4 (x2)4=y4 + 4y3 x2 + 6y2 x4 + 4y x6 + x8=(1 Œ 
+x)4 + 4x2 (1 Œ x)3 + 6x4 (1 Œ x)2 + 4x6 (1 Œ x) + x8=1 Œ 4
+x + 10x2 Œ 16x3 + 19x4 Œ 16x5 + 10x6 Œ 4x7 + x8Example 3  Find the 4th term from the end in the expansion of 93222xx
+Solution  Since rth term from the end in the expansion of (a + b)n is (n Œ r + 2)th termfrom the beginning. Therefore 4th term from the end is 9 Œ 4 + 2, i.e., 7th term from thebeginning, which is given byT7 = 3639622C2xx
+
+ = 9931233
+6498764672
+C8321
+
+xxxxExample 4  Evaluate: 442222
+11xxxx
+
+
+BINOMIAL THEOREM    133
+Solution  Putting 21xy, we getThe given expression =(
+x2 Œ y)4 + (x2 + y)4 =2 [
+x8 + 4C2 x4 y2 + 4C4 y4]=84222
+432(1Œ)(1)
+21
+xxxx
+=2 [
+x8 + 6x4 (1 Œ x2) + (1 Œ 2x2 + x4]=2x8 Œ 12x6 + 14x4 Œ 4x2 + 2Example 5  Find the coefficient of x11 in the expansion of 12322xxSolution  Let the general term, i.e., (r + 1)th contain x11.We haveT
+r + 1 =12Cr (x3)12 Œ r 22rx=12Cr x36 Œ 3r Œ 2r (Œ1)r 2r=12Cr (Œ1)r 2r x36Œ 5rNow for this to contain x11, we observe that36 Œ 5r =11, i.e., 
+r = 5Thus, the coefficient of x11 is12C5 (Œ1)5 25 =12111098
+325432
+
+ = Œ25344Example 6  Determine whether the expansion of 1822xx will contain a termcontaining x10?Solution  Let Tr + 1 contain x10. ThenTr + 1 =18218
+2C()
+rrrxx=18Cr x36  Œ 2r (Œ1)r . 2r xŒ r=(Œ1)
+r 2r 18Cr x36 Œ 3rThus,36 Œ 3
+r =10, i.e., 
+r = 263
+134   EXEMPLAR PROBLEMS Œ MATHEMA
+TICSSince r is a fraction, the given expansion cannot have a term containing x10.Example 7  Find the term independent of x in the expansion of 102323xx.Solution  Let (r + 1)th  term be independent of x which is given byTr+1 =101023C32
+rrrxx=10210221C332
+
+rrrrrxx=1010
+210222
+C32
+rrr
+rrrxSince the term is independent of x, we have1022rr =0        
+        r =2Hence 3rd term is independent of x and its value is given byT3 =3102310915
+C42191212
+Example 8  Find the middle term in the expansion of 1222baxx.Solution  Since the power of binomial is even, it has one middle term which is theth122
+2term and it is given byT7 =6126
+62C(2)
+baxx=6666
+126122()
+Caxb
+x=66666
+12666259136
+Cabab
+xx
+BINOMIAL THEOREM    135
+Example 9  Find the middle term (terms) in the expansion of 9pxxp.Solution  Since the power of binomial is odd. Therefore, we have two middle termswhich are 5th and 6th terms. These are given by5499544
+126
+TCC
+pxpp
+xpxx
+
+
+andT
+6 =459955126
+CCpxxx
+xppp
+
+Example 10  Show that 24n + 4 Œ 15n Œ 16, where n  N is divisible by 225.Solution  We have
+24n + 4 Œ 15n Œ 16 =2
+4 (n + 1) Œ 15n Œ 16=16
+n + 1 Œ 15n Œ 16=(1 + 15)
+n + 1 Œ 15n Œ 16=n + 1C0 150 + n + 1C1 151 + n + 1C2 152 + n + 1C3 153+ ... + n + 1Cn + 1 (15)n + 1 Œ 15n Œ 16=1 + (
+n + 1) 15 + n + 1C2 152 + n + 1C3 153+ ... + n + 1Cn + 1 (15)n + 1 Œ 15n Œ 16=1 + 15
+n + 15 + n + 1C2 152 + n + 1C3 153+ ... + n + 1Cn + 1 (15)n + 1 Œ 15n Œ 16=15
+2 [n + 1C2 + n + 1C3 15 + ... so on]Thus, 24n + 4 Œ 15n Œ 16 is divisible by 225.Long Answer Type
+Example 11
+  Find numerically the greatest term in the expansion of (2 + 3x)9, wherex = 32.Solution  We have (2 + 3
+x)9 = 993212x
+136   EXEMPLAR PROBLEMS Œ MATHEMA
+TICSNow,
+1TTrr =99199132C232C2rrrrxx
+=991C32Crrx = 110
+93992
+rrxrr=103
+2rxr = 109
+4rrSincex = 32Therefore,1T1Trr 909
+14rr90 Œ 9r  4r(Why?)r  9013r  6 1213Thus the maximum value of r is 6. Therefore, the greatest term is Tr + 1 = T7.Hence,T
+7 =699632C2x,where 
+x = 32=699692C4 = 1213
+912987373
+23212
+2
+
+Example 12  If n is a positive integer, 
+find the coefficient of xŒ1 in the expansion of(1 + x)n 11nx
+.Solution  We have
+(1 + x)n 11nx =(1 + 
+x)n 1nxx = 2(1)
+nnxx
+BINOMIAL THEOREM    137
+Now to find the coefficient of xŒ1 in (1 + x)n 11nx, it is equivalent to findingcoefficient of 
+xŒ1 in 2(1)
+nnxx which in turn is equal to the coefficient of xn Œ 1 in theexpansion of  (1 + 
+x)2n.Since (1 + x)2n = 2nC0 x0 + 2nC1 x1 + 2nC2 x2 + ... + 2nCn Œ 1 xnŒ1 + ... + 2nC2n x2nThus the coefficient of xn Œ 1 is 2nCn Œ 1=2121
+nnnn
+
+ = 211nnnExample 13  Which of the following is larger?9950 + 10050 or 10150We have(101)
+50 =(100 + 1)
+50=100
+50 + 50 (100)49 + 50.492.1 (100)48 + 4750.49.48(100)
+3.2.1+ ... (1)Similarly99
+50 =(100 Œ 1)
+50=100
+50 Œ 50 . 10049 + 50.492.1 (100)48Œ 4750.49.48(100)
+3.2.1+ ... (2)
+Subtracting (2) from (1), we get10150 Œ 9950 =4947
+504948
+250(100)100...
+321
+
+10150 Œ 9950 =100
+50 + 47504948
+2100...
+321
+10150 Œ 9950 >100
+50Hence 10150 >9950 + 10050Example 14 Find the coefficient of x50 after simplifying and collecting the like termsin the expansion of (1 + x)1000 + x (1 + x)999 + x2 (1 + x)998 + ... + x1000.Solution  Since the above series is a geometric series with the common ratio 1xx,its sum is
+138   EXEMPLAR PROBLEMS Œ MATHEMA
+TICS10011000
+(1)1
+111xxxxx               =1001
+1000
+(1)
+111xxxxxx = (1 + x)1001 Œ x1001Hence, coefficient of x50 is given by1001C50 =100150951
+Example 15  If a1, a2, a3 and a4 are the coefficient of any four consecutive terms inthe expansion of (1 + x)n, prove that312123423
+2aaaaaaaaa
+Solution  Let a1, a2, a3 and a4 be the coefficient of four consecutive terms Tr + 1, Tr +2, Tr + 3, and Tr + 4 respectively. 
+Thena1 =coefficient of T
+r + 1 = nCra2 =coefficient of T
+r + 2 = nCr + 1a3 =coefficient of T
+r + 3 = nCr + 2anda4 =coefficient of T
+r + 4 = nCr + 3Thus112aaa =1CCCnrnnrr=11CCnrnr     (   nCr + nCr + 1 = n + 1Cr + 1 )
+BINOMIAL THEOREM    139
+=nrnr
+ × 11rnr
+n = 11r
+nSimilarly,
+334aaa =223CCCnrnnrr=213CCnrnr = 31r
+nHence,L.H.S. =311234
+1324
+
+111
+aarrr
+aaaannn
+
+
+
+andR.H.S. =
+112123122
+2C2C
+2CCC
+
+nnrrnnn
+rrr
+aaa=212(2)
+21111
+rnr
+nrrnrnn
+
+
+Objective Type Questions (M.C.Q)
+Example 16  The total number of terms in the expansion of (x + a)51 Œ (x Œ a)51 aftersimplification is(a)102(b)25(c)26(d)None of these
+Solution  C is the correct choice since the total number of terms are 52 of which 26terms get cancelled.Example 17  If the coefficients of x7 and x8 in 23nx are equal, then n is(a)56(b)55(c)45(d)15
+Solution B is the correct choice. Since Tr + 1 = nCr an Œ r xr in expansion of (a + x)n,Therefore,T
+8 =77777772C(2)C
+33nnnn
+xx
+140   EXEMPLAR PROBLEMS Œ MATHEMA
+TICSand           T
+9 =    nC8 (2)nŒ8 888882C33nnxxTherefore,    7772C3nn =  8882C3nn(since it is given that coefficient of x7 = coefficient x8)8877nnnn =87872332nn87n =16    n = 55Example 18  If (1 Œ x + x2)n = a0 + a1 x + a2 x2 + ... + a2n x2n, then a0 + a2 + a4 + ...+ a2n equals.(A)312n(B)312n(C)132n(D)132nSolution  A is the correct choice. Putting 
+x = 1 and Œ1 in(1 Œ x + x2)n =a0 + a1 x + a2 x2 + ... + a2n x2nwe get1 =
+a0 + a1 + a2 + a3 + ... + a2n... (1)and3
+n =a0 Œ a1 + a2 Œ a3 + ... + a2n...(2)Adding (1) and (2), we get3n + 1 =2 (
+a0 + a2 + a4 + ... + a2n)Therefore   a0 + a2 + a4 + ... + a2n = 312nExample 19  The coefficient of  xp and xq (p and q are positive integers) in theexpansion of (1 + x)p + q are(A)equal(B)
+equal with opposite signs(C)reciprocal of each other(D)none of these
+Solution  A is the correct choice. Coefficient of 
+xp and xq in the expansion of (1 + x)p+ q are p + qCp and p + qCqandp + qCp =p + qCq = pqpqHence (a) is the correct answer.
+
+BINOMIAL THEOREM    141
+Example 20  The number of terms in the expansion of (a + b + c)n, where n  N is(A)(1)(2)
+2nn(B)n + 1(C)n + 2(D)(
+n + 1) nSolution  A is the correct choice. We have
+(a + b + c)n =[a + (b + c)]n=an + nC1 an Œ 1 (b + c)1 + nC2 an Œ 2 (b + c)2+ ... + nCn (b + c)nFurther, expanding each term of R.H.S., we note thatFirst term consist of 1 term.Second term on simplification gives 2 terms.Third term on expansion gives 3 terms.Similarly, fourth term on expansion gives 4 terms and so on.
+The total number of terms =1 + 2 + 3 + ... + (
+n + 1)=(1)(2)
+2nnExample 21  The ratio of the coefficient of x15 to the term independent of x in1522xx is(A)12:32(B)1:32(C)32:12(D)32:1
+Solution  (B) is the correct choice. Let Tr + 1 be the general term of 1522xx
+, so,Tr + 1 =15Cr (x2)15 Œ r 2rx=15Cr (2)r x30 Œ 3r... (1)Now, for the coefficient of term containing 
+x15,30 Œ 3r =15,     i.e.,    
+r = 5Therefore, 15C5 (2)5 is the coefficient of x15 (from (1))To find the term independent of 
+x, put 30 Œ 3r = 0
+142   EXEMPLAR PROBLEMS Œ MATHEMA
+TICSThus 15C10 210 is the term independent of x (from (1))Now the ratio is 155
+515105
+10C211
+32C22
+Example 22  If z = 55332222
+ii
+
+
+
+, then(A)Re (
+z) = 0(B)I
+m (z) = 0(C)Re (z) > 0, I
+m (z) > 0(D)Re (
+z) > 0, Im (z) < 0Solution B is the correct choice. On simplification, we getz = 2324555
+024
+333
+2CCC
+22222
+ii
+
+
+
+Since i2 = Œ1 and i4 = 1,  z will not contain any i and hence Im (z) = 0.8.3   EXERCISEShort 
+Answer Type
+1.Find the term independent of x, x  0, in the expansion of 523123xx.2.If the term free from x in the expansion of 102kxx is 405, find the valueof k.3.Find the coefficient of x in the expansion of (1 Œ 3x + 7x2) (1 Œ x)16.4.Find the term independent of x in the expansion of, 15223xx
+.5.Find the middle term (terms) in the expansion of(i)10xaax
+(ii)9336xx
+
+BINOMIAL THEOREM    143
+6.Find the coefficient of x15 in the expansion of (x Œ x2)10.7.Find the coefficient of 171x in the expansion of 
+15431xx.8.Find the sixth term of the expansion 1132nyx, if the binomial coefficient ofthe third term from the end is 45.[Hint: Binomial coefficient of third term from the end = Binomial coefficient ofthird term from beginning = nC2.]9.Find the value of r, if the coefficients of (2r + 4)th and (r Œ 2)th terms in theexpansion of (1 + x)18 are equal.10.If the coefficient of second, third and fourth terms in the expansion of (1 + x)2nare in A.P. Show that 2
+n2 Œ 9n + 7 = 0.11.
+Find the coefficient of x4 in the expansion of  (1 + x + x2 + x3)11.Long Answer 
+Type
+12.If p is a real number and if the middle term in the expansion of 822p is1120, find 
+p.13.Show that the middle term in the expansion of 21nxxis135...(21)
+(2)
+nnn
+.14.Find n in the binomial 33123n if the ratio of 7th term from the beginning tothe 7th term from the end is 16.15.In the expansion of (x + a)n if the sum of odd terms is denoted by O and the sum of
+
+144   EXEMPLAR PROBLEMS Œ MATHEMA
+TICSeven term by E.Then prove that(i)O
+2 Œ E2 = (x2 Œ a2)n(ii)4OE = (x + a)2n Œ (x Œ a)2n16.If xp occurs in the expansion of 221nxx, prove that its coefficient is24233nnpnp
+.17.Find the term independent of x in the expansion of (1 + x + 2x3) 923123xx.Objective Type Questions
+Choose the correct answer from the given options in each of the Exercises 18 to 24
+(M.C.Q.).18.The total number of terms in the expansion of (x + a)100 + (x Œ a)100 aftersimplification is(A)50(B)202(C)51(D)none of these
+19.Given the integers r > 1, n > 2, and coefficients of (3r)th and  (r + 2)nd terms inthe binomial expansion of (1 + x)2n are equal, then(A)n = 2r(B)n = 3r(C)n = 2r + 1(D)none of these
+20.The two successive terms in the expansion of (1 + x)24 whose coefficients are inthe ratio 1:4 are(A)3
+rd and 4th(B)4
+th and 5th(C)5
+th and 6th(D)6
+th and 7th[Hint: 24241C111
+4244
+Crrrr
+  4r + 4 = 24 Œ 4  4r]21.The coefficient of xn in the expansion of (1 + x)2n and (1 + x)2n Œ 1 are in the ratio.(A)1 : 2(B)1 : 3(C)3 : 1(D)2 : 1
+[Hint : 2nCn : 2n Œ 1Cn22.If the coefficients of 2nd, 3rd and the 4th terms in the expansion of (1 + x)n are inA.P., then value of 
+n is(A)2(B)7(c)11(D)14
+[Hint: 2 nC2 = nC1 + nC3  n2 Œ 9n + 14 = 0  n = 2 or 7
+BINOMIAL THEOREM    145
+23.If A and B are coefficient of 
+xn in the expansions of (1 + x)2n and (1 + x)2n Œ 1respectively, then AB equals(A)1(B)2(C)
+1
+2(D)1
+n[Hint:  221CA2BCnnnn]24.If the middle term of 101sin
+xxx is equal to 778, then value of x is(A)2
+n + 6(B)n + 6
+(C)n + (Œ1)n 6(D)n + (Œ1)n 3[Hint:  T6 = 1055
+55163
+Csin
+8xxx  sin5 x = 511sin
+22 x = n + (Œ1)n 6]Fill in the blanks in Exercises 25 to 33.25.The largest coefficient in the expansion of (1 + x)30 is  _________________ .26.The number of terms in the expansion of (x + y + z)n _________________ .[Hint: (x + y + z)n = [x + (y + z)]n]27.In the expansion of 16221xx, the value of constant term is_________________ .28.If the seventh terms from the beginning and the end in the expansion of33123n are equal, then n equals _________________ .[Hint : T7 = T n Œ 7 + 2  66136131C23nn = 66136131C23nnn
+146   EXEMPLAR PROBLEMS Œ MATHEMA
+TICS 12121133123nn  only problem when n Œ 12 = 0  n = 12].29.The coefficient of aŒ 6 b4 in the expansion of 10123ba is _________.[Hint :  41064
+54121120
+TC327
+bbaba
+
+
+]30.Middle term in the expansion of (a3 + ba)28 is _________ .31.The ratio of the coefficients of xp and xq in the expansion of (1 + 
+x)p + q is 
+_________[Hint: p + qCp = p + qCq]32.The position of the term independent of x in the expansion of 102332xx is_________ .33.If 2515 is divided by 13, the reminder is _________ .State which of the statement in Exercises 34 to 40 is True or False.
+34.The sum of the series 10200Crr is 201910C2235.The expression 79 + 97 is divisible by 64.Hint: 79 + 97 = (1 + 8)7 Œ (1 Œ 8)936.The number of terms in the expansion of [(2x + y3)4]7 is 837.The sum of coefficients of the two middle terms in the expansion of (1 + x)2n Œ 1is equal to 2n Œ 1Cn.38.The last two digits of the numbers 3400 are 01.39.If the expansion of 221nxx
+ contains a term independent of x, then n is amultiple of 2.40.Number of terms in the expansion of (a + b)n where n  N is one less than thepower n.

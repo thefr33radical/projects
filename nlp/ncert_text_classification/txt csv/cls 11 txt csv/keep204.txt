@@ -1,0 +1,215 @@
+4.1 OverviewMathematical induction is one of the techniques which can be used to prove varietyof mathematical statements which are formulated in terms of n, where n is apositive integer.
+4.1.1  The principle of mathematical inductionLet P(n) be a given statement involving the natural  number n such that(i)The statement is true for 
+n = 1, i.e., P(1) is true (or true for any fixed naturalnumber) and(ii)If 
+the statement is true for n = k (where k is a particular but arbitrary naturalnumber), then the statement is also true for n = k + 1, i.e, truth of P(k) impliesthe truth of P(k + 1). Then P(n) is true for all natural numbers n.4.2  Solved ExamplesShort 
+Answer Type
+Prove statements in Examples 1 to 5, by using the Principle of Mathematical Inductionfor all n  N, that :Example 1  1 + 3 + 5 + ... + (2n Œ 1) = n2Solution  Let the given statement P(n) be defined as P(n) : 1 + 3 + 5 +...+ (2n Œ 1) =n2, for 
+n  N. Note that P(1) is true, sinceP(1) : 1 = 12Assume that P(k) is true for some k  N, i.e.,P(k) : 1 + 3 + 5 + ... + (2k Œ 1) =k2Now, to prove that P(
+k + 1) is true, we have1 + 3 + 5 + ... +(2
+k Œ 1) + (2k + 1)=k2 + (2k + 1)(Why?)
+=k2 + 2k + 1 = (k + 1)2Chapter4PRINCIPLE OF MA
+THEMATICAL
+INDUCTION
+62    EXEMPLAR PROBLEMS Œ MATHEMATICSThus, P(k + 1) is true, whenever P(k) is true.Hence, by the Principle of Mathematical Induction, P(n) is true for all n  N.Example 2 11(1)(1)
+(1)
+3ntnnn
+tt, for all natural numbers n  2.Solution  Let the given statement P(n), be given as11(1)(1)
+P():(1)
+3ntnnn
+ntt
+, for all natural numbers n  2.We observe that
+P(2): 21(1)
+1ttt =11(1)
+ttt = 1.2 1.2.3
+3=2.(21)(21)
+3Thus, P(n) in true for n = 2.Assume that P(n) is true for n = k  N.i.e.,P(
+k) :11(1)
+kttt =(1)(1)
+3kkk
+To prove that P(
+k + 1) is true, we have(11)
+1(1)
+kttt ==1(+1)
+kttt=11(1)(1)
+
+
+ktttkk
+ (1)(1)
+(1)
+3
+kkk
+kk=13(1)
+3kkk (1)(2)
+3kkk
+=(1)((1)1))((1)1)
+3
+kkk
+Thus, P(k + 1) is true, whenever P(k) is true.Hence, by the Principle of Mathematical Induction, P(n) is true for all naturalnumbers n  2.
+PRINCIPLE OF MATHEMATICAL INDUCTION    63
+Example 3 222
+1111
+1.1...1
+223
+
+
+
+nnn, for all natural numbers, n  2.Solution Let the given statement be P(n), i.e.,P(n) :222
+1111
+1.1...1
+223
+
+
+
+
+nnn, for all natural numbers, 
+n  2We, observe that P (2) is true, since
+2111142
+
+ = 41321
+4422
+Assume that P(n) is true for some k  N, i.e.,P(k) : 222
+1111
+1.1...1
+223kkk
+
+
+
+Now, to prove that P (
+k + 1) is true, we have2222
+1111
+1.1...1.1
+23(1)
+kk
+
+
+
+21112(1)
+kkk = 222(1)
+kkkk (1)1
+2(1)
+kkThus, P (k + 1) is true, whenever P(k) is true.Hence, by the Principle of Mathematical Induction, P(n) is true for all naturalnumbers, n  2.Example 4  22n Œ 1 is divisible by 3.Solution  Let the statement P(n) given asP(n) : 22n Œ 1 is divisible by 3, for every natural number n.We observe that P(1) is true, since
+22 Œ 1 = 4 Œ 1 =3.1 is divisible by 3.
+Assume that P(n) is true for some natural number k, i.e.,P(k): 22k Œ 1 is divisible by 3, i.e., 22k Œ 1 = 3q, where q
+NNow, to prove that P(
+k + 1) is true, we haveP(k + 1) : 22(k+1) Œ 1 =2
+2k + 2 Œ 1 =  22k . 22 Œ 1=22k . 4 Œ 1 = 3.22k  + (22k Œ 1)
+64    EXEMPLAR PROBLEMS Œ MATHEMATICS=3.2
+2k + 3q=3 (2
+2k + q) = 3m, where m  NThus P(k + 1) is true, whenever P(k) is true.Hence, by the Principle of Mathematical Induction P(n) is true for all naturalnumbers n.Example 5  2n + 1 < 2n, for all natual numbers n 3.Solution  Let P(n) be the given statement, i.e., P(n) : (2n + 1) < 2n  for all naturalnumbers, n 3. We observe that P(3) is true, since
+2.3 + 1 =7 < 8 = 2
+3Assume that P(n) is true for some natural number k, i.e., 2k + 1 < 2kTo prove P(
+k + 1) is true, we have to show that 2(k + 1) + 1 < 2k+1. Now, we have
+2(k + 1) + 1 =2 
+k + 3=2k + 1 + 2 < 2k + 2 < 2k . 2 = 2k + 1.Thus P(k + 1) is true, whenever P(k) is true.Hence, by the Principle of Mathematical Induction P(n) is true for all naturalnumbers, n 3.Long Answer Type
+Example 6 Define the sequence a1, a2, a3... as follows :a1 = 2, an = 5 anŒ1, for all natural numbers n 2.(i)Write the first four terms of the sequence.
+(ii)Use the Principle of Mathematical Induction to show that the terms of the sequencesatisfy the formula an = 2.5nŒ1 for all natural numbers.Solution(i)We have 
+a1 = 2a2 = 5a2Œ1 = 5a1 = 5.2 = 10a3 = 5a3Œ1 = 5a2 = 5.10 = 50a4 = 5a4Œ1 = 5a3 = 5.50 = 250(ii)Let P(n) be the statement, i.e.,P(n) : an = 2.5 nŒ1 for all natural numbers. We observe that P(1) is true
+Assume that P(n) is true for some natural number k, i.e., P(k) : ak = 2.5k Œ 1.Now to prove that P (k + 1) is true, we have
+PRINCIPLE OF MATHEMATICAL INDUCTION    65
+P(k + 1) : a k + 1 =5.
+ak = 5 . (2.5k Œ 1)=2.5
+k = 2.5(k + 1)Œ1Thus P(k + 1) is true whenever P (k) is true.Hence, by the Principle of Mathematical Induction, P(n) is true for all natural numbers.Example 7  The distributive law from algebra says that for all real numbers c, a1 anda2, we have c (a1 + a2) = ca1 + ca2.Use this law and mathematical induction to prove that, for 
+all natural numbers, n 2,if c, a1, a2, ...,an are any real numbers, thenc (a1 + a2 + ... + an) =ca1 + ca2 + ... + canSolution Let P(n) be the given statement, i.e.,P(n) : c (a1 + a2 + ... + an) = ca1 + ca2 + ... can for all natural numbers n  2, for c, a1,a2, ... an  R.We observe that    P(2) is true since
+c(a1 + a2) =ca1 + ca2(by distributive law)Assume that P(n) is true for some natural number k, where k > 2, i.e.,P(k) : c (a1 + a2 + ... + ak) =ca1 + ca2 + ... + cakNow to prove P(k + 1) is true, we haveP(k + 1) :c (a1 + a2 + ... + ak + ak + 1)=c ((a1 + a2 + ... + ak) + ak + 1)=c (a1 + a2 + ... + ak) + cak + 1(by distributive law)=ca1 + ca2 + ... + cak + cak + 1Thus P(k + 1) is true, whenever P (k) is true.Hence, by the principle of Mathematical Induction, P(n) is true for all naturalnumbers n  2.Example 8  Prove by induction that for all natural number nsin  + sin ( + ) + sin ( + 2)+ ... + sin ( + (n Œ 1) )=1sin()sin
+22sin
+2nn
+Solution  Consider P (n) : sin  + sin ( + ) + sin ( + 2) + ... + sin ( + (n Œ 1) )
+66    EXEMPLAR PROBLEMS Œ MATHEMATICS=1sin()sin
+22sin
+2
+nn, for all natural number n.We observe that
+P (1) is true, sinceP (1) : sin  =sin(0)sin
+2sin
+2Assume that P(n) is true for some natural numbers k, i.e.,P (k) : sin  + sin ( + ) + sin ( + 2) + ... + sin ( + (k Œ 1))=1sin()sin
+22sin
+2
+kkNow, to prove that P (
+k + 1) is true, we haveP (k + 1) : sin  + sin ( + ) + sin ( + 2) + ... + sin ( + (k Œ 1)  + sin ( + k)=1sin()sin
+22sin()
+sin
+2
+
+kkk=1sinsinsinsin
+222
+sin
+2
+
+kkk= coscoscoscos
+2222
+2sin
+2
+
+
+
+
+
+kkk
+
+PRINCIPLE OF MATHEMATICAL INDUCTION    67
+= coscos
+222sin
+2k
+
+
+
+= sinsin
+22sin
+2
+
+
+
+kk= sinsin(1)
+22sin
+2
+
+
+
+kkThus P (k + 1) is true whenever P (k) is true.Hence, by the Principle of Mathematical Induction P(n) is true for all natural number n.Example 9  Prove by the Principle of Mathematical Induction that1× 1! + 2 ×2! + 3 ×3! + ... + n ×n! = n + 1)! Œ 1 for all natural numbers n.Solution  Let P(n) be the given statement, that is,P(n) : 1× 1! + 2 ×2! + 3 ×3! + ... + n ×n! = n + 1)! Œ 1 for all natural numbers n.Note that P (1) is true, sinceP (1) : 1× 1! =1 = 2 Œ 1 = 
+2!  Œ 1.Assume that P(n) is true for some natural number k, i.e.,P(k) : 1 × 1! + 2 × 2! + 3 × 3! + ... + k × k! = (k + 1)! Œ 1To prove P (
+k + 1) is true, we haveP (k + 1) : 1× 1! + 2 ×2! + 3 ×3! + ... + k ×k! + (k + 1) × (k + 1)!=k + 1)! Œ 1 + (k + 1)! × (k + 1)=(k + 1 + 1) (k + 1)! Œ 1=(k + 2) (k + 1)! Œ 1 =  ((k + 2)!  Œ 1Thus P (k + 1) is true, whenever P (k) is true. Therefore, by the Principle of MathematicalInduction, P (n) is true for all natural number n.Example 10  Show by the Principle of Mathematical Induction that the sum Sn of then term of the series 12 + 2 × 22 + 32 + 2 × 42 + 52 + 2 × 62 ... is given  by
+68    EXEMPLAR PROBLEMS Œ MATHEMATICSSn =22(1)
+,ifiseven
+2(1)
+,ifisodd
+2nnnnnnSolution Here P(n) : Sn = 22(1)
+,when  is even
+2(1)
+,when  is odd
+2nnnnnnAlso, note that any term Tn of the series is given byTn =22ifisodd
+2ifiseven
+
+nnnnWe observe that P(1) is true since
+P(1) : S1 =12 = 1 = 21.21.(11)
+22Assume that P(k) is true for some natural number k, i.e.Case 1  When 
+k is odd, then k + 1 is even. We have
+P (k + 1) : Sk + 1 =12 + 2 × 22 + ... + k2 + 2 × (k  + 1)2=2(1)
+2kk+ 2 × (k + 1)2=(1)
+2k [k2 + 4(k + 1)] (as k is odd, 12 + 2 × 22 + ... + k2 = k2 (1)
+2k)=12k[k2 + 4k + 4]=21(2)
+2kk= (k + 1) 2[(1)1]
+2kSo P(k + 1) is true, whenever P(k) is true in the case when k is odd.Case 2  When k is even, then k + 1 is odd.
+PRINCIPLE OF MATHEMATICAL INDUCTION    69
+Now,     P (
+k + 1) : 12 + 2 × 22 + ... + 2.k2 + (k + 1)2212kk+ (k + 1)2  (as k is even, 12 + 2 × 22 + ... + 2k2 = k 2(1)
+2k)221(2)
+(1)((1)1)
+22
+kkkkTherefore, P (k + 1) is true, whenever P (k) is true for the case when k is even. ThusP (k + 1) is true whenever P (k) is true for any natural numbers k. Hence, P (n) truefor all natural numbers.Objective Type QuestionsChoose the correct answer in Examples 11 and 12 (M.C.Q.)
+Example 11
+  Let P(n) : ﬁ2n < (1 × 2 × 3 × ... × n)ﬂ. Then the smallest positive integerfor which P (n) is true is(A)1(B)2(C)3(D)4
+Solution  Answer is D, sinceP (1) :2 < 1 is false
+P (2) :2
+2 < 1 × 2 is falseP (3) :2
+3 < 1 × 2 × 3 is falseButP (4) :2
+4 < 1 × 2 × 3 × 4 is trueExample 12  A student was asked to prove a statement P (
+n) by induction. He provedthat P (k + 1) is true whenever P (k) is true for all k > 5  N and also that P (5) is true.On the basis of this he could conclude that P (n) is true(A)for all 
+n  N(B)for all 
+n > 5(C)for all 
+n  5(D)for all 
+n < 5Solution  Answer is (C), since P(5) is true and P(k + 1) is true, whenever P (
+k) is true.Fill in the blanks in Example 13 and 14.Example 13  If P (n) : ﬁ2.4
+2n + 1 + 33n+1 is divisible by for all n Nﬂ is true, then the
+value of  is ____Solution  Now, for 
+n = 1,2.42+1 + 33+1 =2.4
+3 + 34 = 2.64 + 81 = 128 + 81 = 209,forn =2, 2.4
+5 + 37 = 8.256 + 2187 = 2048 + 2187 = 4235

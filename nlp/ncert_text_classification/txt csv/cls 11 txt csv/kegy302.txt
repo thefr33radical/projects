@@ -1,0 +1,17 @@
+17Map ScaleChapter 2Map ScaleYou have read in Chapter 1 that the scale is an essential element of
+all types of maps. It is so important that if a network of lines andpolygons does not carry a scale, we call it a ﬁsketchﬂ.  Why is thescale so important ? What does it mean ? What are the different
+methods of showing the scale on a map?  How useful is the scale inmeasuring the distances and the area? These are some of the
+questions which will be taken up in the present chapter.
+What is Scale ?You must have seen maps with a scale bar indicating equal divisions,
+each marked with readings in kilometres or miles. These divisions
+are used to find out the ground distance on the map.  In other
+words, a map scale provides the relationship between the map and
+the whole or a part of the earth™s surface shown on it.  We can also
+express this relationship as a ratio of distances between two points
+
+on the map and the corresponding distance between the same two
+points on the ground.
+Denominator: The number below the line in a fraction. For example, in a fractionof 1 : 50,000,  50,000 is the denominator.
+Numerator: The number above the line in a fraction. For example, in a fraction of1 : 50,000,  1 is the numerator.
+Representative Fraction: A method of scale of a map or plan expressed as afraction showing the ratio between a unit distance on the map or plan, and thedistance measured in the same units on the ground.
+Glossary

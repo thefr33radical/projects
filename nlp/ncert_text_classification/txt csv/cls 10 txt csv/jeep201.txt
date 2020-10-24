@@ -1,0 +1,8 @@
+(A) Main Concepts and ResultsŁEuclid™s Division Lemma : Given two positive integers a and b, there exist uniqueintegers q and r satisfying a = bq + r, 0  r < b.ŁEuclid™s Division 
+Algorithm to obtain the HCF of two positive integers, say c and d,c > d.Step 1
+ : Apply Euclid™s division lemma to 
+c and d, to find whole numbers q and r,such that c = dq + r, 0  r < d.Step 2 : If r = 0, d is the HCF of c and d. If r  0, apply the division lemma tod and r.Step 3
+ : Continue the process till the remainder is zero. The divisor at this stagewill be the required HCF.
+ŁFundamental Theorem of Arithmetic : Every composite number can be expressedas a product of primes, and this expression (factorisation) is unique, apart from theorder in which the prime factors occur.
+ŁLet p be a prime number. If p divides a2, then p divides a, where a is a positiveinteger.
+Ł2, 3, 5 are irrational numbers.ŁThe sum or difference of a rational and an irrational number is irrational.ŁThe product or quotient of a non-zero rational number and an irrational number isirrational.ŁFor any two positive integers a and b, HCF (a, b) × LCM (a, b) = a × b.REAL  NUMBERSCHAPTER 1

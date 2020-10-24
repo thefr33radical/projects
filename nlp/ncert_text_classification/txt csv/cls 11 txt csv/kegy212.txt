@@ -1,0 +1,201 @@
+WORLD CLIMATE ANDCLIMATE CHANGEThe world climate can be studied byorganising information and data onclimate and synthesising them insmaller units for easy understanding,description and analysis. Three broad
+approaches have been adopted for classifying
+climate. They are empirical, genetic and
+applied. Empirical classification is based onobserved data, particularly on temperature
+and precipitation. Genetic classification
+attempts to organise climates according to their
+causes. Applied classification is for specific
+purpose.KOEPPEN
+™S SCHEME OF CLASSIFICATIONOF CLIMATEThe most widely used classification of climateis the empirical climate classification scheme
+developed by V. Koeppen. Koeppen identifieda close relationship between the distributionof vegetation and climate. He selected certain
+values of temperature and precipitation andrelated them to the distribution of vegetationand used these values for classifying the
+climates.  It is an empirical classification basedon mean annual and mean monthlytemperature and precipitation data. He
+introduced the use of capital and small lettersto designate climatic groups and types.Although developed in 1918 and modified over
+a period of time, Koeppen™s scheme is stillpopular and in use.Koeppen recognised five major climaticgroups, four of them are based on temperatureand one on precipitation. Table 12.1 lists the
+climatic groups and their characteristicsaccording to Koeppen. The capital letters :  A,C,D and E delineate humid climates and B dry
+climates.The climatic groups are subdivided intotypes, designated by small letters, based onseasonality of precipitation and temperaturecharacteristics. The seasons of dryness areindicated by the small letters : f, m, w and s,
+where f corresponds to no dry season,Table 12.1 : Climatic Groups According to KoeppenGroupCharacteristicsA - TropicalAverage temperature of the coldest month is 18° C or higher
+B - Dry ClimatesPotential evaporation exceeds precipitationC - Warm TemperateThe average temperature of the coldest month of the (Mid-latitude) climatesyears is higher than minus 3°C but below 18°CD - Cold Snow Forest ClimatesThe average  temperature of the coldest month is  minus 3° C or below
+E - Cold ClimatesAverage temperature for all months is below 10° C
+
+H - High LandCold due to elevation
+CHAPTER
+FUNDAMENTALS OF PHYSICAL GEOGRAPHY104m - monsoon climate, w- winter dry season ands - summer dry season. The small letters a, b,
+c and d refer to the degree of severity oftemperature. The B- Dry Climates aresubdivided using the capital letters S for steppe
+or semi-arid and W for deserts. The climatictypes are listed in Table 12.2. The distributionof climatic groups and types is shown inTable 12.1.Group A : Tropical Humid ClimatesTropical humid climates exist between Tropicof Cancer and Tropic of Capricorn. The sun
+being overhead throughout the year and the
+presence of Inter Tropical Convergence Zone
+(ITCZ) make the climate hot and humid.
+Annual range of temperature is very low and
+annual rainfall is high. The tropical group is
+divided into three types, namely (i) Af- Tropical
+wet climate; (ii) Am - Tropical monsoon climate;
+(iii) Aw- Tropical wet and dry climate.Tropical Wet Climate (Af)Tropical wet climate is found near the equator.The major areas are the Amazon Basin in South
+America, western equatorial Africa and theislands of East Indies. Significant amount ofrainfall occurs in every month of the year asthunder showers in the afternoon. The
+temperature is uniformly high and the annual
+range of temperature is negligible. The
+maximum temperature on any day is around
+30°C while the minimum temperature is
+around 20°C. Tropical evergreen forests withdense canopy cover and large biodiversity arefound in this climate.Tropical Monsoon Climate (Am)Tropical monsoon climate (Am) is found overthe Indian sub-continent, North Eastern part
+of South America and Northern Australia.
+Heavy rainfall occurs mostly in summer. Winter
+is dry. The detailed climatic account of this
+climatic type is given in the book on India:Physical Environment.Tropical Wet and Dry Climate (Aw)Tropical wet and dry climate occurs north andsouth of Af type climate regions. It borders withdry climate on the western part of the continentand Cf or Cw on the eastern part. ExtensiveAw climate is found to the north and south ofthe Amazon forest in Brazil and adjoining partsTable 12.2 : Climatic Types According to KoeppenGroupTypeLetter CodeCharacteristicsTropical wetAfNo dry season
+Tropical monsoonAm
+Monsoonal, short dry seasonTropical wet and dryAwWinter dry season
+Subtropical steppeBSh
+Low-latitude semi arid or drySubtropical desertBWh
+Low-latitude arid or dryMid-latitude steppeBSk
+Mid-latitude semi arid or dryMid-latitude desertBWk
+Mid-latitude arid or dryHumid subtropicalCfaNo 
+dry season, warm summerMediterraneanCs
+Dry hot summerMarine west coastCfbNo dry season, warm and cool summer
+
+Humid continentalDfNo 
+dry season, severe winterSubarcticDw 
+Winter dry and very severeTundraETNo 
+true summerPolar ice capEFPerennial ice
+HighlandH
+Highland with snow coverA-Tropical HumidClimateB-Dry ClimateC-Warmtemperate (Mid-latitude) ClimatesD-Cold Snow-forest ClimatesE-Cold ClimatesH-Highland
+WORLD CLIMATE AND CLIMATE CHANGE105of Bolivia and Paraguay in South America,Sudan and south of Central Africa. The annual
+rainfall in this climate is considerably less thanthat in Af and Am climate types and is variablealso. The wet season is shorter and the dry
+season is longer with the drought being more
+severe. Temperature is high throughout the
+
+year and diurnal ranges of temperature are thegreatest in the dry season. Deciduous forest and
+tree-shredded grasslands occur in this climate.Dry Climates : BDry climates are characterised by very lowrainfall that is not adequate for the growth ofplants. These climates cover a very large area
+of the planet extending over large latitudes from
+15° - 60° north and south of the equator. At
+low latitudes, from 15° - 30°, they occur in the
+area of subtropical high where subsidence and
+inversion of temperature do not produce
+rainfall. On the western margin of the
+continents, adjoining the cold current,
+particularly over the west coast of South
+America, they extend more equatorwards and
+occur on the coast land. In middle latitudes,
+from 35° - 60° north and south of equator, they
+
+are confined to the interior of continents where
+maritime-humid winds do not reach and toareas often surrounded by mountains.Dry climates are divided into steppe orsemi-arid climate (BS) and desert climate (BW).
+They are further subdivided as subtropical
+steppe (BSh) and subtropical desert (BWh) at
+latitudes from 15° - 35° and mid-latitude
+steppe (BSk) and mid-latitude desert (BWk) at
+latitudes between 35° - 60°.Subtropical Steppe (BSh) and SubtropicalDesert (BWh) ClimatesSubtropical steppe (BSh) and subtropicaldesert (BWh) have common precipitation and
+temperature characteristics. Located in the
+transition zone between humid and dry
+climates, subtropical steppe receives slightly
+more rainfall than the desert, adequate enough
+for the growth of sparse grasslands. The rainfall
+in both the climates is highly variable. The
+variability in the rainfall affects the life in the
+steppe much more than in the desert, moreoften causing famine. Rain occurs in shortintense thundershowers in deserts and is
+ineffective in building soil moisture. Fog iscommon in coastal deserts bordering coldcurrents. Maximum temperature in the summeris very high. The highest shade temperature of
+58° C was recorded at Al Aziziyah, Libya on13 September 1922. The annual and diurnalranges of temperature are also high.Warm Temperate (Mid-Latitude) Climates-CWarm temperate (mid-latitude) climates extendfrom 30° - 50° of latitude mainly on the easternand western margins of continents. Theseclimates generally have warm summers with
+mild winters. They are grouped into four types:
+(i) Humid subtropical, i.e. dry in winter and
+hot in summer (Cwa); (ii) Mediterranean (Cs);
+(iii) Humid subtropical, i.e. no dry season and
+mild winter (Cfa); (iv) Marine west coast climate
+(Cfb).Humid Subtropical Climate (Cwa)Humid subtropical climate occurs poleward ofTropic of Cancer and Capricorn, mainly in
+North Indian plains and South China interior
+plains. The climate is similar to Aw climateexcept that the temperature in winter is warm.Mediterranean Climate (Cs)As the name suggests, Mediterranean climateoccurs around Mediterranean sea, along the
+west coast of continents in subtropical latitudes
+between 30° - 40° latitudes e.g. Š Central
+California, Central Chile, along the coast in
+south eastern and south western Australia.
+These areas come under the influence of sub
+tropical high in summer and westerly wind in
+winter. Hence, the climate is characterised by
+hot, dry summer and mild, rainy winter. Monthly
+average temperature in summer is around
+25° C and in winter below 10°C. The annual
+precipitation ranges between 35 - 90 cm.
+Humid Subtropical (Cfa) ClimateHumid subtropical climate lies on the easternparts of the continent in subtropical latitudes.
+In this region the air masses are generally
+FUNDAMENTALS OF PHYSICAL GEOGRAPHY106unstable and cause rainfall throughout theyear. They occur in eastern United States of
+America, southern and eastern China,southern Japan, northeastern Argentina,coastal south Africa and eastern coast of
+Australia. The annual averages of precipitationvary from 75-150 cm. Thunderstorms insummer and frontal precipitation in winter arecommon. Mean monthly temperature insummer is around 27°C, and in winter it variesfrom 5°-12° C. The daily range of temperature
+is small.Marine West Coast Climate (Cfb)Marine west coast climate is located polewardfrom the Mediterranean climate on the westcoast of the continents. The main areas are:Northwestern Europe, west coast of North
+America, north of California, southern Chile,southeastern Australia and New Zealand. Dueto marine influence, the temperature ismoderate and in winter, it is warmer than forits latitude. The mean temperature in summermonths ranges from 15°-20°C and in winter
+4°-10°C. The annual and daily ranges of
+temperature are small. Precipitation occursthroughout the year. Precipitation variesgreatly from 50-250cm.Cold Snow Forest Climates (D)Cold snow forest climates occur in the largecontinental area in the northern hemisphere
+between 40°-70° north latitudes in Europe,Asia and North America. Cold snow forestclimates are divided into two types: (i) Df- cold
+climate with humid winter; (ii) Dw- cold climatewith dry winter. The severity of winter is morepronounced in higher latitudes.Cold Climate with Humid Winters (Df)Cold climate with humid winter occurspoleward of marine west coast climate and mid
+latitude steppe. The winters are cold andsnowy. The frost free season is short. Theannual ranges of temperature are large. The
+weather changes are abrupt and short.Poleward, the winters are more severe.Cold Climate with Dry Winters (Dw)Cold climate with dry winter occurs mainlyover Northeastern Asia. The development ofpronounced winter anti cyclone and itsweakening in summer sets in monsoon like
+reversal of wind in this region. Polewardsummer temperatures are lower and wintertemperatures are extremely low with manylocations experiencing below freezing pointtemperatures for up to seven months in a year.Precipitation occurs in summer. The annual
+precipitation is low from 12-15 cm.Polar Climates (E)Polar climates exist poleward beyond 70°latitude. Polar climates consist of two types:(i) Tundra (ET); (ii) Ice Cap (EF).Tundra Climate (ET)The tundra climate (ET) is so called after thetypes of vegetation, like low growing mosses,lichens and flowering plants. This is the region
+of permafrost where the sub soil is permanently
+frozen. The short growing season and waterlogging support only low growing plants.During summer, the tundra regions have verylong duration of day light.Ice Cap Climate (EF)The ice cap climate (EF) occurs over interiorGreenland and Antartica. Even in summer, thetemperature is below freezing point. This areareceives very little precipitation. The snow and
+ice get accumulated and the mounting pressurecauses the deformation of the ice sheets andthey break. They move as icebergs that float inthe Arctic and Antarctic waters. Plateau Station, Antarctica ,79°S, portray this climate.Highland Climates (H)Highland climates are governed by topography.In high mountains, large changes in meantemperature occur over short distances.
+Precipitation types and intensity also varyspatially across high lands. There is verticalzonation of layering of climatic types with
+elevation in the mountain environment.
+WORLD CLIMATE AND CLIMATE CHANGE107CLIMATE
+ CHANGEThe earlier chapters on climate summarisedour understanding of climate as it prevails now.
+The type of climate we experience now mightbe prevailing over the last 10,000 years withminor and occasionally wide fluctuations. The
+planet earth has witnessed many variations in
+climate since the beginning.  Geological recordsshow alteration of glacial and inter-glacialperiods. The geomorphological features,
+especially in high altitudes and high latitudes,
+exhibit traces of advances and retreats of
+glaciers. The sediment deposits in glacial lakes
+also reveal the occurrence of warm and cold
+periods. The rings in the trees provide cluesabout wet and dry periods. Historical recordsdescribe the vagaries in climate. All these
+evidences indicate that change in climate is a
+natural and continuous process.India also witnessed alternate wet and dryperiods. Archaeological findings show that the
+Rajasthan desert experienced wet and cool
+climate around 8,000 B.C. The period 3,000-
+1,700 B.C. had higher rainfall. From about
+2,000-1,700 B.C., this region was the centre
+of the Harappan civilisation. Dry conditions
+accentuated since then.In the geological past, the earth was warmsome 500-300 million years ago, through the
+Cambrian, Ordovician and Silurian periods.
+During the Pleistocene epoch, glacial and
+inter-glacial periods occurred, the last major
+peak glacial period was about 18,000 years
+ago. The present inter-glacial period started
+10,000 years ago.Climate in the recent past
+Variability in climate occurs all the time. Thenineties decade of the last century witnessed
+extreme weather events. The 1990s recorded
+the warmest temperature of the century and
+some of the worst floods around the world. The
+worst devastating drought in the Sahel region,
+south of the Sahara desert, from 1967-1977
+is one such variability. During the 1930s,
+severe drought occurred in southwestern Great
+Plains of the United States, described as the
+dust bowl. Historical records of crop yield orcrop failures, of floods and migration of peopletell about the effects of changing climate. A
+number of times Europe witnessed warm, wet,
+cold and dry periods, the significant episodes
+were the warm and dry conditions in the tenthand eleventh centuries, when the Vikings
+settled in Greenland. Europe witnessed ﬁLittle
+Ice Ageﬂ from 1550 to about 1850. From about
+1885-1940 world temperature showed anupward trend. After 1940, the rate of increasein temperature slowed down.Causes of Climate ChangeThe causes for climate change are many. Theycan be grouped into astronomical and
+terrestrial causes. The astronomical causes are
+the changes in solar output associated with
+sunspot activities. Sunspots are dark and
+cooler patches on the sun which increase and
+decrease in a cyclical manner. According to
+some meteorologists, when the number of
+sunspots increase, cooler and wetter weather
+and greater storminess occur. A decrease in
+sunspot numbers is associated with warm and
+drier conditions. Yet, these findings are not
+statistically significant.An another astronomical theory isMillankovitch oscillations, which infer cycles
+in the variations in the earth™s orbital
+characteristics around the sun, the wobbling
+of the earth and the changes in the earth™s axial
+tilt. All these alter the amount of insolation
+received from the sun, which in turn, might
+have a bearing on the climate.Volcanism is considered as another causefor climate change. Volcanic eruption throws
+up lots of aerosols into the atmosphere. These
+aerosols remain in the atmosphere for a
+considerable period of time reducing the sun™s
+radiation reaching the Earth™s surface. After the
+recent Pinatoba and El Cion volcanic
+eruptions, the average temperature of the earth
+fell to some extent for some years.The most important anthropogenic effecton the climate is the increasing trend in the
+concentration of greenhouse gases in the
+atmosphere which is likely to cause global
+warming.

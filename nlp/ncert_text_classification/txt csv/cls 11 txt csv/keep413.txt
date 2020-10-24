@@ -1,0 +1,164 @@
+68BIOLOGY, EXEMPLAR PROBLEMSCHAPTER 13PHOTOSYNTHESIS IN HIGHER PLANTSMULTIPLE CHOICE QUESTIONS1.Which metal ion is a constituent of chlorophyll?
+a.Iron
+b.Copper
+c.Magnesium
+d.Zinc
+2.Which pigment acts directly to convert light energy to chemical energy?
+a.Chlorophyll a
+b.Chlorophyll b
+c.Xanthophyll
+d.Carotenoid
+3.Which range of wavelength (in nm) is called photosynthetically active
+radiation (PAR)?a.100 - 390
+b.390 - 430
+c.400 - 700
+d.760 Œ 100,00
+4.Which light range is most effective in photosynthesis?
+a.Blue
+b.Green
+c.Red
+d.Violet
+5.Chemosynthetic bacteria obtain energy from
+a.Sun
+b.Infra red rays
+c.Organic substances
+d.Inorganic chemicals
+
+696969696969696969696969PHOTOSYNTHESIS IN HIGHER PLANTS6.Energy required for ATP synthesis in PSII comes from
+a.Proton gradient
+b.Electron gradient
+c.Reduction of glucose
+d.Oxidation of glucose
+7.During light reaction in photosynthesis the following are formed:
+a.ATP and sugar
+b.Hydrogen, O
+2 and sugarc.ATP, hydrogen donor and O
+2d.ATP, hydrogen and O
+2 donor8.Dark reaction in photosynthesis is called so because
+a.It can occur in dark also
+b.It does not depend on light energy
+c.It cannot occur during day light
+d.It occurs more rapidly at night
+9.PEP is primary CO
+2 acceptor ina.C
+4 plantsb.C
+3 plantsc.C
+2 plantsd.Both C
+3 and C4 plants10.Splitting of water is associated with
+a.Photosystem I
+b.Lumen of thylakoid
+c.Both Photosystem I and II
+d.Inner surface of thylakoid membrane
+11.The correct sequence of flow of electrons in the light reaction is
+a.PSII, plastoquinone, cytochromes, PSI, ferredoxin
+b.PSI, plastoquinone, cytochromes, PSII, ferredoxin
+c.PSI, ferredoxin, PSII,
+d.PSI, plastoquinone, cytochromes, PSII, ferredoxin
+12.The enzyme that is not found in a C3 plant is
+a.RuBP Carboxylase
+b.PEP Carboxylase
+c.NADP reductase
+d.ATP synthase
+
+70BIOLOGY, EXEMPLAR PROBLEMS13.The reaction that is responsible for the primary fixation of CO
+2 iscatalysed bya.RuBP carboxylase
+b.PEP carboxylase
+c.RuBP carboxylase and PEP carboxylase
+d.PGA synthase
+14.When CO
+2 is added to PEP, the first stable product synthesised is:
+a.Pyruvate
+b.Glyceraldehyde-3-phosphate
+c.Phosphoglycerate
+d.Oxaloacetate
+VERY SHORT ANSWER TYPE QUESTIONS1.Examine the figure
+a.Is this structure present in animal cell or plant cell?
+b.Can these be passed on to the progeny? How?
+c.Name the metabolic processes taking place in the places marked
+(1) and (2).2.2H
+2O   2H
++ + O2 + 4eŒBased on the above equation, answer the following questions:a.Where does this reaction take place in plants?
+b.What is the significance of this reaction?
+3.Cyanobacteria and some other photosynthetic bacteria don™t have
+chloroplasts. How do they conduct photosynthesis?12
+717171717171717171717171PHOTOSYNTHESIS IN HIGHER PLANTS4.a.NADP reductase enzyme is located on _________________.
+b.Breakdown of proton  gradient leads to release of _________________.
+5.Can girdling experiments be done in monocots? If yes, How? If no, why
+not?6.3CO
+2 + 9ATP + 6NADPH + Water   glyceraldehyde 3 Œ phosphate +9 ADP + 6 NADP+ + 8 PiAnalyze the above reaction and answer the following questions:a.How many molecules of ATP & NADPH are required to fix one
+molecule of  CO2?b.Where in the chloroplast does this process occur?
+7.Does moonlight support photosynthesis? Find out.
+8.Some of these terms/chemicals are associated with the C
+4 cycle. Explain.a.Hatch slack pathway
+b.Calvin cycle
+c.PEP carboxylase
+d.Bundle sheath cells
+9.Where is NADP reductase enzyme located in the chloroplast? What is
+the role of this enzyme in proton gradient development?10.ATPase enzyme consists of two parts. What are those parts? How are
+they arranged in the thylakoid membrane? Conformational change occurin which part of the enzyme?11.Which products formed during the light reaction of photosynthesis are
+used to drive the dark reaction?12.What is the basis for designating C3 and C4 pathways of photosynthesis?
+SHORT ANSWER TYPE QUESTIONS1.Succulents are known to keep their stomata closed during the day to
+check transpiration. How do they meet their photosynthetic CO2requirements?2.Chlorophyll  ‚a™ is the primary pigment for light reaction. What are
+accessory pigments? What is their role in photosynthesis?3.Do reactions of photosynthesis called, as ‚Dark Reaction™ need light?
+Explain.4.How are photosynthesis and respiration related to each other?
+
+72BIOLOGY, EXEMPLAR PROBLEMS5.If a green plant is kept in dark with proper ventilation, can this plant
+carry out photosynthesis? Can anything be given as supplement tomaintain its growth or survival?6.Photosynthetic organisms occur at different depths in the ocean. Do
+they receive qualitatively and quantitatively the same light? How do theyadapt to carry out photosynthesis under these conditions?7.In tropical rain forests, the canopy is thick and shorter plants growing
+below it, receive filtered light. How are they able to carry outphotosynthesis ?8.What conditions enable Rubis CO to function as an oxygenase? Explain
+the ensuing process.9.Why does the rate of photosynthesis decrease at higher temperatures?
+10.Explain how during light reaction of photosynthesis, ATP synthesis is a
+chemiosmotic phenomenon.11.Find out how Melvin Calvin worked out the complete biosynthetic
+pathway for synthesis of sugar.
+12.Six turns of Calvin cycle are required to generate one mole of glucose.
+Explain.13.Complete the flow chart for cyclic photophosphorylation of the
+photosystem-I14.In what kind of plants do you come across ‚Kranz™ anatomy? To which
+conditions are those plants better adapted? How are these plants betteradapted than the plants, which lack this anatomy?
+737373737373737373737373PHOTOSYNTHESIS IN HIGHER PLANTS15.A process is occurring throughout the day, in ‚X™ organism. Cells are
+participating in this process. During this process ATP, CO
+2 and waterare evolved. It is not a light dependent process.a.Name the process.
+b.Is it a catabolic or an anabolic process?
+c.What could be the raw material of this process?
+16.Tomatoes, carrots and chillies are red in colour due to the presence of
+one pigment. Name the pigment. Is it a photosynthetic pigment?17.Why do we believe chloroplast and mitochondria to be semi-autonomous
+organelle?18.Observe the diagram and answer the following.
+a.Which group of plants exibits these two types of cells?
+b.What is the first product of C
+4 cycle?c.Which enzyme is there in bundle sheath cells and mesophyll cells?
+
+74BIOLOGY, EXEMPLAR PROBLEMS19.A cyclic process is occurring in C3 plant, which is light dependent, and
+needs O2. This process doesn™t produce energy rather it consumes energy.a.Can you name the given process?
+b.Is it essential for survival?
+c.What are the end products of this process?
+d.Where does it occur?
+20.Suppose 
+Euphorbia and Maize are grown in the tropical area.a.Which one of them do you think will be able to survive under such
+conditions?b.Which one of them is more efficient in terms of photosynthetic
+activity?c.What difference do you think are there in their leaf anatomy?
+LONG ANSWER TYPE QUESTIONS1.Is it correct to say that photosynthesis occurs only in leaves of a plant?
+Besides leaves, what are the other parts that may be capable of carryingout photosynthesis? Justify.2.The entire process of photosynthesis consists of a number of reactions.
+Where in the cell do each of these take place?a.Synthesis of 
+ATP & NADPH__________________________
+b.Photolysis of water__________________________
+c.Fixation of CO
+2__________________________d.Synthesis of sugar 
+molecule__________________________
+e.Synthesis of starch
+__________________________3.Which property of the pigment is responsible for its ability to initiate the
+process of photosynthesis? Why is the rate of photosynthesis higher in
+the red and blue regions of the spectrum of light?4.What can we conclude from the statement that the action and absorption
+spectrum of photosynthesis overlap? At which wavelength do they showpeaks?5.Under what conditions are C4 plants superior to C3?
+6.In the figure given below, the black line (upper) indicates action spectrum
+for photosynthesis and the lighter line (lower) indicates the absorptionspectrum of chlorophyll a, answer the followings:
+757575757575757575757575PHOTOSYNTHESIS IN HIGHER PLANTSa.What does the action spectrum indicate? How can we plot an action
+spectrum? Explain with an example.b.How can we derive an absorption spectrum for any substance?
+c.If chlorophyll a is responsible for light reaction of photosynthesis,
+why do the action spectrum and absorption spectrum not overlap?7.What are the important events and end products of the light reaction?
+8.In the diagram shown below label A, B, C. What type of phosphorylation
+is possible in this?
+76BIOLOGY, EXEMPLAR PROBLEMS9.Why is the RuBisCo enzyme more appropriately called RUBP
+Carboxylase-Oxygenase and what important role does it play inphotosynthesis?10.What special anatomical features are displayed by leaves of C4 plants?
+How do they provide advantage over the structure of C3 plants?11.Name the two important enzymes of C
+3 and C4 pathway, respectively?What important role do they play in fixing CO2?12.Why is RuBisCo enzyme the most abundant enzyme in the world?
+13.Why does not photorespiration take place in C4 plants?
+

@@ -1,0 +1,476 @@
+3.1 Overview3.1.1The word ‚trigonometry™ is derived from the Greek words ‚trigon™ and ‚metron™which means measuring the sides of a triangle. An angle is the amount of rotation of arevolving line with respect to a fixed line. If the rotation is in clockwise direction the
+angle is negative and it is positive if the rotation is in the anti-clockwise direction.Usually we follow two types of conventions for measuring angles, i.e., (i) Sexagesimalsystem (ii) Circular system.In sexagesimal system, the unit of measurement is degree. If the rotation from theinitial to terminal side is 1th360of a revolution, the angle is said to have a measure of1°. The classifications in this system are as follows:1° =60
+1 =60
+In circular system of measurement, the unit of measurement is radian. One radian isthe angle subtended, at the centre of a circle, by an arc equal in length to the radius of the
+circle. The length s of an arc PQ of a circle of radius r is given by s = r, where  is theangle subtended by the arc PQ at the centre of the circle measured in terms of radians.3.1.2  Relation between degree and radianThe circumference of a circle always bears a constant ratio to its diameter. This constant
+ratio is a number denoted by  which is taken approximately as 227 for all practicalpurpose. The relationship between degree and radian measurements is
+as follows:2 right angle =180° = 
+ radians1 radian =180
+ = 57°16 (approx)1° =180
+ radian = 0.01746 radians (approx)Chapter3TRIGONOMETRIC FUNCTIONS
+3.1.3Trigonometric functions
+Trigonometric ratios are defined for acute angles as the ratio of the sides of a right
+angled triangle. The extension of trigonometric ratios to any angle in terms of radian
+measure (real numbers) are called trigonometric functions. The signs of trigonometricfunctions in different quadrants have been given in the following table:IIIIIIIV
+sin x++ŒŒ
+cos x+ŒŒ+
+tan x+Œ+Œ
+cosec x++ŒŒ
+sec x+ŒŒ+
+cot x+Œ+Œ
+3.1.4Domain and range of trigonometric functionsFunctionsDomainRange
+sineR[Œ1, 1]cosineR[Œ1, 1]tanR Œ {(2n + 1) 2 : n  Z}RcotR Œ {n : n  Z}RsecR Œ {(2n + 1) 
+2 : n  Z}R Œ (Œ1, 1)cosecR Œ {n : n  Z}R Œ (Œ1, 1)3.1.5Sine, cosine and tangent of some angles less than 90°0°15°18°30°36°45°60°90°
+sine0
+624514121025
+412321TRIGONOMETRIC FUNCTIONS    35
+
+36    EXEMPLAR PROBLEMS Œ MATHEMA
+TICScosine1
+6241025
+43251412120tan0
+2325105
+513525
+133.1.6 Allied or related angles  The angles 2n are called allied or related anglesand  ± n × 360° are called coterminal angles. For general reduction, we have thefollowing rules. The value of any trigonometric function for ()2n is numericallyequal to(a)the value of the same function if 
+n is an even integer with algebaric sign of thefunction as per the quadrant in which angles lie.(b)corresponding cofunction of 
+ if n is an odd integer with algebraic sign of thefunction for the quadrant in which it lies. Here sine and cosine; tan and cot; secand cosec are cofunctions of each other.3.1.7 Functions of negative angles  Let  be any angle. Thensin (Œ
+) =Œ sin 
+,  cos (Œ
+) = cos tan (Œ
+) =Œ tan 
+,  cot (Œ
+) = Œ cot sec (Œ
+) =sec 
+, cosec (Œ) = Œ cosec 3.1.8Some formulae regarding compound anglesAn angle made up of the sum or differences of two or more angles is called acompound angle. The basic results in this direction are called trigonometric identiesas given below:(i)sin (A + B) 
+= sin A cos B + cos A sin B
+(ii)sin (A Œ B) = sin A cos B Œ cos A sin B
+(iii)cos (A + B) = cos A cos B Œ sin A sin B
+(iv)cos (A Œ B) = cos A cos B + sin A sin B
+(v)tan (A + B) = 
+tanAtanB
+1tanAtanB
+(vi)tan (A Œ B) = tanAtanB
+1tanAtanB
+notdefined
+TRIGONOMETRIC FUNCTIONS    37
+(vii)cot (A + B) = cotAcotB1
+cotAcotB
+(viii)cot (A Œ B) = cotAcotB1
+cotBcotA
+(ix)sin 2A = 2 
+sin A cos A = 
+22tanA
+1tanA
+(x)cos 2A = cos
+2 A Œ sin
+2 A = 1 Œ 2 sin
+2 A = 2 cos
+2 A Œ 1 = 
+221ŒtanA
+1+tanA
+(xi)tan 2A = 22tanA
+1ŒtanA
+(xii)sin 3A = 3sin A Œ 4sin
+3 A(xiii)cos 3A = 4cos3 A Œ 3cos A
+(xiv)tan 3A = 323tanAŒtanA
+1Œ3tanA
+(xv)cos A + cos B = 
+A+BAŒB
+2coscos
+22(xvi)cos A Œ cos B = 
+A+BBŒA
+2sinsin
+22(xvii)sin A + 
+sin B = ABAB
+2sincos
+22(xviii)sin A Œ 
+sin B = ABAB
+2cossin
+22(xix)2sin A cos B = sin (A + B) + sin (A Œ B)
+(xx)2cos A 
+sin B = sin (A + B) Œ sin (A Œ B)
+(xxi)2cos A cos B = cos 
+(A + B) + 
+cos (A Œ B)
+(xxii)2sin A 
+sin B = cos (A Œ B) Œ cos (A + B)
+(xxiii)Aif  lies in quadrants I or II
+A1cosA
+2sin
+A22Œ if  lies in III or IV quadrants
+2
+38    EXEMPLAR PROBLEMS Œ MATHEMA
+TICS(xxiv)Aif  lies in I or IV quadrants
+A1cosA
+2cos
+A22Œ if  lies in II or III quadrants
+2(xxv)Aif  lies in I or III quadrants
+A1cosA
+2tan
+A21cosA
+Œ if  lies in II or IV quadrants
+2Trigonometric functions of an angle of 18°
+Let  = 18°. Then 2 = 90° Œ 3Therefore,sin 2 = sin (90° Œ 3) = cos 3orsin 2
+ = 4cos3  Œ 3cos Since,cos 
+0, we get2sin  = 4cos2  Œ 3 = 1 Œ 4sin2     or
+    4sin2  + 2sin  Œ 1 = 0.Hence,sin  = 241615
+84
+Since, = 18°, sin  > 0, therefore, sin 18° = 514Also,cos18° = 26251025
+1sin181
+164
+
+Now, we can easily find cos 36° and sin 36° as follows:
+cos 36° = 1 Œ 2sin2 18° = 625
+18 = 22551
+84Hence,cos 36° = 514Also,sin 36° = 2625
+1cos361
+16
+ = 41025
+3.1.9 Trigonometric equations
+Equations involving trigonometric functions of a variables are called trigonometricequations. Equations are called identities, if they are satisfied by all values of the
+TRIGONOMETRIC FUNCTIONS    39
+unknown angles for which the functions are defined. The solutions of a trigonometricequations for which 0 
+ 2  are called principal solutions. The expressioninvolving integer n which gives all solutions of a trigonometric equation is called thegeneral solution.General Solution of Trigonometric Equations
+(i)If sin 
+ = sin  for some angle , then = n + (Œ1)n for n  Z, gives general solution of the given equation(ii)If 
+cos  = cos  for some angle , then = 2 n ± , n  Z, gives general solution of the given equation(iii)If tan 
+ = tan  or cot  = cot , then = n + , n  Z, gives general solution for both equations(iv)The general value of  satisfying any of the equations sin2  = sin2 , cos2=cos2  andtan2  = tan2  is given by  = n ± (v)The general value of 
+ satisfying equations sin  = sin  and cos  = cos simultaneously is given by  = 2n + , n  Z.(vi)To 
+find the solution of an equation of the form a cos + b sin = c, we puta = r cos and b = r sin, so that r2 = a2 + b2 and tan  = ba.Thus we finda cos + b sin = c changed into the form r (cos  cos  + sin  sin ) = corr cos ( Œ ) = c and hence cos ( Œ ) = cr. This gives the solution of  the givenequation.Maximum and Minimum values of the expression  Acos 
++ B sin 
+ are 22ABand 22ŒAB respectively, where A and B are constants.
+3.2  Solved ExamplesShort 
+Answer Type
+Example 1  A circular wire of radius 3 cm is cut and bent so as to lie along the
+circumference of a hoop whose radius is 48 cm. Find the angle in degrees which issubtended at the centre of hoop.
+40    EXEMPLAR PROBLEMS Œ MATHEMA
+TICSSolution  Given that circular wire is of radius 3 cm, so when it is cut then itslength = 2 × 3 = 6 cm. Again, it is being placed along a circular hoop of radius 48 cm.
+Here, s = 6 cm is the length of arc and r = 48 cm is the radius of the circle. Therefore,the angle , in radian, subtended by the arc at the centre of the circle is given by = Arc6
+22.5
+Radius488
+
+.Example 2  If A = cos
+2 + sin4 for all values of , then prove that 34  A  1.Solution We have  A =cos
+2  + sin4 = cos2  + sin2  sin2 
+ cos2  + sin2 Therefore,A 
+1Also,A =cos
+2  + sin4 = (1 Œ sin2 ) + sin4 =2211sin1
+24
+
+
+
+ = 22133
+sin
+244
+
+
+Hence, 3A14.Example 3  Find the value of 3 cosec 20° Œ sec 20°Solution  We have
+3 cosec 20° Œ sec 20° =31sin20cos20
+=3cos20Œsin20
+sin20cos20
+ = 31cos20Œsin20
+2242sin20cos20
+=sin60cos20Œcos60sin20
+4sin40
+
+(Why?)=sin(60Œ20)
+4sin40
+
+ = 4(Why?)
+
+TRIGONOMETRIC FUNCTIONS    41
+Example 4  If  lies in the second quadrant, then show that1sin1sin
+2sec
+1sin1sin
+
+
+
+Solution  We have
+1sin1sin
+1sin1sin
+
+
+ =221sin1sin
+1sin1sin
+
+
+= 22cos
+=2|cos|
+(Since 2 = |
+| for every real number )Given that  lies in the second quadrant so |cos | = Œ cos  (since cos  < 0).Hence, the required value of the expression is 2cos
+ = Œ2 secExample 5  Find the value of tan 9° Œ tan 27° Œ tan 63° + tan 81°Solution  We have tan 9° Œ tan 27° Œ tan 63° + tan 81°
+=tan 9° + tan 81° Œ tan 27° Œ tan 63°
+=tan 9° + tan (90° Œ 9°) Œ tan 27° Œ tan (90° Œ 27°)
+=tan 9° + cot 9° Œ (tan 27° + cot 27°)(1)
+Alsotan 9° + cot 9° = 12sin9cos9sin18
+
+(Why?)    (2)Similarly,
+tan 27° + cot 27° = 1sin27cos27
+ = 22sin54cos36
+ (Why?)   (3)
+Using (2) and (3) in (1), we gettan 9° Œ tan 27° Œ tan 63° + tan 81° = 222424
+ŒŒ4sin18cos36
+5151
+Example 6  Prove that sec81tan8
+sec41tan2
+
+
+Solution  We have
+sec81
+sec41
+ =(1cos8)cos4
+
+cos8(1Œcos4)
+
+=22sin4cos4
+2cos82sin2
+(Why?)
+42    EXEMPLAR PROBLEMS Œ MATHEMA
+TICS=sin4(2sin4cos4)
+22cos8sin2
+
+=2sin4sin8
+2cos8sin2
+(Why?)=22sin2cos2sin8
+2cos8sin2
+
+=tan8
+tan2
+(Why?)Example 7  Solve the equation sin  + sin 3 + sin 5 = 0Solution  We have sin 
+ + sin 3 + sin 5 = 0or(sin 
+ + sin 5) + sin 3 = 0or2 sin 3
+ cos 2 + sin 3 = 0(Why?)
+orsin 3
+ (2 cos 2 + 1) = 0orsin 3
+ = 0 or cos 2 = Œ12When sin 3 = 0, then 3 = n or  = 3nWhen cos 2 = Œ 1
+2 = cos 23, then 2 = 2n ± 23    or    
+ = n ± 3which gives  = (3n + 1) 3 or  = (3n Œ 1) 3
+All these values of  are contained in  = 3n, n  Z. Hence,  the required solution setis given by { :  = 3n, n  Z}Example 8  Solve 2 tan2 x + sec2 x = 2 for 0  x  2Solution  Here,2 tan
+2 x + sec2 x = 2which givestan x = ± 13
+TRIGONOMETRIC FUNCTIONS    43
+If we take tan x = 13, then x = 7or66(Why?)Again, if we take tan x = 1511
+,thenor
+663x
+(Why?)Therefore, the possible solutions of above equations arex = 6, 56 , 76 and 116 where 0  x  2Long Answer Type
+Example 9  Find the value of 3571cos1cos1cos1cos
+8888
+
+
+
+
+
+Solution  Write 
+3571cos1cos1cos1cos
+8888
+
+
+
+
+
+=331cos1cos1cos1cos
+8888
+
+
+
+
+
+
+
+
+=2231cos1cos
+88
+
+
+(Why?)=223sinsin
+88=131cos1cos
+444
+
+
+
+(Why?)=11cos1cos
+444
+
+
+
+(Why?)=211cos
+44 = 111
+1428
+Example 10  If x cos  = y cos ( + 23) = z cos (  + 43), then find the value ofxy + yz + zx.
+44    EXEMPLAR PROBLEMS Œ MATHEMA
+TICSSolution  Note that xy + yz + zx = xyz 111xyz.If we put x cos  = y cos ( + 23) = z cos 43
+ = k (say).Thenx =cos
+k, y = 2cos
+3k and z = 4cos
+3kso that111xyz =124
+coscoscos
+33k
+
+
+
+=122
+[coscoscossinsin
+33k
++ 44coscossinsin
+33
+]= 113
+[coscos()
+22k
+13sincossin]
+22
+ (Why?)=100kHence,xy + yz + zx = 0Example 11
+  If  and  are the solutions of the equation 
+a tan  + b sec  = c,then show that tan ( + ) = 
+222acac.Solution  Given that atan + bsec = c    or
+    asin + b = c cos Using the identities,sin  =2222tan1tan
+22andcos
+1tan1tan
+22
+TRIGONOMETRIC FUNCTIONS    45
+We have,
+2222tan1tan
+221tan1tan
+22acb
+
+
+or(
+b + c) 2tan
+2 + 2a tan
+2 + b Œ c = 0Above equation is quadratic in tan
+2 and hence tan
+2 and tan
+2 are the roots of thisequation (Why?). Therefore, tan
+2 + tan
+2 = 2abc and tan
+2 tan
+2 = bcbc (Why?)Using the identitytan
+22 =tantan
+221tantan
+22We have,
+tan
+22=21abcbcbc = 22aacc... (1)Again, using another identitytan 2 2
+ =22tan
+21tan
+2,We have
+tan
+
+=2221acac = 222acac[From (1)]Alternatively,
+ given that a tan + b sec = c
+46    EXEMPLAR PROBLEMS Œ MATHEMA
+TICS(a tan Œ c)2 = b2(1 + tan2)a2 tan2 Œ 2ac tan + c2 = b2 + b2 tan2(a2 Œ  b2) tan2 Œ 2ac tan + c2 Œ b2 = 0... (1)
+Since  and  are the roots of the equation (1), sotan + tan =222acab  and  tan tan =2222cbabTherefore,tan ( + ) =tantan
+1tantan
+=2222222acab
+cb
+ab = 222acacExample 12 Show that 2 sin2  + 4 cos ( + ) sin  sin  + cos 2 ( + ) = cos 2Solution  LHS = 2 sin2  + 4 cos ( + ) sin  sin  + cos 2( + )=2 sin
+2  + 4 (cos  cos  Œ sin  sin ) sin  sin + (cos 2 cos 2 Œ sin 2 sin 2)=2 sin
+2  + 4 sin  cos  sin  cos  Œ 4 sin2  sin2 + cos 2 cos 2 Œ sin 2 sin 2=2 sin
+2  + sin 2 sin 2 Œ 4 sin2  sin2  + cos 2 cos 2 Œ sin2 sin 2=(1 Œ cos 2
+) Œ (2 sin2 ) (2 sin2 ) + cos 2 cos 2(Why?)=(1 Œ cos 2
+) Œ (1 Œ cos 2) (1 Œ cos 2) + cos 2 cos 2=cos 2
+(Why?)Example 13 If angle  is divided into two parts such that the tangent of one part is ktimes the tangent of other, and 
+ is their difference, then show thatsin  = 11k
+k
+ sin Solution  Let  =  + . Then tan  = k tan 
+TRIGONOMETRIC FUNCTIONS    47
+ortan
+tan
+ = 1kApplying componendo and dividendo, we havetantan
+tantan
+ = 1
+1k
+k
+orsincoscossin
+sincoscossin
+ = 11k
+k
+(Why?)i.e.,sin()
+sin()
+ = 11k
+k
+(Why?)Given that  Œ  =  and  +  = . Therefore,sin
+
+sin
+ = 11k+
+kŒ    or    sin  = 1
+1k
+k
+ sin Example 14 Solve 3 cos  + sin  = 2Solution  Divide the given equation by 2 to get311
+cossin
+222
+   or   
+coscossinsincos
+664
+
+
+orcoscosorcoscos
+6464
+
+
+
+
+
+(Why?)Thus, the solution are given by, i.e.,  
+ = 2m ± 46Hence, the solution are = 2m + 46   and   2m Œ 46,  i.e.,     = 2m + 512  and   = 2m Œ 12Objective Type Questions
+Choose the correct answer from the given four options against each of the Examples15 to 19Example 15  If tan  = 43, then sin is
+48    EXEMPLAR PROBLEMS Œ MATHEMA
+TICS(A)45 but not 45(B)45 or 45(C)4
+5 but not 45(D)None of these
+Solution  Correct choice is B. Since tan  = 4
+3 is negative, lies either in secondquadrant or in fourth quadrant. Thus sin  = 4
+5 if lies in the second quadrant orsin  = 45, if lies in the fourth quadrant.Example 16  If sin and cos are the roots of the equation ax2 Œ bx + c = 0, then a,b and c satisfy the relation.(A)a2 + b2 + 2ac = 0(B)
+a2 Œ b2 + 2ac = 0(C)a2 + c2 + 2ab = 0(D)
+a2 Œ b2 Œ 2ac = 0Solution The correct choice is (B). Given that sin and cos are the roots of theequation ax2 Œ bx + c = 0, so sin + cos = ba and sin cos = c
+a            (Why?)Using the identity (sin + cos )2 = sin2+ cos2+ 2 sin cos , we have2221bcaa or a2 Œ b2 + 2ac = 0Example 17  The greatest value of sin x cos x is(A)1(B)2(C)
+2(D)12Solution (D) is the correct choice, sincesinx  cosx =1
+2 sin 2x  1
+2, since |sin 2x |  1.Eaxmple 18  The value of sin 20° sin 40° sin 60° sin 80° is(A)316(B)516(C)316(D)116
+TRIGONOMETRIC FUNCTIONS    49
+Solution Correct choice is (C). Indeed sin 20° sin 40° sin 60° sin 80°.32 sin 20° sin (60° Œ 20°) sin (60° + 20°) (since sin 60° = 32)32 sin 20° [sin2 60° Œ sin2 20°](Why?)
+32 sin 20° [34 Œ sin2 20°]3124 [3sin 20° Œ 4sin3 20°]3124 (sin 60°)(Why?)
+313
+242
+ = 316Example 19  The value of cos 5 cos 25 cos 45 cos 85 is(A)116(B)0(C)
+18(D)116Solution (D) is the correct answer. We have
+cos 5
+ cos 25 cos 45 cos851248
+2sincoscoscoscos
+55555
+2sin
+5
+12248
+sincoscoscos
+5555
+2sin
+5
+(Why?)1448
+sincoscos
+555
+4sin
+5
+(Why?)
+50    EXEMPLAR PROBLEMS Œ MATHEMA
+TICS188
+sincos
+558sin
+5(Why?)16sin
+516sin
+5 sin3
+516sin
+5sin
+516sin
+5(Why?)= 116Fill in the blank :Example 20  If 3 tan ( Œ 15°) = tan ( + 15°), 0° < <  90°, then 
+Solution Given that 3 tan ( Œ 15°) = tan ( + 15°)  which can be rewritten astan(15°) 3
+tan(15°)1
+.Applying componendo and Dividendo; we get tan(15°)+tan(Œ15°) 
+2tan(15°)tan(Œ15°)
+
+
+sin(15°)cos(15°)+sin(15°)cos(15°)
+2sin(15°)cos(15°)sin(15°)cos(15°)
+
+
+sin2
+2sin30
+   i.e.,   sin 2 = 1(Why?)
+giving  4State whether the following statement is True or False. Justify your answer
+Example 21  ﬁThe inequality 2sin + 2cos 1122 holds for all real values of ﬂ

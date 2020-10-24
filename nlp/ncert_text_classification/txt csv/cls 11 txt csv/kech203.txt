@@ -1,0 +1,507 @@
+291       C:\ChemistryXI\Unit-10\Unit-10-Lay-3(reprint).pmd  Reprint   27.7.6291THE s-BLOCK ELEMENTSThe s-block elements of the Periodic Table are those inwhich the last electron enters the outermost s-orbital. Asthe s-orbital can accommodate only two electrons, twogroups (1 & 2) belong to the s-block of the Periodic Table.Group 1 of the Periodic Table consists of the elements:
+lithium, sodium, potassium, rubidium, caesium and
+francium. They are collectively known as the alkali metals.These are so called because they form hydroxides onreaction with water which are strongly alkaline in nature.
+The elements of Group 2 include beryllium, magnesium,
+calcium, strontium, barium and radium. These elements
+with the exception of beryllium are commonly known as
+the alkaline earth metals. These are so called because theiroxides and hydroxides are alkaline in nature and thesemetal oxides are found in the earth™s crust*.Among the alkali metals sodium and potassium areabundant and lithium, rubidium and caesium have muchlower abundances (Table 10.1). Francium is highly
+radioactive; its longest-lived isotope 223Fr has a half-life ofonly 21 minutes. Of the alkaline earth metals calcium andmagnesium rank fifth and sixth in abundance respectivelyin the earth™s crust. Strontium and barium have muchlower abundances. Beryllium is rare and radium is the
+rarest of all comprising only 10Œ10 per cent of igneousrocksƒ (Table 10.2, page 299).The general electronic configuration of s-block elementsis [noble gas]ns1 for alkali metals and [noble gas] ns2 foralkaline earth metals.UNIT 10After studying this unit, you will beable to•••••describe the general charact-eristics of the alkali metals andtheir compounds;•••••explain the general characteristicsof the alkaline earth metals andtheir compounds;•••••describe the manufacture,properties and uses of industriallyimportant sodium and calciumcompounds including Portlandcement;•••••appreciate the biologicalsignificance of sodium,potassium, magnesium andcalcium.THE s -BLOCK ELEMENTS*The thin, rocky outer layer of the Earth is crust.   ƒ A type of rock formedfrom magma (molten rock) that has cooled and hardened.The first element of alkali and alkaline earth metals differsin many respects from the other members of the group
+292       C:\ChemistryXI\Unit-10\Unit-10-Lay-3(reprint).pmd  Reprint   27.7.6292CHEMISTRYLithium and beryllium, the first elementsof Group 1 and Group 2 respectively exhibitsome properties which are different from thoseof the other members of the respective group.In these anomalous properties they resemble
+the second element of the following group.
+Thus, lithium shows similarities to magnesium
+and beryllium to aluminium in many of theirproperties. This type of diagonal similarity is
+commonly referred to as diagonal relationshipin the periodic table. The diagonal relationship
+is due to the similarity in ionic sizes and /or
+charge/radius ratio of the elements.
+Monovalent sodium and potassium ions anddivalent magnesium and calcium ions arefound in large proportions in biological fluids.
+These ions perform important biological
+functions such as maintenance of ion balance
+and nerve impulse conduction.10.1GROUP 1 ELEMENTS: ALKALIMETALSThe alkali metals show regular trends in their
+physical and chemical properties with the
+increasing atomic number. The atomic,physical and chemical properties of alkalimetals are discussed below.10.1.1Electronic ConfigurationAll the alkali metals have one valence electron,ns1 (Table 10.1) outside the noble gas core.The loosely held s-electron in the outermostvalence shell of these elements makes them themost electropositive metals. They readily loseelectron to give monovalent M+ ions. Hence theyare never found in free state in nature.increase in atomic number, the atom becomeslarger. The monovalent ions (M+) are smallerthan the parent atom. The atomic and ionicradii of alkali metals increase on moving downthe group i.e., they increase in size while goingfrom Li to Cs.10.1.3Ionization EnthalpyThe ionization enthalpies of the alkali metalsare considerably low and decrease down the
+group from Li to Cs. This is because the effectof increasing size outweighs the increasingnuclear charge, and the outermost electron is
+very well screened from the nuclear charge.10.1.4 Hydration EnthalpyThe hydration enthalpies of alkali metal ionsdecrease with increase in ionic sizes.Li+> Na+ > K+ > Rb+ > Cs+Li+ has maximum degree of hydration andfor this reason lithium salts are mostlyhydrated, e.g., LiCl· 2H2O10.1.5 Physical PropertiesAll the alkali metals are silvery white, soft and
+light metals. Because of the large size, these
+elements have low density which increasesdown the group from Li to Cs. However,potassium is lighter than sodium. The melting
+and boiling points of the alkali metals are low
+indicating weak metallic bonding due to the
+presence of only a single valence electron inthem. The alkali metals and their salts impart
+characteristic colour to an oxidizing flame. This
+is because the heat from the flame excites the
+outermost orbital electron to a higher energy
+level. When the excited electron comes back to
+the ground state, there is emission of radiationin the visible region as given below:Alkali metals can therefore, be detected bythe respective flame tests and can bedetermined by flame photometry or atomicabsorption spectroscopy. These elements whenirradiated with light, the light energy absorbed
+may be sufficient to make an atom lose electron.ElementSymbolElectronic configurationLithiumLi1
+s22s1SodiumNa1s
+22s22p63s1PotassiumK1
+s22s22p63s23p64s1RubidiumRb1
+s22s22p63s23p63d104s24p65s1CaesiumCs1
+s22s22p63s23p63d104s24p64d105s25p66s1 or [Xe] 6s1FranciumFr
+[Rn]7s110.1.2Atomic and Ionic RadiiThe alkali metal atoms have the largest sizes
+in a particular period of the periodic table. WithMetalLiNaKRbCs
+ColourCrimson
+YellowVioletRed
+Blueredviolet
+/nm670.8589.2766.5780.0455.5
+
+293       C:\ChemistryXI\Unit-10\Unit-10-Lay-3(reprint).pmd  Reprint   27.7.6293THE s-BLOCK ELEMENTSPropertyLithiumSodiumPotassium
+RubidiumCaesiumFranciumLiNaKRbCsFr
+Atomic number31119375587
+Atomic mass (g molŒ1)6.9422.9939.10
+85.47132.91
+(223)Electronic[He] 2s1[Ne] 3s1[Ar] 4s1[Kr] 5s1[Xe] 6s1[Rn] 7s1configurationIonization520496419403376~375
+enthalpy / kJ molŒ1HydrationŒ506
+Œ406Œ330Œ310Œ276Œ
+enthalpy/kJ molŒ1Metallic152186227248265Œ
+radius / pm
+Ionic radius76102
+138152167(180)
+M+ / pmm.p. / K454371336312302Œ
+b.p / K161511561032961944Œ
+Density / g cmŒ30.530.970.861.531.90Œ
+Standard potentialsŒ3.04Œ2.714Œ2.925Œ2.930Œ2.927Œ
+E/ V for (M+ / M)Occurrence in18*2.27**1.84**78-12*2-6*~ 10
+Œ18 *lithosphereƒThis property makes caesium and potassiumuseful as electrodes in photoelectric cells.10.1.6  Chemical PropertiesThe alkali metals are highly reactive due to
+their large size and low ionization enthalpy. The
+reactivity of these metals increases down thegroup.(i)Reactivity towards air:
+  The alkali metalstarnish in dry air due to the formation oftheir oxides which in turn react withmoisture to form hydroxides.  They burnvigorously in oxygen forming oxides.
+Lithium forms monoxide, sodium formsperoxide, the other metals formsuperoxides. The superoxide O2Œ  ion isstable only in the presence of large cationssuch as K, Rb, Cs.224LiO2LiO(oxide)
+222
+2NaONaO(peroxide)
+22MOMO(superoxide)
+(M = K, Rb, Cs)In all these oxides the oxidation state of thealkali metal is +1. Lithium shows exceptionalbehaviour in reacting directly with nitrogen of
+air to form the nitride, Li3N as well. Because oftheir high reactivity towards air and water,alkali metals are normally kept in kerosene oil.Problem 10.1What is the oxidation state of K in KO2?SolutionThe superoxide species is represented asO2Œ; since the compound is neutral,therefore, the oxidation state of potassiumis +1.*ppm (part per million), ** percentage by weight; ƒ Lithosphere: The Earth™s outer layer: its crust
+and part of the upper mantleTable 10.1  Atomic and Physical Properties of the Alkali Metals
+294       C:\ChemistryXI\Unit-10\Unit-10-Lay-3(reprint).pmd  Reprint   27.7.6294CHEMISTRY(ii)Reactivity towards water: The alkalimetals react with water to form hydroxideand dihydrogen.222M2HO2M2OHH
+
+(M = an alkali metal)It may be noted that although lithium has
+most negative E value (Table 10.1), itsreaction with water is less vigorous than
+that of sodium which has the least negativeE value among the alkali metals. Thisbehaviour of lithium is attributed to itssmall size and very high hydration energy.Other metals of the group react explosivelywith water.They also react with proton donors suchas alcohol, gaseous ammonia and alkynes.(iii)Reactivity towards dihydrogen: Thealkali metals react with dihydrogen atabout 673K (lithium at 1073K) to formhydrides. All the alkali metal hydrides areionic solids with high melting points.22MH2MH
+(iv)Reactivity towards halogens : The alkalimetals readily react vigorously withhalogens to form ionic halides, M+XŒ.However, lithium halides are somewhat
+covalent. It is because of the highpolarisation capability of lithium ion (Thedistortion of electron cloud of the anion by
+the cation is called polarisation). The Li+ ionis very small in size and has high tendencyto distort electron cloud around thenegative halide ion. Since anion with largesize can be easily distorted, among halides,
+lithium iodide is the most covalent in
+nature.(v)Reducing nature:
+ The alkali metals arestrong reducing agents, lithium being themost and sodium the least powerful
+(Table 10.1). The standard electrode
+potential (E) which measures the reducingpower represents the overall change :2M(s)M(g)sublimationenthalpy
+M(g)M(g)eionizationenthalpy
+M(g)HOM(aq)hydrationenthalpy
+With the small size of its ion, lithium hasthe highest hydration enthalpy whichaccounts for its high negative E value andits high reducing power.Problem 10.2The E for Cl
+2/Cl
+Œ is +1.36, for I2/IŒ  is+ 0.53, for Ag+ /Ag is  +0.79, Na+ /Na isŒ2.71 and for Li+ /Li is Œ 3.04. Arrangethe following ionic species in decreasingorder of reducing strength:IŒ, Ag, ClŒ, Li, NaSolutionThe order is Li > Na > I
+Œ > Ag  > ClŒ(vi)Solutions in liquid ammonia: The alkalimetals dissolve in liquid ammonia givingdeep blue solutions which are conductingin nature.      33x3y
+M(xy)NH[M(NH)][e(NH)]
+
+The blue colour of the solution is due tothe ammoniated electron which absorbsenergy in the visible region of light and thusimparts blue colour to the solution. Thesolutions are paramagnetic and onstanding slowly liberate hydrogen resultingin the formation of amide.      (am)32(am)2
+MeNH(1)MNH½H(g)
+
+(where ‚am™ denotes solution in ammonia.)In concentrated solution, the blue colourchanges to bronze colour and becomesdiamagnetic.10.1.7UsesLithium metal is used to make useful alloys,for example with lead to make ‚white metal™bearings for motor engines, with aluminiumto make aircraft parts, and with magnesiumto make armour plates. It is used inthermonuclear reactions. Lithium is also used
+to make electrochemical cells. Sodium is usedto make a Na/Pb alloy needed to make PbEt4and PbMe4. These organolead compounds wereearlier used as anti-knock additives to petrol,but nowadays vehicles use lead-free petrol.Liquid sodium metal is used as a coolant infast breeder nuclear reactors. Potassium has
+295       C:\ChemistryXI\Unit-10\Unit-10-Lay-3(reprint).pmd  Reprint   27.7.6295THE s-BLOCK ELEMENTSa vital role in biological systems. Potassiumchloride is used as a fertilizer. Potassiumhydroxide is used in the manufacture of softsoap. It is also used as an excellent absorbentof carbon dioxide. Caesium is used in devisingphotoelectric cells.10.2GENERAL CHARACTERISTICS OFTHE COMPOUNDS OF THE ALKALI
+METALSAll the common compounds of the alkali metals
+are generally ionic in nature. General
+characteristics of some of their compounds arediscussed here.10.2.1Oxides and HydroxidesOn combustion in excess of air, lithium formsmainly the oxide, Li2O (plus some peroxideLi2O2), sodium forms the peroxide, Na2O2 (andsome superoxide NaO2) whilst potassium,rubidium and caesium form the superoxides,
+MO2. Under appropriate conditions purecompounds M2O, M2O2 and MO2 may beprepared. The increasing stability of the
+peroxide or superoxide, as the size of the metalion increases, is due to the stabilisation of largeanions by larger cations through lattice energy
+effects. These oxides are easily hydrolysed by
+water to form the hydroxides according to thefollowing reactions :
+Œ22MOHO2M2OH
+
+Œ22222
+MO2HO2M2OHHO
+
+Œ22222
+2MO2HO2M2OHHOO
+
+The oxides and the peroxides are colourlesswhen pure, but the superoxides are yellow ororange in colour. The superoxides are alsoparamagnetic. Sodium peroxide is widely used
+as an oxidising agent in inorganic chemistry.Problem 10.3Why is KO2 paramagnetic ?SolutionThe superoxide O2Œ is paramagneticbecause of  one unpaired electron in *2pmolecular orbital.The hydroxides which are obtained by the
+reaction of the oxides with water are all whitecrystalline solids. The alkali metal hydroxides
+are the strongest of all bases and dissolve freely
+in water with evolution of much heat on
+account of intense hydration.10.2.2Halides
+The alkali metal halides, MX, (X=F,Cl,Br,I) areall high melting, colourless crystalline solids.
+They can be prepared by the reaction of theappropriate oxide, hydroxide or carbonate withaqueous hydrohalic acid (HX). All of these
+halides have high negative enthalpies of
+formation; the f H values for fluoridesbecome less negative as we go down the group,whilst the reverse is true for f Hfor chlorides,bromides and iodides. For a given metal
+f Halways becomes less negative fromfluoride to iodide.The melting and boiling points always
+follow the trend: fluoride > chloride > bromide> iodide. All these halides are soluble in water.
+The low solubility of LiF in water is due to itshigh lattice enthalpy whereas the low solubilityof CsI is due to smaller hydration enthalpy of
+its two ions. Other halides of lithium are solublein ethanol, acetone and ethylacetate; LiCl issoluble in pyridine also.10.2.3Salts 
+of Oxo-AcidsOxo-acids are those in which the acidic protonis on a hydroxyl group with an oxo groupattached to the same atom e.g., carbonic acid,H2CO3 (OC(OH)2; sulphuric acid, H2SO4(O2S(OH)2). The alkali metals form salts withall the oxo-acids. They are generally solublein water and thermally stable. Theircarbonates (M2CO3) and in most cases thehydrogencarbonates (MHCO3) also are highlystable to heat. As the electropositive characterincreases down the group, the stability of thecarbonates and hydorgencarbonates increases.Lithium carbonate is not so stable to heat;
+lithium being very small in size polarises alarge CO32Œ ion leading to the formation of morestable Li2O and CO2. Its hydrogencarbonatedoes not exist as a solid.
+296       C:\ChemistryXI\Unit-10\Unit-10-Lay-3(reprint).pmd  Reprint   27.7.6296CHEMISTRY10.3ANOMALOUS PROPERTIES OFLITHIUMThe anomalous behaviour of lithium is due to
+the : (i) exceptionally small size of its atom and
+ion, and (ii) high polarising power (i.e., charge/radius ratio). As a result, there is increasedcovalent character of lithium compounds which
+is responsible for their solubility in organic
+solvents. Further, lithium shows diagonal
+relationship to magnesium which has beendiscussed subsequently.10.3.1Points of Difference betweenLithium and other Alkali Metals(i)Lithium is much harder. Its m.p. and b.p.
+are higher than the other alkali metals.(ii)Lithium is least reactive but the strongestreducing agent among all the alkali metals.
+On combustion in air it forms mainly
+monoxide, Li2O and the nitride, Li3N unlikeother alkali metals.(iii)LiCl is deliquescent and crystallises as a
+hydrate, LiCl.2H2O whereas other alkalimetal chlorides do not form hydrates.(iv)Lithium hydrogencarbonate is not
+obtained in the solid form while all other
+elements form solid hydrogencarbonates.(v)Lithium unlike other alkali metals forms
+no ethynide on reaction with ethyne.(vi)Lithium nitrate when heated gives lithiumoxide, Li2O, whereas other alkali metalnitrates decompose to give thecorresponding nitrite.3222
+4LiNO2LiO4NOO
+
+2322
+NaNO2NaNOO
+(vii)LiF 
+and Li2O are comparatively much lesssoluble in water than the corresponding
+compounds of other alkali metals.10.3.2Points of Similarities between
+Lithium and MagnesiumThe similarity between lithium and magnesium
+is particularly striking and arises because of
+their similar sizes : atomic radii, Li = 152 pm,Mg = 160 pm; ionic radii : Li+ = 76 pm,Mg2+= 72 pm. The main points of similarity are:(i)Both lithium and magnesium are harder
+and lighter than other elements in therespective groups.(ii)Lithium and 
+magnesium react slowly withwater. Their oxides and hydroxides are
+much less soluble and their hydroxides
+decompose on heating. Both form a nitride,
+Li3N and Mg3N2, by direct combinationwith nitrogen.(iii)T
+he oxides, Li2O and MgO do not combinewith excess oxygen to give any superoxide.(iv)The carbonates of lithium and magnesium
+decompose easily on heating toform the oxides and CO2. Solidhydrogencarbonates are not formed bylithium and magnesium.(v)Both LiCl and MgCl
+2 are soluble in ethanol.(vi)Both LiCl and MgCl2 are deliquescent andcrystallise from aqueous solution as
+hydrates, LiCl·2H2O and MgCl2·8H2O.10.4SOME IMPORTANT 
+COMPOUNDS OFSODIUMIndustrially important compounds of sodium
+include sodium carbonate, sodium hydroxide,
+sodium chloride and sodium bicarbonate. Thelarge scale production of these compoundsand their uses are described below:Sodium Carbonate (Washing Soda),Na2CO3·10H2OSodium carbonate is generally prepared by
+Solvay Process. In this process, advantage is
+taken of the low solubility of sodiumhydrogencarbonate whereby it getsprecipitated in the reaction of sodium chloride
+with ammonium hydrogencarbonate. The
+latter is prepared by passing CO2 to aconcentrated solution of sodium chloridesaturated with ammonia, where ammoniumcarbonate followed by ammoniumhydrogencarbonate are formed. The equations
+for the complete process may be written as :32243
+22NHHOCONHCO
+
+432243
+2NHCOHOCO2NHHCO
+
+4343
+NHHCONaClNHClNaHCO
+
+Sodium hydrogencarbonate crystalseparates. These are heated to give sodiumcarbonate.
+297       C:\ChemistryXI\Unit-10\Unit-10-Lay-3(reprint).pmd  Reprint   27.7.6297THE s-BLOCK ELEMENTS32322
+2NaHCONaCOCOHO
+
+In this process NH3 is recovered when thesolution containing NH4Cl is treated withCa(OH)2. Calcium chloride is obtained as aby-product.4322
+22NHClCaOH2NHCaClHO
+
+It may be mentioned here that Solvayprocess cannot be extended to themanufacture of potassium carbonate becausepotassium hydrogencarbonate is too solubleto be precipitated by the addition of
+ammonium hydrogencarbonate to a saturated
+solution of potassium chloride.Properties : Sodium carbonate is a whitecrystalline solid which exists as a decahydrate,Na2CO3·10H2O. This is also called washingsoda. It is readily soluble in water. On heating,the decahydrate loses its water of crystallisationto form monohydrate. Above 373K, themonohydrate becomes completely anhydrous
+and changes to a white powder called soda ash.375K
+2322322
+NaCO10HONaCOHO9HO
+
+373K
+232232
+NaCOHONaCOHO
+
+Carbonate part of sodium carbonate getshydrolysed by water to form an alkalinesolution.2ŒŒŒ
+323
+COHOHCOOH
+
+Uses:(i)It is used in water softening, laundering
+and cleaning.(ii)It is 
+used in the manufacture of glass,soap, borax and caustic soda.(iii)It is 
+used in paper, paints and textileindustries.(iv)It is an 
+important laboratory reagent bothin qualitative and quantitative analysis.Sodium Chloride, NaClThe most abundant source of sodium chlorideis sea water which contains 2.7 to 2.9% by
+mass of the salt. In tropical countries like India,common salt is generally obtained byevaporation of sea water. Approximately 50
+lakh tons of salt are produced annually in
+India by solar evaporation. Crude sodium
+chloride, generally obtained by crystallisationof brine solution, contains sodium sulphate,calcium sulphate, calcium chloride andmagnesium chloride as impurities. Calcium
+chloride, CaCl2, and magnesium chloride,MgCl2 are impurities because they aredeliquescent (absorb moisture easily from theatmosphere). To obtain pure sodium chloride,
+the crude salt is dissolved in minimum amount
+of water and filtered to remove insolubleimpurities. The solution is then saturated with
+hydrogen chloride gas. Crystals of pure
+sodium chloride separate out. Calcium and
+magnesium chloride, being more soluble than
+sodium chloride, remain in solution.Sodium chloride melts at 1081K. It has asolubility of 36.0 g in 100 g of water at 273 K.
+The solubility does not increase appreciablywith increase in temperature.Uses :(i)It is used as a common salt or table salt for
+domestic purpose.(ii)It is 
+used for the preparation of Na2O2,NaOH and Na2CO3.Sodium Hydroxide (Caustic Soda), NaOHSodium hydroxide is generally preparedcommercially by the electrolysis of sodium
+chloride in Castner-Kellner cell. A brine
+solution is electrolysed using a mercury
+cathode and a carbon anode. Sodium metaldischarged at the cathode combines with
+mercury to form sodium amalgam. Chlorine
+gas is evolved at the anode.HgCathode:NaeNaŒamalgam
+
+ŒŒ21Anode:ClCle
+2The amalgam is treated with water to givesodium hydroxide and hydrogen gas.2Na-amalgam + 2H2O2NaOH+ 2Hg +H2Sodium hydroxide is a white, translucentsolid. It melts at 591 K. It is readily soluble inwater to give a strong alkaline solution.Crystals of sodium hydroxide are deliquescent.The sodium hydroxide solution at the surface
+reacts with the CO2 in the atmosphere to formNa2CO3.
+298       C:\ChemistryXI\Unit-10\Unit-10-Lay-3(reprint).pmd  Reprint   27.7.6298CHEMISTRYUses: It is used in (i) the manufacture of soap,paper, artificial silk and a number of chemicals,(ii) in petroleum refining, (iii) in the purificationof bauxite, (iv) in the textile industries formercerising cotton fabrics, (v) for the
+preparation of pure fats and oils, and (vi) as a
+laboratory reagent.Sodium Hydrogencarbonate (BakingSoda), NaHCO3Sodium hydrogencarbonate is known asbaking soda because it decomposes on heating
+to generate bubbles of carbon dioxide (leavingholes in cakes or pastries and making themlight and fluffy).Sodium hydrogencarbonate is made bysaturating a solution of sodium carbonate withcarbon dioxide. The white crystalline powder
+of sodium hydrogencarbonate, being less
+soluble, gets separated out.23223
+NaCOHOCO2NaHCO
+   
+Sodium hydrogencarbonate is a mildantiseptic for skin infections. It is used in fireextinguishers.10.5BIOLOGICAL IMPORTANCE OF
+SODIUM AND POTASSIUMA typical 70 kg man contains about 90 g of Naand 170 g of K compared with only 5 g of iron
+and 0.06 g of copper.Sodium ions are found primarily on theoutside of cells, being located in blood plasma
+and in the interstitial fluid which surroundsthe cells. These ions participate in the
+transmission of nerve signals, in regulating theflow of water across cell membranes and in thetransport of sugars and amino acids into cells.Sodium and potassium, although so similarchemically, differ quantitatively in their abilityto penetrate cell membranes, in their transportmechanisms and in their efficiency to activateenzymes. Thus, potassium ions are the mostabundant cations within cell fluids, where they
+activate many enzymes, participate in theoxidation of glucose to produce ATP and, withsodium, are responsible for the transmission
+of nerve signals.There is a very considerable variation in theconcentration of sodium and potassium ionsfound on the opposite sides of cell membranes.As a typical example, in blood plasma, sodium
+is present to the extent of 143 mmolLŒ1,whereas the potassium level is only5 mmolLŒ1 within the red blood cells. Theseconcentrations change to 10 mmolLŒ1 (Na+) and105 mmolLŒ1 (K+). These ionic gradientsdemonstrate that a discriminatory mechanism,
+called the sodium-potassium pump, operatesacross the cell membranes which consumesmore than one-third of the ATP used by a
+resting animal and about 15 kg per 24 h in a
+resting human.10.6GROUP 2 ELEMENTS : ALKALINEEARTH METALSThe group 2 elements comprise beryllium,
+magnesium, calcium, strontium, barium and
+radium. They follow alkali metals in theperiodic table. These (except beryllium) areknown as alkaline earth metals. The first
+element beryllium differs from the rest of the
+members and shows diagonal relationship to
+aluminium. The atomic and physicalproperties of the alkaline earth metals are
+shown in Table 10.2.10.6.1Electronic ConfigurationThese elements have two electrons in thes -orbital of the valence shell (Table 10.2). Theirgeneral electronic configuration may berepresented as [noble gas] ns2. Like alkalimetals, the compounds of these elements arealso predominantly ionic.ElementSymbolElectronic
+configurationBerylliumBe1
+s22s2MagnesiumMg1
+s22s22p63s2CalciumCa1
+s22s22p63s23p64s2StrontiumSr1
+s22s22p63s23p63d104s24p65s2BariumBa1
+s22s22p63s23p63d104s24p64d105s25p66s2 or[Xe]6s2RadiumRa
+[Rn]7s210.6.2Atomic and Ionic RadiiThe atomic and ionic radii of the alkaline earth
+metals are smaller than those of the
+299       C:\ChemistryXI\Unit-10\Unit-10-Lay-3(reprint).pmd  Reprint   27.7.6299THE s-BLOCK ELEMENTScorresponding alkali metals in the sameperiods. This is due to the increased nuclear
+charge in these elements. Within the group, theatomic and ionic radii increase with increasein atomic number.10.6.3Ionization EnthalpiesThe alkaline earth metals have low ionizationenthalpies due to fairly large size of the atoms.
+Since the atomic size increases down thegroup, their ionization enthalpy decreases(Table 10.2). The first ionisation enthalpies of
+the alkaline earth metals are higher than those
+of the corresponding Group 1 metals. This is
+due to their small size as compared to thecorresponding alkali metals. It is interesting
+to note that the second ionisation enthalpies
+of the alkaline earth metals are smaller than
+those of the corresponding alkali metals.10.6.4Hydr
+ation EnthalpiesLike alkali metal ions, the hydration enthalpiesof alkaline earth metal ions decrease withincrease in ionic size down the group.Be2+> Mg2+ > Ca2+ > Sr2+ > Ba2+The hydration enthalpies of alkaline earthmetal ions are larger than those of alkali metal
+ions. Thus, compounds of alkaline earth metalsare more extensively hydrated than those ofalkali metals, e.g., MgCl2 and CaCl2 exist asMgCl2.6H2O and CaCl2· 6H2O while NaCl andKCl do not form such hydrates.10.6.5Physical PropertiesThe alkaline earth metals, in general, are silverywhite, lustrous and relatively soft but harder
+than the alkali metals. Beryllium andmagnesium appear to be somewhat greyish.The melting and boiling points of these metals
+are higher than the corresponding alkali metals
+due to smaller sizes. The trend is, however, not
+systematic. Because of the low ionisationenthalpies, they are strongly electropositive in
+nature. The electropositive character increases
+down the group from Be to Ba. Calcium,PropertyBerylliumMagnesiumCalcium
+StrontiumBariumRadium
+BeMgCaSrBaRa
+Atomic number 41220385688
+Atomic mass (g molŒ1)9.0124.3140.0887.62137.33226.03
+Electronic[He] 2s
+2[Ne] 3s2[Ar] 4s2[Kr] 5s2[Xe] 6s2[Rn] 7s2configurationIonization899737590549503509
+enthalpy (I) / kJ molŒ1Ionization1757145011451064965979
+
+enthalpy (II) /kJ molŒ1Hydration enthalpyŒ 
+2494Œ 1921
+Œ1577Œ 
+1443Œ 1305Œ
+(kJ/mol)Metallic111160197215222Œ
+radius / pmIonic radius3172100118135148
+M2+ / pmm.p. / K1560924112410621002973
+b.p / K27451363176716552078(1973)
+Density / g cmŒ31.841.741.552.633.59(5.5)
+Standard potentialŒ1.97Œ2.36Œ2.84Œ2.89Œ 
+2.92Œ2.92E / V for (M2+/ M)Occurrence in2*
+2.76**4.6**384*
+390 *10
+Œ6*lithosphereTable 10.2 Atomic and Physical Properties of the Alkaline Earth Metals*ppm (part per million); ** percentage by weight299       C:\ChemistryXI\Unit-10\Unit-10-Lay-3(reprint).pmd  27.7.6, 16.10.6 (reprint)
+300       C:\ChemistryXI\Unit-10\Unit-10-Lay-3(reprint).pmd  Reprint   27.7.6300CHEMISTRYstrontium and barium impart characteristicbrick red, crimson and apple green colours
+respectively to the flame. In flame the electronsare excited to higher energy levels and whenthey drop back to the ground state, energy isemitted in the form of visible light. Theelectrons in beryllium and magnesium are toostrongly bound to get excited by flame. Hence,these elements do not impart any colour to the
+flame. The flame test for Ca, Sr and Ba is
+helpful in their detection in qualitative analysis
+and estimation by flame photometry. The
+alkaline earth metals like those of alkali metals
+have high electrical and thermal conductivitieswhich are typical characteristics of metals.10.6.6Chemical 
+PropertiesThe alkaline earth metals are less reactive thanthe alkali metals. The reactivity of these
+elements increases on going down the group.(i) Reactivity towards air and water:Beryllium and magnesium are kinetically inertto oxygen and water because of the formationof an oxide film on their surface. However,powdered beryllium burns  brilliantly onignition in air to give BeO and Be3N2.Magnesium is more electropositive and burnswith dazzling brilliance in air to give MgO andMg3N2. Calcium, strontium and barium arereadily attacked by air to form the oxide andnitride. They also react with water withincreasing vigour even in cold to formhydroxides.(ii) Reactivity towards the halogens:  Allthe alkaline earth metals combine with halogenat elevated temperatures forming their halides.22MXMXXF,Cl,Br,l
+
+Thermal decomposition of (NH4)2BeF4 is thebest route for the preparation of BeF2, andBeCl2 is conveniently made from the oxide.600800K
+22BeOCClBeClCO
+
+
+
+(iii) Reactivity towards hydrogen: All theelements except beryllium combine withhydrogen upon heating to form their hydrides,MH2.BeH2, however, can be prepared by the reactionof BeCl2 with LiAlH4.2423
+2BeClLiAlH2BeHLiClAlCl
+
+(iv)Reactivity towards acids:
+  The alkalineearth metals readily react with acids liberatingdihydrogen.M  +  2HCl     MCl2 + H2(v) Reducing nature: Like alkali metals, thealkaline earth metals are strong reducingagents. This is indicated by large negativevalues of their reduction potentials(Table 10.2). However their reducing power is
+less than those of their corresponding alkali
+metals. Beryllium has less negative value
+compared to other alkaline earth metals.However, its reducing nature is due to large
+hydration energy associated with the small
+size of Be2+ ion and relatively large value of theatomization enthalpy of the metal.(vi)Solutions in liquid ammonia: Likealkali metals, the alkaline earth metals dissolvein liquid ammonia to give deep blue black
+solutions forming ammoniated ions.
+2Œ333
+XYMxyNHMNH2eNH
+
+
+
+From these solutions, the ammoniates,[M(NH3)6]2+ can be recovered.10.6.7UsesBeryllium is used in the manufacture of alloys.Copper-beryllium alloys are used in the
+preparation of high strength springs. Metallicberyllium is used for making windows ofX-ray tubes. Magnesium forms alloys with
+aluminium, zinc, manganese and tin.
+Magnesium-aluminium alloys being light inmass are used in air-craft construction.Magnesium (powder and ribbon) is used in
+flash powders and bulbs, incendiary bombs
+and signals. A suspension of magnesium
+hydroxide in water (called milk of magnesia)is used as antacid in medicine. Magnesium
+carbonate is an ingredient of toothpaste.Calcium is used in the extraction of metals fromoxides which are difficult to reduce with
+carbon.  Calcium and barium metals, owing
+to their reactivity with oxygen and nitrogen at
+elevated temperatures, have often been used
+to remove air from vacuum tubes. Radium
+salts are used in radiotherapy, for example, in
+the treatment of cancer.
+301       C:\ChemistryXI\Unit-10\Unit-10-Lay-3(reprint).pmd  Reprint   27.7.6301THE s-BLOCK ELEMENTS10.7GENERAL CHARACTERISTICS OFCOMPOUNDS OF THE ALKALINE
+EARTH METALSThe dipositive oxidation state (M2+) is thepredominant valence of Group 2 elements. The
+alkaline earth metals form compounds whichare predominantly ionic but less ionic than thecorresponding compounds of alkali metals.
+This is due to increased nuclear charge and
+smaller size. The oxides and other compounds
+of beryllium and magnesium are more covalentthan those formed by the heavier and large
+sized members (Ca, Sr, Ba). The general
+characteristics of some of the compounds of
+alkali earth metals are described below.(i) Oxides and Hydroxides:
+ The alkalineearth metals burn in oxygen to form themonoxide, MO which, except for BeO, have
+rock-salt structure. The BeO is essentially
+covalent in nature. The enthalpies of formation
+of these oxides are quite high and consequently
+they are very stable to heat. BeO is amphoteric
+while oxides of other elements are ionic in
+nature. All these oxides except BeO are basic
+in nature and react with water to form sparingly
+soluble hydroxides.MO  +  H2O    M(OH)2The solubility, thermal stability and thebasic character of these hydroxides increasewith increasing atomic number from Mg(OH)2to Ba(OH)2. The alkaline earth metalhydroxides are, however, less basic and less
+stable than alkali metal hydroxides. Berylliumhydroxide is amphoteric in nature as it reactswith acid and alkali both.Be(OH)2 + 2OHŒ      [Be(OH)4]2Œ      Beryllate ionBe(OH)2 + 2HCl + 2H2O  
+   [Be(OH)4]Cl2(ii) Halides: Except for beryllium halides, allother halides of alkaline earth metals are ionicin nature. Beryllium halides are essentiallycovalent and soluble in organic solvents.Beryllium chloride has a chain structure in the
+solid state as shown below:In the vapour phase BeCl2 tends to form achloro-bridged dimer which dissociates into thelinear monomer at high temperatures of theorder of 1200 K. The tendency to form halidehydrates gradually decreases (for example,
+MgCl2·8H2O, CaCl2·6H2O, SrCl2·6H2O andBaCl2·2H2O) down the group. The dehydrationof hydrated chlorides, bromides and iodidesof Ca, Sr and Ba can be achieved on heating;however, the corresponding hydrated halidesof Be and Mg on heating suffer hydrolysis. The
+fluorides are relatively less soluble than the
+chlorides owing to their high lattice energies.(iii)Salts of Oxoacids:
+ The alkaline earthmetals also form salts of oxoacids. Some ofthese are :Carbonates: Carbonates of alkaline earthmetals are insoluble in water and can beprecipitated by addition of a sodium orammonium carbonate solution to a solutionof a soluble salt of these metals. The solubility
+of carbonates in water decreases as the atomic
+number of the metal ion increases. All thecarbonates decompose on heating to givecarbon dioxide and the oxide. Beryllium
+carbonate is unstable and can be kept only inthe atmosphere of CO2. The thermal stabilityincreases with increasing cationic size.Sulphates: The sulphates of the alkaline earthmetals are all white solids and stable to heat.BeSO4, and MgSO4 are readily soluble in water;the solubility decreases from CaSO4 to BaSO4.The greater hydration enthalpies of Be2+ andMg2+ ions overcome the lattice enthalpy factorand therefore their sulphates are soluble inwater.Nitrates: The nitrates are made by dissolutionof the carbonates in dilute nitric acid.Magnesium nitrate crystallises with sixmolecules of water, whereas barium nitrate
+crystallises as the anhydrous salt. This againshows a decreasing tendency to form hydrateswith increasing size and decreasing hydration
+enthalpy. All of them decompose on heating togive the oxide like lithium nitrate.322
+22MNO2MO4NOO
+
+ (M = Be, Mg, Ca, Sr, Ba)
+302       C:\ChemistryXI\Unit-10\Unit-10-Lay-3(reprint).pmd  Reprint   27.7.6302CHEMISTRYProblem 10.4Why does the solubility of alkaline earthmetal hydroxides in water increase downthe group?SolutionAmong alkaline earth metal hydroxides,the anion being common the cationicradius will influence the lattice enthalpy.Since lattice enthalpy decreases muchmore than the hydration enthalpy with
+increasing ionic size, the solubility
+increases as we go down the group.Problem 10.5Why does the solubility of alkaline earthmetal carbonates and sulphates in water
+decrease down the group?SolutionThe size of anions being much largercompared to cations, the lattice enthalpy
+will remain almost constant within aparticular group. Since the hydrationenthalpies decrease down the group,
+solubility will decrease as found for
+alkaline earth metal carbonates and
+sulphates.10.8ANOMALOUS BEHAVIOUR OFBERYLLIUMBeryllium, the first member of the Group 2
+metals, shows anomalous behaviour as
+compared to magnesium and rest of themembers. Further, it shows diagonalrelationship to aluminium which is discussed
+subsequently.(i)Beryllium has exceptionally small atomic
+and ionic sizes and thus does not comparewell with other members of the group.Because of high ionisation enthalpy and
+small size it forms compounds which arelargely covalent and get easily hydrolysed.(ii)Beryllium does not exhibit coordinationnumber more than four as in its valenceshell there are only four orbitals. Theremaining members of the group can have
+a coordination number of six by makinguse of d-orbitals.(iii)The oxide and hydroxide of beryllium,unlike the hydroxides of other elements in
+the group, are amphoteric in nature.10.8.1Diagonal Relationship betweenBeryllium and AluminiumThe ionic radius of Be2+ is estimated to be31 pm; the charge/radius ratio is nearly the
+same as that of the Al3+ ion. Hence berylliumresembles aluminium in some ways. Some of
+the similarities are:(i)Like aluminium, beryllium is not readily
+attacked by acids  because of the presenceof an oxide film on the surface of the metal.(ii)Beryllium hydroxide dissolves in excess ofalkali to give a beryllate ion, [Be(OH)4]2Œ justas aluminium hydroxide gives    aluminateion, [Al(OH)4]Œ.(iii)The chlorides of both beryllium and
+aluminium have ClŒ bridged chloridestructure in vapour phase. Both the
+chlorides are soluble in organic solventsand are strong Lewis acids. They are usedas Friedel Craft catalysts.(iv)Beryllium and aluminium ions have strong
+tendency to form complexes, BeF42Œ, AlF63Œ.10.9SOME IMPORTANT 
+COMPOUNDS OFCALCIUMImportant compounds of calcium are calciumoxide, calcium hydroxide, calcium sulphate,calcium carbonate and cement. These areindustrially important compounds. The large
+scale preparation of these compounds andtheir uses are described below.Calcium Oxide or Quick Lime, CaOIt is prepared on a commercial scale byheating limestone (CaCO3) in a rotary kiln at1070-1270 K.heat
+32CaCOCaOCO
+
+
+The carbon dioxide is removed as soon asit is produced to enable the reaction to proceedto completion.Calcium oxide is a white amorphous solid.It has a melting point of 2870 K. On exposureto atmosphere, it absorbs moisture and carbon
+dioxide.
+303       C:\ChemistryXI\Unit-10\Unit-10-Lay-3(reprint).pmd  Reprint   27.7.6303THE s-BLOCK ELEMENTS22CaOHOCaOH
+23CaOCOCaCO
+The addition of limited amount of waterbreaks the lump of lime. This process is calledslaking of lime. Quick lime slaked with sodagives solid sodalime. Being a basic oxide, itcombines with acidic oxides at high
+temperature.23CaOSiOCaSiO
+41034
+26CaOPO2CaPO
+Uses:(i)It is an important primary material for
+manufacturing cement and is the cheapestform of alkali.(ii)It is 
+used in the manufacture of sodiumcarbonate from caustic soda.(iii)It is 
+employed in the purification of sugarand in the manufacture of dye stuffs.Calcium Hydroxide (Slaked lime), Ca(OH)2Calcium hydroxide is prepared by addingwater to quick lime, CaO.It is a white amorphous powder. It issparingly soluble in water. The aqueous
+solution is known as lime water and asuspension of slaked lime in water is knownas milk of lime.When carbon dioxide is passed throughlime water it turns milky due to the formationof calcium carbonate.232
+2CaOHCOCaCOHO
+
+On passing excess of carbon dioxide, the
+precipitate dissolves to form calciumhydrogencarbonate.3223
+2CaCOCOHOCaHCO
+
+Milk of lime reacts with chlorine to formhypochlorite, a constituent of bleachingpowder.22222Bleachingpowder
+2CaOH2Cl2HO
+CaClCaOCl
+
+Uses:(i)It is used in the preparation of mortar, a
+building material.(ii)It is 
+used in white wash due to itsdisinfectant nature.(iii)It is 
+used in glass making, in tanningindustry, for the preparation of bleachingpowder and for purification of sugar.Calcium Carbonate, CaCO3Calcium carbonate occurs in nature in severalforms like limestone, chalk, marble etc. It can
+be prepared by passing carbon dioxidethrough slaked lime or by the addition ofsodium carbonate to calcium chloride.232
+2CaOHCOCaCOHO
+
+2233
+CaClNaCOCaCO2NaCl
+
+Excess of carbon dioxide should beavoided since this leads to the formation ofwater soluble calcium hydrogencarbonate.Calcium carbonate is a white fluffy powder.It is almost insoluble in water. When heatedto 1200 K, it decomposes to evolve carbon
+dioxide.1200K
+32CaCOCaOCO
+
+It reacts with dilute acid to liberate carbondioxide.3222
+CaCO2HClCaClHOCO
+
+324422
+CaCOHSOCaSOHOCO
+
+Uses:It is used as a building material in the form ofmarble and in the manufacture of quick lime.
+Calcium carbonate along with magnesiumcarbonate is used as a flux in the extraction ofmetals such as iron. Specially precipitated
+CaCO3 is extensively used in the manufactureof high quality paper. It is also used as anantacid, mild abrasive in tooth paste, aconstituent of chewing gum, and a filler incosmetics.Calcium Sulphate (Plaster of Paris),CaSO4·˜ H2OIt is a hemihydrate of calcium sulphate. It is
+obtained when gypsum, CaSO4·2H2O, isheated to 393 K.
+42422
+2CaSO.2HO2CaSO.HO3HO
+Above 393 K, no water of crystallisation is leftand anhydrous calcium sulphate, CaSO4 isformed. This is known as ‚dead burnt plaster™.
+304       C:\ChemistryXI\Unit-10\Unit-10-Lay-3(reprint).pmd  Reprint   27.7.6304CHEMISTRYIt has a remarkable property of setting withwater. On mixing with an adequate quantityof water it forms a plastic mass that gets into ahard solid in 5 to 15 minutes.Uses:The largest use of Plaster of Paris is in thebuilding industry as well as plasters. It is used
+for immoblising the affected part of organ wherethere is a bone fracture or sprain. It is alsoemployed in dentistry, in ornamental work and
+for making casts of statues and busts.Cement: Cement is an important buildingmaterial. It was first introduced in England in1824 by Joseph Aspdin. It is also called
+Portland cement because it resembles with  the
+natural limestone quarried in the Isle of
+Portland, England.Cement is a product obtained bycombining a material rich in lime, CaO with
+other material such as clay which contains
+silica, SiO2 along with the oxides ofaluminium, iron and magnesium. The averagecomposition of Portland cement is : CaO, 50-60%; SiO2, 20-25%; Al2O3, 5-10%; MgO, 2-3%; Fe2O3, 1-2% and SO3, 1-2%. For a  goodquality cement, the ratio of silica (SiO2) toalumina (Al2O3) should be between 2.5 and 4and the ratio of lime (CaO) to the total of theoxides of silicon (SiO2) aluminium (Al2O3)and iron (Fe2O3) should be as close as possibleto 2.The raw materials for the manufacture ofcement are limestone and clay. When clay andlime are strongly heated together they fuse and
+react to form ‚cement clinker™. This clinker is
+mixed with 2-3% by weight of gypsum
+(CaSO4·2H2O) to form cement. Thus importantingredients present in Portland cement aredicalcium silicate (Ca2SiO4) 26%, tricalciumSUMMARYThe s-Block of the periodic table constitutes Group1 (alkali metals) and Group 2(alkaline earth metals). They are so called because their oxides and hydroxides are alkaline
+in nature. The alkali metals are characterised by one s-electron and the alkaline earthmetals by two s-electrons in the valence shell of their atoms. These are highly reactivemetals forming monopositive (M+) and dipositve (M2+) ions respectively.silicate (Ca3SiO5) 51% and tricalciumaluminate (Ca3Al2O6) 11%.Setting of Cement: When mixed with water,the setting of cement takes place to give a hardmass. This is due to the hydration of themolecules of the constituents and their
+rearrangement. The purpose of addinggypsum is only to slow down the process ofsetting of the cement so that it gets sufficientlyhardened.Uses: Cement has become  a commodity ofnational necessity for any country next to ironand steel. It is used in concrete and reinforcedconcrete, in plastering and in the constructionof bridges, dams and buildings.10.10BIOLOGICAL IMPORTANCE OFMAGNESIUM AND CALCIUMAn adult body contains about 25 g of Mg and1200 g of Ca compared with only 5 g of ironand 0.06 g of copper. The daily requirementin the human body has been estimated to be
+200 Œ 300 mg.All enzymes that utilise ATP in phosphatetransfer require magnesium as the cofactor.The main pigment for the absorption of lightin plants is chlorophyll which contains
+magnesium. About 99 % of body calcium ispresent in bones and teeth. It also playsimportant roles in neuromuscular function,
+interneuronal transmission, cell membraneintegrity and blood coagulation. The calciumconcentration in plasma is regulated at about
+100 mgLŒ1. It is maintained by two hormones:calcitonin and parathyroid hormone. Do youknow that bone is not an inert and unchangingsubstance but is continuously beingsolubilised and redeposited to the extent of400 mg per day in man? All this calciumpasses through the plasma.
+305       C:\ChemistryXI\Unit-10\Unit-10-Lay-3(reprint).pmd  Reprint   27.7.6305THE s-BLOCK ELEMENTSEXERCISES10.1What 
+are the common physical and chemical features of alkali metals ?10.2Discuss the general characteristics and gradation in properties of alkaline earthmetals.10.3Why are alkali metals not found in nature ?10.4Find out the oxidation state of sodium in Na2O2.10.5Explain why is sodium less reactive than potassium.10.6Compare the alkali metals and alkaline earth metals with respect to (i) ionisationenthalpy (ii) basicity of oxides and  (iii) solubility of hydroxides.10.7In 
+what ways lithium shows similarities to magnesium in its chemical behaviour?10.8Explain why can alkali and alkaline earth metals not be obtained by chemical
+reduction methods?10.9Why are potassium and caesium, rather than lithium used in photoelectric cells?10.10When an alkali metal dissolves in liquid ammonia the solution can acquiredifferent colours. Explain the reasons for this type of colour change.10.11Beryllium and magnesium do not give colour to flame whereas other alkaline
+earth metals do so. Why ?10.12Discuss the various reactions that occur in the Solvay  process.10.13Potassium carbonate cannot be prepared by  Solvay process. Why ?10.14Why is Li
+2CO3 decomposed at a lower temperature whereas Na2CO3 at highertemperature?   There is a regular trend in the physical and chemical properties of the alkali metalwith increasing atomic numbers. The atomic and ionic sizes increase and the ionizationenthalpies decrease systematically down the group. Somewhat similar trends areobserved among the properties of the alkaline earth metals.   The first element in each of these groups, lithium in Group 1 and beryllium inGroup 2 shows similarities in properties to the second member of the next group. Suchsimilarities are termed as the ‚diagonal relationship™ in the periodic table. As suchthese elements are anomalous as far as their group characteristics are concerned.   The alkali metals are silvery white, soft and low melting. They are highly reactive.The compounds of alkali metals are predominantly ionic. Their oxides and hydroxidesare soluble in water forming strong alkalies. Important compounds of sodium includes
+sodium carbonate, sodium chloride, sodium hydroxide and sodium hydrogencarbonate.
+Sodium hydroxide is manufactured by Castner-Kellner process and sodium carbonateby Solvay process.   The chemistry of alkaline earth metals is very much like that of the alkali metals.However, some differences arise because of reduced atomic and ionic sizes and increased
+cationic charges in case of alkaline earth metals. Their oxides and hydroxides are less
+basic than the alkali metal oxides and hydroxides. Industrially important compounds of
+calcium include calcium oxide (lime), calcium hydroxide (slaked lime), calcium sulphate
+(Plaster of Paris), calcium carbonate (limestone) and cement. Portland cement is animportant constructional material. It is manufactured by heating a pulverised mixture
+of limestone and clay in a rotary kiln. The clinker thus obtained is mixed with some
+gypsum (2-3%) to give a fine powder of cement. All these substances find variety of uses
+in different areas.   Monovalent sodium and potassium ions and divalent magnesium and calcium ionsare found in large proportions in biological fluids. These ions perform importantbiological functions such as maintenance of ion balance and nerve impulse conduction.
+306       C:\ChemistryXI\Unit-10\Unit-10-Lay-3(reprint).pmd  Reprint   27.7.6306CHEMISTRY10.15Compare the solubility and thermal stability of the following compounds of thealkali metals with those of the alkaline earth metals. (a) Nitrates (b) Carbonates
+(c) Sulphates.10.16Starting with sodium chloride how would you proceed to prepare (i) sodium metal(ii) sodium hydroxide (iii) sodium peroxide (iv) sodium carbonate ?10.17What happens when (i) magnesium is burnt in air (ii) quick lime is heated with
+silica (iii) chlorine reacts with slaked lime (iv) calcium nitrate is heated ?10.18Describe two important uses of each of the following : (i) caustic soda (ii) sodiumcarbonate (iii) quicklime.10.19Draw the structure of (i) BeCl2 (vapour) (ii) BeCl2 (solid).10.20The 
+hydroxides and carbonates of sodium and potassium are easily soluble inwater while the corresponding salts of magnesium and calcium are sparinglysoluble in water. Explain.10.21Describe the importance of the following : (i) limestone (ii) cement (iii) plaster of
+paris.10.22Why are li
+thium salts commonly hydrated and those of the other alkali ionsusually anhydrous?10.23Why is LiF almost insoluble in water whereas LiCl soluble not only in water butalso in acetone ?10.24Explain the significance of sodium, potassium, magnesium and calcium in
+biological fluids.10.25What happens when
+(i)sodium metal is dropped in water ?
+(ii)sodium metal is heated in free supply of air ?(iii)sodium peroxide dissolves in water ?10.26Comment on each of the following observations:
+(a)The mobilities of the alkali metal ions in aqueous solution are Li
++ < Na+ < K+< Rb+ < Cs+(b)  Lithium is the only alkali metal to form a nitride directly.(c)E
+ for M2+ (aq) + 2eŒ    M(s)  (where M = Ca, Sr or Ba) is nearly constant.10.27State as to why(a) a solution of Na2CO3 is alkaline ?(b) alkali metals are prepared by electrolysis of their fused chlorides ?
+(c) sodium is found to be more useful than potassium ?10.28Write 
+balanced equations for reactions between(a) Na2O2 and water(b) KO2 and water(c) Na2O and CO2.10.29How would you explain the following observations?
+(i) BeO is almost insoluble but BeSO4 is soluble in water,(ii) BaO is soluble but BaSO4 is insoluble in water,(iii) LiI is more soluble than KI in ethanol.10.30Which of the alkali metal is having least melting point ?
+(a) Na(b) K(c) Rb(d) Cs
+10.31Which one of the following alkali metals gives hydrated salts ?(a) Li(b) Na(c) K(d) Cs
+10.32Which one of the alkaline earth metal carbonates is thermally the most stable ?(a) MgCO3 (b) CaCO3(c) SrCO3(d) BaCO3306       C:\ChemistryXI\Unit-10\Unit-10-Lay-3(reprint).pmd  27.7.6, 16.10.6 (reprint)

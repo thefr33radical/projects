@@ -1,0 +1,289 @@
+CHAPTER THREEMOTION IN A STRAIGHT LINE3.1Introduction3.2Position, path length anddisplacement3.3Average velocity and averagespeed3.4Instantaneous velocity and
+speed3.5Acceleration3.6Kinematic equations for
+uniformly accelerated motion3.7Relative velocitySummaryPoints to ponderExercisesAdditional exercisesAppendix 3.13.1  INTRODUCTION
+Motion is common to everything in the universe. We walk,run and ride a bicycle.  Even when we are sleeping, air movesinto and out of our lungs and blood flows in arteries andveins.  We see leaves falling from trees and water flowing
+down a dam.  Automobiles and planes carry people from one
+place to the other. The earth rotates once every twenty-fourhours and revolves round the sun once in a year. The sunitself is in motion in the Milky Way, which is again moving
+within its local group of galaxies.Motion is change in position of an object with time. Howdoes the position change with time ? In this chapter, we shalllearn how to describe motion. For this, we develop theconcepts of velocity and acceleration. We shall confineourselves to the study of motion of objects along a straightline, also known as rectilinear motion. For the case ofrectilinear motion with uniform acceleration, a set of simpleequations can be obtained. Finally, to understand the relativenature of motion, we introduce the concept of relative velocity.In our discussions, we shall treat the objects in motion aspoint objects. This approximation is valid so far as the size
+of the object is much smaller than the distance it moves in areasonable duration of time.  In a good number of situationsin real-life, the size of objects can be neglected and they can
+be considered as point-like objects without much error.In Kinematics, we study ways to describe motion withoutgoing into the causes of motion. What causes motiondescribed in this chapter and the next chapter forms thesubject matter of Chapter 5.3.2  POSITION, PATH LENGTH AND DISPLACEMENT
+Earlier you learnt that motion is change in position of anobject with time. In order to specify position, we need to use
+a reference point and a set of axes. It is convenient to choose
+PHYSICS40with the path of the car™s motion and origin ofthe axis as the point from where the car started
+moving, i.e. the car was at x = 0 at t = 0 (Fig.3.1).
+Let P, Q and R represent the positions of the carat different instants of time.  Consider two casesof motion.  In the first case, the car moves from
+O to P.  Then the distance moved by the car is
+OP = +360 m. This distance is called the pathlength  traversed by the car.   In the secondcase, the car moves from O to P and then movesback from P to Q.   During this course of motion,the path length traversed is OP + PQ = + 360 m
++ (+120 m) = + 480 m.  Path length is a scalar
+quantity Š a quantity that has a magnitude
+only and no direction (see Chapter 4).DisplacementIt is useful to define another quantitydisplacement  as  the  change  in position. Letx1 and x2 be the positions of an object at time t1and t2. Then its displacement, denoted by x, intime t = (t2 - t1), is given by the differencebetween the final and initial positions :
+                       x = x2 Œ x1(We use the Greek letter delta () to denote achange in a quantity.)If   x2 > x1, x is positive; and if x2 < x1, x isnegative.Displacement has both magnitude anddirection. Such quantities are represented byvectors. You will read about vectors in the next
+chapter. Presently, we are dealing with motion
+along a straight line (also called rectilinearmotion) only. In one-dimensional motion, thereare only two directions (backward and forward,upward and downward) in which an object canmove, and these two directions can easily be
+specified by + and Œ signs. For example,
+displacement of the car in moving from O to P is :x = x2 Œ x1 = (+360 m) Œ 0 m = +360 mThe displacement has a magnitude of 360 m andis directed in the positive x direction as indicatedby the + sign. Similarly, the displacement of thecar from P to Q is 240 m Œ 360 m = Œ 120 m. The
+Fig. 3.1  x-axis, origin and positions of a car at different times.
+a rectangular coordinate system consisting ofthree mutually perpenducular axes, labelled  X-,Y-, and Z- axes. The point of intersection of thesethree axes is called origin (O) and serves as the
+reference point. The coordinates (x, y. z) of anobject describe the position of the object with
+respect to this coordinate system. To measuretime, we position a clock in this system. Thiscoordinate system along with a clock constitutes
+a frame of reference.If one or more coordinates of an object changewith time, we say that the object is in motion.Otherwise, the object is said to be at rest withrespect to this frame of reference.The choice of a set of axes in a frame ofreference depends upon the situation. For
+example, for describing motion in one dimension,we need only one axis. To describe motion intwo/three dimensions, we need a set of two/
+three axes.Description of an event depends on the frameof reference chosen for the description. For
+example, when you say that a car is moving ona road, you are describing the car with respect
+to a frame of reference attached to you or to the
+ground. But with respect to a frame of referenceattached with a person sitting in the car, thecar is at rest.To describe motion along a straight line, wecan choose an axis, say 
+X-axis, so 
+that itcoincides with the path of the object. We then
+measure the position of the object with reference
+to a conveniently chosen origin, say O, as shown
+in Fig. 3.1. Positions to the right of O are taken
+as positive and to the left of O, as negative.
+Following this convention, the position
+coordinates of point P and Q in Fig. 3.1 are +360m and +240 m. Similarly, the position coordinate
+of point R is Œ120 m.Path lengthConsider the motion of a car along a straightline.  We choose the x-axis such that it coincides
+MOTION IN A STRAIGHT LINE41negative sign indicates the direction ofdisplacement. Thus, it is not necessary to usevector notation for discussing motion of objectsin one-dimension.The magnitude of displacement may or maynot be equal to the path length traversed by
+an object.  For example, for motion of the carfrom O to P, the path length is  +360 m and thedisplacement is +360 m. In this case, the
+magnitude of displacement (360 m) is equal to
+the path length (360 m). But consider the motionof the car from O to P and back to Q. In thiscase, the path length = (+360 m) + (+120 m) = +480 m. However, the displacement = (+240 m) Œ(0 m) =  + 240 m.  Thus, the magnitude ofdisplacement (240 m) is not equal to the path
+length (480 m).The magnitude of the displacement for acourse of motion may be zero but the
+corresponding path length is not zero.  Forexample, if the car starts from O, goes to P andthen returns to O, the final position coincideswith the initial position and the displacementis zero. However, the path length of this journeyis OP + PO = 360 m +  360 m = 720 m.Motion of an object can be represented by aposition-time graph as you have already learnt
+about it. Such a graph is a powerful tool torepresent and analyse different aspects ofmotion of an object.  For motion along a straightline, say X-axis, only x-coordinate varies withtime and we have an x-t graph. Let us firstconsider the simple case in which an object is
+stationary, e.g. a car standing still at x = 40 m.The position-time graph is a straight line parallel
+to the time axis, as shown in Fig. 3.2(a).If an object moving along the straight linecovers equal distances in equal intervals of
+time, it is said to be in uniform motion along astraight line. Fig. 3.2(b) shows the position-time
+graph of such a motion.Fig. 3.2  Position-time graph of (a) stationary object, and (b) an object in uniform motion.Fig. 3.3  Position-time graph of a car.t (s) !"x(m)
+PHYSICS42Now, let us consider the motion of a car thatstarts from rest at time t = 0 s from the origin Oand picks up speed till t = 10 s and thereaftermoves with uniform speed till t = 18 s. Then thebrakes are applied and the car stops att = 20 s and x = 296 m. The position-time graphfor this case is shown in Fig. 3.3. We shall refer
+to this graph in our discussion in the followingsections.3.3  AVERAGE VELOCITY AND AVERAGESPEEDWhen an object is in motion, its positionchanges with time.  But how fast is the position
+changing with time and in what direction?  Todescribe this, we define the quantity averagevelocity. Average velocity is defined as thechange in position or displacement (x) dividedby the time intervals (t), in which thedisplacement occurs :     vxxttxt2121!""!##(3.1)where x2  and x1 are the positions of the objectat time t2and  t1, respectively. Here the bar overthe symbol for velocity is a standard notationused to indicate an average quantity.  The SIunit for velocity is m/s or m sŒ1, although km hŒ1is used in many everyday applications.Like displacement, average velocity is also avector quantity. But as explained earlier, for
+motion in a straight line, the directional aspectof the vector can be taken care of by + and Œ
+signs and we do not have to use the vector
+notation for velocity in this chapter.Fig. 3.4 The average velocity is the slope of line P1P2.Consider the motion of the car in Fig. 3.3. Theportion of the x-t graph between t = 0 s and t = 8s is blown up and shown in Fig. 3.4.  As seenfrom the plot, the average velocity of the car
+between time t = 5 s and t = 7 s is :$%$%1Œ1212sm  8.7s 57m 010427!""!""!&&ttxxvGeometrically, this is the slope of the straightline P1P2 connecting the initial position 
+1P tothe final position P2   as   shown in Fig. 3.4.The average velocity can be positive or negativedepending upon the sign of the displacement. Itis zero if the displacement is zero. Fig. 3.5 showsthe x-t graphs for an object, moving with positivevelocity (Fig. 3.5a), moving with negative velocity
+(Fig. 3.5b)  and at rest (Fig. 3.5c).Average velocity as defined above involvesonly the displacement of the object. We have seenearlier that the magnitude of displacement may
+be different from the actual path length. To
+describe the rate of motion over the actual path,
+we introduce another quantity called averagespeed.Average speed  is defined as the total pathlength travelled divided by the total time
+interval during which the motion has takenplace :Average speed
+Total path length
+Total time interval 
+!  (3.2)Average speed has obviously the same unit(m sŒ1) as that of velocity.  But it does not tell usin what direction an object is moving.  Thus, itis always positive (in contrast to the averagevelocity which can be positive or negative). If themotion of an object is along a straight line and
+in the same direction, the magnitude ofdisplacement is equal to the total path length.
+In that case, the magnitude of average velocityFig. 3.5Position-time graph for an object (a) movingwith positive velocity, (b) moving withnegative velocity, and (c) at rest.
+MOTION IN A STRAIGHT LINE43#is equal to the average speed.  This is not alwaysthe case, as you will see in the following example.Example 3.1 A car is moving along astraight line, say OP in Fig. 3.1.  It moves
+from O to P in 18 s and returns from P to Qin 6.0 s.  What are the average velocityand average speed of the car in going (a)
+from O to P ? and (b) from O to P and back
+to Q ?Answer    (a) Average velocity
+Displacement
+Time interval 
+!   1+ 360 m 
+20 m s
+18 sv    
+     Average speed  
+Path length
+Time interval
+!                1360 m 
+=20 m s
+18 s  Thus, in this case the average speed is equal tothe magnitude of the average velocity.
+(b) In this case,$%240 m186.0 s
+Displacement 
+Average velocity=
+Time interval 
+'!'                            -1=+10 ms
+OP + PQ
+Path length
+Average speed==
+Time intervalt
+    -1360+120 m
+== 20 m s
+24 sThus, in this case the average speed is not equalto the magnitude of the average velocity. This
+happens because the motion here involveschange in direction so that the path length isgreater than the magnitude of displacement.
+This shows that speed is, in general, greaterthan the magnitude of the velocity.#If the car in Example 3.1 moves from O to Pand comes back to O in the same time interval,average speed is 20 m/s but the average velocityis zero !3.4  INSTANTANEOUS VELOCITY AND SPEEDThe average velocity tells us how fast an objecthas been moving over a given time interval but
+does not tell us how fast it moves at differentinstants of time during that interval.  For this,we define instantaneous velocity or simplyvelocity v at an instant t.The velocity at an instant is defined as thelimit of the average velocity as the time interval
+t becomes infinitesimally small. In other words,vlim
+xt=t  0
+#(##)(3.3a)  !ddxt(3.3b)where the symbol limt0#) stands for the operationof taking limit as  t$0 of the quantity on itsright. In the language of calculus, the quantityon the right hand side of Eq. (3.3a) is thedifferential coefficient of x with respect to t andis denoted by  ddxt (see Appendix 3.1).  It is therate of change of position with respect to time,at that instant.We can use Eq. (3.3a) for obtaining the valueof velocity at an instant either graphically ornumerically. Suppose that we want to obtaingraphically the value of velocity at time  t = 4 s(point P) for the motion of the car representedin Fig. 3.3. The figure has been redrawn in
+Fig.3.6 choosing different scales to facilitate the
+Fig. 3.6Determining velocity from position-timegraph.  Velocity at t = 4 s is the slope of thetangent to the graph at that instant.
+PHYSICS44calculation. Let us take t = 2 s centred att = 4 s. Then, by the definition of the averagevelocity, the slope of line P1P2  ( Fig. 3.6) givesthe value of average velocity over the interval3 s to 5 s.  Now, we decrease the value of t from2 s to 1 s.  Then line P1P2 becomes Q1Q2   and itsslope gives the value of the average velocity over
+the interval 3.5 s to 4.5 s. In the limit t  0,the line P1P2 becomes tangent 
+to the position-time curve at the point P and the velocity at t =4 s is given by the slope of the tangent at thatpoint. It is difficult to show this processgraphically. But if we use numerical method
+to obtain the value of the velocity, the
+meaning of the limiting process becomesclear. For the graph shown inFig. 3.6, x = 0.08 t3.  Table 3.1 gives the value ofx/t calculated for t equal to 2.0 s, 1.0 s, 0.5s, 0.1 s and 0.01 s centred at t = 4.0 s. Thesecond and third columns give the value of t1=tt2"*+,-./# and ttt22!'*+,-./# and the fourth andthe fifth columns give the corresponding valuesof x, i.e. x (t1) = 0.08 t13 and x (t2) = 0.08 t23. Thesixth column lists the difference x = x (t2) Œ x(t1) and the last column gives the ratio of 
+x andt, i.e. the average velocity corresponding to thevalue of t listed in the first column.We see from Table 3.1 that as we decreasethe value of t from 2.0 s to 0.010 s, the value ofthe average velocity approaches the limitingvalue 3.84 m sŒ1 which is the value of velocity att = 4.0 s, i.e. the value of  
+ddxt at t = 4.0 s. In thismanner, we can calculate velocity at eachinstant for motion of the car shown in Fig. 3.3.For this case, the variation of velocity with time
+is found to be as shown in Fig. 3.7.Fig. 3.7VelocityŒtime graph corresponding to motionshown in Fig. 3.3.The graphical method for the determinationof the instantaneous velocity is always not aconvenient method.  For this, we must carefullyplot the positionŒtime graph and calculate thevalue of average velocity as t becomes smallerand smaller.  It is easier to calculate the value
+of velocity at different instants if we have data
+of positions at different instants or exactexpression for the position as a function of time.
+Then, we calculate x/t from the data fordecreasing the value of t and find the limitingvalue as we have done in Table 3.1 or use
+differential calculus for the given expression andcalculate ddxt at different instants as done inthe following example.Table 3.1  Limiting value of xt at t = 4 s
+MOTION IN A STRAIGHT LINE45#Example 3.2    The position of an objectmoving along x-axis is given by   x = a + bt2where  a = 8.5 m, b = 2.5 m sŒ2 and t ismeasured in seconds. What is its velocity att = 0 s and t = 2.0 s. What is the averagevelocity between t = 2.0 s and t = 4.0 s ?Answer  In notation of differential calculus, thevelocity is$%vxttabt2b t= 
+2!!'!
+d
+ddd5.0tm s
+-1 At   t = 0 s,      v = 0 m sŒ1   and at   t = 2.0 s,v = 10 m s-1 .    
+4.02.0
+4.02.0
+xxAverage velocity
+           
+16ŒŒ4
+6.0
+2.0abab
+b    
+        -16.02.5=15 m s
+!0          %%#From Fig. 3.7, we note that during the periodt =10 s to 18 s the velocity is constant. Betweenperiod t =18 s to t = 20 s, it is uniformlydecreasing  and  during  the  period t = 0 s to     t= 10 s, it is increasing. Note that for uniformmotion, velocity is the same as the averagevelocity at all instants.Instantaneous speed or simply speed is themagnitude of velocity. For example, a velocity of+ 24.0 m sŒ1 and a velocity of Œ 24.0 m sŒ1 Š bothhave an associated speed of 24.0 m s-1.  It shouldbe noted that though average speed over a finiteinterval of time is greater or equal to themagnitude of the average velocity,instantaneous speed at an instant is equal tothe magnitude of the instantaneous velocity at
+that instant. Why so ?3.5  ACCELERATIONThe velocity of an object, in general, changesduring its course of motion. How to describe this
+change? Should it be described as the rate ofchange in velocity with distance or with time ?This was a problem even in Galileo™s time. It wasfirst thought that this change could be described
+by the rate of change of velocity with distance.But, through his studies of motion of freely falling
+objects and motion of objects on an inclinedplane, Galileo concluded that the rate of changeof velocity with time is a constant of motion for
+all objects in free fall. On the other hand, the
+change in velocity with distance is not constant
+Œ it decreases with 
+the increasing distance of fall.
+This led to the concept of acceleration as the rateof change of velocity with time. The average acceleration a over a timeinterval is defined as the change of velocitydivided by the time interval :2121ŒŒvvvattt
+    (3.4)where v2 and v1 are the instantaneous velocitiesor simply velocities at time  t2 and t1 . It is theaverage change of velocity per unit time. The SIunit of acceleration is m sŒ2 .On a plot of velocity versus time, the averageacceleration is the slope of the straight lineconnecting the points corresponding to (v2, t2)and (v1, t1). The average accelerationfor     velocity-time graph shown in Fig. 3.7 fordifferent time intervals 0 s - 10 s, 10 s Œ 18 s,and 18 s Œ 20 s are :0 s - 10 s    Œ1Œ224Œ0ms
+2.4ms
+10Œ0s
+a  10 s - 18 s       Œ1Œ224Œ24ms
+0ms
+18Œ10s
+a  18 s - 20 s        Œ1Œ20Œ24ms
+Œ12ms
+20Œ18s
+a  Fig. 3.8Acceleration as a function of time for motionrepresented in Fig. 3.3.Instantaneous acceleration is defined in the sameway as the instantaneous velocity :ddt0vvalim
+tt      (3.5)The acceleration at an instant is the slope ofthe tangent to the vŒt curve at that instant.  Forthe vŒt curve shown in  Fig.  3.7, we can obtainacceleration at every instant of time. Theresulting a Œ t curve is shown in Fig. 3.8. We see a (m sŒ2)
+PHYSICS46that the acceleration is nonuniform over theperiod  0 s to 10 s. It is zero between 10 s and
+18 s and is constant with value Œ12 m sŒ2between 18 s and 20 s. When the acceleration
+is uniform, obviously, it equals the average
+acceleration over that period.Since velocity is a quantity having bothmagnitude and direction, a change in velocitymay involve either or both of these factors.
+Acceleration, therefore, may result from a
+change in speed (magnitude), a change indirection or changes in both.  Like velocity,
+acceleration can also be positive, negative or
+zero.  Position-time graphs for motion with
+positive, negative and zero acceleration are
+shown in Figs. 3.9 (a), (b) and (c), respectively.
+Note that the graph curves upward for positiveacceleration; downward for negativeacceleration and it is a straight line for zero
+acceleration. As an exercise, identify in Fig. 3.3,
+the regions of the curve that correspond to these
+three cases.Although acceleration can vary with time,our study in this chapter will be restricted to
+motion with constant acceleration. In this case,
+the average acceleration equals the constant
+value of acceleration during the interval. If the
+velocity of an object is vo at t = 0 and v at time t,we have          
+or000vva  ,  vvat
+t    
+ (3.6)Fig. 3.9Position-time graph for motion with(a) positive acceleration; (b) negativeacceleration, and (c) zero acceleration.Let us see how velocity-time graph looks likefor some simple cases. Fig. 3.10 shows     velocity-time graph for motion with constant accelerationfor the following cases :(a)An object is moving in a positive direction
+with a positive acceleration, for examplethe motion of the car in  Fig. 3.3 betweent = 0 s and t = 10 s.(b)An object is moving in positive direction
+with a negative acceleration, for example,motion of the car in Fig 3.3 between
+t = 18 s and 20 s.(c)An object is moving in negative direction
+with a negative acceleration, for example
+the motion of a car moving from O in Fig.
+3.1 in negative x-direction withincreasing speed.(d)An object is moving in positive direction
+till time t1, and then turns back with thesame negative acceleration, for examplethe motion of a car from point O to pointQ in Fig. 3.1 till time t1 with decreasingspeed and turning back and moving withthe same negative acceleration.An interesting feature of a velocity-time graph
+for any moving object is that the area under thecurve represents the displacement over agiven time interval. A general proof of thisFig. 3.10
+VelocityŒtime graph for motions withconstant acceleration. (a) Motion in positive
+direction with positive acceleration,
+(b) Motion in positive direction with
+negative acceleration, (c) Motion in negativedirection with negative acceleration,(d) Motion of an object with negative
+acceleration that changes direction at timet1.  Between times 0 to t1, its moves inpositive x - direction and between t1 andt2 it moves in the opposite direction.
+MOTION IN A STRAIGHT LINE47statement requires use of calculus. We can,however, see that it is true for the simple case of
+an object moving with constant velocity u. Itsvelocity-time graph is as shown in Fig. 3.11.
+Fig. 3.11 Area under vŒt curve equals displacementof the object over a given time interval.The v-t curve is a straight line parallel to thetime axis and the area under it between t = 0and t = T  is the area of the rectangle of height uand base T. Therefore, area = u  T = uT whichis the displacement in this time interval.  Howcome in this case an area is equal to a distance?Think!  Note the dimensions of quantities on
+the two coordinate axes, and you will arrive at
+the answer.Note that the x-t, v-t, and a-t graphs shownin several figures in this chapter have sharpkinks at some points implying that the
+functions are not differentiable at these
+points. In any realistic situation, the
+functions will be differentiable at all points
+and the graphs will be smooth.What this means physically is thatacceleration and velocity cannot change
+values abruptly at an instant. Changes are
+always continuous.3.6KINEMATIC EQUATIONS FORUNIFORMLY ACCELERATED MOTIONFor uniformly accelerated motion, we can derivesome simple equations that relate displacement
+(x), time taken (t), initial velocity (v0), finalvelocity (v) and acceleration (a). Equation (3.6)already obtained gives a relation between finaland initial velocities v and  v0  of an object movingwith uniform acceleration a :             v = v
+0 + at(3.6)This relation is graphically represented in Fig. 3.12.The area under this curve is :Area between instants 0 and t = Area of triangleABC + Area of rectangle OACD   Œ001vvt+vt
+2 Fig. 3.12Area  under v-t curve for an object withuniform acceleration.As explained in the previous section, the areaunder v-t curve represents the displacement.Therefore, the displacement x of the object is :  1Œ200xvvt+vt
+ (3.7)Butvva t
+0"!Therefore,2012xat+vt
+ or,2012xvtat
+  (3.8)Equation (3.7) can also be written as02v+v
+xt v t
+  (3.9a)where,02vvv    (constant acceleration only)(3.9b)Equations (3.9a) and  (3.9b) mean that the object
+has undergone displacement x with an averagevelocity equal to the arithmetic average of theinitial and final velocities.
+From Eq. (3.6), t = (v Œ v0)/a. Substituting this inEq. (3.9a), we get       22000
+22vvvvvv
+xv t
+aa   
+    
+   
+    
+    
+     2202vvax
+  (3.10)
+PHYSICS48#This equation can also be obtained bysubstituting the value of t from Eq. (3.6) intoEq. (3.8). Thus, we have obtained threeimportant equations :0vvat
+           2012xvtat
+  2202vvax
+  (3.11a)connecting five quantities v0,  v, a, t and x.  Theseare kinematic equations of rectilinear motionfor constant acceleration.The set of Eq. (3.11a) were obtained byassuming that at t = 0, the position of theparticle, x is 0.  We can obtain a more generalequation if we take  the  position coordinate at t= 0 as non-zero, say x0.  Then Eqs. (3.11a) aremodified (replacing x by x Œ x0 ) to :0vvat
+  20012xxvtat
+   
+(3.11b)22002()
+vvaxx
+   
+(3.11c)Example 3.3 Obtain equations of motionfor constant acceleration using method ofcalculus.Answer  By definitionddvat  dv = a dtIntegrating both sides00ddvtvvat
+   0dtat           (a is constant)0Œvvat
+!       0vvat
+!'Further,       
+ddxvt       dx = v dtIntegrating both sides0dxxx 0dtvt    00dtvatt
+   2001Œ2xxvtat
+!'      x   = 20012xvtat
+''We can writedddd
+
+dddd
+vvxv
+avtxtx
+   
+or, v dv = a dxIntegrating both sides,00ddvxvxvvax
+   $%2200ŒŒ2vvaxx
+!$%22002Œvvaxx
+!'The advantage of this method is that it can beused for motion with non-uniform acceleration
+also.Now, we shall use these equations to someimportant cases.#Example 3.4 A ball is thrown verticallyupwards with a velocity of 20 m sŒ1 fromthe top of a multistorey building. The
+height of the point from where the ball isthrown is 25.0 m from the ground. (a) Howhigh will the ball rise ?  and (b) how long
+will it be before the ball hits the ground?
+Take g = 10 m sŒ2.Answer  (a) Let us take the y-axis in thevertically upward direction with zero at theground, as shown in Fig. 3.13.Now  vo = + 20 m sŒ1,   a 
+ =  Œ g = Œ10 m sŒ2,   v  =  0 m sŒ1If the ball rises to height y from the point oflaunch, then using the equation  0   
+220vv2a
+yŒy  we get0 = (20)2 + 2(Œ10)(y Œ y0)Solving,  we get, (y Œ y0) = 20 m.(b) We can solve this part of the problem in twoways.  Note carefully the methods used.#
+MOTION IN A STRAIGHT LINE49#Fig. 3.13FIRST METHOD :  In the first method, we splitthe path in two parts : the upward motion  (A toB) and the downward motion (B to C) andcalculate the corresponding time taken t1 andt2.  Since the velocity  at B is zero, we have :                  v  =  vo +  at0 = 20  Œ 10t1Or,           
+t1 = 2 sThis is the time in going from A to B.  From B, orthe point of  the maximum height, the ball fallsfreely under the acceleration due to gravity.  The
+ball is moving in negative y direction.  We useequation          20012yyvtat
+   
+We have, y0 = 45 m, y = 0, v0 = 0, a = Œ g
+  = Œ10 m s
+Œ2   0  =  45 + (˜) (Œ10) t22Solving, we get t2 = 3 sTherefore, the total time taken by the ball beforeit hits the ground = t1 +   t2  = 
+ 2  s + 3 s = 5 s.SECOND METHOD : The total time taken canalso be calculated by noting the coordinates ofinitial and final positions of the ball with respectto the origin chosen and using equation20012yyvtat
+   
+Nowy0  =  25 m        y = 0 mvo = 20 m s
+-1,a  = Œ10m sŒ2, t  =  ?
+0 = 25  +20 t  + (˜)  (-10) t2Or,5
+t2 Œ 20t  Œ 25  =  0Solving this quadratic equation for t, we gett = 5s
+Note that the second method is better since wedo not have to worry about the path of the motion
+as the motion is under constant acceleration.%%#Example 3.5  Free-fall : Discuss themotion of an object under free  fall.  Neglect
+air resistance.Answer  An object released near the surface ofthe Earth is accelerated downward under theinfluence of the force of gravity. The magnitudeof acceleration due to gravity is represented byg.  If air resistance is neglected, the object issaid to be in free fall. If the height throughwhich the object falls is small compared to the
+earth™s radius, g can be taken to be constant,equal to   9.8 m sŒ2. Free fall is thus a case ofmotion with uniform acceleration.We assume that the motion is in y-direction,more correctly in Œy-direction because wechoose upward direction as positive. Since the
+acceleration due to gravity is always downward,
+it is in the negative direction and we havea = Œ g  = Œ 9.8 m sŒ2The object is released from rest at y = 0. Therefore,v0 = 0 and the equations of motion become:v =  0 Œ g t= Œ9.8 t      m s
+Œ1y =  0 Œ ˜  g t2= Œ4.9 t2    m
+v2 = 0 Œ 2 g y= Œ19.6 y   m2 sŒ2These equations give the velocity and thedistance travelled as a function of time and also
+the variation of velocity with distance. Thevariation of acceleration, velocity, and distance,with time have been plotted in Fig.  3.14(a), (b)
+and (c).(a)
+PHYSICS50#(b)      (c)
+Fig. 3.14 Motion of an object under free fall.(a)  Variation of acceleration with time.(b) Variation of velocity with time.(c) Variation of distance with time#Example 3.6 Galileo™s law of oddnumbers : ﬁThe distances traversed, duringequal intervals    of time, by a body fallingfrom rest, stand to one another in the same
+ratio as the odd numbers beginning with
+unity [namely, 1: 3: 5: 7–...].ﬂ  Prove it.Answer
+  Let us divide the time interval ofmotion of an object under free fall into manyequal intervals 1  and find out the distances
+traversed during successive intervals oftime. Since initial velocity is zero, we haveUsing this equation, we can calculate theposition of the object after different time
+intervals, 0, 1, 21,  31– which are given insecond column of Table 3.2. If we take(Œ1/ 2) g12 as y0 Š the position coordinate after
+first time interval 1, then third column givesthe positions in the unit of 
+yo. The fourthcolumn gives the distances traversed in
+successive 1s. We find that the distances arein the simple ratio 1: 3: 5: 7: 9: 11– as  shownin the last column. This  law was establishedby Galileo Galilei (1564-1642) who was the first
+
+to make quantitative studies of free fall.#Example 3.7  Stopping distance ofvehicles : When brakes are applied to amoving vehicle, the distance it travels before
+stopping is called stopping distance.  It is
+an important factor for road safety anddepends on the initial velocity (v0) and thebraking capacity, or deceleration, Œa thatis caused by the braking. Derive anexpression for stopping distance of a vehiclein terms of vo and a.Answer  Let the distance travelled by the vehiclebefore it stops be ds. Then, using equation ofmotion  v2 = vo2 + 2 ax, and noting that  v = 0, wehave the stopping distanceThus, the stopping distance is proportional tothe square of the initial velocity. Doubling the#Table 3.2212ygt  

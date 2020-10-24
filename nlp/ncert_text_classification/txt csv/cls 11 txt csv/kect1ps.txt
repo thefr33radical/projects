@@ -1,0 +1,61 @@
+Computers and
+Communication
+TechnologyPart I
+Class XI
+First EditionSeptember 2008 Bhadrapada 1930PD ?T BS
+© National Council of EducationalResearch and Training, 2008Rs. 00.00Printed on 80 GSM paper with NCERTwatermarkPublished at the Publication Departmentby the Secretary, National Council of
+Educational Research and Training,
+Sri Aurobindo Marg, New Delhi 110 016and printed at ........................................................................................................
+......................ALL RIGHTS RESERVED!No part of this publication may be reproduced, stored in a retrieval system ortransmitted, in any form or by any means, electronic, mechanical, photocopying,recording or otherwise without the prior permission of the publisher.!This book is sold subject to the condition that it shall not, by way of trade,  be lent, re-sold, hired out or otherwise disposed of without the publisher™s consent, in any formof binding or cover other than that in which it is published.!The correct price of this publication is the price printed on this page, Any revisedprice indicated by a rubber stamp or by a sticker or by any other means is incorrectand should be unacceptable.Publication TeamHead, Publication:
+P. RajakumarDepartment
+Chief Production:
+Shiv KumarOfficerChief Editor:
+Shveta UppalChief Business:
+Gautam GangulyManager
+Assistant Editor:
+Bijnan SutarProduction Assistant:
+Mukesh GaurCover Layout and IllustrationsAshwani Tyagi
+OFFICES OF THE PUBLICATIONDEPARTMENT
+, NCERTNCERT CampusSri Aurobindo Marg
+New  Delhi 110 016Phone :  011-26562708
+108, 100 Feet RoadHosdakere Halli ExtensionBanashankari III Stage
+Bangalore 560 085Phone : 080-26725740
+Navjivan Trust BuildingP.O.Navjivan
+Ahmedabad 380 014Phone :  079-27541446CWC CampusOpp. Dhankal Bus StopPanihati
+Kolkata 
+700 114Phone :  033-25530454CWC Complex
+Maligaon
+Guwahati 781 021Phone :  0361-2674869ISBN- 978-81-7450-852-2
+FOREWORDThe National Curriculum Framework (NCF) 2005 recommends thatchildren™s life at school must be linked to their life outside the school.
+This principle marks a departure from the legacy of bookish learning which
+continues to shape our system and causes a gap between the school,
+home and community. The syllabi and textbooks developed on the basis ofNCF signify an attempt to implement this basic idea. They also attempt todiscourage rote learning and the maintenance of sharp boundaries between
+different subject areas. We hope these measures will take us significantlyfurther in the direction of a child-centred system of education outlined inthe National Policy on Education (1986).The success of this effort depends on the steps that school principalsand teachers will encourage children to reflect on their own learning andto pursue imaginative activities and questions. We must recognise that,given space, time and freedom, children generate new knowledge byengaging with the information passed on to them by adults. Treating the
+prescribed textbook as the sole basis of examination is one of the key
+reasons why other resources and sites of learning are ignored. Inculcating
+creativity and initiative is possible if we perceive and treat children asparticipants in learning, not as receivers of a fixed body of knowledge.These aims imply considerable change in school routines and mode of
+functioning. Flexibility in the daily time-table is as necessary as rigour in
+implementing the annual calendar so that the required numbers of
+teaching days are actually devoted to teaching.NCFŒ2005 envisages an increase in the optional number of subjectsavailable for students of Classes XI and XII. This textbook marks an attempt
+in this direction. Its subject matter concerns how we work with computers,
+rather than about how computers works. It is expected that this textbookwill be used with the help of methods of teaching which might enhancethe flexible and participatory nature of new communication technologies.NCERT appreciates the hard work done by the Textbook DevelopmentCommittee and its Chief Advisor, Professor M.M. Pant, former Pro-Vice Chancellor,
+(iv)Indira Gandhi National Open University, New Delhi. We are indebted tothe institutions and organisations which have generously permitted us todraw upon their resources, material and personnel. We are especially
+grateful to the members of the National Monitoring Committee, appointedby the Department of Secondary and Higher Education, Ministry of HumanResource Development under the Chairpersonship of Professor Mrinal Miriand Professor G.P. Deshpande, for their valuable time and contribution.As an organisation committed to systemic reform and continuousimprovement in the quality of its products, NCERT welcomes commentsand suggestions which will enable us to undertake further revision andrefinement.DirectorNew DelhiNational Council of EducationalMay 2008Research and Training
+(iv)
+Computers have become a way of life in the present day world. That everyoneshould be educated about the implications of this technology is the need
+of the hour.  Till now NCERT has not proposed a course or brought out a
+textbook in this area.  The course outlined for this textbook is an attemptto design a friendly course that would not only be contemporary but alsoleave sufficient scope for expansion into unknown realms of computer
+activity that may emerge in future.The National Curriculum Framework 2005 recommends that theoreticalcomponent of Higher Secondary stage should emphasise on problem solvingmethods and that the awareness of historical development of key concepts
+be judiciously integrated into the content of a subject. It also recommends
+that given the pervasive impact of computer technologies, a course related
+to this should address this infrastructural challenge seriously and exploreviable and innovative alternatives with regard to hardware, software andconnectivity technologies appropriate for rural and urban Indian schools.NCF 2005 states that the book should act as an instrument for achievingsocial change in order to reduce the divide based on economic class, gender,caste, religion and region. NCF also speaks about  tremendous  effectivenessof the computer and computing technology in shaping modern society
+which has created the need for an educated public that can utilise such
+technology most effectively for the betterment of society and humankind.
+This book is aligned to these broad guidelines of NCF.Presumably, this would be a coveted book for ﬁeverybodyﬂ, irrespectiveof any particular stream of higher secondary stage, for it deals with the
+real challenges that the discipline is trying to solve. It emphasises
+development of problem-solving and, equally important, problemŒ
+formulating skills.  It reduces the importance of technology and underscoresthe need for learning skills to manipulate the technology.  It focuses on
+some of the real problems that come up with the expansion of the technology
+Œsecurity, piracy and digital identity. Above all, the course focuses as
+
+much on the excitements as on the limitations of the new informationPREFACE

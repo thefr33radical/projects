@@ -1,0 +1,46 @@
+CONVERGENCEOF CCT
+IntroductionAfter completing this Chapter, the
+student will be able to:
+Łidentify various terms associated
+with convergence of CCT,
+†correlate communication system
+and its components,
+†classify components of
+communication system,
+†explain the process of data
+transfer,
+†compare different data
+communication technologies,
+†justify the need of convergence of
+technologies to meet the next
+generation unified applications,
+†visualise application of unified
+messaging system and
+†appreciate the importance of
+standardisation of various
+
+components in any system.
+6In the earlier chapters, we saw how computer
+systems have become an important tool for our dayŒ
+toŒday functions. Online applications as ATMs,
+automatic complaint registration, railway
+reservation, etc. have improved our productivity andmade our job faster and easier. In the next chapter
+
+on ‚the Internet™, we will see that most of the current
+applications are Internet based and depend heavily
+upon the communication systems. In this chapter
+we shall see that the communication systems haveundergone gradual changes from the telephone
+
+system to videoŒconferencing. Communication
+systems are converging to provide next generation
+applications (Figure 6.1).Even before computers were invented, there werevarious modes of communication like postal services,
+telegraphs and telephones. In the twentieth century,considerable efforts were made to develop reliableand affordable telecommunication systems.
+ObjectivesﬁSeven hundred million people living in the ruralareas need a unique rural development model
+called PURA (Providing Urban Amenities in
+Rural Areas) which envisages provision of three
+
+connectivities namely physical connectivity,
+
+electronic connectivity and knowledge
+connectivity leading to economic connectivity.ﬂDr A.P.J. Abdul Kalam
+

@@ -1,0 +1,253 @@
+100BIOLOGYIn the preceding chapters you came across a large variety of organisms,both unicellular and multicellular, of the animal kingdom. In unicellular
+organisms, all functions like digestion, respiration and reproductionare performed by a single cell. In the complex body of multicellularanimals the same basic functions are carried out by different groups of
+cells in a well organised manner. The body of a simple organism likeHydra is made of different types of cells and the number of cells in eachtype can be in thousands. The human body is composed of billions ofcells to perform various functions. How do these cells in the body worktogether? In multicellular animals, a group of similar cells alongwithintercellular substances perform a specific function. Such an organisation
+is called tissue.You may be surprised to know that all complex animals consist ofonly four basic types of tissues. These tissues are organised in specific
+proportion and pattern to form an organ like stomach, lung, heart andkidney. When two or more organs perform a common function by theirphysical and/or chemical interaction, they together form organ system,
+e.g., digestive system, respiratory system, etc. Cells, tissues, organs andorgan systems split up the work in a way that exhibits division of labourand contribute to the survival of the body as a whole.7.1ANIMAL TISSUESThe structure of the cells vary according to their function. Therefore, thetissues are different and are broadly classified into four types : (i) Epithelial,(ii) Connective, (iii) Muscular and (iv) Neural.STRUCTURAL ORGANISATION INANIMALSCHAPTER  77.1Animal Tissues7.2Organ and OrganSystem7.3Earthworm7.4Cockroach7.5Frogs
+STRUCTURAL ORGANISATION IN ANIMALS1017.1.1Epithelial TissueWe commonly refer to an epithelial tissue as epithelium (pl.: epithelia).This tissue has a free surface, which faces either a body fluid or the outsideenvironment and thus provides a covering or a lining for some part of the
+body. The cells are compactly packed with little intercellular matrix. Thereare two types of epithelial tissues namely simple epithelium andcompound epithelium.  Simple epithelium is composed of a single layerof cells and functions as a lining for body cavities, ducts, and tubes. The
+compound epithelium consists of two or more cell layers and has protectivefunction as it does in our skin.On the basis of structural modification of the cells, simple epitheliumis further divided into three types. These are (i) Squamous, (ii) Cuboidal,
+(iii) Columnar (Figure 7.1).The squamous epithelium is made of a single thin layer of flattenedcells with irregular boundaries. They are found in the walls of blood vessels
+and air sacs of lungs and are involved in functions like forming a diffusion
+boundary. The cuboidal epithelium is composed of a single layer ofcube-like cells. This is commonly found in ducts of glands and tubular
+parts of nephrons in kidneys and its main functions are secretion and
+absorption. The epithelium of proximal convoluted tubule (PCT) ofnephron in the kidney has microvilli. The columnar epithelium iscomposed of a single layer of tall and slender cells. Their nuclei are locatedat the base. Free surface may have microvilli. They are found in the liningof stomach and intestine and help in secretion and absorption. If thecolumnar or cuboidal cells bear cilia on their free surface they are called
+ciliated epithelium (Figure 7.1d). Their function is to move particles ormucus in a specific direction over the epithelium. They are mainly present
+in the inner surface of hollow organs like bronchioles and fallopian tubes.Figure 7.1 Simple epithelium: (a) Squamous (b) Cuboidal (c) Columnar(d) Columnar cells bearing cilia(a)Flattened cellCube-like cellTall cell(b)(d)(c)
+102BIOLOGYSome of the columnar or cuboidal cellsget specialised for secretion and are calledglandular epithelium (Figure 7.2). Theyare mainly of two types: unicellular,consisting of isolated glandular cells (gobletcells of the alimentary canal), and
+multicellular, consisting of cluster of cells(salivary gland). On the basis of the mode ofpouring of their secretions, glands are
+divided into two categories namelyexocrine and endocrine glands. Exocrineglands secrete mucus, saliva, earwax, oil,milk, digestive enzymes and other cellproducts. These products are releasedthrough ducts or tubes. In contrast,
+endocrine glands do not have ducts. Theirproducts called hormones are secreteddirectly into the fluid bathing the gland.Compound epithelium is made of morethan one layer (multi-layered) of cells and thushas a limited role in secretion and absorption(Figure 7.3). Their main function is to provideprotection against chemical and mechanicalstresses. They cover the dry surface of the skin,
+the moist surface of buccal cavity, pharynx,inner lining of ducts of salivary glands and ofpancreatic ducts.All cells in epithelium are held together with little intercellular material.In nearly all animal tissues, specialised junctions provide both structural
+and functional links between its individual cells. Three types of cell junctions
+are found in the epithelium and other tissues. These are called as tight,adhering and gap junctions. Tight junctions help to stop substancesfrom leaking across a tissue. Adhering junctions perform cementing tokeep neighbouring cells together. Gap junctions facilitate the cells tocommunicate with each other by connecting the cytoplasm of adjoiningcells, for rapid transfer of ions, small molecules and sometimes big molecules.7.1.2Connective TissueConnective tissues are most abundant and widely distributed in the bodyof complex animals. They are named connective tissues because of theirspecial function of linking and supporting other tissues/organs of the
+body. They range from soft connective tissues to specialised types, whichFigure 7.2Glandular epithelium : (a) Unicellular(b) MulticellularunicellularglandMulticelluargland(a)(b)Figure 7.3 Compound epitheliumMulti-layered
+cells
+STRUCTURAL ORGANISATION IN ANIMALS103Fat storagearea
+NucleusMacro-
+
+phageMast
+cellFibroblast
+Collagen
+fibersPlasma
+Membraneinclude cartilage, bone, adipose, and blood. In allconnective tissues except blood, the cells secrete fibres ofstructural proteins called collagen or elastin. The fibresprovide strength, elasticity and flexibility to the tissue.These cells also secrete modified polysaccharides, whichaccumulate between cells and fibres and act asmatrix (ground substance). Connective tissues areclassified into three types: (i) Loose connective tissue,(ii) Dense connective tissue and (iii) Specialisedconnective tissue.Loose connective tissue has cells and fibres looselyarranged in a semi-fluid ground substance, for example,areolar tissue present beneath the skin (Figure 7.4). Oftenit serves as a support framework for epithelium. Itcontains fibroblasts (cells that produce and secrete fibres),macrophages and mast cells. Adipose tissue is anothertype of loose connective tissue located mainly beneath theskin. The cells of this tissue are specialised to store fats.The excess of nutrients which are not used immediatelyare converted into fats and are stored in this tissue.Fibres and fibroblasts are compactly packed in thedense connective tissues. Orientation of fibres show aregular or irregular pattern and are called dense regularand dense irregular tissues. In the dense regularconnective tissues, the collagen fibres are present in rows
+between many parallel bundles of fibres. Tendons, whichattach skeletal muscles to bones and ligaments whichattach one bone to another are examples of this tissue.
+Dense irregular connective tissue has fibroblasts andmany fibres (mostly collagen) that are oriented differently(Figure 7.5). This tissue is present in the skin. Cartilage,Figure 7.4 Loose connective tissue : (a) Areolar tissue  (b) Adipose tissue(a)(b)fibresCollagen fibre
+(a)(b)Figure 7.5Dense connective tissue:(a) Dense regular(b) Dense irregular
+104BIOLOGYbones and blood are various types of specialisedconnective tissues.The intercellular material of cartilage is solid and pliableand resists compression. Cells of this tissue (chondrocytes)are enclosed in small cavities within the matrix secreted bythem (Figure 7.6a). Most of the cartilages in vertebrate
+embryos are replaced by bones in adults. Cartilage ispresent in the tip of nose, outer ear joints, between adjacentbones of the vertebral column, limbs and hands in adults.Bones have a hard and non-pliable ground substancerich in calcium salts and collagen fibres which give bone
+its strength (Figure 7.6b). It is the main tissue that provides
+structural frame to the body. Bones support and protectsofter tissues and organs. The bone cells (osteocytes) arepresent in the  spaces called lacunae. Limb bones, such as
+the long bones of the legs, serve weight-bearing functions.They also interact with skeletal muscles attached to themto bring about movements. The bone marrow in some bones
+is the site of production of blood cells.Blood is a fluid connective tissue containing plasma,red blood cells (RBC), white blood cells (WBC) and platelets
+(Figure 7.6c). It is the main circulating fluid that helps inthe transport of various substances. You will learn moreabout blood in Chapters 17 and 18.7.1.3Muscle TissueEach muscle is made of many long, cylindrical fibresarranged in parallel arrays. These fibres are composed ofnumerous fine fibrils, called myofibrils. Muscle fibres
+contract (shorten) in response to stimulation, then relax(lengthen) and return to their uncontracted state in acoordinated fashion. Their action moves the body to adjust
+to the changes in the environment and to maintain thepositions of the various parts of the body. In general,muscles play an active role in all the movements of the body.
+Muscles are of three types, skeletal, smooth, and cardiac.Skeletal muscle tissue is closely attached to skeletalbones. In a typical muscle such as the biceps, striated
+(striped) skeletal muscle fibres are bundled together in aparallel fashion (Figure 7.7a). A sheath of tough connectivetissue encloses several bundles of muscle fibres (You will
+learn more about this in Chapter 20).PlateletsWBCRBC(a)(b)(c)Figure 7.6Specialised connectivetissues : (a) Cartilage(b) Bone  (c) Blood
+STRUCTURAL ORGANISATION IN ANIMALS105The smooth muscle fibres taper at both ends (fusiform) and do notshow striations (Figure 7.7b). Cell junctions hold them together and theyare bundled together in a connective tissue sheath. The wall of internalorgans such as the blood vessels, stomach and intestine contains this type
+of muscle tissue. Smooth muscles are ‚involuntary™ as their functioningcannot be directly controlled. We usually are not able to make it contract
+merely by thinking about it as we can do with skeletal muscles.
+Cardiac muscle tissue is a contractile tissue present only in the heart.Cell junctions fuse the plasma membranes of cardiac muscle cells and
+make them stick together (Figure 7.7c). Communication junctions
+(intercalated discs) at some fusion points allow the cells to contract as aunit, i.e., when one cell receives a signal to contract, its neighbours arealso stimulated to contract.7.1.4Neural TissueNeural tissue exerts the greatest control overthe body™s responsiveness to changingconditions. Neurons, the unit of neural
+system are excitable cells (Figure 7.8). Theneuroglial cell which constitute the rest ofthe neural system protect and support
+neurons. Neuroglia make up more than one-half the volume of neural tissue in our body.When a neuron is suitably stimulated,an electrical disturbance is generated
+which swiftly travels along its plasmaNucleusStriationsJunctionbetweenadjacentcellsNucleusStriationsSmoothmusclefibersFigure 7.7Muscle tissue : (a) Skeletal (striated) muscle tissue (b) Smooth muscle tissue(c) Cardiac muscle tissue(a)(b)(c)Figure 7.8Neural tissue (Neuron with
+neuroglea)DendriteCellbodywithnucleusAxonNeuroglea
+106BIOLOGYmembrane. Arrival of the disturbance at the neuron™s endings, or outputzone, triggers events that may cause stimulation or inhibition of adjacentneurons and other cells (You will study the details in Chapter 21).7.2ORGAN AND ORGAN SYSTEMThe basic tissues mentioned above organise to form organs which in turnassociate to form organ systems in the multicellular organisms. Such anorganisation is essential for more efficient and better coordinated activities
+of millions of cells constituting an organism. Each organ in our body ismade of one or more type of tissues. For example, our heart consists of allthe four types of tissues, i.e., epithelial, connective, muscular and neural.
+We also notice, after some careful study that the complexity in organ andorgan systems displays certain discernable trend. This discernable trendis called evolutionary trend (You will study the details in class XII). You
+are being introduced to morphology and anatomy of three organisms atdifferent evolutionary levels to show their organisation and functioning.Morphology refers to study of form or externally visible features. In the
+case of plants or microbes, the term morphology precisely means onlythis. In case of animals this refers to the external appearance of the organsor parts of the body. The word anatomy conventionally is used for the
+study of morphology of internal organs in the animals. You will learn themorphology and anatomy of earthworm, cockroach and frog representinginvertebrates and vertebrates.7.3EARTHWORMEarthworm is a reddish brown terrestrial invertebrate that inhabits theupper layer of the  moist soil. During day time, they live in burrows made
+by boring and swallowing the soil. In the gardens, they can be traced bytheir faecal deposits known as worm castings. The common Indianearthworms are Pheretima  and Lumbricus.7.3.1MorphologyEarthworms have long cylindrical body. The body is divided into morethan hundred short segments which are similar (metameres about100-120 in number). The dorsal surface of the body is marked by a darkmedian mid dorsal line (dorsal blood vessel) along the longitudinal axis ofthe body. The ventral surface is distinguished by the presence of genitalopenings (pores). Anterior end consists of the mouth and the prostomium,
+a lobe which serves as a covering for the mouth and as a wedge to forceopen cracks in the soil into which the earthworm may crawl. The prostomiumis sensory in function. The first body segment is called the peristomium
+(buccal segment) which contains the mouth. In a mature worm, segments
+STRUCTURAL ORGANISATION IN ANIMALS10714-16 are covered by a prominent dark band of glandular tissue calledclitellum. Thus the body is divisible into three prominent regions Œpreclitellar, clitellar and postclitellar segments (Figure 7.9).Four pairs of spermathecal apertures are situated on the ventro-lateralsides of the intersegmental  grooves, i.e., 5th -9th  segments. A single femalegenital pore is present in the mid-ventral line of 14th segment. A pair ofmale genital pores are present on the ventro-lateral sides of the 18thsegment. Numerous minute pores called nephridiopores open on thesurface of the body. In each body segment, except the first, last andclitellum, there are rows of S-shaped setae, embedded in the epidermalpits in the middle of each segment. Setae can be extended or retracted.Their principal role is in locomotion.7.3.2AnatomyThe body wall of the earthworm is covered externally by a thin non-cellularcuticle below which is the epidermis, two muscle layers (circular andlongitudinal) and an innermost coelomic epithelium. The epidermis is madeFigure 7.9Body of earthworm : (a) dorsal view (b) ventral view (c) lateral viewshowing mouth opening
+108BIOLOGYup of a single layer of columnar epithelial cellswhich contain secretory gland cells.The alimentary canal is a straight tube andruns between first to last segment of the body.(Figure 7.10). A terminal mouth opens into thebuccal cavity (1-3 segments) which leads intomuscular pharynx. A small narrow tube,oesophagus (5-7 segments), continues into amuscular gizzard (8-9 segments). It helps ingrinding the soil particles and decaying leaves,etc. The stomach extends from 9-14 segments.The food of the earthworm is decaying leaves andorganic matter mixed with soil. Calciferousglands, present in the stomach, neutralise thehumic acid present in humus. Intestine startsfrom the 15th segment onwards and continuestill the last segment. A pair of short and conical
+intestinal caecae project from the intestine on the26th segment. The characteristic feature of theintestine after 26th segment except the last23rd-25th segments is the presence of internalmedian fold of dorsal wall called typhlosole. Thisincreases the effective area of absorption in theintestine. The alimentary canal opens to theexterior by a small rounded aperture called anus.The ingested organic rich soil passes through thedigestive tract where digestive enzymesbreakdown complex food into smaller absorbableunits. These simpler molecules are absorbedthrough intestinal membranes and are utilised.Pheretima  exhibits a closed type ofblood vascular system, consisting of blood
+vessels, capillaries and heart. (Figure 7.11). Dueto closed circulatory system, blood is confinedto the heart and blood vessels. Contractions
+keep blood circulating in one direction. Smallerblood vessels supply the gut, nerve cord, andthe body wall. Blood glands are present on the
+4th, 5th and 6th segments. They produce bloodcells and haemoglobin which is dissolved in
+blood plasma. Blood cells are phagocytic in
+nature. Earthworms lack specialised breathingdevices. Respiratory exchange occurs throughmoist body surface into their blood stream.MouthPharynxOesophagusGizzard
+StomachPre-typhlosolar
+part of intestineIntestinal
+caecumLymph gland
+Typhlosolar
+part of intestineIntestinal lumenTyphlosole12345678910111213141516171819202122232425262728293031323334Figure 7.10  Alimentary canal of earthworm
+STRUCTURAL ORGANISATION IN ANIMALS109The excretory organs occur as segmentallyarranged coiled tubules called nephridia(sing.: nephridium). They are of three types:(i) septal nephridia, present on both the sides ofintersegmental septa of segment 15 to the lastthat open into intestine, (ii) integumentarynephridia, attached to lining of the body wall of
+segment 3 to the last that open on the bodysurface and (iii) pharyngeal  nephridia, presentas  three paired tufts in the 4th, 5th and 6thsegments (Figure 7.12). These different types ofnephridia are basically similar in structure.Nephridia regulate the volume and composition
+of the body fluids. A nephridium  starts out as afunnel that collects excess fluid from coelomicchamber. The funnel connects with a tubular part
+of the nephridium which delivers the wastesthrough a pore to the surface in the body wallinto the digestive tube.Nervous system is basically represented byganglia arranged segmentwise on the ventral
+paired nerve cord. The nerve cord in the anterior
+region (3rd  and 4th  segments) bifurcates, laterallyencircling the pharynx and joins the cerebral
+ganglia dorsally to form a nerve ring. The cerebral
+ganglia alongwith other nerves in the ringintegrate sensory input as well as commandmuscular responses of the body.Figure 7.11 Closed circulatory systemMouthBuccal cavityPharynxBloodglandsDucts ofpharyngealnephridiaTufts ofpharyngealnephridiaIntergumentary
+
+nephridiaForests of
+integumentary
+nephridiaSeptal
+nephridiaFigure 7.12 Nephridial system in earthworm
+110BIOLOGYSensory system does not have eyes but doespossess light and touch sensitive organs (receptorcells) to distinguish the light intensities and to feel
+the vibrations in the ground. Worms havespecialised chemoreceptors (taste receptors) whichreact to chemical stimuli. These sense organs are
+located on the anterior part of the worm.Earthworm is hermaphrodite (bisexual), i.e.,testes and ovaries are present in the same
+individual (Figure 7.13). There are two pairs oftestes present in the 10th and 11th segments.Their vasa deferentia run up to  the 18th segmentwhere they join the prostatic duct. Two pairs of
+accessory glands are present one pair each inthe 17th and 19th segments. The common prostateand spermatic duct (vasa deferentia) opens tothe exterior by a pair of male genital pores on
+the ventro-lateral side of the 18th segment. Fourpairs of spermathecae are located in 6th-9thsegments (one pair in each segment). They receive
+and store spermatozoa during copulation. One
+pair of ovaries is attached at the inter-segmentalseptum of the 12th and 13th segments. Ovarianfunnels are present beneath the ovaries whichcontinue into oviduct, join together and open onthe ventral side as a single median female genitalpore on the 14th segment.A mutual exchange of sperm occurs betweentwo worms during mating. One worm has to find
+another worm and they mate juxtaposing
+opposite gonadal openings exchanging packetsof sperms called spermatophores. Mature spermand egg cells and nutritive fluid are deposited in
+cocoons produced by the gland cells of clitellum.Fertilisation and development occur within thecocoons which are deposited in soil. The ova
+(eggs) are fertilised by the sperm cells within thecocoon which then slips off the worm and isdeposited in or on the soil. The cocoon holds the
+worm embryos. After about 3 weeks, each cocoonproduces two to twenty baby worms with anaverage of four. Development of earthworms is
+direct, i.e., there is no larva formed.Figure 7.13  Reproductive system of earthworm
+STRUCTURAL ORGANISATION IN ANIMALS111Earthworms are known as ‚friends of farmers™ because they makeburrows in the soil and make it porous which helps in respiration andpenetration of the developing plant roots. The process of increasing fertility
+of soil by the earthworms is called vermicomposting. They are also usedas bait in game fishing.7.4COCKROACHCockroaches are brown or black bodied animals that are included inclass Insecta of Phylum Arthropoda. Bright yellow, red and green colouredcockroaches have also been reported in tropical regions. Their size rangesfrom ¼ inches to 3 inches (0.6-7.6 cm) and have long antenna, legs and
+flat extension of the upper body wall that conceals head. They arenocturnal omnivores that live in damp places throughout the world. Theyhave become residents of human homes and thus are serious pests and
+vectors of several diseases.7.4.1MorphologyThe adults of the common species of cockroach, Periplaneta americanaare about 34-53 mm long with wings that extend beyond the tip of theabdomen in males. The body of the cockroach is segmented and divisibleinto three distinct regions Œ head, thorax and abdomen (Figure 7.14).
+The entire body is covered by a hard chitinous exoskeleton (brown in
+colour). In each segment, exoskeleton has hardened plates called sclerites(tergites dorsally and sternites ventrally) that are joined to each other bya thin and flexible articular membrane (arthrodial membrane).Figure 7.14  External features of cockroach
+112BIOLOGYHead is triangular in shape and lies anteriorly at right angles to thelongitudinal body axis. It is formed by the fusion of  six segments andshows great mobility in all directions due to flexible neck (Figure 7.15).The head capsule bears a pair of compound eyes. A pair of  thread likeantennae arise from membranous sockets lying in front of eyes. Antennae
+have sensory receptors that help in monitoring the environment. Anteriorend of the head bears appendages forming biting and chewing type ofmouth parts. The mouthparts consisting of  a labrum (upper lip), a pair
+of mandibles, a pair of maxillae and a labium (lower lip). A median flexiblelobe, acting as tongue (hypopharynx), lies within the cavity enclosed bythe mouthparts (Figure 7.15b). Thorax consists of three parts Œ prothorax,
+mesothorax and metathorax.  The head is connected with thorax  by ashort extension of the prothorax known as the neck. Each thoracic segmentbears a pair of walking legs. The first pair of wings arises from mesothorax
+and the second pair from metathorax. Forewings (mesothoracic) calledtegmina are opaque dark and  leathery and cover the hind wings when atrest. The hind wings are transparent, membranous and are used in flight.The abdomen in both males and females consists of 10 segments. Infemales,  the 7th sternum is boat shaped and together with the 8th and 9thsterna forms a brood or genital pouch whose anterior part contains female
+gonopore, spermathecal pores and collateral glands. In males, genital pouchor chamber lies at the hind end of abdomen bounded dorsally by 9th and10th terga and ventrally by the 9th sternum. It contains dorsal anus, ventralmale genital pore and gonapophysis. Males bear a pair of short, thread-
+like anal styles which are absent in females. In both sexes, the 10th segmentbears a pair of jointed filamentous structures called anal cerci.OcellusCompoundeye
+MandibleMaxillaLabrumLabium(a)Figure 7.15  Head region of cockroach :  (a) parts of head region  (b) mouth partsGrindingregion
+Incisingregion
+MandibleMaxillaLabrumHypopharynxLabiumMandibleMaxilla(b)
+STRUCTURAL ORGANISATION IN ANIMALS1137.4.2AnatomyThe alimentary canal present in the body cavityis divided into three regions: foregut, midgutand hindgut (Figure 7.16). The mouth opens
+into a short tubular pharynx, leading to anarrow tubular passage called oesophagus.This in turn opens into a sac like structure
+called crop used for storing of food. The cropis followed by gizzard or proventriculus. It hasan outer layer of thick circular muscles and
+thick inner cuticle forming six highly chitinousplate called teeth. Gizzard helps in grinding thefood particles. The entire foregut is lined by
+cuticle. A ring of 6-8 blind tubules calledhepatic or gastric caecae is present at thejunction of foregut and midgut, which secrete
+digestive juice. At the junction of midgut andhindgut is present another ring of 100-150yellow coloured thin filamentous Malpighiantubules. They help in removal of excretoryproducts from haemolymph. The hindgut is
+broader than midgut and is differentiated into
+ileum, colon and rectum. The rectum opensout through anus.Blood vascular system of cockroach is anopen type (Figure 7.17). Blood vessels are
+poorly developed and open into space(haemocoel). Visceral organs located in the
+haemocoel are bathed in blood (haemolymph).The haemolymph is composed of colourlessplasma and haemocytes. Heart of cockroach
+consists of elongated muscular tube lyingalong mid dorsal line of thorax and abdomen.It is differentiated into funnel shaped chambers
+with ostia on either side. Blood from sinusesenter heart through ostia and is pumpedanteriorly to sinuses again.The respiratory system consists of anetwork of trachea, that open through 10 pairs
+of small holes called spiracles present on the
+lateral side of the body. Thin branching tubes(tracheal tubes subdivided into tracheoles)carry oxygen from the air to all the parts. TheSalivary glandPharynxSalivaryreservoir
+OesophagusCrop
+Gizzard
+Hepatic caecaMesenteron
+or midgutMalpighiantubulesIleumColonRectumFigure 7.16  Alimentary canal of cockroachAnterior aortaAlary musclesChambersofheart
+Figure 7.17 Open circulatory system of cockroach
+114BIOLOGYopening of the spiracles is regulated by the sphincters. Exchange of gasestake place at the tracheoles by diffusion.Excretion is performed by Malpighian tubules. Each tubule is linedby glandular and ciliated cells. They absorb nitrogenous waste productsand convert them into uric acid which is excreted out through the hindgut.Therefore, this insect is called uricotelic. In addition, the fat body,nephrocytes and urecose glands also help in excretion.The nervous system of cockroach consists of a series of fused,segmentally arranged ganglia joined by paired longitudinal connectives
+on the ventral side. Three ganglia lie in the thorax, and six in the abdomen.The nervous system of cockroach is spread throughout the body. Thehead holds a bit of a nervous system while the rest is situated along theventral (belly-side) part of its body. So, now you understand that if thehead of a cockroach is cut off, it will still live for as long as one week. Inthe head region, the brain is represented by supra-oesophageal ganglionwhich supplies nerves to antennae and compound eyes. In cockroach,the sense organs are antennae, eyes, maxillary palps, labial palps, analcerci, etc. The compound eyes are situated at the dorsal surface of thehead. Each eye consists of about 2000 hexagonal ommatidia(sing.: ommatidium). With the help of several ommatidia, a cockroach canreceive several images of an object. This kind of vision is known as mosaic
+vision with more sensitivity but less resolution, being common duringnight (hence called nocturnal vision).Cockroaches are dioecious and both sexes have well developedreproductive organs (Figure 7.18). Male reproductive system consists ofa pair of testes one lying on each lateral side in the 4th -6th  abdominalsegments. From each testis arises a thin vas deferens, which opens into
+ejaculatory duct through seminal vesicle. The ejaculatory duct opens intomale gonopore situated ventral to anus. A characteristic  mushroom-shaped gland is present in the 6th-7th abdominal segments which functionsas an accessory reproductive gland. The external genitalia are represented
+by male gonapophysis or phallomere (chitinous asymmetrical structures,surrounding the male gonopore). The sperms are stored in the seminalvesicles and are glued together in the form of bundles calledspermatophores which are discharged during copulation. The femalereproductive sysytem consists of two large ovaries,  lying laterally in the2nd Œ 6th abdominal segments. Each ovary is formed of a group of eightovarian tubules or ovarioles, containing a chain of developing ova.
+Oviducts of each ovary unite into a single median oviduct (also calledvagina) which opens into the genital chamber. A pair of spermatheca ispresent in the 6th segment which opens into the genital chamber.Sperms are transferred through spermatophores. Their fertilised eggsare encased in capsules called oothecae. Ootheca is a dark reddish toblackish brown capsule, about 3/8" (8 mm) long. They are dropped or
+STRUCTURAL ORGANISATION IN ANIMALS115glued to a suitable surface, usually in a crack or crevice of high relativehumidity near a food source. On an average, females produce 9-10
+oothecae, each containing 14-16 eggs. The development of P. americana
+is paurometabolous, meaning there is development through nymphal
+stage. The nymphs look very much like adults. The nymph grows by
+moulting about 13 times to reach the adult form. The next to last nymphal
+stage has wing pads but only adult cockroaches have wings.Many species of cockroaches are wild and are of no economic importance.A few species thrive in and around human habitat. They are pests because
+they destroy food and contaminate it with their smelly excreta. They can
+transmit a variety of bacterial diseases by contaminating food material.Testis
+Phallic glandSmall tubulesLong tubulesSeminal vesicleVas deferens
+Ejaculatory ductRight phallomere
+Ventral phallomere
+Anal cercus
+Caudal stylePseudopenisTitillator
+Left phallomere
+OvaryOviductCommonoviduct
+or vaginaCollaterialglands
+Genital chamberVestibulum
+GenitalpouchSpermatheca
+gonapophyses]Figure 7.18  Reproductive system of cockroach :  (a) male  (b) female(a)(b)
+116BIOLOGY7.5FROGSFrogs can live both on land and in freshwater and belong to classAmphibia of phylum Chordata. The most common species of frog foundin India is Rana tigrina.They do not have constant body temperature i.e., their bodytemperature varies with the temperature of the environment. Such animals
+are called cold blooded or poikilotherms. You might have also noticedchanges in the colour of the frogs while they are in grasses and on dry
+land. They have the ability to change the colour to hide them from theirenemies (camouflage). This protective coloration is called mimicry.  Youmay also know that the frogs are not seen during peak summer and
+winter. During this period they take shelter in deep burrows to protectthem from extreme heat and cold. This is called as summer sleep(aestivation) and winter sleep (hibernation).7.5.1MorphologyHave you ever touched the skin of frog? The skin is smooth and slipperydue to the presence of mucus. The skin is always maintained in a moistcondition. The colour of dorsal side of body is generally olive green withdark irregular spots.  On the ventral side the skin is uniformly pale yellow.The frog never drinks water but absorb it through the skin.Body of a frog is divisible into head and trunk (Figure 7.19). A neckand tail are absent. Above the mouth, a pair of nostrils is present.  Eyesare bulged and covered by a nictitating membrane that protects themwhile in water. On either side of eyes a membranoustympanum (ear) receives sound signals. The
+forelimbs and hind limbs help in swimming,walking, leaping and burrowing. The hind limbs endin five digits and they are larger and muscular than
+fore limbs that end in four digits. Feet have webbed
+digits that help in swimming. Frogs exhibit sexualdimorphism. Male frogs can be distinguished by thepresence of sound producing vocal sacs and also a
+copulatory pad on the first digit of the fore limbs
+which are absent in female frogs.7.5.2AnatomyThe body cavity of frogs accommodate different organ systems such asdigestive, circulatory, respiratory, nervous, excretory and reproductive
+systems with well developed structures and functions  (Figure 7.20).The digestive system consists of alimentary canal and digestive glands.The alimentary canal is short because frogs are carnivores and hence thelength of intestine is reduced. The mouth opens into the buccal cavityFigure 7.19  External features of frogEyeFore limbHind limbHeadTrunk
+STRUCTURAL ORGANISATION IN ANIMALS117that leads to the oesophagus through pharynx. Oesophagus is a shorttube that opens into the stomach which in turn continues as the intestine,
+rectum and finally opens outside by the cloaca.  Liver secretes bile that isstored in the gall bladder. Pancreas, a digestive gland produces pancreaticjuice containing digestive enzymes. Food is captured by the bilobed
+tongue. Digestion of food takes place by the action of HCl and gastricjuices secreted from  the walls of the stomach. Partially digested foodcalled chyme is passed from stomach to the first part of the intestine, the
+duodenum. The duodenum receives bile from gall bladder and pancreaticjuices from the pancreas through a common bile duct. Bile emulsifies fatand pancreatic juices digest carbohydrates and proteins. Final digestion
+takes place in the intestine. Digested food is absorbed by the numerousfinger-like folds in the inner wall of intestine called villi and microvilli. Theundigested solid waste moves into the rectum and passes out through cloaca.Frogs respire on land and in the water by two different methods. Inwater, skin acts as aquatic respiratory organ (cutaneous respiration).Dissolved oxygen in the water is exchanged through the skin by diffusion.Figure 7.20Diagrammatic representation of internal organs of frog showingcomplete digestive systemIntestineUreterRectumCloacaUrinarybladderOesophagusLiverStomachKidneyGallbladderFat bodiesLungHeartCloacal Aperture
+118BIOLOGYOn land, the buccal cavity, skin and lungs act as the respiratory organs.The respiration by lungs is called pulmonary respiration. The lungs area pair of elongated, pink coloured sac-like structures present in the upperpart of the trunk region (thorax). Air enters through the nostrils into the
+buccal cavity and then to lungs. During aestivation and hibernationgaseous exchange takes place through skin.The vascular system of frog is well-developed closed type. Frogs havea lymphatic system also. The blood vascular system involves heart, bloodvessels and blood. The lymphatic system consists of lymph, lymph
+channels and lymph nodes. Heart is a muscular structure situated in theupper part of the body cavity. It has three chambers, two atria and oneventricle and is covered by a membrane called pericardium. A triangular
+structure called sinus venosus joins the right atrium. It receives blood
+through the major veins called vena cava. The ventricle opens into a sac-like conus arteriosus on the ventral side of the heart. The blood from theheart is carried to all parts of the body by the arteries (arterial system).
+The veins collect blood from different parts of body to the heart and form
+the venous system. Special venous connection between liver and intestineas well as the kidney and lower parts of the body are present in frogs. Theformer is called hepatic portal system and the latter is called renal portal
+system. The blood is composed of plasma and cells. The blood cells are
+RBC (red blood cells) or erythrocytes, WBC (white blood cells) or leucocytes
+and platelets. RBC™s are nucleated and contain red coloured pigmentnamely haemoglobin. The lymph is different from blood. It lacks fewproteins and RBCs. The blood carries nutrients, gases and water to the
+respective sites during the circulation. The circulation of blood is achieved
+by the pumping action of the muscular heart.The elimination of nitrogenous wastes is carried out by a welldeveloped excretory system. The excretory system consists of a pair of
+kidneys, ureters, cloaca and urinary bladder. These are compact, dark
+red and bean like structures situated a little posteriorly in the body cavityon both sides of vertebral column. Each kidney is composed of severalstructural and functional units called uriniferous tubules or nephrons.
+Two ureters emerge from the kidneys in the male frogs. The ureters act as
+urinogenital duct which opens into the cloaca. In females the ureters andoviduct open seperately in the cloaca. The thin-walled urinary bladder ispresent ventral to the rectum which also opens in the cloaca. The frog
+excretes urea and thus is a ureotelic animal. Excretory wastes are carriedby blood into the kidney where it is separated and excreted.The system for control and coordination is highly evolved in the frog. Itincludes both neural system and endocrine glands. The chemical
+coordination of various organs of the body is achieved by hormones which
+are secreted by the endocrine glands. The prominent endocrine glandsfound in frog are pituitary, thyroid, parathyroid, thymus, pineal body,
+pancreatic islets, adrenals and gonads. The nervous system is organised
+STRUCTURAL ORGANISATION IN ANIMALS119into a central nervous system (brain and spinalcord), a peripheral nervous system (cranial and
+spinal nerves) and an autonomic nervous system
+(sympathetic and parasympathetic). There are ten
+pairs of cranial nerves arising from the brain. Brainis enclosed in a bony structure called brain box(cranium). The brain is divided into fore-brain,
+mid-brain and hind-brain. Forebrain includes
+olfactory lobes, paired cerebral hemispheres and
+unpaired diencephalon. The midbrain is
+characterised by a pair of optic lobes. Hind-brain
+consists of cerebellum and medulla oblongata.
+The medulla oblongata passes out through the
+foramen magnum and continues into spinal cord,
+which is enclosed in the vertebral column.Frog has different types of sense organs, namelyorgans of touch (sensory papillae), taste (tastebuds), smell (nasal epithelium), vision (eyes) and
+hearing (tympanum with internal ears). Out ofthese, eyes and internal ears are well-organisedstructures and the rest are cellular aggregations
+around nerve endings. Eyes in a frog are a pair of
+spherical structures situated in the orbit in skull.These are simple eyes (possessing only one unit).External ear is absent in frogs and only tympanum
+can be seen externally. The ear is an organ of
+hearing as well as balancing (equilibrium).Frogs have well organised male and femalereproductive systems. Male reproductive organs
+consist of a pair of yellowish ovoid testes (Figure
+7.21), which are found adhered to the upper partof kidneys by a double fold of peritoneum calledmesorchium. Vasa efferentia are 10-12 in
+number that arise from testes. They enter the
+kidneys on their side and open into Bidder™scanal. Finally it communicates with theurinogenital duct that comes out of the kidneys
+and opens into the cloaca. The cloaca is a small,
+median chamber that is used to pass faecalmatter, urine and sperms to the exterior.The female reproductive organs include a pairof ovaries (Figure 7.22). The ovaries are situatednear kidneys and there is no functional
+connection with kidneys. A pair of oviduct arisingFigure 7.22 Female reproductive systemOviductOvaryOvaUreterCloacaCloacal apertureUrinarybladderFigure 7.21 Male reproductive systemFatbodiesKidneyUrinogenital ductCloacaCloacal
+apertureTestisAdrenal
+glandUrinary
+bladderRectumVasaefferentia
+120BIOLOGYfrom the ovaries opens into the cloaca separately. A mature female canlay 2500 to 3000 ova at a time. Fertilisation is external and takes place inwater. Development involves a larval stage called tadpole. Tadpole
+undergoes metamorphosis to form the adult.Frogs are beneficial for mankind because they eat insects and protectthe crop. Frogs maintain ecological balance because these serve as an
+important link of food chain and food web in the ecosystem. In somecountries the muscular legs of frog are used as food by man.SUMMARYCells, tissues, organs and organ systems split up the work in a way that ensuresthe survival of the body as a whole and exhibit division of labour. A tissue isdefined as group of cells along with intercellular substances performing one ormore functions in the body. Epithelia are sheet like tissues lining the body™s surface
+and its cavities, ducts and tubes. Epithelia have one free surface facing a body
+fluid or the outside environment. Their cells are structurally and functionallyconnected at junctions.Diverse types of connective tissues bind together, support, strengthen, protect,and insulate other tissue in the body. Soft connective tissues consist of proteinfibres as well as a variety of cells arranged in a ground substance. Cartilage, bone,blood, and adipose tissue are specialised connective tissues. Cartilage and boneare both structural materials. Blood is a fluid tissue with transport functions.
+Adipose tissue is a reservoir of stored energy. Muscle tissue, which can contract
+(shorten) in response to stimulation, helps in movement of the body and specificbody parts. Skeletal muscle is the muscle tissue attached to bones. Smooth muscleis a component of internal organs. Cardiac muscle makes up the contractile walls
+of the heart. Connective tissue covers all three types of tissues. Nervous tissue
+exerts greatest control over the response of body. Neurons are the basic units ofnervous tissue.Earthworm, Cockroach and Frog show characteristic features in bodyorganisation. In Pheretima posthuma (earthworm), the body is covered by cuticle.All segments of its body are alike except the 14th, 15th and 16th segment, which arethick and dark and glandular, forming clitellum. A ring of S-shaped chitinoussetae is found in each segment. These setae help in locomotion. On the ventral
+side spermathecal openings are present in between the grooves of 5 and 6, 6 and
+7, 7 and 8 and 8 and 9 segments. Female genital pores are present on 14th segmentand male genital pores on 18th segment. The alimentary canal is a narrow tubemade of mouth, buccal cavity, pharynx, gizzard, stomach, intestine and anus.
+The blood vascular system is of closed type with heart and valves. Nervous system
+is represented by ventral nerve cord. Earthworm is hermaphorodite. Two pairs of
+STRUCTURAL ORGANISATION IN ANIMALS121testes occur in the 10th and 11th segment, respectively. A pair of ovaries are presenton 12 and 13th intersegmental septum. It is a protandrous animal with cross-fertilisation. Fertilisation and development take place in cocoon secreted by theglands of clitellum.The body of Cockroach (Periplaneta americana) is covered by chitinousexoskeleton. It is divided into head, thorax and abdomen. Segments bear jointedappendages. There are three segments of thorax, each bearing a pair of walkinglegs. Two pairs of wings are present, one pair each on 2nd and 3rd segment. Thereare ten segments in abdomen. Alimentary canal is well developed with a mouth
+surrounded by mouth parts, a pharynx, oesophagus, crop, gizzard, midgut,hindgut and anus. Hepatic caecae are present at the junction of foregut andmidgut. Malpighian tubules are present at the junction of midgut and hindgut
+and help in excretion. A pair of salivary gland is present near crop. The blood
+vascular system is of open type. Respiration takes place by network of tracheae.Trachea opens outside with spiracles. Nervous system is represented bysegmentally arranged ganglia and ventral nerve cord. A pair of testes is present in
+4th-6th segments and ovaries in 2nd-6th segments. Fertilisation is internal. Femaleproduces 9-10 ootheca bearing developing embryos. After rupturing of singleootheca sixteen young ones, called nymphs come out.The Indian bullfrog, Rana tigrina, is the common frog found in India. Body iscovered by skin. Mucous glands are present in the skin which is highly vascularisedand helps in respiration in water and on land. Body is divisible into head and trunk.
+A muscular tongue is present, which is bilobed at the tip and is used in capturingthe prey. The alimentary canal consists of oesophagous, stomach, intestine andrectum, which open into the cloaca. The main digestive glands are liver and pancreas.
+It can respire in water through skin and through lungs on land. Circulatory system
+is closed with single circulation. RBCs are nucleated. Nervous system is organisedinto central, peripheral and autonomic. The organs of urinogenital system are kidneysand urinogenital ducts, which open into the cloaca. The male reproductive organ is
+a pair of testes. The female reproductive organ is a pair of ovaries. A female lays
+2500-3000 ova at a time. The fertilisation and development are external. The eggshatch into tadpoles, which metamorphose into frogs.EXERCISES1.Answer in one word or one line.(i)Give the common name of Periplanata americana.(ii)How many spermathecae are found in earthworm?(iii)What is the position of ovaries in cockroach?(iv)How many segments are present in the abdomen of cockroach?(v)Where do you find Malpighian tubules?
+122BIOLOGY2.Answer the following:(i)What is the function of nephridia?(ii)How many types of nephridia are found in earthworm based ontheir location?3.Draw a labelled diagram of the reproductive organs of an earthworm.4.Draw a labelled diagram of alimentary canal of a cockroach.5.Distinguish between the followings(a)Prostomium and peristomium(b)Septal nephridium and pharyngeal nephridium6.What are the cellular components of blood?7.What are the following and where do you find them in animal body.(a)Chondriocytes(b)Axons(c)Ciliated epithelium8.Describe various types of epithelial tissues with the help of labelled diagrams.9.Distinguish between(a)Simple epithelium and compound epithelium(b)Cardiac muscle and striated muscle(c)Dense regular and dense irregular connective tissues(d)Adipose and blood tissue(e)Simple gland and compound gland10.Mark the odd one in each series:(a)Areolar tissue; blood; neuron; tendon(b)RBC; WBC; platelets; cartilage(c)Exocrine; endocrine; salivary gland; ligament(d)Maxilla; mandible; labrum; antennae(e)Protonema; mesothorax; metathorax; coxa11.Match the terms in column I with those in column II:Column IColumn II(a)Compound epithelium(i)Alimentary canal(b)Compound eye(ii)Cockroach(c)Septal nephridia(iii)Skin(d)Open circulatory system(iv)Mosaic vision(e)Typhlosole(v)Earthworm(f)Osteocytes(vi)Phallomere(g)Genitalia(vii)Bone12.Mention breifly about the circulatory system of earthworm13.Draw a neat diagram of digestive system of frog.14.Mention the function of the following(a)Ureters in frog(b)Malpighian tubules(c)Body wall in earthworm

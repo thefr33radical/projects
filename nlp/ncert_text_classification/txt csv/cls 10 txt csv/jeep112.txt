@@ -1,0 +1,103 @@
+Multiple Choice Questions
+1.A cell, a resistor, a key and ammeter are arranged as shown inthe circuit diagrams of Figure12.1. The current recorded in theammeter will be(a)maximum in (i)
+(b)maximum in (ii)
+(c)maximum in (iii)
+(d)the same in all the cases
+2.In the following circuits (Figure 12.2), heat produced in the resistoror combination of resistors connected to a 12 V battery will beFig. 12.1Electricity12CHAPTERFig. 12.2(a)same in all the cases
+(b)minimum in case (i)
+(c)maximum in case (ii)
+(d)maximum in case (iii)
+
+3.Electrical resistivity of a given metallic wire depends upon(a)its length
+(b)its thickness
+(c)its shape
+(d)nature of the material
+4.A current of 1 A is drawn by a filament of an electric bulb. Numberof electrons passing through a cross section of the filament in 16
+seconds would be roughly(a)10
+20(b)10
+16(c)10
+18(d)10
+235.Identify the circuit (Figure 12.3) in which the electrical componentshave been properly connected.Fig. 12.3(a)(i)
+(b)(ii)
+(c)(iii)
+(d)(iv)
+ELECTRICITY91
+EXEMPLAR PROBLEMS Œ SCIENCE926.What is the maximum resistance which can be made using fiveresistors each of 1/5 ?(a)1/5 
+(b)10 
+(c)5 
+(d)1 
+7.What is the minimum resistance which can be made using fiveresistors each of 1/5 ?(a)1/5 
+(b)1/25 
+(c)1/10 
+(d)25 
+8.The proper representation of series combination of cells (Figure12.4) obtaining maximum potential is(a)(i)
+(b)(ii)
+(c)(iii)
+(d)(iv)
+9.Which of the following represents voltage?(a)Work done
+Current × Time
+(b)Work done  Charge
+(c)Work done × Time
+Current
+(d)Work done  Charge  Time
+10.A cylindrical conductor of length l and uniform area of cross-section A has resistance R. Another conductor of length 2l andresistance R of the same material has area of cross section(a)A/2(b)3
+A/2(c)2
+A(d)3
+AFig. 12.4
+ELECTRICITY9311.A student carries out an experiment and plotsthe V-I graph of three samples of nichrome wire
+with resistances R1, R2 and R3 respectively(Figure.12.5). Which of the following is true?(a)R1 = R2 = R3(b)R1 > R2 > R3(c)R3 > R2 > R1(d)R2 > R3 > R112.If the current I through a resistor is increased by100% (assume that temperature remainsunchanged), the increase in power dissipated will be(a)100 %(b)200 %
+(c)300 %(d)400 %
+13.The resistivity does not change if(a)the material is changed
+(b)the temperature is changed
+(c)the shape of the resistor is changed
+(d)both material and temperature are changed
+14.In an electrical circuit three incandescent bulbs A, B and C of rating
+40 W, 60 W and 100 W 
+respectively are connected in parallel to anelectric source. Which of the following is likely to happen regarding
+their brightness?(a)Brightness of all the bulbs will be the same
+(b)Brightness of bulb A will be the maximum
+(c)Brightness of bulb B will be more than that of A
+(d)Brightness of bulb C will be less than that of B
+15.In an electrical circuit two resistors of 2  and 4  respectivelyare connected in series to a 6 V battery. The heat dissipated bythe 4 resistor in 5 s will be(a)5 J
+(b)10 J
+(c)20 J
+(d)30 J
+16.An electric kettle consumes 1 kW of electric power when operatedat 220 V. A fuse wire of what rating must be used for it?(a)1 A
+(b)2 A
+(c)4 A
+(d)5 A
+
+EXEMPLAR PROBLEMS Œ SCIENCE9417.Two resistors of resistance 2  and 4  when connected to abattery will have(a)same current flowing through them when connected in parallel
+(b)same current flowing through them when connected in series
+(c)same potential difference across them when connected in
+series(d)different potential difference across them when connected in
+parallel18.Unit of electric power may also be expressed as(a)volt ampere
+(b)kilowatt hour
+(c)watt second
+(d)joule second
+Short Answer Questions
+Fig. 12.6Fig. 12.719.A child has drawn the electric circuit to study Ohm™s lawas shown in Figure 12.6. His teacher told that the circuit
+diagram needs correction. Study the circuit diagram andredraw it after making all corrections.20.Three 2  resistors, A, B and C, are connected as shownin Figure 12.7. Each of them dissipates energy and canwithstand a maximum power of 18W without melting.Find the maximum current that can flow through thethree resistors?21.Should the resistance of an ammeter be low or high? Give
+reason.22.Draw a circuit diagram  of an 
+electric circuit containing a cell, akey, an ammeter, a resistor of 2  in series 
+with a combinationof two resistors (4   each) in parallel and a voltmeter across theparallel combination. Will the potential difference across the 2 resistor be the same as that across the parallel combination of4 resistors? Give reason.23.How does use of a fuse wire protect electrical appliances?24.What is electrical resistivity? In a series electrical circuit
+comprising a resistor made up of a metallic wire, the ammeterreads 5 A. The reading of the ammeter decreases to half when thelength of the wire is doubled. Why?
+ELECTRICITY9525.What is the commercial unit of electrical energy? Represent it interms of joules.26.A current of 1 ampere flows in a series circuit containing an electriclamp and a conductor of 5  when connected to a 10 V battery.Calculate the resistance of the electric lamp.Now if a resistance of 10  is connected in parallel with thisseries combination, what change (if any) in current flowing through5  conductor and potential difference across the lamp will takeplace?  Give reason.27.Why is parallel arrangement used in domestic wiring?28.B1, B2 and B3 are three identical bulbs connected as shown in
+Figure 12.8. When all the three bulbs glow, a current of 3A isrecorded by the ammeter A.
+(i)What happens to the glow of the other two bulbs when the
+bulb B1 gets fused?(ii)What happens to the reading of A1, A2, A3 and A when thebulb B2 gets fused?(iii)How much power is dissipated in the circuit when all the
+three bulbs glow together?Long Answer Questions
+29.Three incandescent bulbs of 100 W each are connected in seriesin an electric circuit. In another circuit another set of three bulbs
+of the same wattage are connected in parallel to the same source.(a)Will the bulb in the two circuits glow with the same brightness?
+Justify your answer.(b)Now let one bulb in both the circuits get fused. Will the rest of
+the bulbs continue to glow in each circuit? Give reason.30.
+State Ohm™s law? How can it be verified experimentally? Does ithold good under all conditions? Comment.31.What is electrical resistivity of a material? What is its unit?
+Describe an experiment to study the factors on which theresistance of conducting wire depends.32.How will you infer with the help of an experiment that the samecurrent flows through every part of the circuit containing threeresistances in series connected to a battery?33.How will you conclude that the same potential difference (voltage)
+exists across three resistors connected in a parallel arrangement
+to a battery?Fig. 12.8
+EXEMPLAR PROBLEMS Œ SCIENCE9634.What is Joule™s heating effect? How can it be demonstratedexperimentally? List its four applications in daily life.35.Find out the following in the electric circuit given in Figure 12.9(a)Effective resistance of two 8 
+ resistors in the combination(b)Current flowing through 4 
+ resistor(c)Potential difference across 4 
+ resistance(d)Power dissipated in 4 
+ resistor(e)Difference in ammeter readings, if any.
+Fig. 12.9

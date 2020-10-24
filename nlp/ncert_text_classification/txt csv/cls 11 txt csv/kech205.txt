@@ -1,0 +1,1011 @@
+326CHEMISTRY
+ORGANIC CHEMISTRY Œ SOME BASIC PRINCIPLES
+AND TECHNIQUESAfter studying this unit, you will be
+able to•••••understand reasons fortetravalence of carbon and
+shapes of organic molecules;
+•••••write structures of organic
+molecules in various ways;•••••classify the organic compounds;•••••name the compounds accordingto IUPAC system of
+nomenclature and also derive
+
+their structures from the given
+
+names;•••••understand the concept oforganic reaction mechanism;
+•••••explain the influence ofelectronic displacements on
+
+structure and reactivity of
+
+organic compounds;•••••recognise the types of organic
+reactions;
+•••••learn the techniques of
+purification of organic
+compounds;•••••write the chemical reactions
+involved in the qualitative
+analysis of organic compounds;•••••understand the principlesinvolved in quantitative analysis
+of organic compounds.
+In the previous unit you have learnt that the element
+carbon has the unique property called 
+catenation due to
+which it forms covalent bonds with other carbon atoms.
+It also forms covalent bonds with atoms of other elements
+like hydrogen, oxygen, nitrogen, sulphur, phosphorus and
+halogens. The resulting compounds are studied under aseparate branch of chemistry called 
+organic chemistry
+.This unit incorporates some basic principles andtechniques of analysis required for understanding the
+formation and properties of organic compounds.
+12.1 GENERAL INTRODUCTIONOrganic compounds are vital for sustaining life on earth
+and include complex molecules like genetic information
+bearing deoxyribonucleic acid (DNA) and proteins that
+
+constitute essential compounds of our blood, muscles and
+skin. Organic chemicals appear in materials like clothing,
+
+fuels, polymers, dyes and medicines. These are some of
+the important areas of application of these compounds.
+Science of organic chemistry is about two hundred
+years old. Around the year 1780, chemists began to
+
+distinguish between organic compounds obtained from
+
+plants and animals and inorganic compounds prepared
+
+from mineral sources. Berzilius, a Swedish chemist
+
+proposed that a ‚vital force™ was responsible for the
+
+formation of organic compounds. However, this notion
+
+was rejected in 1828 when F. Wohler synthesised an
+
+organic compound, urea from an inorganic compound,
+
+ammonium cyanate.422
+Heat
+NHCNONHCONH
+
+Ammonium cyanate          UreaThe pioneering synthesis of acetic acid by Kolbe (1845)and that of methane by Berthelot (1856) showed
+conclusively that organic compounds could be synthesised
+from inorganic sources in a laboratory.
+UNIT 12
+327ORGANIC CHEMISTRY Œ SOME BASIC PRINCIPLES AND TECHNIQUES
+The development of electronic theory of
+covalent bonding ushered organic chemistry
+into its modern shape.
+12.2TETRAVALENCE OF CARBON:
+SHAPES OF ORGANIC COMPOUNDS12.2.1 The Shapes of  Carbon  Compounds
+The knowledge of fundamental concepts ofmolecular structure helps in understanding
+
+and predicting the properties of organic
+compounds. You have already learnt theories
+of valency and molecular structure in Unit 4.
+
+Also, you already know that tetravalence of
+carbon and the formation of covalent bonds
+by it are explained in terms of its electronic
+
+configuration and the hybridisation of s and
+p orbitals. It may be recalled that formation
+and the shapes of molecules like methane
+(CH4), ethene (C2H4), ethyne (C2H2) areexplained in terms of the use of 
+sp3, sp2 andsp hybrid orbitals by carbon atoms in the
+respective molecules.
+Hybridisation influences the bond lengthand bond enthalpy (strength) in organic
+
+compounds. The 
+sp hybrid orbital contains
+more 
+s character and hence it is closer to its
+nucleus and forms shorter and stronger
+
+bonds than the sp3 hybrid 
+orbital. The sp2hybrid orbital is intermediate in 
+s characterbetween sp and 
+sp3 and, hence, the length
+and enthalpy of the bonds it forms, are also
+intermediate 
+between them. The change inhybridisation affects the electronegativity of
+
+carbon. The greater the 
+s character of the
+hybrid orbitals, the greater is the
+electronegativity. Thus, a carbon atom having
+
+an sp hybrid orbital with 50% s character is
+more electronegative than that possessing 
+ sp
+2or sp3 hybridised orbitals. This relative
+electronegativity is reflected in several
+physical and chemical properties of the
+molecules concerned, about which you will
+
+learn in later units.
+12.2.2Some Characteristic Features of 
+BondsIn a  (pi) bond formation, parallel orientation
+of the two p orbitals on adjacent atoms is
+necessary for a proper sideways overlap.
+Thus, in H2C=CH2 molecule all the atoms
+must be in the same plane. The 
+p orbitals
+are mutually parallel and both 
+the p orbitals
+are perpendicular to the plane of the
+molecule. Rotation of one CH2 fragment with
+respect to other interferes with maximum
+overlap of p orbitals and, therefore, such
+rotation 
+about 
+carbon-carbon double bond(C=C) is restricted. The 
+electron charge cloud
+of the  bond is located above and below the
+plane of bonding atoms. This results in theelectrons being easily available to the
+attacking reagents. In general, bonds provide
+the most reactive centres in the molecules
+containing multiple bonds.
+Problem 12.1How many  and 
+ bonds are present in
+each of the following molecules?(a) HCCCH=CHCH3 (b) CH2=C=CHCH3Solution(a) C Œ C: 4; CŒH : 6; C=C :1; CC:2(b) C Œ C: 3; CŒH: 6; C=C: 2.Problem 12.2What is the type of hybridisation of eachcarbon in the following compounds?
+(a) CH3Cl, (b) (CH3)2CO, (c) CH3CN,(d) HCONH2, (e) CH3CH=CHCNSolution
+(a) sp3, (b) sp3, sp2, (c) sp3, sp, (d) sp2, (e)sp3, sp2, sp2, spProblem 12.3
+Write 
+the state of  hybridisation of carbon
+in the following compounds 
+and shapesof each of the molecules.(a) H2C=O, (b) CH3F, (c) HC
+N.Solution
+(a) sp2 hybridised carbon, trigonal planar;
+(b) sp3 hybridised carbon, tetrahedral; (c)
+sp hybridised carbon, linear.
+
+328CHEMISTRY
+12.3STRUCTURAL REPRESENTATIONS
+OF ORGANIC COMPOUNDS12.3.1Complete, Condensed and Bond-line
+Structural Formulas
+Structures of organic compounds are
+
+represented in several ways. The 
+Lewisstructure
+ or dot structure, dash structure,
+condensed structure and bond line structural
+
+formulas are some of the specific types. The
+
+Lewis structures, however, can be simplified
+
+by representing the two-electron covalent
+
+bond by a dash (Œ). Such a structural formula
+
+focuses on the electrons involved in bond
+
+formation.  A single dash represents a single
+
+bond, double dash  is used for double bond
+
+and a triple dash represents triple bond. Lone-
+
+pairs of electrons on heteroatoms (
+e.g.,oxygen, nitrogen, sulphur, halogens etc.) may
+
+or may not be shown. Thus, ethane (C
+2H6),ethene (C2H4), ethyne (C2H2) and methanol(CH3OH) can be represented by the followingstructural formulas. Such structural
+
+representations are called 
+complete structuralformulas
+.Similarly, CH3CH2CH2CH2CH2CH2CH2CH3can be further condensed to CH3(CH2)6CH3.For further simplification, organic chemists
+use another way of representing the
+
+structures, in which only lines are used. In
+
+this bond-line structural representation of
+organic compounds, carbon and hydrogen
+
+atoms are not shown and the lines
+representing carbon-carbon bonds are  drawn
+
+in a 
+zig-zag fashion. The only atoms
+specifically written are oxygen, chlorine,
+
+nitrogen etc. The terminals denote methyl
+
+(ŒCH3) groups (unless indicated otherwise by
+a functional group), while the line junctions
+
+denote carbon atoms bonded to appropriate
+
+number of hydrogens required to satisfy the
+
+valency of the carbon atoms. Some of the
+examples are represented as follows:
+(i) 3-Methyloctane can be represented invarious forms as:
+(a)   CH3CH2CHCH2CH2CH2CH2CH3                     |                   CH3These structural formulas can be further
+abbreviated by omitting some or all of the
+
+dashes representing covalent bonds and by
+
+indicating the number of identical groups
+
+attached to an atom by a subscript. The
+resulting expression of the compound is called
+
+a condensed structural formula
+. Thus, ethane,ethene, ethyne and methanol can be written
+as:CH3CH3        H2C=CH2       HC
+CH            CH
+3OHEthane   Ethene      Ethyne       Methanol        Ethane                  Ethene   Ethyne              Methanol(ii) Various ways of representing 2-bromo
+butane are:
+(a)  CH3CHBrCH2CH3  (b)  (c)  (b)(c)
+329ORGANIC CHEMISTRY Œ SOME BASIC PRINCIPLES AND TECHNIQUES
+In cyclic compounds, the bond-line formulas
+may be given as follows:Cyclopropane
+CyclopentanechlorocyclohexaneProblem 12.4
+Expand each of the following condensedformulas into their complete structural
+
+formulas.
+(a) CH3CH2COCH2CH3(b) CH3CH=CH(CH2)3CH3Solution(b)SolutionCondensed formula:
+(a) HO(CH2)3CH(CH3)CH(CH3)2(b)HOCH(CN)
+2Bond-line formula:
+(a)(b)Problem 12.5For each of the following compounds,
+write a  condensed formula and also their
+
+bond-line formula.
+(a)HOCH
+2CH2CH2CH(CH3)CH(CH3)CH3(b)(a)Problem 12.6Expand each of the following bond-line
+formulas to show all the atoms including
+
+carbon and hydrogen
+(a)(b)(c)(d)Solution
+330CHEMISTRY
+ Framework model Ball and stick modelSpace filling modelFig. 12.212.3.2Three-Dimensional
+Representation of Organic
+
+MoleculesThe three-dimensional (3-D) structure of
+
+organic molecules can be represented on
+
+paper by using certain conventions. For
+example, by using solid (
+) and dashed() wedge formula, the 3-D image of a
+molecule from a two-dimensional picture
+
+can be perceived. In these formulas the
+
+solid-wedge is used to indicate a bond
+projecting out of the plane of paper, towards
+
+the observer. The dashed-wedge is used to
+
+depict the bond projecting out of the plane of
+
+the paper and away from the observer. Wedges
+
+are shown in such a way that the broad end
+
+of the wedge is towards the observer. The
+
+bonds lying in plane of the paper are depicted
+
+by using a normal line (Š). 3-D representation
+
+of methane molecule on paper has been
+shown in Fig. 12.1.Fig. 12.1 Wedge-and-dash representation of CH
+4Molecular ModelsMolecular models are physical devices thatare used for a better visualisation and
+
+perception of three-dimensional shapes of
+
+organic molecules. These are made of wood,
+
+plastic or metal and are commercially
+available. Commonly three types of molecular
+models are used: (1) 
+Framework model, (2)Ball-and-stick model, and (3) Space fillingmodel. In the framework model only the
+bonds connecting the atoms of a molecule
+and not the atoms themselves are shown.
+
+This model emphasizes the pattern of bonds
+
+of a molecule while ignoring the size of atoms.
+In the ball-and-stick model, 
+both the atomsand the bonds are shown. Balls represent
+
+atoms and the stick denotes a bond.
+Compounds containing C=C (e.g., ethene) can
+
+best be represented by using springs in place
+of sticks. These models are referred to as 
+ball-and-spring model. The 
+space-filling modelemphasises the relative size of each atom
+
+based on its van der Waals radius. Bonds
+
+are not shown in this model. It conveys the
+volume occupied by each atom in the
+molecule. In addition to these models,
+computer graphics can also be used for
+molecular modelling.
+331ORGANIC CHEMISTRY Œ SOME BASIC PRINCIPLES AND TECHNIQUES
+12.4CLASSIFICATION OF ORGANIC
+COMPOUNDSThe existing large number of organic
+compounds and their ever-increasing
+
+numbers has made it necessary to classify
+them on the basis of their structures. Organic
+
+compounds are broadly classified as follows:
+I.Acyclic or open chain compoundsThese compounds are also called as 
+aliphaticcompounds and consist of straight or
+branched chain compounds, for example:(homocyclic). Sometimes atoms other thancarbon are also present in the ring
+
+(heterocylic). Some examples of this type of
+compounds are:
+    Cyclopropane        Cyclohexane
+       Cyclohexene      Tetrahydrofuran
+These exhibit some of the properties similar
+to those of aliphatic compounds.Aromatic compoundsAromatic compounds are special types of
+
+compounds. You will learn about these
+
+compounds in detail in Unit 13. These include
+benzene and other related ring compounds
+(benzenoid). Like alicyclic compounds,
+aromatic comounds may also have hetero
+
+atom in the ring. Such compounds are called
+
+hetrocyclic aromatic compounds. Some of the
+examples of various types of aromatic
+
+compounds are:
+Benzenoid aromatic compounds    Benzene        Aniline            NaphthaleneNon-benzenoid compoundTropolone
+IsobutaneAcetaldehydeAcetic acidCH3CH3EthaneIIAlicyclic or closed chain or ringcompoundsAlicyclic (aliphatic cyclic) compounds contain
+carbon atoms joined in the form of a ring
+
+332CHEMISTRY
+Heterocyclic aromatic compounds   Furan             Thiophene            PyridineOrganic compounds can also be classifiedon the basis of functional groups, into 
+familiesor homologous series.Functional GroupThe functional group may be defined as an
+atom or group of atoms joined in a specific
+
+manner which is responsible for the
+characteristic chemical properties of the
+
+organic compounds. The examples are
+hydroxyl group (ŒOH), aldehyde group (ŒCHO)
+
+and carboxylic acid group (ŒCOOH) etc.
+Homologous SeriesA group or a series of organic compounds each
+
+containing a characteristic functional group
+
+forms a homologous series and the members
+
+of the series are called homologues. Themembers of a homologous series can berepresented by general molecular formula and
+
+the successive members differ from each other
+
+in molecular formula by a ŒCH
+2 unit. There
+are a number of homologous series of
+organic compounds. Some of these are
+
+alkanes, alkenes, alkynes, haloalkanes,
+alkanols, alkanals, alkanones, alkanoic acids,
+amines etc.12.5NOM
+ENCLATURE OF ORGANIC
+COMPOUNDSOrganic chemistry deals with millions of
+
+compounds. In order to clearly identify them, a
+
+systematic method of naming has been
+developed and is known as the IUPAC
+(International Union of Pure and Applied
+
+Chemistry) system of nomenclature. In this
+systematic nomenclature, the names are
+
+correlated with the structure such that the
+
+reader or listener can deduce the structure from
+
+the name.Before the IUPAC system of nomenclature,
+however, organic compounds were assigned
+
+names based on their origin or certain
+properties. For instance, citric acid is named
+
+so because it is found in citrus fruits and the
+acid found in red ant is named formic acid
+since the Latin word for ant is 
+formica
+. Thesenames are traditional and are considered as
+
+trivial or common names. Some common
+names are followed even today. For example,
+
+Buckminsterfullerene is a common name
+
+given to the newly discovered C
+60 cluster
+(a form of carbon) noting its structural
+
+similarity to the geodesic domes popularised
+by the famous architect R. Buckminster
+
+Fuller. Common names are useful and in
+
+many cases indispensable, particularly when
+
+the alternative systematic names are lengthy
+
+and complicated. Common names of some
+organic compounds are given in Table 12.1.
+Table 12.1Common or Trivial Names of Some
+Organic Compounds
+12.5.1  The IUPAC System of Nomenclature
+A systematic name of an organic compound
+
+is generally derived by identifying the parent
+hydrocarbon and the functional group(s)
+attached to it. See the example given below.
+333ORGANIC CHEMISTRY Œ SOME BASIC PRINCIPLES AND TECHNIQUES
+By further using prefixes
+ and 
+suffixes
+, theparent name can be 
+modified to obtain the
+actual name. Compounds containing carbon
+
+and hydrogen only are called hydrocarbons. A
+
+hydrocarbon is termed saturated if it contains
+
+only carbon-carbon single bonds. The IUPAC
+name for a 
+homologous series of suchcompounds is alkane. Paraffin (Latin: little
+affinity) was the earlier name given to these
+
+compounds. Unsaturated hydrocarbons are
+
+those, which contain at least one carbon-
+carbon double or triple bond.12.5.2IUPAC Nomenclature of  Alkanes
+Straight chain hydrocarbons
+: The names
+of such compounds are based on their chain
+
+structure, and end with suffix ‚-
+ane™ and carrya prefix indicating the number of carbon
+
+atoms present in the chain (except from CH
+4to C4H10, where the prefixes are derived from
+trivial names). The IUPAC names of some
+straight chain saturated hydrocarbons are
+
+given in Table 12.2. The alkanes in Table 12.2
+
+differ from each other by merely the number
+of -CH
+2 groups in the chain. They are
+homologues of alkane series.In order to name such compounds, the names
+of alkyl groups are prefixed to the name of
+
+parent alkane. An alkyl group is derived from
+
+a saturated hydrocarbon by removing a
+
+hydrogen atom from carbon.  Thus, CH
+4becomes  -CH
+3 and is called 
+methyl group
+. Analkyl group is named by substituting ‚
+yl™ for‚ane™ in the corresponding alkane. Some alkyl
+groups are listed in Table 12.3.
+Table 12.3  Some Alkyl Groups
+Table 12.2IUPAC 
+Names of Some UnbranchedSaturated Hydrocarbons
+Branched chain hydrocarbons: In a
+branched chain compound small chains of
+
+carbon atoms are attached at one or more
+
+carbon atoms of the parent chain. The small
+
+carbon chains (branches) are called alkyl
+groups. For example:
+CH3ŒCHŒCH2ŒCH3  CH3ŒCHŒCH2ŒCHŒCH3     
+     CH3   
+                  CH2CH3  CH3                  (a)                                 (b)Abbreviations are used for some alkyl
+groups. For example, methyl is abbreviated
+
+as Me, ethyl as Et, propyl as Pr and butyl as
+
+Bu. The alkyl groups can be branched also.
+
+Thus, propyl and butyl groups can have
+
+branched structures as shown below.
+CH3-CH-    CH
+3-CH2-CH-     CH
+3-CH-CH2-
+   CH3  CH3    CH3       Isopropyl-             sec-Butyl-              Isobutyl-  CH3       CH3
+    CH3-C-        CH
+3-C-CH2-
+  CH3          
+          CH3                tert-Butyl-            Neopentyl-Common branched groups have specific
+trivial names. For example, the propyl groups
+
+can either be n-propyl group or isopropyl
+group. The branched butyl groups are called
+
+sec-butyl, isobutyl and tert-butyl group. We
+also encounter the structural unit,
+ŒCH2C(CH3)3, which is called neopentyl group.
+Nomenclature of branched chain alkanes:We encounter a number of branched chain
+
+alkanes. The rules for naming them are given
+
+below.
+334CHEMISTRY
+separated from the groups by hyphens and
+there is no break between methyl and
+
+nonane.]4.If two or more identical substituent groups
+are present then the numbers are
+
+separated   by commas. The names of
+
+identical substituents are not repeated,
+
+instead prefixes such as di (for 2), tri
+(for 3), tetra (for 4), penta (for 5), hexa (for
+6) etc. are used. While writing the name of
+
+the substituents in alphabetical order,
+
+these prefixes, 
+however, are not 
+considered.
+Thus, the following compounds are
+named as:        CH3          CH3              
+        CH3         CH3       
+CH3-CH-CH2-CH-CH3     CH
+3CCH2CHCH3                 CH32,4-Dimethylpentane        2,2,4-Trimethylpentane
+              H3C H2C        CH3                           CH3CH2CHCCH2CH2CH3                  CH
+33-Ethyl-4,4-dimethylheptane5.If the two substituents are found in
+equivalent positions, the
+ lower number is
+given to the one coming first in the
+
+alphabetical listing. Thus, the followingcompound is 3-ethyl-6-methyloctane and
+
+not 6-ethyl-3-methyloctane.    1        2      3      4       5      6      7      8CH3 Š CH2ŠCHŠCH2ŠCH2ŠCHŠCH2 ŠCH3
+
+                    CH2CH3             CH36.The branched alkyl groups can be named
+by following the above mentioned
+procedures. However, the 
+carbon atom ofthe branch that attaches to the root
+
+alkane is numbered 1 as exemplified
+below.         4     3    2     1CH3ŒCHŒCH2ŒCHŒ                CH3           CH31,3-Dimethylbutyl-1.First of all, the 
+longest carbon chain inthe molecule is identified
+. In the example(I) given below, the longest chain has nine
+carbons and it is considered as the 
+parent
+or root chain. Selection of parent chain as
+shown in (II) is not correct because it has
+only eight carbons.1     2    3     4    51     2      3      4      51        2       3      4  5       6       72.The carbon atoms of the parent chain are
+numbered to identify the parent alkane and
+to locate the positions of the carbon atoms
+at which branching takes place due to thesubstitution of 
+alkyl group in place ofhydrogen atoms. 
+The numbering is donein such a way that the branched carbon
+atoms get the lowest possible numbers.
+Thus, the numbering in the above exampleshould be from left 
+to right (
+branching atcarbon atoms 2 and 6) and not from right
+
+to left (giving numbers 4 and  8 to the
+carbon atoms at which branches are
+attached).1      2      3      4      5     6      7     8      9
+C  C  
+  C 
+ C 
+ C 
+ C 
+C  C 
+ C                        C                     C
+C9      8      7      6      5     4      3     2      1
+C   C 
+ C 
+ C 
+ C 
+ C 
+ C 
+ C 
+ C                     C           C 
+ C3.The names of  alkyl groups attached as a
+branch are 
+then prefixed to the name ofthe parent alkane 
+and position of thesubstituents is indicated by the
+appropriate numbers. If different alkyl
+
+groups are present, they are listed in
+alphabetical order. Thus, name for the
+compound shown above is: 6-ethyl-2-
+methylnonane. [Note: the numbers are
+335ORGANIC CHEMISTRY Œ SOME BASIC PRINCIPLES AND TECHNIQUES
+The name of such branched chain alkyl group
+is placed in parenthesis while naming the
+
+compound. While writing the trivial names of
+substituents™ in alphabetical order, the
+prefixes iso- and neo- are considered to be
+
+the part of the fundamental name of alkyl
+group. The prefixes 
+sec- and tert- are notconsidered to be the part of the fundamental
+
+name. The use of iso and related common
+prefixes for naming alkyl groups is also
+
+allowed by the IUPAC nomenclature as long
+as these are not further substituted. In multi-
+substituted compounds, the following rules
+may aso be remembered:
+†If there happens to be two chains of equal
+size, then that chain is to be selected
+which contains more number of side
+
+chains.†After selection of the chain, numbering is
+to be done from the end closer to the
+
+substituent.5-(2-Ethylbutyl)-3,3-dimethyldecane[and not 5-(2,2-Dimethylbutyl)-3-ethyldecane]5-sec-Butyl-4-isopropyldecane5-(2,2-Dimethylpropyl)nonaneProblem 12.7Structures and IUPAC names of some
+
+hydrocarbons are given below. Explain
+
+why the names given in the parentheses
+are incorrect.
+3-Ethyl-1,1-dimethylcyclohexane(not 1-ethyl-3,3-dimethylcyclohexane)2,5,6- Trimethyloctane
+[and not 3,4,7-Trimethyloctane
+]3-Ethyl-5-methylheptane[and not 5-Ethyl-3-methylheptane]Cyclic Compounds: A saturated
+ monocycliccompound is named by prefixing ‚
+cyclo™ to thecorresponding straight chain alkane. If side
+
+chains are present, then the rules given above
+
+are applied. Names of some cyclic compounds
+are given below.
+Solution(a) Lowest locant number, 2,5,6 is lower
+than 3,5,7, (b) substituents are in
+equivalent position; lower number is
+given to the one that comes first in the
+name according to alphabetical order.
+12.5.3Nomenclature of Organic
+Compounds having Functional
+Group(s)
+A functional group
+, as defined earlier, is an
+atom or a group of atoms bonded together in a
+
+unique manner w
+hich is usually the site of
+336CHEMISTRY
+chemical reactivity in an organic molecule.
+Compounds having the same functional group
+
+undergo similar reactions. For example,
+
+CH3OH, CH
+3CH2OH, and (CH
+3)2CHOH Š all
+having -OH functional group liberate hydrogen
+on reaction with sodium metal. The presence
+
+of functional groups enables systematisation
+
+of organic compounds into different classes.
+
+Examples of some functional groups with their
+
+prefixes and suffixes al
+ong with someexamples of or
+ganic compounds 
+possessingthese are given in Table 12.4.
+First of all, the functional group present
+in the molecule 
+is identified which determines
+the choice of appropriate suffix. 
+The longestchain of carbon atoms containing the
+functional group is numbered in 
+such a waythat the functional group is attached at the
+
+carbon atom possessing lowest possiblenumber in the chain. By using the suffix as
+given in Table 12.4, the name of the compound
+is arrived at.In the case of polyfunctional compounds,
+one of the functional groups is chosen as the
+principal functional group and the compound is
+then named on that basis
+. The r
+emaining
+functional groups, w
+hich are subordinatefunctional groups, are 
+named as substituentsusing the appropriate prefixes. The choice of
+principal functional group is made on the basis
+of order of preference. 
+The or
+der of decreasing
+priority for  some functional groups is:
+-COOH, ŒSO
+3H, -COOR (R=alkyl group), 
+COCl,-CONH2, -CN,-HC=O,  >C=O, -OH, -NH
+2, >C=C<,-CC- .
+The ŒR, C
+6H5-, halogens (F, Cl, Br, I), ŒNO
+2,alkoxy (ŒOR) etc. are always prefix
+
+substituents. Thus, a compound containingboth an alcohol and a keto group is named
+as hydroxyalkanone since the keto group is
+
+preferred to the hydroxyl group.
+For example, HOCH
+2(CH2)3CH2COCH3 will be
+named as 7-hydro
+xyheptan-2-one and not as2-oxoheptan -7-ol. Similarly, BrCH2CH=CH2is named as 3-bromoprop-1-ene and not 1-
+
+bromoprop-2-ene.
+If more than one functional group of the
+same type are present, their number is
+indicated by adding di, tri, etc. before the classsuffix. In such cases the full name of the parent
+alkane is written before the class suffix. For
+
+example CH2(OH)CH2(OH) is named asethaneŒ1,2Œdiol. However, the ending Œ ne of
+
+the parent alkane is dropped  in the case of
+
+compounds having more than  one  double or
+
+triple bond; for example, CH2=CH-CH=CH2 is
+named as butaŒ1,3Œdiene.Problem 12.8
+Write the IUPAC names of the compounds
+i-iv from their given structures.
+Solution†The functional group present is analcohol (OH). Hence the suffix is ‚-ol™.
+†The longest chain containing -OH has
+eight carbon atoms. Hence thecorresponding saturated hydrocarbon
+is octane.†The -OH is on carbon atom 3. Inaddition, a methyl group is attached
+at 6th carbon.
+Hence, the systematic name of this
+compound is 6-Methyloctan-3-ol.SolutionThe functional group present is ketone
+(>C=O), hence suffix ‚-one™. Presence of
+
+two keto groups is indicated by ‚di™,
+
+hence suffix becomes ‚dione™. The two
+
+keto groups are at carbons 2 and 4. The
+longest chain contains 6 carbon atoms,
+hence, parent hydrocarbon is hexane.
+
+Thus, the systematic name is Hexane-
+
+2,4-dione.
+337ORGANIC CHEMISTRY Œ SOME BASIC PRINCIPLES AND TECHNIQUES
+Table 12.4  Some Functional Groups and Classes of Organic Compounds
+
+338CHEMISTRY
+SolutionHere, two functional groups namely
+ketone and carboxylic acid are present.
+The principal functional group is the
+
+carboxylic acid group; hence the parent
+
+chain will be suffixed with ‚oic™ acid.
+
+Numbering of the chain starts from
+
+carbon of Œ COOH functional group. The
+
+keto group in the chain at carbon 5 is
+
+indicated by ‚oxo™. The longest chain
+including the principal functional
+group has 6 carbon atoms; hence the
+
+parent hydrocarbon is hexane. The
+
+compound is, therefore, named as
+
+5-Oxohexanoic acid.SolutionThe two C=C functional groups are
+present at carbon atoms 1 and 3, while
+
+the CC functional group is present at
+carbon 5. These groups are indicated by
+
+suffixes ‚diene™ and ‚yne™ respectively. The
+
+longest chain containing the functional
+groups has 6 carbon atoms; hence the
+
+parent hydrocarbon is hexane. The name
+
+of compound, therefore, is Hexa-1,3-
+
+dien-5-yne.Problem 12.9
+
+Derive the structure of (i) 2-Chlorohexane,
+(ii) Pent-4-en-2-ol, (iii) 3- Nitrocyclohexene,
+(iv) Cyclohex-2-en-1-ol, (v) 6-Hydroxy-
+
+heptanal.Solution(i) ‚hexane™ indicates the presence of
+6 carbon atoms in the chain. The
+
+functional group chloro is present at
+
+carbon 2. Hence, the structure of the
+
+compound is CH3CH2CH2CH2CH(Cl)CH3.(ii) ‚pent™ indicates that parenthydrocarbon contains 5 carbon atoms in
+the chain. ‚en™ and ‚ol™ correspond to the
+functional groups C=C and -OH at
+
+carbon atoms 4 and 2 respectively. Thus,
+the structure is
+CH2=CHCH2CH (OH)CH3.(iii) Six membered ring containing a
+carbon-carbon double bond is impl
+ied bycyclohexene, which is numbered as
+shown in (I). The prefix 3-nitro means that
+
+a nitro group is present on C-3. Thus,
+
+complete structural formula of the
+
+compound is (II
+). Double bond is suffixed
+functional group whereas NO
+2 is prefixed
+functional group therefore double bond
+
+gets preference over ŒNO
+2 group:
+(iv)  ‚1-ol™ means that a -OH group is
+present at C-1. OH is suf
+fixed functionalgroup and gets preference over C=C
+
+bond. 
+Thus the structure is as shownin (II):
+(v) ‚heptanal™ indicates the compound to
+be an aldehyde containing 7 carbon
+atoms in the parent chain. The
+
+‚6-hydroxy™ indicates that -OH group is
+
+present at carbon 6. Thus, the structural
+
+formula of the compound is:
+
+CH3CH(OH)CH2CH2CH2CH2CHO. Carbon
+atom of ŒCHO group is included while
+numbering the carbon chain.
+12.5.4Nomenclature of Substituted
+Benzene CompoundsFor IUPAC nomenclature of substituted
+benzene compounds, the substituent is
+placed as prefix to the word 
+benzene as
+shown in the following examples. However,
+common names (written in bracket below)
+of many substituted benzene compoundsare also universally used.
+
+339ORGANIC CHEMISTRY Œ SOME BASIC PRINCIPLES AND TECHNIQUES
+2-Chloro-4-methylanisole4-Ethyl-2-methylaniline1-Chloro-2,4-dinitrobenzene
+(not 4-chloro,1,3-dinitrobenzene)
+If benzene ring is disubstituted, theposition of substituents is defined
+by numbering the carbon atoms ofthe ring such that the substituents
+
+are located at the lowest numbers
+
+possible.For example, the compound(b) is
+
+named as 1,3-dibromobenzene and not as
+
+1,5-dibromobenzene.Substituent of the base compound isassigned number1 and then the direction of
+
+numbering is chosen such that the next
+substituent gets the lowest number. The
+
+substituents appear in the name in
+alphabetical order. Some examples are given
+
+below.2-Chloro-1-methyl-4-nitrobenzene
+(not 4-methyl-5-chloro-nitrobenzene)
+3,4-DimethylphenolMethylbenzene      Methoxybenzene     Aminobenzene
+    (Toluene)              (Anisole)            (Aniline)
+      Nitrobenzene                  Bromobenzene
+1,2-Dibromo-benzene1,3-Dibromo-benzene1,4-Dibromo-
+benzene(a)(b)(c)In the trivial system of nomenclature the
+terms 
+ortho (o), meta (m) and para (p) are usedas prefixes to indicate the relative positions
+
+1,2-;1,3- and 1,4- respectively. Thus,
+
+1,3-dibromobenzene (b) is named as
+
+m-dibromobenzene (
+meta is abbreviated as
+m-) and the other isomers of dibromobenzene
+1,2-(a) and 1,4-(c), are named as 
+ortho (or justo-) and para (or just 
+p-)-dibromobenzene,respectively.
+For tri - or higher substituted benzene
+derivatives, these prefixes cannot be used and
+
+the compounds are named by identifying
+
+substituent positions on the ring by following
+the lowest locant rule. In some cases, common
+name of benzene derivatives is taken as  the
+
+base compound.When a benzene ring is attached to analkane with  a  functional  group,  it  is
+
+considered  as substituent, instead of a
+
+parent. The name for benzene as substituent
+
+is phenyl (C6H5-, also abbreviated as Ph).
+
+340CHEMISTRY
+different carbon skeletons, these are referred
+to as chain isomers and the phenomenon is
+termed as chain isomerism. For example, C
+5H12represents three compounds:
+IsomerismStructural isomerismStereoisomerism
+ChainisomerismPositionisomerismFunctionalgroup
+isomerismMetamerismGeometricalisomerismOpticalisomerism12.6 ISOMERISMThe phenomenon of existence of two or more
+compounds possessing the same molecular
+formula but different properties is known as
+
+isomerism. Such compounds are called as
+
+isomers. The following flow chart shows
+different types of isomerism.
+12.6.1Structural Isomerism
+Compounds having the same m
+olecularformula but different structures (manners in
+
+which atoms are linked) are 
+classified as
+structural isomers. Some typical examples of
+different types of structural isomerism are given
+
+below:(i) Chain isomerism: When two or more
+compounds have similar molecular formula but
+   (a)      (b)
+   (c)       (d)
+Problem 12.10
+Write the structural formula of:
+(a)  o-Ethylanisole, (b) p-Nitroaniline,
+(c)  2,3-Dibromo-1-phenylpentane,
+
+(d) 4-Ethyl-1-fluoro-2-nitrobenzene.
+Solution                                                    CH3CH3CH2CH2CH2CH3CH3−CHCH
+2CH3     Pentane    Isopentane
+(2-Methylbutane)                        CH3 CH3 C CH
+3                 CH3 Neopentane(2,2-Dimethylpropane)
+(ii) Position isomerism: When two or more
+compounds differ in the position of
+
+substituent atom or functional group on the
+
+carbon skeleton, they are called position
+
+isomers and this phenomenon is termed as
+
+position isomerism. For example, the
+molecular formula C
+3H8O represents two
+alcohols:                                         OH     CH
+3CH2CH2OH       CH
+3−CH-CH
+3   Propan-1-ol              Propan-2-ol
+(iii) Functional group isomerism:
+ Two or
+more compounds having the same molecular
+formula but different functional groups are
+called functional isomers and this
+phenomenon is termed as functional group
+isomerism. For example, the molecularformula C
+3H6O represents an aldehyde and a
+ketone:

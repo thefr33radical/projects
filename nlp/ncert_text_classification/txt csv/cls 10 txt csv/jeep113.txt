@@ -1,0 +1,81 @@
+Multiple Choice Questions
+1.Choose the incorrect statement from the following  regardingmagnetic lines of field(a)The direction of magnetic field at a point is taken to be the
+direction in which the north pole of a magnetic compass needle
+points(b)Magnetic field lines are closed curves
+(c)If magnetic field lines are parallel and
+equidistant, they represent zero field strength(d)Relative strength of magnetic field is shown by
+the degree of closeness of the field lines2.If the key in the arrangement (Figure 13.1) is takenout (the circuit is made open) and magnetic fieldlines are drawn over the horizontal plane ABCD,
+the lines are(a)concentric circles
+(b)elliptical in shape
+(c)straight lines parallel to each other
+(d)concentric circles near the point O but of elliptical
+shapes  as we go away from it3.A circular loop placed in a plane perpendicular to the
+plane of paper carries a current when the key is ON.The current as seen from points A and B (in the planeof paper and on the axis of the coil) is anti clockwise
+and clockwise respectively. The magnetic field linespoint from B to A. The N-pole of the resultant magnetis on the face close to(a)A(b)B
+(c)A if the current is small, and B if the current is large
+(d)B if the current is small and A if the current is large
+Magnetic Effects ofElectric Current13CHAPTER
+EXEMPLAR PROBLEMS Œ SCIENCE984.For a current in a long straight solenoid N- and S-poles are createdat the two ends. Among the following statements, the incorrect
+statement is(a)The field lines inside the solenoid are in the form of straight
+lines which indicates that the magnetic field is the same at allpoints inside the solenoid(b)The strong magnetic field produced inside the solenoid can
+be used to magnetise a piece of magnetic material like softiron, when placed inside the coil(c)The pattern of the magnetic field associated with the solenoid
+is different from the pattern of the magnetic field around abar magnet(d)The N- and S-poles exchange position when the direction of
+current through the solenoid is reversed6.Commercial electric motors do not use(a)an electromagnet to rotate the armature
+(b)effectively large number of turns of conducting
+wire in the current carrying coil(c)a permanent magnet to rotate the armature
+(d)a soft iron core on which the coil is wound
+5.A uniform magnetic field exists in the plane of
+paper pointing from left to right as shown in
+Figure 13.3. In the field an electron and a protonmove as shown. The electron and the protonexperience(a)forces both pointing into the plane of paper
+(b)forces both pointing out of the plane of paper
+(c)forces pointing into the plane of paper and
+out of the plane of paper, respectively(d)force pointing opposite and along the
+direction of the uniform magnetic fieldrespectively7.In the arrangement shown in Figure 13.4 there aretwo coils wound on a non-conducting cylindrical rod.
+Initially the key is not inserted. Then the key isinserted and later removed. Then(a)the deflection in the galvanometer remains zero
+throughout(b)there is a momentary deflection in the
+galvanometer but it dies out shortly and there is
+no effect when the key is removed
+MAGNETIC EFFECTS OF ELECTRIC CURRENT99(c)there are momentary galvanometer deflections that die out
+shortly; the deflections are in the same direction(d)there are momentary galvanometer deflections that die out
+shortly; the deflections are in opposite directions8.Choose the incorrect statement(a)Fleming™s right-hand rule is a simple rule to know the direction
+of induced current(b)The right-hand thumb rule is used to find the direction of
+magnetic fields due to current carrying conductors(c)The difference between the direct and alternating currents is
+that the direct current always flows in one direction, whereasthe alternating current reverses its direction periodically(d)In India, the AC changes direction after every 
+150 second9.A constant current flows in a horizontal wire in the plane of thepaper from east to west as shown in Figure 13.5. The directionof magnetic field at a point will be North to South(a)directly above the wire
+(b)directly below the wire
+(c)at a point located in the plane of the paper, on the north side
+of the wire(d)at a point located in the plane of the paper, on the south
+side of the wire10.The strength of magnetic field inside a long current carryingstraight solenoid is(a)more at the ends than at the centre
+(b)minimum in the middle
+(c)same at all points
+(d)found to increase from one end to the other
+11.To convert an AC generator into DC generator(a)split-ring type commutator must be used
+(b)slip rings and brushes must be used
+(c)a stronger magnetic field has to be used
+(d)a rectangular wire loop has to be used
+12.The most important safety method used for protecting homeappliances from short circuiting or overloading is(a)earthing
+(b)use of fuse
+(c)use of stabilizers
+(d)use of electric meter
+
+EXEMPLAR PROBLEMS Œ SCIENCE100Short Answer Questions
+13.A magnetic compass needle is placed in the plane of paper nearpoint A  as shown in Figure 13.6. In which plane should a straightcurrent carrying conductor be placed so that it passes through A
+and there is no change in the deflection of the compass? Underwhat condition is the deflection maximum and why?14.Under what conditions permanent electromagnet is obtained if acurrent carrying solenoid is used? Support your answer with thehelp of a labelled circuit diagram.15.AB is a current carrying conductor in the plane of the paper asshown in Figure 13.7. What are the directions of magnetic fields
+produced by it at points P and Q? Given r1 > r2, where will thestrength of the magnetic field be larger?16.A magnetic compass shows a deflection when placed near acurrent carrying wire. How will the deflection of the compass getaffected if the current in the wire is increased? Support youranswer with a reason.17.It is established that an electric current through a metallicconductor produces a magnetic field around it. Is there a similar
+magnetic field produced around a thin beam of moving (i) alphaparticles, (ii) neutrons? Justify your answer.18.What does the direction of thumb indicate in the right-hand thumbrule. In what way this rule is different from Fleming™s left-handrule?19.Meena draws magnetic field lines of field close to the axis of a
+current carrying circular loop. As she moves away from the centreof the circular loop she observes that the lines keep on diverging.
+How will you explain her observation.20.What does the divergence of magnetic field lines near the ends of
+a current carrying straight solenoid indicate?21.Name four appliances wherein an electric motor, a rotating device
+that converts electrical energy to mechanical energy, is used as
+an important component. In what respect motors are differentfrom generators?22.What is the role of the two conducting stationary brushes in a
+simple electric motor?23.What is the difference between a direct current and an alternatingcurrent? How many times does AC used in India change directionin one second?
+MAGNETIC EFFECTS OF ELECTRIC CURRENT10124.What is the role of fuse, used in series with any electricalappliance? Why should a fuse with defined rating not be replaced
+by one with a larger rating?Long Answer Questions
+25.
+Why does a magnetic compass needle pointing North and Southin the absence of a nearby magnet get deflected when a bar magnetor a current carrying loop is brought near it. Describe some salient
+features of magnetic lines of field concept.26.With the help of a labelled circuit diagram illustrate the pattern
+of field lines of the magnetic field around a current carryingstraight long conducting wire. How is the right hand thumb ruleuseful to find direction of magnetic field associated with a current
+carrying conductor?27.Explain with the help of a labelled diagram the distribution of
+magnetic field due to a current through a circular loop. Why is itthat if a current carrying coil has n turns the field produced atany point is n times as large as that produced by a single turn?28.Describe the activity that shows that a current-carrying conductorexperiences a force perpendicular to its length and the externalmagnetic field. How does Fleming™s left-hand rule help us to findthe direction of the force acting on the current carrying conductor?29.Draw a labelled circuit diagram of a simple electric motor andexplain its working. In what way these simple electric motors arediffferent from commercial motors?30.Explain the phenomenon of electromagnetic induction. Describe
+an experiment to show that a current is set up in a closed loopwhen an external magnetic field passing through the loopincreases or decreases.31.Describe the working of an AC generator with the help of a labelled
+circuit diagram. What changes must be made in the arrangementto convert it to a DC generator?32.Draw an appropriate schematic diagram showing commondomestic circuits and discuss the importance of fuse. Why is itthat a burnt out fuse should be replaced by another fuse ofidentical rating?

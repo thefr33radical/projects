@@ -1,0 +1,361 @@
+REAL NUMBERS111.1Introduction
+In Class IX, you began your exploration of the world of real numbers and encounteredirrational numbers. We continue our discussion on real numbers in this chapter. We
+begin with two very important properties of positive integers in Sections 1.2 and 1.3,namely the Euclid™s division algorithm and the Fundamental Theorem of Arithmetic.Euclid™s 
+division algorithm, as the name suggests, has to do with divisibility ofintegers. Stated simply, 
+it says any positive integer a can be divided by another positiveinteger b in such a way that it leaves a remainder r that is smaller than b. Many of youprobably recognise this as the usual long division process. Although this result is quiteeasy to state and understand, it has many applications related to the divisibility propertiesof integers. We touch upon a few of them, and use it mainly to compute the HCF of
+two positive integers.The Fundamental Theorem of Arithmetic, on the other hand, has to do something
+with multiplication of positive integers. You already know that every composite number
+can be expressed as a product of primes in a unique wayŠthis important fact is the
+Fundamental Theorem of Arithmetic. Again, while it is a result that is easy to state andunderstand, it has some very deep and significant applications in the field of mathematics.We use the Fundamental 
+Theorem of Arithmetic for two main applications. First, weuse it to prove the irrationality of many of the numbers you studied in Class IX, such as2,3
+ and 5. Second, we apply this theorem to explore when exactly the decimalexpansion of a rational number, say (0)
+pqq, is terminating and when it is non-terminating repeating. We do so by looking at the prime factorisation of the denominator
+q of pq. You will see that the prime factorisation of 
+q will completely reveal the natureof the decimal expansion of pq.So let us begin our exploration.REAL NUMBERS
+2MATHEMA
+TICS1.2Euclid™s 
+Division LemmaConsider the following folk puzzle*.A trader was moving along a road selling eggs. An idler who didn™t have
+much work to do, started to get the trader into a wordy duel. This grew into a
+fight, he pulled the basket with eggs and dashed it on the floor. The eggs broke.
+The trader requested the Panchayat 
+to ask the idler to pay for the broken eggs.
+The Panchayat asked the trader how many eggs were broken. He gave the
+following response:If counted in pairs, one will remain;
+If counted in threes, two will remain;
+If counted in fours, three will remain;
+If counted in fives, four will remain;
+
+If counted in sixes, five will remain;
+If counted in sevens, nothing will remain;
+My basket cannot accomodate more than 150 eggs.
+So, how many eggs were there? Let us try and solve the puzzle. Let the numberof eggs be a. Then working backwards, we see that a is less than or equal to 150:If counted in sevens, nothing will remain, which translates to a = 7p + 0, forsome natural number p. If counted in sixes, a = 6q+5, for some natural number q.If counted in fives, four will remain. It translates to a = 5
+w + 4, for some naturalnumber w.If counted in fours, three will remain. It translates to a = 4
+s + 3, for some naturalnumber s.If counted in threes, two will remain. It translates to a = 3
+t + 2, for some naturalnumber t.If counted in pairs, one will remain. It translates to a = 2
+u + 1, for some naturalnumber u.That is, in each case, we have a and a positive integer b (in our example,b takes values 7, 6, 5, 4, 3 and 2, respectively) which divides a and leaves a remainderr (in our case, r is 0, 5, 4, 3, 2 and 1, respectively), that is smaller than b. The* This is modified form of a puzzle given in ‚Numeracy Counts!™ by A. Rampal, and others.
+
+REAL NUMBERS3moment we write down such equations we are using Euclid™s division lemma,
+which is given in Theorem 1.1.Getting back to our puzzle, do you have any idea how you will solve it? Yes! You
+must look for the multiples of 7 which satisfy all the conditions. By trial and error(using the concept of LCM), you will find he had 119 eggs.
+In order to get a feel for what Euclid™s division lemma is, consider the following
+pairs of integers:17, 6;5, 12;20, 4
+Like we did in the example, we can write the following relations for each suchpair:17 = 6 × 2 + 5 (6 goes into 17 twice and leaves a remainder 5)5 = 12 × 0 + 5 (This relation holds since 12 is larger than 5)20 = 4 × 5 + 0 (Here 4 goes into 20 five-times and leaves no remainder)That is, for each pair of positive integers a and b, we have found whole numbersq and r, satisfying the relation:a = bq + r, 0  r < bNote that q or r can also be zero.Why don™t you now try finding integers q and r for the following pairs of positiveintegers a and b?(i)10, 3;(ii)4, 19;
+(iii)81, 3Did you notice that q and r are unique? These are the only integers satisfying theconditions a = bq + r, where 0  r < b. You may have also realised that this is nothing
+but a restatement of the long division process you have been doing all these years, andthat the integers q and r are called the quotient and remainder,
+ respectively.
+A formal statement of this result is as follows :Theorem 1.1
+ (Euclid™s Division Lemma) : 
+Given positive integers a and b,there exist unique integers q and r satisfying a = bq + r,0 
+ r < b.This result was perhaps known for a long time, but was first recorded in Book VIIof Euclid™s Elements. Euclid™s division algorithm is based on this lemma.
+
+4MATHEMA
+TICSAn algorithm is a series of well defined stepswhich gives a procedure for solving a type ofproblem.The word algorithm comes from the nameof the 9th century Persian mathematician
+al-Khwarizmi. In fact, even the word ‚algebra™
+is derived from a book, he wrote, called Hisabal-jabr w™al-muqabala.A lemma is a proven statement used forproving another statement.Euclid™s division algorithm is a technique to compute the Highest Common Factor
+(HCF) of two given positive integers. Recall that the HCF of two positive integers aand b is the largest positive integer d that divides both a and b.Let us see how the algorithm works, through an example first. Suppose we needto find the HCF of the integers 455 and 42. We start with the larger integer, that is,
+455. Then we use Euclid™s lemma to get455 =42 × 10 + 35
+Now consider the divisor 42 and the remainder 35, and apply the division lemmato get42 =35 × 1 + 7
+Now consider the divisor 35 and the remainder 7, and apply the division lemmato get35 =7 × 5 + 0
+Notice that the remainder has become zero, and we cannot proceed any further.
+We claim
+ that the HCF of 455 and 42 is the divisor at this stage, i.e., 7. You can easily
+verify this by listing all the factors of 455 and 42. Why does this method work? Itworks because of the following result.So, let us state Euclid™s division algorithm clearly.To obtain the HCF of two positive integers, say c and d, with c > d, follow
+the steps below:Step 1 :
+Apply Euclid™s division lemma, to c and d. So, we find whole numbers, q andr such that c = dq + r, 0  r < d.Step 2 :If r = 0, d is the HCF of c and d. If r  0, apply the division lemma to d and r.Step 3 :
+Continue the process till the remainder is zero. The divisor at this stage willbe the required HCF.
+Muhammad ibn Musa al-Khwarizmi(A.D. 780 Œ 850)
+REAL NUMBERS5This algorithm works because HCF (c, d) = HCF (d, r) where the symbolHCF (c, d) denotes the HCF of c and d, etc.Example 1 : Use Euclid™s 
+algorithm to find the HCF of 4052 and 12576.Solution :Step 1 :
+Since 12576 > 4052, we apply the division lemma to 12576 and 4052, to get12576 =4052 × 3 + 420Step 2 :Since the remainder 420  0, we apply the division lemma to 4052 and 420, toget4052 =420 × 9 + 272Step 3 :
+We consider the new divisor 420 and the new remainder 272, and apply the
+division lemma to get420 =272 × 1 + 148
+We consider the new divisor 272 and the new remainder 148, and apply the division
+lemma to get272 =148 × 1 + 124
+We consider the new divisor 148 and the new remainder 124, and apply the division
+lemma to get148 =124 × 1 + 24
+We consider the new divisor 124 and the new remainder 24, and apply the division
+lemma to get124 =24 × 5 + 4
+We consider the new divisor 24 and the new remainder 4, and apply the division
+lemma to get24 =4 × 6 + 0
+The remainder has now become zero, so our procedure stops. Since the divisor at this
+stage is 4, the HCF of 12576 and 4052 is 4.Notice that 4 = HCF (24, 4) = HCF (124, 24) = HCF (148, 124) =HCF (272, 148) = HCF (420, 272) = HCF (4052, 420) = HCF (12576, 4052).Euclid™s 
+division algorithm is not only useful for calculating the HCF of verylarge numbers, but also because it is one of the earliest examples of an algorithm that
+a computer had been programmed to carry out.Remarks :1.Euclid™s 
+division lemma and algorithm are so closely interlinked that people oftencall former as the division algorithm also.2.Although Euclid™s DivisionAlgorithm is 
+stated for only positive integers, it can beextended for all integers except zero, i.e., b  0. However, we shall not discuss thisaspect here.
+6MATHEMA
+TICSEuclid™s 
+division lemma/algorithm has several applications related to findingproperties of numbers. We give some examples of these applications below:
+Example 2 : Show that every positive even integer is of the form 2q, and that everypositive odd integer is of the form 2q + 1, where q is some integer.
+Solution : Let a be any positive integer and b = 2. Then, by Euclid™s algorithm,
+a = 2q + r, for some integer q  0, and r = 0 or r = 1, because 0  r < 2. So,a = 2q or 2q + 1.If a is of the form 2q, then a is an even integer. Also, a positive integer can be
+either even or odd. Therefore, any positive odd integer is of the form 2q + 1.Example 3 : Show that any positive odd integer is of the form 4q + 1 or 4q + 3, whereq is some integer.
+Solution : Let us start with taking a, where a is a positive odd integer. We apply the
+division algorithm with a and b = 4.Since 0  r < 4, the possible remainders are 0, 1, 2 and 3.That is, a can be 4q, or 4q + 1, or 4q + 2, or 4q + 3, where q is the quotient.However, 
+since a is odd, a cannot be 4q or 4q + 2 (since they are both divisible by 2).Therefore, any odd integer is of the form 4q + 1 or 4q + 3.Example 4 : A sweetseller has 420 kaju barfis and 130 badam barfis. She wants tostack them in such a way that each stack has the same number, and they take up the
+least area of the tray. What is the number of that can be placed in each stack for this
+
+purpose?Solution : This can be done by trial and error. But to do it systematically, we find
+HCF (420, 130). Then this number will give the maximum number of barfis in eachstack and the number of stacks will then be the least. The area of the tray that is used
+up will be the least.Now, let us use Euclid™s algorithm to find their HCF. We have :
+420 =130 × 3 + 30
+130 =30 × 4 + 10
+30 =10 × 3 + 0
+So, the HCF of 420 and 130 is 10.
+Therefore, the sweetseller can make stacks of 10 for both kinds of barfi.
+REAL NUMBERS7EXERCISE1.1
+1.Use Euclid™s division algorithm to find the HCF of :(i)135 and 225
+(ii)196 and 38220(iii)867 and 255
+2.Show that any positive odd integer is of the form 6q + 1, or 6q + 3, or 6q + 5, where q issome integer.3.An army contingent of 616 members is to march behind an army band of 32 members ina parade. The two groups are to march in the same number of columns. What is themaximum number of columns in which they can march?4.Use Euclid™s division lemma to 
+show that the square of any positive integer is either ofthe form 3m or 3m + 1 for some integer m.[Hint : Let x be any positive integer then it is of the form 3q, 3q + 1 or 3q + 2. Now squareeach of these and show that they can be rewritten in the form 3m or 3m + 1.]5.Use Euclid™s division lemma to show that the cube of any positive integer is of the form9m, 9m + 1 or 9m + 8.1.3The Fundamental 
+Theorem of 
+ArithmeticIn your earlier classes, you have seen that any natural number can be written as aproduct of its prime factors. For instance, 2 = 2, 4 = 2 × 2, 253 = 11 × 23, and so on.
+Now, let us try and look at natural numbers from the other direction. That is, can any
+
+natural number be obtained by multiplying prime numbers? Let us see.Take any collection of prime numbers, say 2, 3, 7, 11 and 23. If we multiply
+some or all of these numbers, allowing them to repeat as many times as we wish,
+we can produce a large collection of positive integers (In fact, infinitely many).
+Let us list a few :7 × 11 × 23 = 17713 × 7 × 11 × 23 = 5313
+2 × 3 × 7 × 11 × 23 = 106262
+3 × 3 × 73 = 823222 × 3 × 7 × 11 × 23 = 21252and so on.Now, let us suppose your collection of primes includes all the possible primes.
+What is your guess about the size of this collection? Does it contain only a finitenumber of integers, or infinitely many? Infact, there are infinitely many primes. So, if
+we combine all these primes in all possible ways, we will get an infinite collection of
+numbers, all the primes and all possible products of primes. The question is Œ can weproduce all the composite numbers this way? What do you think? Do you think thatthere may be a composite number which is not the product of powers of primes?
+Before we answer this, let us factorise positive integers, that is, do the opposite of
+what we have done so far.
+
+8MATHEMA
+TICSWe are going to use the factor tree with which you are all familiar. Let us take
+some large number, say, 32760, and factorise it as shown :
+So we have factorised 32760 as 2 × 2 × 2 × 3 × 3 × 5 × 7 × 13 as a product ofprimes, i.e., 32760 = 23 × 32 × 5 × 7 × 13 as a product of powers of primes. Let us tryanother number, say, 123456789. 
+This can be written as 32 × 3803 × 3607. Of course,you have to check that 3803 and 3607 are primes! (Try it out for several other natural
+numbers yourself.)   This leads us to a conjecture that every composite number can bewritten as the product of powers of primes. In fact, this statement is true, and is calledthe Fundamental Theorem of Arithmetic because of its basic crucial importanceto the study of integers. Let us now formally state this theorem.Theorem 1.2 (Fundamental Theorem of Arithmetic) : Every composite numbercan be expressed 
+(factorised
+) as a product of primes, and this factorisation is
+unique, apart from the order in which the prime factors occur.
+32760216380
+28190
+24095
+313653455591713
+REAL NUMBERS9An equivalent version of Theorem 1.2 was probably firstrecorded as Proposition 14 of Book IX in Euclid™s
+
+Elements, before it came to be known as the Fundamental
+Theorem of Arithmetic. However, the first correct proof
+was given by Carl Friedrich Gauss in his DisquisitionesArithmeticae.Carl Friedrich Gauss is often referred to as the ‚Prince ofMathematicians™ and is considered one of the threegreatest mathematicians of all time, along with Archimedes
+and Newton. He has made fundamental contributions toboth mathematics and science.The Fundamental Theorem of Arithmetic says that every composite number
+can be factorised as a product of primes. Actually it says more. It says that given
+
+any composite number it can be factorised as a product of prime numbers in a‚unique™ 
+way, except for the order in which the primes occur. That is, given any
+composite number there is one and only one way to write it as a product of primes,
+as long as we are not particular about the order in which the primes occur. So, for
+example, we regard 2 × 3 × 5 × 7 as the same as 3 × 5 × 7 × 2, or any otherpossible order in which these primes are written. 
+This fact is also stated in thefollowing form:The prime factorisation of a natural number is unique, except for the order
+of its factors.In general, given a composite number x, we factorise it as x = p1p2 ... pn, wherep1, p2,..., pn are primes and written in ascending order, i.e., 
+p1  p2 . . .  pn. If we combine the same primes, we will get powers of primes. For example,32760 = 2 × 2 × 2 × 3 × 3 × 5 × 7 × 13 = 23 × 32 × 5 × 7 × 13Once we have decided that the order will be ascending, then the way the numberis factorised, is unique.The Fundamental Theorem of Arithmetic has many applications, both withinmathematics and in other fields. Let us look at some examples.Example 5 : Consider the numbers 4n, where n is a natural number. Check whether
+there is any value of n for which 4n ends with the digit zero.Solution : If the number 4n, for any n, were to end with the digit zero, then it would bedivisible by 5. That is, the prime factorisation of 4n would contain the prime 5. This isCarl Friedrich Gauss(1777 Œ 1855)
+10M
+ATHEMA
+TICSnot possible because 4n = (2)2n; so the only prime in the factorisation of 4n is 2. So, theuniqueness of the Fundamental Theorem of Arithmetic guarantees that there are noother primes in the factorisation of 4n. So, there is no natural number n for which 4nends with the digit zero.You have already learnt how to find the HCF and LCM of two positive integers
+using the Fundamental Theorem of Arithmetic in earlier classes, without realising it!
+
+This method is also called the prime factorisation method. Let us recall this methodthrough an example.Example 6 : Find the LCM and HCF  of 6 and 20 by the prime factorisation method.Solution : We have :6 = 2
+1 × 31and20 = 2 × 2 × 5 = 2
+2 × 51.You can find HCF(6, 20) = 2 and LCM(6, 20) = 2 × 2 × 3 × 5 = 60, as done in your
+earlier classes.Note that HCF(6, 20) = 21 =Product of the smallest power of each commonprime factor in the numbers.LCM (6, 20) = 22 × 31 × 51 =Product of the greatest power of each prime factor
+,involved in the numbers.From the example above, you might have noticed that HCF(6, 20) × LCM(6, 20)= 6 × 20. In fact, we can verify that for any two positive integers a and b,HCF (
+a, b) × LCM (a, b) = a × b. We can use this result to find the LCM of two
+positive integers, if we have already found the HCF of the two positive integers.Example 7 : Find the HCF of 96 and 404 by the prime factorisation method. Hence,find their LCM.Solution : The prime factorisation of 96 and 404 gives :96 = 25 × 3,404 = 2
+2 × 101Therefore, the HCF of these two integers is 22 = 4.Also,LCM (96, 404) =9640496404
+9696
+HCF(96,404)4
+Example 8 : Find the HCF and LCM of 6, 72 and 120, using the prime factorisationmethod.Solution : We have :
+6 = 2 × 3,72 = 2
+3 × 32, 120 = 23 × 3 × 5Here, 21 and 31 are the smallest powers of the common factors 2 and 3, respectively.
+
+REAL NUMBERS11So,HCF (6, 72, 120) =2
+1 × 31 = 2 × 3 = 623, 32 and 51 are the greatest powers of the prime factors 2, 3 and 5 respectivelyinvolved in the three numbers.So,LCM (6, 72, 120) =2
+3 × 32 × 51 = 360Remark : Notice, 6 × 72 × 120  HCF (6, 72, 120) × LCM (6, 72, 120). So, theproduct of three numbers is not equal to the product of their HCF and LCM.EXERCISE1.2
+1.Express each number as a product of its prime factors:(i)140(ii)
+156(iii)
+3825(iv)5005(v)7429
+2.Find the LCM and HCF of the following pairs of integers and verify that LCM × HCF =product of the two numbers.(i)26 and 91
+(ii)510 and 92(iii)336 and 543.Find the LCM and HCF of the following integers by applying the prime factorisation
+method.(i)12, 15 and 21
+(ii)17, 23 and 29
+(iii)8, 9 and 25
+4.Given that HCF (306, 657) = 9, find LCM (306, 657).5.Check whether 6n can end with the digit 0 for any natural number n.6.Explain why 7 × 11 × 13 + 13 and 7 × 6 × 5 × 4 × 3 × 2 × 1 + 5 are composite numbers.7.There is a circular path around a sports field. Sonia takes 18 minutes to drive one round
+of the field, while Ravi takes 12 minutes for the same. Suppose they both start at the
+same point and at the same time, and go in the same direction. After how many minutes
+
+will they meet again at the starting point?1.4Revisiting Irrational Numbers
+In Class IX, you were introduced to irrational numbers and many of their properties.You studied about their existence and how the rationals and the irrationals together
+
+made up the real numbers. You even studied how to locate irrationals on the number
+
+line. However, we did not prove that they were irrationals. In this section, we willprove that 2,3,5
+ and, in general, p is irrational, where p is a prime. One ofthe theorems, we use in our proof, is the Fundamental Theorem of Arithmetic.Recall, a number ‚s™ is called irrational if it cannot be written in the form ,pqwhere p and q are integers and q  0. Some examples of irrational numbers, with
+12M
+ATHEMA
+TICSwhich you are already familiar, are :2,2,3,15,,0.10110111011110...
+3, etc.Before we prove that 2 is irrational, we need the following theorem, whoseproof is based on the Fundamental Theorem of Arithmetic.Theorem 1.3 :
+ Let p be a prime number. If p divides a2, then p divides a, wherea is a positive integer.
+*Proof : Let the prime factorisation of a be as follows :a = p1p2 . . . pn, where p1,p2, . . ., pn are primes, not necessarily distinct.Therefore, a2 = (
+p1p2 . . . pn)(p1p2 . . . pn) = p21p2
+2 . . . p2n.Now, we are given that 
+p divides a2. Therefore, from the 
+Fundamental Theorem ofArithmetic, it follows that p is one of the prime factors of a2. However, using theuniqueness part of the Fundamental Theorem of Arithmetic, we realise that the only
+prime factors of a2 are p1, p2, . . ., pn. So p is one of p1, p2, . . ., pn.Now, since 
+a = p1 p2 . . . pn, p divides a.We are now ready to give a proof that 
+2 is irrational.The proof is based on a technique called ‚proof by contradiction™. (This technique isdiscussed in some detail in Appendix 1).
+Theorem 1.4 : 2 is irrational.Proof :
+ Let us assume, to the contrary, that 
+2 is rational.So, we can find integers r and s ( 0) such that 2 = rs.Suppose r and s have a common factor other than 1. Then, we divide by the commonfactor to get ,2ab where a and b are coprime.So, b2 = a.Squaring on both sides and rearranging, we get 2b2 = a2. Therefore, 2 divides a2.Now, by Theorem 1.3, it follows that 2 divides 
+a.So, we can write a = 2c for some integer c.* Not from the examination point of view.
+
+REAL NUMBERS13Substituting for a, we get 2b2 = 4c2, that is, b2 = 2c2.This means that 2 divides b2, and so 2 divides b (again using Theorem 1.3 with p = 2).Therefore, a and b have at least 2 as a common factor.But this contradicts the fact that a and b have no common factors other than 1.This contradiction has arisen because of our incorrect assumption that 2 is rational.So, we conclude that 2 is irrational.Example 9 : Prove that 3 is irrational.Solution : Let us assume, to the contrary, that 
+3 is rational.That is, we can find integers a and b ( 0) such that 3 = abSuppose a and b have a common factor other than 1, then we can divide by thecommon factor, and assume that 
+a and b are coprime.So, 3baSquaring on both sides, and rearranging, we get 3b2 = a2.Therefore, a2 is divisible by 3, and by Theorem 1.3, it follows that a is also divisibleby 3.So, we can write a = 3c for some integer c.Substituting for a, we get 3b2 = 9c2, that is, b2 = 3c2.This means that b2 is divisible by 3, and so b is also divisible by 3 (using Theorem 1.3with p = 3).Therefore, a and b have at least 3 as a common factor.But this contradicts the fact that a and b are coprime.This contradiction has arisen because of our incorrect assumption that 3 is rational.So, we conclude that 3 is irrational.In Class IX, we mentioned that :the sum or difference of a rational and an irrational number is irrational andthe product and quotient of a non-zero rational and irrational number isirrational.We prove some particular cases here.
+
+14M
+ATHEMA
+TICSExample 10 : Show that 5Œ3
+ is irrational.Solution : Let us assume, to the contrary, that 
+5Œ3
+ is rational.That is, we can find coprime a and b (b  0) such that 53ab
+Therefore, 53ab
+Rearranging this equation, we get 535Œ
+aba
+
+bb
+Since a and b are integers, we get 5Œab is rational, and so 3 is rational.But this contradicts the fact that 3 is irrational.This contradiction has arisen because of our incorrect assumption that 5 Œ 3 isrational.So, we conclude that 53 is irrational.Example 11 :
+ Show that 32 is irrational.Solution : Let us assume, to the contrary, that 
+32 is rational.That is, we can find coprime a and b (b  0) such that 32abRearranging, we get 23abSince 3, a and b are integers, 3ab is rational, and so 2 is rational.But this contradicts the fact that 2 is irrational.So, we conclude that 32 is irrational.EXERCISE1.3
+1.Prove that 5 is irrational.2.Prove that 325
+ is irrational.3.Prove that the following are irrationals :(i)12(ii)75(iii)62
+REAL NUMBERS151.5Revisiting Rational Numbers and Their Decimal Expansions
+In Class IX, you studied that rational numbers have either a terminating decimalexpansion or a non-terminating repeating decimal expansion. In this section, we aregoing to consider a rational number, say (0)
+pqq, and explore exactly when the
+decimal expansion of pq is terminating and when it is non-terminating repeating(or recurring). We do so by considering several examples.
+Let us consider the following rational numbers :(i) 0.375(ii) 0.104
+(iii) 0.0875(iv)23.3408.
+Now(i)
+3375375
+0.375
+100010
+(ii)3104104
+0.104
+100010
+(iii)4875875
+0.0875
+1000010
+(iv)4233408233408
+23.3408
+1000010
+As one would expect, they can all be expressed as rational numbers whosedenominators are powers of 10. Let us try and cancel the common factors betweenthe numerator and denominator and see what we get :(i)33333
+375353
+0.375
+10252
+
+(ii)33333
+10413213
+0.104
+10255
+
+(iii)448757
+0.0875
+1025
+(iv)24423340827521
+23.3408
+105
+Do you see any pattern? It appears that, we have converted a real numberwhose decimal expansion terminates into a rational number of the form ,pq where pand q are coprime, and the prime factorisation of the denominator (that is, q) has onlypowers of 2, or powers of 5, or both. We should expect the denominator to look like
+this, since powers of 10 can only have powers of 2 and 5 as factors.Even though, we have worked only with a few examples, you can see that anyreal number which has a decimal expansion that terminates can be expressed as arational number whose denominator is a power of 10. Also the only prime factors of 10are 2 and 5. So, cancelling out the common factors between the numerator and thedenominator, we find that this real number is a rational number of the form ,pq wherethe prime factorisation of q is of the form 2n5m, and n, m are some non-negative integers.Let us write our result formally:
+16M
+ATHEMA
+TICSTheorem 1.5 : Let x be a rational number whose decimal expansion terminates.Then x can be expressed in the form 
+,pq where p and q are coprime, and the
+prime factorisation of q is of the form 2n5m, where n, m 
+are non-negative integers.
+You are probably wondering what happens the other way round in Theorem 1.5.
+That is, if we have a rational number of the form ,pq and the prime factorisation of qis of the form 2n5m, where n, m are non negative integers, then does pq have aterminating decimal expansion?Let us see if there is some obvious reason why this is true. You will surely agree
+that any rational number of the form ,ab where b is a power of 10, will have a terminatingdecimal expansion. So it seems to make sense to convert a rational number of theform pq, where q is of the form 2n5m, to an equivalent rational number of the form ,abwhere b is a power of 10. Let us go back to our examples above and work backwards.(i)33333
+3335375
+0.375
+822510
+
+(ii)33333
+1313132104
+0.104
+12552510
+
+(iii)34444
+7775875
+0.0875
+80252510
+
+(iv)264444
+145882752127521233408
+23.3408
+62552510
+
+
+So, these examples show us how we can convert a rational number of the formpq, where q is of the form 2n5m, to an equivalent rational number of the form ,a
+bwhere b is a power of 10. Therefore, the decimal expansion of such a rational numberterminates. Let us write down our result formally.
+Theorem 
+1.6 : Let x = pq be a rational number, such that the prime factorisation
+of q is of the form 2n5m, where n, m are non-negative integers. Then x has a
+decimal expansion which terminates.
+REAL NUMBERS17We are now ready to move on to the rational numbers
+whose decimal expansions are non-terminating and recurring.Once again, let us look at an example to see what is going on.
+We refer to Example 5, Chapter 1, from your Class IX
+textbook, namely, 
+17. Here, remainders are 3, 2, 6, 4, 5, 1, 3,
+2, 6, 4, 5, 1, . . . and divisor is 7.Notice that the denominator here, i.e., 7 is clearly not ofthe form 2n5m. Therefore, from Theorems 1.5 and 1.6, weknow that 17 will not have a terminating decimal expansion.Hence, 0 will not show up as a remainder (Why?), and theremainders will start repeating after a certain stage. So, we
+will have a block of digits, namely, 142857, repeating in thequotient of 17.What we have seen, in the case of 1
+7, is true for any rational number not coveredby Theorems 1.5 and 1.6. For such numbers we have :Theorem 1.7 :
+ Let x = pq be a rational number, such that the prime factorisation
+of q is not of the form 2n5m, where n, m are non-negative integers. Then, x has a
+decimal expansion which is non-terminating repeating 
+(recurring
+).From the discussion above, we can conclude that the decimal expansion ofevery 
+rational number is either terminating or non-terminating repeating.EXERCISE1.4
+1.Without actually performing the long division, state whether the following rational
+numbers will have a terminating decimal expansion or a non-terminating repeating decimal
+expansion:(i)133125(ii)178(iii)64455(iv)151600(v)29343(vi)322325(vii)275
+129257
+(viii)615(ix)3550(x)77210710
+73 0282 0
+146 0564 0355 0491 073 00.1428571
+
+18M
+ATHEMA
+TICS2.Write down the decimal expansions of those rational numbers in Question 1 above
+which have terminating decimal expansions.3.The following real numbers have decimal expansions as given below. In each case,decide whether they are rational or not. If they are rational, and of the form ,pq what canyou say about the prime factors of q?(i)43.123456789(ii)
+0.120120012000120000. . .(iii)43.123456789
+1.6Summary
+In this chapter, you have studied the following points:1.Euclid™s division lemma :
+Given positive integers a and b, there exist whole numbers q and r satisfying a = bq + r,0  r < b.2.Euclid™s 
+division algorithm : This is based on Euclid™s division lemma. According to this,
+the HCF of any two positive integers a and b, with a > b, is obtained as follows:Step 1 :
+ Apply the division lemma to find q and r where a = bq + r, 0  r < b.Step 2 : 
+If r = 0, the HCF is b. If r  0, apply Euclid™s lemma to 
+b and r.Step 3 : Continue the process till the remainder is zero. The divisor at this stage will beHCF (a, b). Also, HCF(a, b) = HCF(b, r).3.The Fundamental Theorem of Arithmetic :Every composite number can be expressed (factorised) as a product of primes, and thisfactorisation is unique, apart from the order in which the prime factors occur.
+4.If p is a prime and p divides a2, then p divides a, where a is a positive integer.
+5.To prove that 
+2,3
+ are irrationals.6.Let x be a rational number whose decimal expansion terminates. Then we can express xin the form pq, where p and q are coprime, and the prime factorisation of q is of the form2n5m, where n, m are non-negative integers.7.Let x = pq be a rational number, such that the prime factorisation of 
+q is of the form 2n5m,where n, m are non-negative integers. Then x has a decimal expansion which terminates.8.Let x = pq be a rational number, such that the prime factorisation of 
+q is not of the form2n 5m, where n, m are non-
+negative integers. Then x has a decimal expansion which isnon-terminating repeating (recurring).
+REAL NUMBERS19A NOTE TO THE READERYou have seen that :
+HCF (p, q, r) × LCM (p, q, r)  p × q × r, where p, q, r are positive integers(see Example 8). However, the following results hold good for three numbersp, q and r :LCM (p, q, r) =HCF(,,)
+HCF(,)HCF(,)HCF(,)
+pqrpqr
+pqqrpr
+
+HCF (p, q, r) =LCM(,,)
+LCM(,)LCM(,)LCM(,)
+pqrpqr
+pqqrpr
+
+

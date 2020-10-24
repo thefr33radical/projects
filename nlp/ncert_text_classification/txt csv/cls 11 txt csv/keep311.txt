@@ -1,0 +1,129 @@
+MCQ I11.1A bimetallic strip is made of aluminium and steel Alsteel
+.On heating, the strip will(a)remain straight.
+(b)get twisted.
+(c)will bend with aluminium on concave side.
+(d)will bend with steel on concave side.
+11.2A uniform metallic rod rotates about its perpendicular bisectorwith constant angular speed. If it is heated uniformly to raise itstemperature slightly(a)its speed of rotation increases.
+(b)its speed of rotation decreases.
+
+(c)its speed of rotation remains same.
+(d)its speed increases because its moment of inertia increases.
+11.3The graph between two temperature scales A and B is shown inFig. 11.1. Between upper fixed point and lower fixed point thereChapter ElevenTHERMALPROPERTIES OF
+MATTER
+Exemplar ProblemsŒPhysics78are 150 equal division on scale A and 100 on scale B.The relationship for conversion between the two scales
+is given by(a) 
+180
+100150
+ABtt(b) 
+30150100
+ABtt(c) 
+180
+150100
+BAtt(d) 
+40100180
+BAtt11.4
+An aluminium sphere is dipped into water. Which of the following
+
+is true?(a)Buoyancy will be less in water at 0
+°C than that in water at4°C.(b)Buoyancy will be more in water at  0
+°C than that in water at4°C.(c)Buoyancy in water at  0
+°C will be same as that in water at4°C.(d)Buoyancy may be more or less in water at 4
+°C depending onthe radius of the sphere.11.5
+As the temperature is increased, the time period of a pendulum(a)increases as its effective length increases even though its centre
+of mass still remains at the centre of the bob.(b)decreases as its effective length increases even though its centre
+of mass still remains at the centre of the bob.(c)increases as its effective length increases due to shifting of
+centre of mass below the centre of the bob.(d)decreases as its effective length remains same but the centre
+of mass shifts above the centre of the bob.11.6
+Heat is associated with(a)kinetic energy of random motion of molecules.
+(b)kinetic energy of orderly motion of molecules.
+
+(c)total kinetic energy of random and orderly motion of
+molecules.(d)kinetic energy of random motion in some cases and kinetic
+energy of or
+derly motion in other.
+Fig. 11.1
+Thermal Properties of Matter7911.7The radius of a metal sphere at room temperature T is R, and thecoefficient of linear expansion of the metal is . The sphere isheated a little by a temperature T so that its new temperature isTT. The increase in the volume of the sphere is approximately(a)2RT(b)2RT(c)34/3
+RT(d)34RT11.8A sphere, a cube and a thin circular plate, all of same materialand same mass are initially heated to same high temperature.(a)Plate will cool fastest and cube the slowest
+(b)Sphere will cool fastest and cube the slowest
+(c)Plate will cool fastest and sphere the slowest
+(d)Cube will cool fastest and plate the slowest.
+MCQ II11.9Mark the correct options:(a)A system 
+X is in thermal equilibrium with Y but not with Z.System Y and Z may be in thermal equilibrium with eachother.
+(b)A system 
+X is in thermal equilibrium with Y but not with Z.Systems Y and Z are not in thermal equilibrium with eachother.
+(c)A system 
+X is neither in thermal equilibrium with Y nor withZ. The systems Y and Z must be in thermal equilibrium witheach other.
+(d)A system 
+X is neither in thermal equilibrium with Y nor withZ. The system Y and Z may be in thermal equilibrium witheach other.
+11.10‚Gulab Jamuns™ (assumed to be spherical) are to be heated in anoven. They are available in two sizes, one twice bigger (in radius)
+than the other. Pizzas (assumed to be discs) are also to be heated
+in oven. They are also in two sizes, one twice big (in radius) thanthe other. All four are put t
+ogether to be heated to oventemperature. Choose the correct option from the following:(a)Both size gulab jamuns will get heated in the same time.
+(b)Smaller gulab jamuns are heated before bigger ones.
+(c)Smaller pizzas are heated before bigger ones.
+(d)Bigger pizzas are heated before smaller ones.
+
+Exemplar ProblemsŒPhysics8011.11Refer to the plot of temperature versus time (Fig. 11.2) showingthe changes in the state of ice on heating (not to scale).Fig. 11.2S.No.l (m)(C)
+T(m)
+l1.210
+4410
+2.110
+4410
+3.220
+4210
+4.310
+4610
+If the first observation is correct, what can you say aboutobservations 2, 3 and 4.Temperatur
+e(C)
+o100OABtmCDEtime (min)Which of the following is correct?(a)The region AB represents ice and water in thermal
+equilibrium.(b)At B water starts boiling.
+(c)At C all the water gets converted into steam.
+
+(d)C to D represents water and steam in equilibrium at
+boiling point.11.12A glass full of hot milk is poured on the table. It begins to coolgradually. Which of the following is correct?(a)The rate of cooling is constant 
+till milk attains thetemperature of the surrounding.
+(b)The temperature of milk falls off exponentially with time.
+(c)While cooling, there is a flow of heat from milk to the
+surrounding as well as from surrounding to the milk butthe net flow of heat is from milk to the surounding and that
+is why it cools.
+(d)All three phenomenon, conduction, convection and radiation
+are responsible for the loss of heat from milk to thesurroundings.VSA11.13Is the bulb of a thermometer made of diathermic or adiabatic wall?11.14A student records the initial length l, change in temperatureTand change in length lof a rod as follows:
+Thermal Properties of Matter8111.15Why does a metal bar appear hotter than a wooden bar at thesame temperature? Equivalently it also appears cooler than
+wooden bar if they are both colder than room temperature.11.16Calculate the temperature which has same numeral value oncelsius and Fahrenheit scale.11.17These days people use steel utensils with copper bottom. This issupposed to be good for uniform heating of food. Explain this
+effect using the fact that copper is the better conductor.
+SA11.18Find out the increase in moment of inertia I of a uniform rod
+(coefficient of linear expansion ) about its perpendicular
+bisector when its temperature is slightly increased by T.11.19During summers in India, one of the common practice to keepcool is to make ice balls of crushed ice, dip it in flavoured sugarsyrup and sip it. For this a stick is inserted into crushed ice and
+is squeezed in the palm to make it into the ball. Equivalently inwinter, in those areas where it snows, people make snow ballsand throw around. Explain the formation of ball out of crushed
+ice or snow in the light of PŒT diagram of water.
+11.20100 g of water is supercooled to Œ10°C. At this point, due tosome disturbance mechanised or otherwise some of it suddenlyfreezes to ice. What will be the temperature of the resultantmixture and how much mass would freeze?owwFusion
+S=1cal/g/Cand=80cal/g
+L11.21One day in the morning, Ramesh filled up 1/3 bucket ofhot water from geyser, to take bath. Remaining 2/3 was to
+be filled by cold water (at  room temperature) to bringmixture to a comfortable temperature. Suddenly Ramesh
+had to attend to something which would take some times,
+say 5-10 minutes before he could take bath. Now he had
+two options: (i) fill the remaining bucket completely by coldwater and then attend to the work, (ii) first attend to thework and fill the remaining bucket just before taking bath.
+Which option do you think would have kept water warmer ?
+
+Explain.
+Exemplar ProblemsŒPhysics82LA11.22We would like to pr
+epare a 
+scale whose length does not changewith temperature. It is proposed to prepare a unit scale of thistype whose length remains, say 10 cm. We can use a bimetallic
+
+strip made of brass and iron each of different length whose length
+(both components) would change in such a way that differencebetween their lengths remain constant. If 51.210/K
+iron
+ and51.810/K
+brass
+, what should we take as length of each strip?11.23We would like to make a vessel whose volume does not change
+with temperature (take a hint from the problem above). We can
+use brass and iron (vbrass = 6 × 10Œ5/K  and viron = 3.55 ×10Œ5/K) to create  a volume of 100 cc. How do you think you canachieve this.11.24Calculate the stress developed inside a tooth cavity filled withcopper when hot tea at temperature of 57oC is drunk. You can
+take body (tooth) temperature to be 37o C and  = 1.710-5/oC,bulk modulus for copper = 140 10 9 N/m2.11.25A rail track made of steel having length 10 m is clamped on araillway line at its two ends (Fig 11.3). On a summer day due torise in temperature by 20° C , it is deformed as shown in figure.Find x (displacement of the centre) if steel
+= 1.210-5 /°C.11.26A thin rod having length 
+L0 at 0°C and coefficient of linearexpansion has its two ends maintained at temperatures 1 and2, respectively. Find its new length.11.27According to Stefan™s law of radiation, a black body radiatesenergy T4 from its unit surface area every second where T is thesurface temperature of the black body and  = 5.67 × 10Œ8 W/m2K4 is known as Stefan™s constant. A nuclear weapon may bethought of as a ball of radius 0.5 m. When detonated, it reachestemperature of 106K and can be treated as a black body.(a)Estimate the power it radiates.
+(b)If surrounding has water at 
+30C
+, how much water can 10%of the energy produced evaporate in 1 s?54186.0J/kgKand22.610J/kg
+wvSL
+(c)If all this energy U is in the form of radiation, corresponding
+momentum is p = U/c. How much momentum per unit timedoes it impart on unit area at a distance of 1 km?Fig. 11.3

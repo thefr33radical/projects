@@ -1,0 +1,353 @@
+Weightage and the distribution of marks over different dimensions of the question
+shall be as follows:(A) Weightage to 
+Content/ Subject Units :S.No.Content UnitMarks1.Number Systems04
+
+2.Algebra20
+3.Trigonometry12
+
+4.Coordinate Geometry08
+
+5.Geometry16
+
+6.Mensuration10
+7.Statistics and Probability10
+                                               Total : 80
+(B) Weightage to Forms of Questions :S.No.Form ofMarks for 
+eachNumber ofT
+otal MarksQuestionsQuestionQuestions
+1.MCQ011010
+2.SAR020510
+3.SA031030
+DESIGN OF THE QUESTION PAPERMathematicsClass XTime : 3 HoursMaximum Marks : 80
+    4.LA  06   
+05   30      Total   30    80
+SET-I
+204EXEMPLAR PROBLEMS(C) Scheme of OptionsAll questions are compulsory, i.e., there is no overall choice. However, internal choices
+are provided in one question of 2 marks, three questions of 3 marks each and twoquestions of 6 marks each.(D) Weightage to Difficulty Level of Questions
+  S.No.Estimated Difficulty
+Percentage of MarksLevel of Questions  1.Easy20
+  2.Average60
+
+  3.Difficult20
+Note : A question may vary in difficulty level from individual to individual. As such, the
+assessment in respect of each will be made by the paper setter/ teacher on the basis ofgeneral anticipation from the groups as whole taking the examination. This provision is
+only to make the paper balanced in its weight, rather to determine the pattern of marking
+at any stage.
+DESIGN OF THE QUESTION PAPER, SET-I205
+BLUE PRINTMATHEMATICS
+CLASS XForm of QuestionUnitsMCQSARSA LATotal
+Number Systems2(2)2(1)--4(3)
+Algebra3(3)2(1)9(3)
+6(1)20(8)
+Polynomials, Pair ofLinear Equations in
+Two Variables,
+
+Quadratic Equations,Arithmatic ProgressionsTrigonometry
+1(1)2(1)3(1)
+6(1)12(4)
+Introduction to T
+rigonometry,
+Some Applications of
+Trigonometry
+Coordinate Geometry1(1)4(2)3(1)-8(4)
+Geometry1(1)-9(3)
+6(1)16(5)
+Triangles, Circles,
+ConstructionsMensuration1(1)-3(1)
+6(1)10(3)
+Areas related to Circles,Surface Areas and 
+Volumes
+Statistics & 
+Probability
+1(1)-3(1)
+6(1)10(3)
+Total
+10(10)10(5)30(10)30(5)80(30)
+SUMMARY
+Multiple Choice Questions (MCQ)Number of Questions : 10Marks : 10Short Answer Questions
+with Resasoning (SAR)Number of Questions : 05Marks : 10
+Short Answer Questions 
+(SA)Number of Questions : 10
+Marks : 30Long Answer Qustions (LA)Number of Questions : 05Marks : 30
+                                Total       
+                             30         80
+
+206EXEMPLAR PROBLEMSMathematicsClass XMaximum Marks : 80Time : 3 Hours
+General Instructions1.All questions are compulsory.
+2.The question paper consists of  30 questions divided into four sections A, B, C, and
+D.Section A contains 10 questions of 1 mark each, Section B contains 5 questions
+
+of 2 marks each, Section C contains 10 questions of 3 marks each and Section Dcontains 5 questions of 6 marks each.3.There is no overall choice. However, an internal choice has been provided inone question of 2 marks, three questions of 3 marks and two questions of 6
+marks each.4.In questions on construction, the drawing should be neat and exactly as per givenmeasurements.5.Use of calculators is not allowed.SECTION A1.After how many decimal places will the decimal expansion of the number324725 terminate?(A) 5(B) 2(C) 3(D) 1
+2.Euclid™s division lemma states that for two positive integers a and b, there existunique integers q and r such that a = bq + r, where(A) 0 r a(B) 0 < r < b(C) 0 r  b(D) 0  r < b3.The number of zeroes, the polynomial p (x) = (x Œ 2)2 + 4 can have, is(A) 1(B) 2(C) 0(D) 3
+4.A pair of linear equations a1x + b1y + c1 = 0; a2x + b2y + c2 = 0 is said to beinconsistent, if(A)  1122abab(B) 111222abc
+abc
+     (C) 111222abc
+abc
+    (D)
+1122acac5.The smallest value of k for which the equation x2  + kx + 9 = 0 has real roots, is(A) Œ 6(B) 6
+(C) 36(D) Œ3
+6.The coordinates of the points P and Q are (4, Œ3) and (Œ1, 7). Then the abscissa ofa point R on the line segment PQ such that PR3
+PQ5
+ is
+DESIGN OF THE QUESTION PAPER, SET-I207
+(A) 185(B) 175(C) 178     (D) 17.In the adjoining figure, PA  and PB are tangents from a
+point P to a circle with centre O. Then the quadrilateralOAPB must be a(A) square(B) rhombus
+
+(C) cyclic quadrilateral(D) parallelogram8.If for some angle cot 213, then the value ofsinwhere < 90º is
+(A) 12(B) 1(C) 0
+(D) 329.From each corner of a square of side 4 cm, a quadrant
+of a circle of radius 1 cm is cut and also a circle of
+diameter 2 cm is cut as shown in figure. The area of the
+remaining (shaded) portion is(A) (16 Œ ) cm2(B) (16 Œ 5) cm2(C) 2 cm2(D) 5 cm210.A letter of English alphabets is chosen at random. Theprobability that it is a letter of the word
+‚MATHEMA
+TICS™ is
+(A) 1126(B) 513(C) 926(D) 413SECTION B11.
+Is there any natural number n for which 4n ends with the digit 0? Give reasons insupport of your answer.12.Without using the formula for the 
+nth term, find which term of the AP : 5, 17, 29, 41,
+... will be 120 more than its 15th term? Justify your answer.
+ORIs 144 a term of the AP : 3, 7, 11, ... ? Justify your answer.
+13.The coordinates of the points P, Q and R are (3, 4), (3, Œ4)  and (Œ3, 4), respectively.
+Is the area of PQR 24 sq. units? Justify your answer.
+
+208EXEMPLAR PROBLEMS14.The length of a line segment is 10 units. If one end is (2, Œ3) and the abscissa of theother end is 10, then its ordinate is either 3 or Œ9. Give justification for the two
+answers.15.What is the maximum value of 3cosec
+ ? Justify your answer.
+SECTION C16.Find the zeroes of the polynomial p (x) = 243Œ23Œ23
+xx and verify therelationship between the zeroes and the coefficients.OROn dividing the polynomial f (x) = x3  Œ 5
+x2 + 6x Œ 4 by a polynomial g(x), thequotient q (x) and remainder r (x) are x Œ 3, Œ3x + 5, respectively. Find the polynomial
+g (x).17.Solve the equations 5x Œ y = 5 and 3x Œ y = 3 graphically.
+18.If the sum of the first n terms of an AP is 4
+n Œ n2, what is the10th  term and the nthterm?ORHow many terms of the AP : 9, 17, 25, ... must be taken to give a sum 636?
+19.If  (1, 2), (4, y), (x, 6) and (3, 5) are the vertices of a parallelogram taken in order,find the values of x and y.20.The sides AB, BC and median AD of a 
+ABC are respectively propotional to  thesides PQ, QR and the median PM of PQR. Show that ABC ~ PQR.21.A triangle ABC is drawn to circumscribe a circle of radius 4 cm such that the
+segments BD and DC into which BC is divided by the point of contact D are oflengths 8 cm and 7 cm, respectively. Find the sides AB and AC.
+22.Construct an isosceles triangle whose base is 6 cm and altitude 5 cm and thenanother triangle whose sides are 75 of the corresponding sides of the isoscelestriangle.23.Prove that cosŒsin11
+
+sincosŒ1cosecŒcot
+   
+      
+.OREvaluate:23cos43cos37cosec53
+Œsin47tan5tan25tan45tan65tan85
+   
+          
+  
+DESIGN OF THE QUESTION PAPER, SET-I209
+24.In the figure, ABC is a triangle right angled at A. Semicircles are drawn on AB,
+AC and BC as diameters. Find the area of the shaded region.25.A bag contains white, black and red balls only. A ball is drawn at random from the
+bag. The probability of getting a white ball is 310 and that of a black ball is 25. Findthe probability of getting a red ball. If the bag contains 20 black balls, then find thetotal number of balls in the bag.SECTION D26.If the price of a book is reduced by Rs 5, a person can buy 5 more books for
+Rs 300. Find the original list price of the book.ORThe sum of the ages of two friends is 20 years. Four years ago, the product of their
+ages in years was 48. Is this situation possible? If so, determine their present ages.27.Prove that the lengths of the tangents drawn from an external point to a circle areequal.Using the above theorem, prove that:
+If quadrilateral ABCD is circumscribing a circle, then AB + CD = AD + BC.
+ORProve that the ratio of the areas of two similar triangles is equal to the ratio of the
+squares of the corresponding sides.
+Using the above theorem, do the following :
+ABC is an iscosceles triangle right angled at B. Two equilateral triangles ACD and
+
+ABE are constructed on the sides AC and AB, respectively. Find the ratio of the
+areas of andACD.
+210EXEMPLAR PROBLEMS28.The angles of depression of the top and bottom of a building 50 metres high asobserved from the top of a tower are 30° and 60°, respectively. Find the
+
+height of the tower and also the horizontal distances between the building and the
+tower.
+29.A well of diameter 3 m and 14 m deep is dug. The earth, taken out of it, has been
+evenly spread all around it in the shape of a circular ring of width 4 m to form an
+embankment . Find the height of the embankment.30.The following table shows the ages of the patients admitted in a hospital during amonth:Age (in years) :5 - 1515 - 2525 - 3535 - 4545 - 5555 - 65
+Number of patients :   6    11     21     23     14     5
+Find the mode and the mean of the data given above.
+DESIGN OF THE QUESTION PAPER, SET-I211
+MARKING  SCHEMESECTION AMARKS1. (C)         2.
+ (D)          3.
+ (C)4. (C)5. (A)6. (D)7. (C)         8.
+ (B)          9.
+ (A)10. (D)(1  ×  ×  ×  ×  × 10 = 10)SECTION B11.
+No(
+12)4n = 22nTherefore, 2 is the only prime number in its prime facorisation, so it cannot endwith zero.(1
+12)12.25th term(
+12)120 will be added in 10 terms (since d = 12)Therefore, 15 + 10 = 25(1
+12)ORNo(
+12)Here, a = 3 (odd), d = 4 (even)Sum of (odd + even) = odd but 144 is even                  (1
+1
+2)13.Yes(
+1
+2)Here, PQ = 8,PR = 6, therefore, area = 12. 8.6 = 24 sq. units.(
+112)14.Let ordinate of the point be y. 
+Then (10 Œ 2)2 + (y + 3)2 = 102 , i.e.,y + 3 = ± 6,i.e., y = 3 or Œ9(1 + 1)
+15.Maximum value = 3(
+12)
+212EXEMPLAR PROBLEMSSince 3cosec 
+ = 3 sinand sin
+  1, therefore, 3 sin 3(112)SECTION C16.p(x) = 43x2 Œ23x Œ 23 =  23 (2x2 Œ x Œ 1)       = 
+23(2x + 1) (x Œ 1)Therefore, two zeroes are 1Œ2, 1                                                            (1)
+Here a = 43, b = 23, c = Œ23Therefore, 1Œ2+ 1 = 12,  Œb
+a= 231
+243, i.e., Œb
+a(1)1Œ21 = 1Œ2, Œ2343ca = 1Œ2,   i.e., ca(1)ORf(x) = g(x) q(x) + r(x)Therefore, x3 Œ 5x2 + 6x Œ 4 = g(x) (x Œ 3) + (Œ3x + 5)(1)
+Therefore, g(x) = 32Œ56Œ43Œ5
+Œ3xxxx
+x= 32Œ59Œ4
+Œ3xxxx(1)                        = 
+x2 Œ 2x + 3(1)
+17. 5x Œ y = 5                  3
+x Œ y = 3x123x123y0510
+y036
+DESIGN OF THE QUESTION PAPER, SET-I213
+For correct graph(2)Solution is x = 1, y = 0(1)
+18.Sn = 4n Œ n2. Therefore, t10 = S10 Œ S9 = (40 Œ 100) Œ (36 Œ81)(
+12)= Œ60 + 45 = Œ15(1)
+tn = Sn Œ Sn Œ 1= (4n Œ n2) Œ [4 (n Œ 1) Œ (n Œ 1)2](12)= 4n Œ n2 Œ 4n + 4 + n2 + 1 Œ 2n = 5 Œ 2n(1)ORa = 9, d = 8, Sn = 636Using Sn = 2n[2a + (n Œ 1) d], we have 636 = 2
+n[18 + (n Œ 1) 8](1
+12) 
+214EXEMPLAR PROBLEMSSolving to get n = 12(1
+12)19.Let A 
+(1, 2), B (4, y) and C (x, 6) and D (3, 5) be the vertices.The mid-point of AC is 
+1,42x + 
+   (12)and mid-point of BD is 75,22y(12)ABCD is a parellologram. Therefore, 1722x,i.e., x = 6(1)
+52y= 4 , i.e., y = 3(1)
+20.20.20.20.20.Given ABBCBDAD
+PQQRQMPM
+
+Therefore,ABDPQM          [SSS]         
+( 11
+2)Therefore,  Q.  Also, since 
+ABBC
+
+PQQR
+,i.e.,ABC ~ PQR [SAS]     (1
+1
+2)21.21.21.21.21.Let AE (=AF) = 
+x cm.Area  ABC = 
+1
+2. 4 . (AB + BC + AC)= (Œ)(Œ)(Œ)ssasbsc
+12
+DESIGN OF THE QUESTION PAPER, SET-I215
+ i.e., 4 s = (Œ)(Œ)(Œ)
+ssasbsc
+(12)16 s = (s Œ a) (s Œ b) (s Œ c)(1
+2) i.e., 16 (15 + x) = x . 8 . 7,  i.e., x = 6(1)
+Therefore, AB = 14 
+cm and AC = 13 cm(
+1
+2)22.Construction of isosceles  with base 6 cm and altitude 5 cm(1)
+Construction of similar  with scale factor 7
+5(2)23.LHS = cosŒsin1
+sincosŒ1
+
+
+= cotŒ1cosec
+1cotŒcosec
+
+
+(1)= cotŒ1cosec
+1Œ(cosecŒcot)
+
+= 22coseccotŒ1
+(cosecŒcot
+)Œ(cosecŒcot
+)
+
+(1)= coseccotŒ1
+(cosecŒcot)(coseccotŒ1)
+
+
+= 1cosecŒcot
+(1)OR23cos43cos37cosec53
+Œsin47tan5tan25tan45tan65tan85
+     
+        
+  = 23cos43cos37.sec37
+Œcos43tan5tan25(1)cot25cot5
+
+
+(2)= (3)2 Œ 1
+1 = 9 Œ 1 = 8(1)
+24.Required area = area of semicircle with diameter AB + 
+
+area of semicircle with diameter AC  + 
+ area of right triangle ABC Œ 
+area of semicircle with diameter BC
+
+(1)
+216EXEMPLAR PROBLEMSRequired area = 222
+1111
+.(3)(4)68Œ(5)
+2222
+       
+ sq. units(1)
+                      = 24 + 
+12 (9 + 16 Œ 25) = 24 sq. units(1)
+25.P(Red ball) = 1 Œ {P(White ball) + P(Black ball )}(1)
+                  = 1 Œ 
+32105
+= 310(12)Let the total number of balls be y.Therefore, 202
+,i.e.,  50
+5yy  (11
+2)SECTION D26.Let the list price of a book be Rs xTherefore, number of books, for Rs 300  = 300
+x(12)No. of books, when price is (x Œ 5) = 300
+5xŒ(1
+2)Therefore,  300
+5xŒ Œ 300
+x = 5(2)
+300 (x Œ x + 5) = 5x (x Œ 5)300 = x (x Œ 5), i.e., x2 Œ 5x Œ 300 = 0(1)
+i.e., x = 20, x = Œ15 (rejected)(1)
+Therefore, list price of a book = Rs 20(1)
+ORLet the present age of one of them be x years, so the age of the other= (20 Œ x) yearsTherefore, 4 years ago, their ages were, x Œ 4, 16 Œ x years(1)
+Therefore, (x Œ 4) (16 Œ x) = 48(1
+1
+2)
+DESIGN OF THE QUESTION PAPER, SET-I217
+i.e., Œ x2 + 16 x + 4x Œ 64 Œ 48 = 0x2 Œ 20x + 112
+x = 0(1)
+Here B2 Œ 4 AC = 2(20)Œ4(112)Œ48
+(12)Thus, the equation has no real solution(1)
+Hence, the given situation is not possible(1)
+27.For correct, given, to prove, contruction and figure(2)
+For correct proof(2)
+APAS
+BPBQ
+DRDS
+CRCQ
+(1)Adding to get (AP + BP) + (DR + CR) = (AS + DS) + (BQ + CQ)i.e., AB + CD = AD + BC(1)
+ORFor correct,given, to prove, construction and figure(2)
+For correct proof(2)
+Let AB = BC = 
+a, i.e., AC = 
+222aaa
+(12)areaABC
+areaACD
+= 2222AB1
+2AC2
+aa(112)28.For correct figure(1)
+In ABD,ABBD= tan 60° = 3(1)Therefore, AB = 
+3 BD                (I)
+In  ACE, AEAE
+
+ECBD
+ =   tan 30° = 13 (1)i.e., (ABŒ50)1
+BD3, i.e., 3 (AB Œ 50) = BD(1)
+(tangents to a circle from externalpoint are equal)
+218EXEMPLAR PROBLEMSTherefore, from (I) AB = 
+3. 3 (AB Œ 50) ,i.e., AB = 3AB Œ 150 ,i.e.,AB = 75 m(1)
+BD = 3 (75 Œ 50) = 253 m (1)
+29.Volume of earth dug out = 
+r2h = (1.5)2 × 14 = 31.5 m3(2)Area of circular ring = R2 Œ r22 Œ (1.5)2](1)
+m2 (1)Let height of embankment be h metresTherefore, 28× h = 31.5 1)
+h = 31.5
+28= 1.125 m(1)
+30.Age (in years)5-1515-2525-3535- 45
+45-5555-65
+Total
+No. of
+611212314580
+patients(f1)Class marks(
+xi)102030405060      (
+12)fixi602206309207003002830(1)
+Mean = iiifxf= 283080= 35.375 years (1)
+Modal class is (35 Œ 45)             (
+1
+2)Therefore, Mode = l + 10102
+2ŒŒ
+fŒ f
+fff × h(1)Putting l = 35, f1 = 23, f0 = 21, f2 = 14 and h = 10, we get(1)
+Mode = 35 + 21011= 36.81 years(1)
+Note: Full credit should be given for alternative correct solution.

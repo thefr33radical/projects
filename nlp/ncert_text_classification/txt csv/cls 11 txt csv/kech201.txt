@@ -1,0 +1,87 @@
+255
+REDOX REACTIONS
+Chemistry deals with varieties of matter and change of one
+kind of matter into the other. Transformation of matter from
+one kind into another occurs through the various types of
+reactions. One important category of such reactions is
+Redox Reactions
+. A number of phenomena, both physical
+as well as biological, are concerned with redox reactions.
+These reactions find extensive use in pharmaceutical,
+biological, industrial, metallurgical and agricultural areas.
+The importance of these reactions is apparent from the fact
+that burning of different types of fuels for obtaining energy
+for domestic, transport and other commercial purposes,
+electrochemical processes for extraction of highly reactive
+metals and non-metals, manufacturing of  chemical
+compounds like  caustic soda, operation of dry and wet
+batteries and corrosion of metals fall within the purview of
+redox processes. Of late, environmental issues like
+Hydrogen Economy 
+(use of liquid hydrogen as fuel) and
+development of 
+ ˘Ozone Hole
+ ˇ have started figuring under
+redox phenomenon.
+8.1
+CLASSICAL IDEA OF REDOX REACTIONS 
+OXIDATION AND REDUCTION REACTIONS
+Originally, the term 
+oxidation
+ was used to describe the
+addition of oxygen to an element or a compound. Because
+of the presence of dioxygen in the atmosphere (
+~20%
+),
+many elements combine with it and this is the principal
+reason why they commonly occur on the earth in the
+form of their oxides. The following reactions represent
+oxidation processes according to the limited definition of
+oxidation:
+2 Mg (s)  +  O
+2 (g) 
+ ® 
+ 2 MgO (s)
+(8.1)
+S (s) + O
+2 (g) 
+ ®
+  SO
+2 (g)
+(8.2)
+After studying this unit you will be
+able to
+·identify redox reactions as a class
+of reactions in which oxidation
+and reduction reactions occur
+simultaneously
+;·define the terms oxidation,
+reduction, oxidant (oxidising
+agent) and reductant (reducing
+agent);
+·explain mechanism of redox
+reactions by electron transfer
+process;
+·use  the concept of oxidation
+number to identify oxidant and
+reductant in a reaction;
+·classify redox reaction into
+combination (synthesis),
+decomposition, displacement
+and disproportionation
+reactions;
+·suggest a comparative order
+among various reductants and
+oxidants;
+·balance chemical equations
+using (i) oxidation number
+(ii) half reaction method;
+·learn the concept of redox
+reactions in terms of electrode
+processes.
+UNIT 8
+REDOX REACTIONS
+Where t
+here is oxidation, there is always reduction 
+Chemistry is essentially a study of redox systems.
+

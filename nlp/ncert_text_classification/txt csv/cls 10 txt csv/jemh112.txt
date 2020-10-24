@@ -1,0 +1,302 @@
+AREAS RELATED
+ TO CIRCLES223File Name : C:\Computer Station\Class - X (Maths)/Final/Chap-12 28.011.061212.1Introduction
+You are already familiar with some methods of finding perimeters and areas of simple
+plane figures such as rectangles, squares, parallelograms, triangles and circles from
+your earlier classes. Many objects that we come across in our daily life are related tothe circular shape in some form or the other. Cycle wheels, wheel barrow (
+thela),dartboard, round cake, papad, drain cover, various designs, bangles, brooches, circular
+paths, washers, flower beds, etc. are some examples of such objects (see Fig. 12.1).So, the problem of finding perimeters and areas related to circular figures is of great
+practical importance. In this chapter, we shall begin our discussion with a review of
+
+the concepts of perimeter (circumference) and area of a circle and apply this knowledge
+in finding the areas of two special ‚parts™ of a circular region (or briefly of a circle)
+known as sector and segment. We shall also see how to find the areas of some
+combinations of plane figures involving circles or their parts.Fig. 12.1AREAS RELATED
+ TO CIRCLES
+224M
+ATHEMATICS
+File Name : C:\Class - X (Maths)/Final/Chap-12   28.011.0612.2Perimeter and Area of a Circle Š A Review
+Recall that the distance covered by travelling once around a circle is its perimeter,
+usually called its circumference
+. You also know from your earlier classes, that
+circumference of a circle bears a constant ratio with its diameter. This constant ratio
+is denoted by the Greek letter  (read as ‚pi™). In other words,circumference
+diameter
+ =or,circumference =
+ × diameter= × 2r(where r is the radius of the circle)=2rThe great Indian mathematician Aryabhatta (C.E. 476 Œ 550) gave an approximate
+value of . He stated that  = 62832
+,20000
+ which is nearly equal to 3.1416. It is alsointeresting to note that using an identity of the great mathematical genius SrinivasRamanujan (1887Œ1920) of India, mathematicians have been able to calculate thevalue of  correct to million places of decimals. As you know from Chapter 1 of
+Class IX,  is an irrational number and its decimal expansion is non-terminating andnon-recurring (non-repeating). However, for practical purposes, we generally take
+the value of  as 227 or 3.14, approximately.
+You may also recall that area of a circle is 
+r2, where r is the radius of the circle.Recall that you have verified it in Class VII, by cutting a circle into a number ofsectors and rearranging them as shown in Fig. 12.2.Fig 12.2
+AREAS RELATED
+ TO CIRCLES225File Name : C:\Computer Station\Class - X (Maths)/Final/Chap-12 28.011.06You can see that the shape in Fig. 12.2 (ii) is nearly a rectangle of length 
+122rand breadth r. This suggests that the area of the circle = 
+12 × 2r × r = r2. Let usrecall the concepts learnt in earlier classes, through an example.Example 1 : The cost of fencing a circular field at the rate of ` 24 per metre is` 5280. The field is to be ploughed at the rate of ` 0.50 per m2. Find the cost ofploughing the field (Take 
+ = 227).Solution :Length of the fence (in metres) =Total cost
+Rate
+ = 5280=220
+24So, circumference of the field = 220 mTherefore, if r metres is the radius of the field, then2r =220
+or,2 × 
+227 × r =220
+or,
+r =220×7
+2×22
+ = 35i.e., radius of the field is 35 m.Therefore,area of the field = 
+r2 =27 × 35 × 35 m2 = 22 × 5 × 35 m2Now,cost of ploughing 1 m
+2 of the field =` 0.50So,total cost of ploughing the field =
+` 22 × 5 × 35 × 0.50 = ` 1925EXERCISE 12.1Unless stated otherwise, use  = 227.1.The radii of two circles are 19 cm and 9 cm respectively.
+Find the radius of the circle which has circumference equal
+to the sum of the circumferences of the two circles.2.The radii of two circles are 8 cm and 6 cm respectively. Find
+
+the radius of the circle having area equal to the sum of the
+areas of the two circles.3.Fig. 12.3 depicts an archery target marked with its fivescoring regions from the centre outwards as Gold, Red, Blue,
+Black and White. The diameter of the region representing
+Gold score is 21 cm and each of the other bands is 10.5 cm
+wide. Find the area of each of the five scoring regions.Fig. 12.3
+226M
+ATHEMATICS
+File Name : C:\Class - X (Maths)/Final/Chap-12   28.011.06Fig. 12.54.The wheels of a car are of diameter 80 cm each. How many complete revolutions doeseach wheel make in 10 minutes when the car is travelling at a speed of 66 km per hour?5.Tick the correct answer in the following and justify your choice : If the perimeter and thearea of a circle are numerically equal, then the radius of the circle is(A)2 units(B)
+ units(C)4 units(D)7 units
+12.3Areas of Sector and Segment of a Circle
+You have already come across the terms 
+sector andsegment of a circle in your earlier classes. Recallthat the portion (or part) of the circular region enclosedby two radii and the corresponding arc is called asector of the circle and the portion (or part) of thecircular region enclosed between a chord and the
+corresponding arc is called a segment of the circle.Thus, in Fig. 12.4, shaded region OAPB is a sectorof the circle with centre O.  AOB is called the
+angle of the sector. Note that in this figure, unshaded region OAQB is also a sector of
+the circle. For obvious reasons, OAPB is called the minor sector andOAQB is called the major sector. You can also see that angle of the major sector is
+360° Œ  AOB.Now, look at Fig. 12.5 in which AB is a chord
+of the circle with centre O. So, shaded region APB is
+a segment of the circle. You can also note that
+
+unshaded region AQB is another segment of the circle
+
+formed by the chord AB. For obvious reasons, APB
+
+is called the minor segment and AQB is called the
+major segment.Remark : When we write ‚segment™ and ‚sector™
+we will mean the ‚minor segment™ and the ‚minorsector™ respectively, unless stated otherwise.
+Now with this knowledge, let us try to find somerelations (or formulae) to calculate their areas.Let OAPB be a sector of a circle with centreO and radius r (see Fig. 12.6). Let the degreemeasure of  AOB be 
+.You know that area of a circle (in fact of a
+circular region or disc) is r2.Fig. 12.4Fig. 12.6
+AREAS RELATED
+ TO CIRCLES227File Name : C:\Computer Station\Class - X (Maths)/Final/Chap-12 28.011.06In a way, we can consider this circular region to be a sector forming an angle of
+360° (i.e., of degree measure 360) at the centre O. Now by applying the UnitaryMethod, we can arrive at the area of the sector OAPB as follows:When degree measure of the angle at the centre is 360, area of thesector = r2So, when the degree measure of the angle at the centre is 1, area of thesector = 2360
+rTherefore, when the degree measure of the angle at the centre is , area of thesector = 2360
+r = 2360r.Thus, we obtain the following relation (or formula) for area of a sector of acircle:Area of the sector of angle  =2360r,where r is the radius of the circle and  the angle of the sector in degrees.Now, a natural question arises : Can we find
+the length of the arc APB corresponding to this
+sector? Yes. Again, by applying the Unitary
+
+Method and taking the whole length of the circle(of angle 360°) as 2r, we can obtain the requiredlength of the arc APB as 
+2360r.So,length of an arc of a sector of angle  = 2360r.Now let us take the case of the area of thesegment APB of a circle with centre O and radius 
+r(see Fig. 12.7). You can see that :
+Area of the segment APB = Area of the sector OAPB Œ Area of 
+ OAB                                       = 
+2Œarea ofOAB
+360
+r
+Note : From Fig. 12.6 and Fig. 12.7 respectively, you can observe that :
+Area of the major sector OAQB = r2 Œ Area of the minor sector OAPBand            Area of major segment AQB =
+r2 Œ Area of the minor segment APBFig. 12.7
+228M
+ATHEMATICS
+File Name : C:\Class - X (Maths)/Final/Chap-12   28.011.06Let us now take some examples to understand these concepts (or results).Example 2 : Find the area of the sector of a circlewith radius 4 cm and of angle 30°. Also, find the areaof the corresponding major sector (Use  = 3.14).Solution : Given sector is OAPB (see Fig. 12.8).Area of the sector =2360r=2303.1444cm
+360
+
+=2212.56
+cm4.19cm
+3 (approx.)Area of the corresponding major sector=r2 Œ area of sector OAPB=(3.14 × 16 Œ 4.19) cm
+2=46.05 cm
+2 = 46.1 cm2(approx.)Alternatively,
+area of the major sector =2(360Œ)
+360r=236030
+3.1416cm
+360=223303.1416cm46.05cm
+360
+=46.1 cm
+2(approx.)Example 3 : Find the area of the segment AYB
+shown in Fig. 12.9, if radius of the circle is 21 cm and AOB = 120°. (Use  = 227)Fig. 12.9Fig. 12.8
+AREAS RELATED
+ TO CIRCLES229File Name : C:\Computer Station\Class - X (Maths)/Final/Chap-12 28.011.06Solution : Area of the segment AYB
+=Area of sector OAYB Œ Area of 
+ OAB(1)
+Now,area of the sector OAYB =
+12022
+2121
+3607
+
+cm2 = 462 cm2(2)For finding the area of  OAB, draw OM  AB as shown in Fig. 12.10.
+Note that OA = OB. Therefore, by RHS congruence, 
+ AMO  BMO.So, M is the mid-point of AB and  AOM =  BOM = 112060
+2
+.LetOM =
+x cmSo, from  OMA,OMOA =cos 60°
+or,
+21x =11cos60°=
+22or,
+x =212So,OM =
+212 cmAlso,AMOA =sin 60° = 
+32So,AM =
+213
+2 cmTherefore,AB =2 AM = 
+2213
+cm=213cm
+2So,area of 
+ OAB =1AB×OM
+2 = 2121
+213cm
+22=2441
+3cm
+4(3)Therefore, area of the segment AYB = 
+24414623cm
+4[From (1), (2) and (3)]=221(88Œ213)cm
+4Fig. 12.10
+230M
+ATHEMATICS
+File Name : C:\Class - X (Maths)/Final/Chap-12   28.011.06EXERCISE 12.2Unless stated otherwise, use  = 227.1.Find the area of a sector of a circle with radius 6 cm if angle of the sector is 60°.2.Find the area of a quadrant of a circle whose circumference is 22 cm.3.The length of the minute hand of a clock is 14 cm. Find the area swept by the minutehand in 5 minutes.4.A chord of a circle of radius 10 cm subtends a right angle at the centre. Find the area ofthe corresponding :(i)minor segment(ii)major sector. (Use 
+ = 3.14)5. 
+In a circle of radius 21 cm, an arc subtends an angle of 60° at the centre. Find:(i)the length of the arc(ii)area of the sector formed by the arc
+(iii)area of the segment formed by the corresponding chord
+6.A chord of a circle of radius 15 cm subtends an angle of 60° at the centre. Find the areasof the corresponding minor and major segments of the circle.(Use  = 3.14 and 3 = 1.73)7.A chord of a circle of radius 12 cm subtends anangle of 120° at the centre. Find the area of thecorresponding segment of the circle.(Use  = 3.14 and 3 = 1.73)8.A horse is tied to a peg at one corner of a squareshaped grass field of side 15 m by means of a 5 mlong rope (see Fig. 12.11). Find(i)the area of that part of the field in which the
+horse can graze.(ii)the increase in the grazing area if the rope were10 m long instead of 5 m. (Use  = 3.14)9.A brooch is made with silver wire in the form of a
+circle with diameter 35 mm. The wire is also used inmaking 5 diameters which divide the circle into 10
+equal sectors as shown in Fig. 12.12. Find :(i)the total length of the silver wire required.
+(ii)the area of each sector of the brooch.
+Fig. 12.11
+Fig. 12.12
+AREAS RELATED
+ TO CIRCLES231File Name : C:\Computer Station\Class - X (Maths)/Final/Chap-12 28.011.0610.An umbrella has 8 ribs which are equally spaced(see Fig. 12.13). Assuming umbrella to be a flat circle
+of radius 45 cm, find the area between the twoconsecutive ribs of the umbrella.11.
+A car has two wipers which do not overlap. Eachwiper has a blade of length 25 cm sweeping throughan angle of 115°. Find the total area cleaned at eachsweep of the blades.12.To warn ships for underwater rocks, a lighthouse
+
+spreads a red coloured light over a sector of angle80° to a distance of 16.5 km. Find the area of the seaover which the ships are warned. (Use  = 3.14)13.A round table cover has six equal designs as shownin Fig. 12.14. If the radius of the cover is 28 cm, findthe cost of making the designs at the rate of` 0.35 per cm2. (Use 3 = 1.7)14.Tick the correct answer in the following :Area of a sector of angle p (in degrees) of a circle with radius R is(A)2R180
+p(B)2R180
+p(C)2R360p(D)22R720
+p12.4Areas of Combinations of Plane Figures
+So far, we have calculated the areas of different figures separately. Let us now try to
+calculate the areas of some combinations of plane figures. We come across these
+types of figures in our daily life and also in the form of various interesting designs.
+Flower beds, drain covers, window designs, designs on table covers, are some of suchexamples. We illustrate the process of calculating areas of these figures through some
+
+examples.Example 4 :
+ In Fig. 12.15, two circular flower bedshave been shown on two sides of a square lawnABCD of side 56 m. If the centre of each circularflower bed is the point of intersection O of thediagonals of the square lawn, find the sum of theareas of the lawn and the flower beds.Fig. 12.13Fig. 12.14Fig. 12.15
+232M
+ATHEMATICS
+File Name : C:\Class - X (Maths)/Final/Chap-12   28.011.06Solution : Area of the square lawn ABCD = 56 × 56 m
+2(1)LetOA =OB = 
+x metresSo,x2 + x2 =56
+2or,2
+x2 =56 × 56
+or,
+x2 =28 × 56(2)
+Now,area of sector OAB  =
+290360x = 214x=2122
+2856m
+47
+[From (2)](3)
+Also,area of  OAB =215656m
+4( AOB = 90°)(4)
+So,area of flower bed AB =
+21221
+28565656m
+474
+
+[From (3) and (4)]=2122
+28562m
+47
+=2182856m
+47
+(5)Similarly, area of the other flower bed
+=2182856m
+47
+(6)Therefore,total area =
+1856562856
+47
+2182856m
+47
+[From (1), (5) and (6)]=22228562m
+77
+=22182856m4032m
+7
+
+AREAS RELATED
+ TO CIRCLES233File Name : C:\Computer Station\Class - X (Maths)/Final/Chap-12 28.011.06Alternative Solution :Total area =Area of sector OAB + Area of sector ODC
++ Area of 
+ OAD + Area of 
+ OBC=90229022
+28562856
+36073607
+
+21156565656m
+44
+=212222
+285622m
+477
+
+=2756
+(22221414)m
+7
+=56 × 72 m
+2 = 4032 m2Example 5 : Find the area of the shaded region inFig. 12.16, where ABCD is a square of side 14 cm.
+Solution : Area of square ABCD
+= 14 × 14 cm2 = 196 cm2Diameter of each circle =14cm=7cm
+2So,radius of each circle =
+7cm2So,area of one circle = 
+r2 =22277
+cm722
+=215477
+cmcm
+42Therefore,area of the four circles =
+22774cm154cm
+2Hence,area of the shaded region =(196 Œ 154) cm
+2 = 42 cm2.Fig. 12.16
+234M
+ATHEMATICS
+File Name : C:\Class - X (Maths)/Final/Chap-12   28.011.06Example 6 : Find the area of the shaded design in Fig. 12.17, where ABCD is asquare of side 10 cm and semicircles are drawn with each side of the square asdiameter. (Use 
+ = 3.14)Fig. 12.17Fig. 12.18
+Solution : Let us mark the four unshaded regions as I, II, III and IV (see Fig. 12.18).Area of I + Area of III=Area of ABCD Œ Areas of two semicircles of each of radius 5 cm
+=2211010Œ25cm
+2
+ = (100 Œ 3.14 × 25) cm2=(100 Œ 78.5) cm
+2 = 21.5 cm2Similarly, Area of II + Area of IV = 21.5 cm
+2So, area of the shaded design = Area of ABCD Œ Area of (I + II + III + IV)=(100 Œ 2 × 21.5) cm
+2 = (100 Œ 43) cm2 = 57 cm2EXERCISE 12.3Unless stated otherwise, use  = 2271.Find the area of the shaded region in Fig. 12.19, ifPQ = 24 cm, PR = 7 cm and O is the centre of thecircle.Fig. 12.19
+AREAS RELATED
+ TO CIRCLES235File Name : C:\Computer Station\Class - X (Maths)/Final/Chap-12 28.011.062.Find the area of the shaded region in Fig. 12.20, if radii of the two concentric circles withcentre O are 7 cm and 14 cm respectively and  AOC = 40°.Fig. 12.20Fig. 12.21
+3.Find the area of the shaded region in Fig. 12.21, if ABCD is a square of side 14 cm and
+
+APD and BPC are semicircles.4.Find the area of the shaded region in Fig. 12.22, where a circular arc of radius 6 cm hasbeen drawn with vertex O of an equilateral triangle OAB of side 12 cm as centre.Fig. 12.22Fig. 12.23
+5.From each corner of a square of side 4 cm a quadrant of a circle of radius 1 cm is cut andalso a circle of diameter 2 cm is cut as shown in Fig. 12.23. Find the area of the remainingportion of the square.6.In a circular table cover of radius 32 cm, adesign is formed leaving an equilateraltriangle ABC in the middle as shown in
+Fig. 12.24. Find the area of the design.Fig. 12.24
+236M
+ATHEMATICS
+File Name : C:\Class - X (Maths)/Final/Chap-12   28.011.067.In Fig. 12.25, ABCD is a square of side 14 cm. With
+centres A, B, C and D, four circles are drawn such
+
+that each circle touch externally two of the remainingthree circles. Find the area of the shaded region.8.Fig. 12.26 depicts a racing track whose left and right ends are semicircular.
+Fig. 12.26The distance between the two inner parallel linesegments is 60 m and they are each 106 m long. If
+the track is 10 m wide, find :(i)the distance around the track along its inner edge
+
+(ii)the area of the track.9.In Fig. 12.27, AB and CD are two diameters of acircle (with centre O) perpendicular to each otherand OD is the diameter of the smaller circle. IfOA = 7 cm, find the area of the shaded region.10.The area of an equilateral triangle ABC is 17320.5
+
+cm2. With each vertex of the triangle as centre, a
+circle is drawn with radius equal to half the lengthof the side of the triangle (see Fig. 12.28). Find thearea of the shaded region. (Use  = 3.14 and3 = 1.73205)Fig. 12.25Fig. 12.27Fig. 12.28
+AREAS RELATED
+ TO CIRCLES237File Name : C:\Computer Station\Class - X (Maths)/Final/Chap-12 28.011.0611.
+On a square handkerchief, nine circular designs each of radius 7 cm are made(see Fig. 12.29). Find the area of the remaining portion of the handkerchief.Fig. 12.29Fig. 12.30
+12.In Fig. 12.30, OACB is a quadrant of a circle with centre O and radius 3.5 cm. If OD = 2 cm,
+find the area of the(i)quadrant OACB,
+(ii)shaded region.
+13.In Fig. 12.31, a square OABC is inscribed in a quadrant OPBQ. If OA = 20 cm, find thearea of the shaded region. (Use  = 3.14)Fig. 12.31Fig. 12.32
+14.AB and CD are respectively arcs of two concentric circles of radii 21 cm and 7 cm andcentre O (see Fig. 12.32). If  AOB = 30°, find the area of the shaded region.
+15.In Fig. 12.33, ABC is a quadrant of a circle of
+radius 14 cm and a semicircle is drawn with BC
+as diameter. Find the area of the shaded region.
+Fig. 12.33
+238M
+ATHEMATICS
+File Name : C:\Class - X (Maths)/Final/Chap-12   28.011.0616.Calculate the area of the designed region inFig. 12.34 common between the two quadrants
+of circles of radius 8 cm each.12.5Summary
+In this chapter, you have studied the following points :
+1.Circumference of a circle = 2 r.2.Area of a circle =  r2.3.Length of an arc of a sector of a circle with radius r and angle with degree measure  is2360r4.Area of a sector of a circle with radius r and angle with degrees measure  is 2360
+r5.Area of segment of a circle= Area of the corresponding sector Œ Area of the corresponding triangle.Fig. 12.34

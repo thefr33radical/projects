@@ -1,0 +1,21 @@
+COMPUTERCONTROLLEDDEVICESTechnology has touched almost all aspects of ourlife. Whether it is banking, telecom, communication,
+health, engineering or automated processes
+computer controlled devices not only make our livesconvenient but also enable us to take important
+decisions.So far we have been learning about varioususage of computers and its functioning and alsoits varied uses in our daily lives. In the present
+chapter we will learn more about devices that work
+by computer controlled mechanisms. These devices
+are termed as computer controlled devices that
+have become part of our daily living in many ways;some of them are simple while on the other handsome are very complex in their functions.This chapter would help students to familiarisewith applications of such devices, and sensors that
+work in conjunction with computers. First let us
+understand, what is the meaning of a computer
+controlled device? ﬁA computer controlled device is
+a device that accepts physical inputs from external
+source and pairs this information with computer
+controlled instructions to perform specific functions.ﬂIntroduction14ObjectivesAfter completing this Chapter, thestudent will be able to:Łdevelop understanding about
+computer controlled devices andsensor controlled devices,Łdescribe uses of systems or devices
+that are controlled by computers,Łcite examples of where computers
+control system in response tophysical input data captured
+through sensors andŁtake the learning from the chapter
+and use it to apply in
+understanding computer controlled
+devices around him/her.A machine may be deemed intelligent when it canpass for a human being in a blind test.-Alan Turing

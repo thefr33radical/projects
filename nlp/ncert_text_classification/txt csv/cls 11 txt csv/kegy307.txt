@@ -1,0 +1,118 @@
+84Practical Work in Geography
+Chapter 7Introduction To Remote
+SensingYou have read about aerial photography in chapter 6. If you have
+carefully gone through its contents, you would have appreciatedthat it is an extension of the observation and recording capabilitiesof the human eyes. You may also have noticed that the photographic
+system utilises the same principles of observation and recording theobjects of the earth™s surface, as being done by the eyes. However,
+both the human eyes and the photographic systems respond to light
+in a minute portion of the total energy received and responded bythe objects™ surface. The present day remote sensing devices, on theother hand, react to much wider range of radiations reflected/emitted,
+absorbed and transmitted by all object surfaces at a temperature above0 Kelvin (-273°C).The term remote sensing was first used in the early 1960s.  Later,
+it was defined as the total processes used to acquire and measure the
+information of some property of objects and phenomena by arecording device (sensor) that is not in physical contact with the
+objects and phenomena in study.  It can be noted from the abovedefinition of remote sensing that it primarily involves an objectsurface, the recording device and the information carrying energy
+waves (Fig 7.1).NATURAL SENSOROBJECT SURFACE
+InformationCarrying
+Energy Waves
+Figure 7.1 Conceptual Frame of Remote Sensing
+85Introduction To Remote SensingGlossaryAbsorptance : The ratio of the radiant energy absorbed by a substance to the energyit receives.
+Band : The specific wavelength interval in the electromagnetic spectrum.Digital image : 
+ An array of digital numbers (DN) arranged in rows and columns,having the property of an intensity value and  their locations.Digital Number : An intensity value of a pixel in a digital image.Digital Image Processing : The numerical manipulation of DN values for the purposeof extracting information about the phenomena of the surface they represent.
+Electromagnetic Radiation (EMR) : The Energy propagated through a space or amedium at a speed of light.Electromagnetic Spectrum : The continuum of EMR that ranges from short wavehigh frequency cosmic radiations to long wavelength low frequency radio waves.False Colour Composite (FCC) : 
+An artificially generated colour image in whichblue, green and red colours are assigned to the wavelength regions to which they donot belong in nature. For example, in standard a False Colour Composite blue isassigned to green radiations (0.5 to 0.6 µm), green is assigned to red radiations  (0.6
+to 0.7 µm and red is assigned to Near Infrared radiation (0.7 to 0.8 µm).Gray scale : 
+A medium to calibrate the variations in the brightness of an image thatranges from black to white with intermediate grey values.Image :  
+The permanent record of a scene comprising of natural and man-madefeatures and activities, produced by photographic and nonŒphotographic means.
+Scene :  The ground area covered by an image or a photograph.Sensor : Any imaging or nonŒimaging device that receives EMR and converts it intoa signal that can be recorded and displayed as photographic or digital image.Reflectance : The ratio of the radiant energy reflected by a substance to the energyit receives.
+Spectral Band : The range of the wavelengths in the continuous spectrum such asthe green band ranges from 0.5 to .6 
+µ and the range of NIR band 0.7 to 1.1 µ.
+86Practical Work in Geography
+STAGES
+ IN REMOTE SENSINGFigure 7.2 illustrates the processes used in remote sensing dataacquisition. These basic processes that help in the collection of information
+about the properties of the objects and phenomena of the earth surfaceare as follows :(a)Source of Energy (sun/self-emission);
+(b)Transmission of energy from the source to the surface of the earth;
+(c)Interaction of energy with the earth™s surface;
+(d)Propagation of reflected/emitted energy through atmosphere;
+
+(e)Detection of the reflected/emitted energy by the sensor;
+(f)Conversion of energy received into photographic/digital form of
+data;(g)Extraction of the information contents from the data products; and
+
+(h)Conversion of information into Map/Tabular forms.
+Figure 7.2  Stages in Remote Sensing Data Acquisitiona.Source of Energy: 
+Sun is the most important source of energyused in remote sensing.  The energy may also be artificially generatedand used to collect information about the objects and phenomena suchas flashguns or energy beams used in radar (radio detection and ranging).b.Transmission of Energy from the Source to the Surface
+of the Earth:  The energy that emanates from a source propagatesbetween the source and the object surface in the form of the waves of
+87Introduction To Remote Sensingenergy at a speed of light (300,000 km per second). Such energypropagation is called the Electromagnetic Radiation (EMR). The energywaves vary in size and frequency. The plotting of such variations is knownas the Electromagnetic Spectrum (Fig. 7.3). On the basis of the size of thewaves and frequency, the energy waves are grouped into Gamma, XŒrays, Ultraviolet rays, Visible rays, Infrared rays , Microwaves and Radiowaves. Each one of these broad regions of spectrum is used in differentapplications. However, the visible, infrared and microwave regions of energy
+
+are used in remote sensing.c.Interaction of Energy with the Earth™s Surface
+: Thepropagating energy finally interacts with the objects of the surface of theearth. This leads to absorption, transmission, reflection or emission of energyfrom the objects. We all know that all objects vary in their composition,
+appearance forms and other properties. Hence, the objects™ responses to theenergy they receive are also not uniform. Besides, one particular object also
+responds differently to the energy it receives in different regions of thespectrum (Fig. 7.5). For example, a fresh water body absorbs more energy
+in the red and infrared regions of the spectrum and appears dark/black in
+a satellite image whereas turbid water body reflects more in blue and greenregions of spectrum and appears in light t
+one (Fig. 7.4).Figure 7.3  Electromagnetic Spectrum
+88Practical Work in Geography
+d.Propagation of Reflected/Emitted Energy through
+Atmosphere: When energy is reflected from objects of the earth™ssurface, it reŒenters into the atmosphere. You may be aware of the fact
+that atmosphere comprises of gases, water molecules and dust particles.The energy reflected from the objects comes in contact with the atmosphericconstituents and the properties of the original energy get modified. Whereasthe Carbon dioxide (CO2), the Hydrogen (H), and the water moleculesabsorb energy in the middle infrared region, the dust particles scatter theblue energy.  Hence, the energy that is either absorbed or scattered bythe atmospheric constituents never reaches to sensor placed onboard asatellite and the properties of the objects carried by such energy wavesare left unrecorded.Figure 7.5 IRS 1 C Band 1 Green (Left) and Band 4 IR Images ofSambhar Lake, RajasthanFigure 7.4  Spectral Signature of Soil, Vegetation and Water
+
+89Introduction To Remote Sensinge.Detection of  Reflected/Emitted Energy by the Sensor:
+The sensors recording the energy that they receive are placed in a nearŒpolar sun synchronous orbit at an altitude of 700 Œ 900 km. Thesesatellites are known as remote sensing satellites (e.g. Indian RemoteSensing Series). As against these satellites, the weather monitoring andtelecommunication satellites are placed in a Geostationary position (thesatellite is always positioned over its orbit that synchronises with thedirection of the rotation of the earth) and revolves around the earth
+(coinciding with the direction of the movement of the earth over its axis) atan altitude of nearly 36,000 km (e.g. INSAT series of satellites). Acomparison between the remote sensing and weather monitoring satellites
+is given in Box (7.1). Figure 7.6 shows the orbits of Sun-Synchronousand Geostationary satellites respectively.Remote sensing satellites are deployed with sensors which are capableof collecting the EMR reflected by the objects. We have seen in Chapter 6
+Box. 7.1 Comparison between Sun-Synchronous and Geostationary SatellitesOrbitalSun SynchronousGeostationaryCharacteristicsSatellitesSatellites
+Altitude700 Œ 900 km@ 36,000 km
+Coverage81
+0 N to 810 S1/3
+rd of the GlobeOrbital period@ 14 orbits per 
+day24 hours
+ResolutionFineCoarse
+(182 metre to 1 metre)(1 km x 1 km)
+UsesEarth Resources
+TelecommunicationApplicationsand Weather monitoring
+Figure 7.6 Orbit of Sun Synchronous (Left) and Geostationary (Right) Satellites
+90Practical Work in Geography
+how the  photographic camera obtains photographs at an instance ofexposure. However, the sensors used in remote sensing satellites possess
+a mechanism that is different from photographic camera in collecting andrecording the information. The images so acquired by space-borne sensorsare in digital format as against the photographic format obtained througha camera-based system.f.Conversion of Energy Received into Photographic/
+Digital Form of Data: 
+The radiations received by the sensor are
+electronically converted into a digital image. It comprises digital numbersthat are arranged in rows and columns. These numbers may also beconverted into an analogue (picture) form of data product. The sensoronboard an earth-orbiting satellite electronically transmits the collectedimage data to an Earth Receiving Station located in different parts of theworld.  In India, one such station is located at Shadnagar near Hyderabad.g.Extraction of Information Contents from Data
+Products: After the image data is received at the earth station, it isprocessed for elimination of errors caused during image data collection.Once the image is corrected, information extraction is carried out fromdigital images using digital image processing techniques and fromanalogue form of data products by applying visual interpretation methods.
+h.Conversion of Information into Map/Tabular Forms:
+The interpreted information is finally delineated and converted into differentlayers of thematic maps. Besides, quantitative measures are also taken togenerate a tabular data.SENSORSA sensor is a device that gathers electromagnetic radiations, converts itinto a signal and presents it in a form suitable for obtaining informationabout the objects under investigation. Based upon the form of the dataoutput, the sensors are classified into photographic (analogue) and nonŒphotographic (digital) sensors.A photographic sensor (camera) records the images of the objects atan instance of exposure. On the other hand, a nonŒphotographic sensorobtains the images of the objects in bit-by-bit form. These sensors areknown as scanners. You have already read about the types and geometry
+
+91Introduction To Remote Sensingof photographic cameras in Chapter 6. In the present chapter, we will
+confine ourselves to describe the nonŒphotographic sensors that are usedin satellite remote sensing.Multispectral Scanners: In satellite remote sensing, the MultiSpectral Scanners (MSS) are used as sensors. These sensors are designedto obtain images of the objects while sweeping across the field of view.  Ascanner is usually made up of a reception system consisting of a mirrorand detectors. A scanning sensor constructs the scene by recording aseries of scan lines. While doing so, the motor device oscillates the scanningmirror through the angular field of view of the sensor, which determines
+
+the length of scan lines and is called swath. It is because of such reasonsthat the mode of collection of images by scanners is referred bitŒbyŒbit.
+Each scene is composed of cells that determine the spatial resolution of
+an image. The oscillation of the scanning mirror across the scene directsthe received energy to the detectors, where it is converted into electricalsignals. These signals are further converted into numerical values called
+Digital Number (DN Values) for recording on a magnetic tape.
+The Multi-Spectral Scanners are divided into the following types:(i)Whiskbroom Scanners
+
+(ii)Pushbroom Scanners(i)Whiskbroom Scanners : 
+ The whiskbroom scanners are made up ofa rotating mirror  and a single detector. The mirror is so oriented that
+
+when it completes a rotation, the detector sweeps across the field of view7.7  Whiskbroom Scanners7.8  Pushbroom Scanners
+92Practical Work in Geography
+between 90° and 120° to obtain images in a large number of narrowspectral bands ranging from visible to middle infrared regions of thespectrum.  The total extent of the oscillating sensor is known as the TotalField of View (TFOV) of the scanner. While scanning the entire field, the
+sensor™s optical head is always placed at a particular dimension calledthe Instantaneous Field of View (IFOV). Figure 7.7 depicts the scanningmechanism of whiskbroom scanners.
+(i)Pushbroom Scanners: 
+ The pushbroom scanners consist of a numberof detectors which are equivalent to the number obtained by dividing the
+swath of the sensor by the size of the spatial resolution (Fig. 7.8). Forexample, the swath of High Resolution Visible Radiometer Œ 1 (HRVR Œ 1)of the French remote sensing satellite SPOT is 60 km and the spatialresolution is 20 metres. If we divide 60 km x 1000 metres/20 metres, we
+get a number of 3000 detectors that are deployed in SPOT HRV Œ 1 sensor.
+In pushbroom scanner, all detectors are linearly arrayed and each detector
+collects the energy reflected by the ground cell (pixel) dimensions of 20
+metres at a nadir™s view.RESOLVING
+ POWERS OF THE SATELLITES
+In satellite remote sensing, the sun-synchronous polar orbit enables thecollection of images after a pre-determined periodical interval referred to
+as the temporal resolution or the revisit time of the satellite over the samearea of the earth surface. Fig. 7.9 illustrates the two images acquired overtwo different periods in time for the same area enabling to study andrecord the changes that take place with respect to the types of vegetationin Himalayas.  In another example, Fig. 7.10 (a and b) shows the imagesacquired before and after the tsunami in the Indian Ocean. The image
+acquired in June 2004 clearly shows the undisturbed topography ofBanda Aceh in Indonesia, whereas the post tsunami image acquiredimmediately after tsunami reveals the damages that were caused by thetsunami.
+93Introduction To Remote SensingFigure 7. 9  Images of Himalayas and Northern Indian Plain by IRS Satellite taken inMay (Left) and November (Right) show differences in the types of vegetation.The red patches in May image refer to Coniferous vegetation. In Novemberimage the additional red patches refer to Deciduous plants and the light redcolour is related to the crops.
+94Practical Work in Geography
+Figure 7.10 (a) Pre-tsunami Image acquired in June 2004Figure 7.10 (b) Post-tsunami image acquired in December, 2004
+
+95Introduction To Remote SensingSENSOR RESOLUTIONSRemote sensors are characterised by spatial, spectral and radiometricresolutions that enable the extraction of useful information pertaining todifferent terrain conditions.(i) Spatial Resolution: You must have seen some people using
+spectacles while reading a book or newspaper. Have you ever thought as
+to why they do so. It is simply because of the fact that resolving power oftheir eyes to differentiate two closed spaced letters in a word is unable toidentify them as two different letters. By using positive spectacles they tryto improve their vision as well as the resolving power. In remote sensing,
+the spatial resolution of the sensors refers to the same phenomena. It isthe capability of the sensor to distinguish two closed spaced object surfaces
+as two different object surfaces.  As a rule, with an increasing resolutionthe identification of even smaller object surfaces become possible.(ii) Spectral Resolution: It refers to the sensing and recording powerof the sensor in different bands of EMR (Electromagnetic radiation).Multispectral images are acquired by using a device that disperses theradiation received by the sensor and recording it by deploying detectorssensitive to specific spectral ranges. The principles in obtaining suchimages is the extension of the dispersion of light in nature resulting in theappearance of the ‚rainbowﬂ and the use of prism in the lab (Box 7.2).The images obtained in different bands show objects responsedifferently as discussed in Para 3 of the stages in remote sensing data
+acquisition. Fig. 7.11 illustrates images acquired in different spectralregions by IRS P - 6 (Resource sat - 1) showing strong absorptionproperties of fresh water in band 4 (Infrared) and mixed strong reflectancein band 2 (green) by dry surfaces (Fig. 7.11).(iii)  Radiometric Resolution: It is the capability of the sensor todiscriminate between two targets.  Higher the radiometric resolution,smaller the radiance differences that can be detected between two targets.The spatial, spectral, and radiometric resolutions of some of the remotesensing satellites of the world are shown in Table 7.1.

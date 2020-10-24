@@ -1,0 +1,131 @@
+330BIOLOGYYou have already learnt that the neural system provides apoint-to-point rapid coordination among organs. The neuralcoordination is fast but short-lived. As the nerve fibres do not innervate
+all cells of the body and the cellular functions need to be continuously
+regulated; a special kind of coordination and integration has to beprovided. This function is carried out by hormones. The neural system
+and the endocrine system jointly coordinate and regulate the
+physiological functions in the body.22.1ENDOCRINE GLANDS AND HORMONESEndocrine glands lack ducts and are hence, called ductless glands. Theirsecretions are called hormones. The classical definition of hormone as a
+chemical produced by endocrine glands and released into the blood and
+transported to a distantly located target organ has current scientific
+definition as follows: Hormones are non-nutrient chemicals whichact as intercellular messengers and are produced in trace amounts.The new definition covers a number of new molecules in addition to the
+hormones secreted by the organised endocrine glands. Invertebrates
+possess very simple endocrine systems with few hormones whereas a large
+number of chemicals act as hormones and provide coordination in the
+vertebrates. The human endocrine system is described here.CHEMICAL COORDINATIONAND INTEGRATIONCHAPTER  2222.1Endocrine
+Glands and
+Hormones22.2Human
+Endocrine
+System22.3Hormones of
+Heart, Kidney
+and
+Gastrointestinal
+Tract22.4Mechanism of
+Hormone Action
+CHEMICAL COORDINATION AND INTEGRATION33122.2HUMAN ENDOCRINE SYSTEMThe endocrine glands and hormoneproducing diffused tissues/cells locatedin different parts of our body constitutethe endocrine system. Pituitary, pineal,thyroid, adrenal, pancreas, parathyroid,thymus and gonads (testis in males andovary in females) are the organisedendocrine bodies in our body(Figure 22.1). In addition to these, someother organs, e.g., gastrointestinal tract,liver, kidney, heart also producehormones. A brief account of thestructure and functions of all majorendocrine glands  and hypothalamus ofthe human body is given in the followingsections.22.2.1The HypothalamusAs you know, the hypothalamus is thebasal part of diencephalon, forebrain(Figure 22.1) and it regulates a widespectrum of body functions. It containsseveral groups of neurosecretory cellscalled nuclei which produce hormones.These hormones regulate the synthesisand secretion of pituitary hormones. However, the hormones producedby hypothalamus are of two types, the releasing hormones (whichstimulate secretion of pituitary hormones) and the inhibiting hormones(which inhibit secretions of pituitary hormones). For example ahypothalamic hormone called Gonadotrophin releasing hormone (GnRH)stimulates the pituitary synthesis and release of gonadotrophins. On theother hand, somatostatin from the hypothalamus inhibits the release ofgrowth hormone from the pituitary. These hormones originating in thehypothalamic neurons, pass through axons and are released from theirnerve endings. These hormones reach the pituitary gland through a portalcirculatory system and regulate the functions of the anterior pituitary.The posterior pituitary is under the direct neural regulation of thehypothalamus (Figure 22.2).Figure 22.1 Location of endocrine glandsTestis
+(in male)Ovary
+(in female)Adrenal
+Pancreas
+Thyroid and
+Parathyroid
+ThymusPinealPituitaryHypothalamus
+332BIOLOGY22.2.2The Pituitary GlandThe pituitary gland is located in a bony cavitycalled sella tursica and is attached tohypothalamus by a stalk (Figure 22.2). It isdivided anatomically into an adenohypophysisand a neurohypophysis. Adenohypophysisconsists of two portions, pars distalis and parsintermedia. The pars distalis region of pituitary,commonly called anterior pituitary, producesgrowth hormone (GH), prolactin (PRL),thyroid stimulating hormone (TSH),adrenocorticotrophic hormone (ACTH),luteinizing hormone (LH) and folliclestimulating hormone (FSH). Pars intermediasecretes only one hormone called melanocytestimulating hormone (MSH). However, inhumans, the pars intermedia is almost merged
+with pars distalis. Neurohypophysis (parsnervosa) also known as posterior pituitary,stores and releases two hormones calledoxytocin and vasopressin, which are actuallysynthesised by the hypothalamus and are transported axonally to
+neurohypophysis.Over-secretion of GH stimulates abnormal growth of the body leadingto gigantism and low secretion of GH results in stunted growth resultingin pituitary dwarfism. Prolactin regulates the growth of the mammaryglands and formation of milk in them. TSH stimulates the synthesis andsecretion of thyroid hormones from the thyroid gland. ACTH stimulatesthe synthesis and secretion of steroid hormones called glucocorticoidsfrom the adrenal cortex. LH and FSH stimulate gonadal activity and hence
+are called gonadotrophins. In males, LH stimulates the synthesis andsecretion of hormones called androgens from testis. In males, FSH andandrogens regulate spermatogenesis. In females, LH induces ovulationof fully mature follicles (graafian follicles) and maintains the corpusluteum, formed from the remnants of the graafian follicles after ovulation.FSH stimulates growth and development of the ovarian follicles in females.MSH acts on the melanocytes (melanin containing cells) and regulatespigmentation of the skin. Oxytocin acts on the smooth muscles of ourbody and stimulates their contraction. In females, it stimulates a vigorouscontraction of uterus at the time of child birth, and milk ejection from themammary gland. Vasopressin acts mainly at the kidney and stimulatesPosteriorpituitaryAnteriorpituitaryHypothalamusHypothalamicneurons
+Portal circulation
+Figure 22.2Diagrammatic representation ofpituitary and its relationship withhypothalamus
+CHEMICAL COORDINATION AND INTEGRATION333resorption of water and electrolytes by the distal tubulesand thereby reduces loss of water through urine(diuresis). Hence, it is also called as anti-diuretichormone (ADH).22.2.3The Pineal GlandThe pineal gland is located on the dorsal side of
+forebrain. Pineal secretes a hormone called melatonin.Melatonin plays a very important role in the regulation
+of a 24-hour (diurnal) rhythm of our body. For
+example, it helps in maintaining the normal rhythms
+of sleep-wake cycle, body temperature. In addition,
+melatonin also influences metabolism, pigmentation,
+the menstrual cycle as well as our defense capability.22.2.4Thyroid GlandThe thyroid gland is composed of two lobes which arelocated on either side of the trachea (Figure 22.3). Boththe lobes are interconnected with a thin flap of connectivetissue called isthmus. The thyroid gland is composedof follicles and stromal tissues. Each thyroid follicleis composed of follicular cells, enclosing a cavity. These
+follicular cells synthesise two hormones,tetraiodothyronine or thyroxine (T4) andtriiodothyronine (T3). Iodine is essential for thenormal rate of hormone synthesis in the thyroid.Deficiency of iodine in our diet results inhypothyroidism and enlargement of the thyroid gland,commonly called goitre. Hypothyroidism duringpregnancy causes defective development andmaturation of the growing baby leading to stuntedgrowth (cretinism), mental retardation, low intelligencequotient, abnormal skin, deaf-mutism, etc. In adultwomen, hypothyroidism may cause menstrual cycleto become irregular. Due to cancer of the thyroid glandor due to development of nodules of the thyroid glands,the rate of synthesis and secretion of the thyroidhormones is increased to abnormal high levels leadingto a condition called hyperthyroidism which adverselyaffects the body physiology.Figure 22.3Diagrammatic view of theposition of Thyroid andParathyroid
+(a) Ventral side(b) Dorsal side
+334BIOLOGYThyroid hormones play an important role in the regulation of the basalmetabolic rate. These hormones also support the process of red bloodcell formation. Thyroid hormones control the metabolism of carbohydrates,proteins and fats. Maintenance of water and electrolyte balance is alsoinfluenced by thyroid hormones. Thyroid gland also secretes a proteinhormone called thyrocalcitonin (TCT) which regulates the blood calciumlevels.22.2.5Parathyroid GlandIn humans, four parathyroid glands are present on the back side of thethyroid gland, one pair each in the two lobes of the thyroid gland (Figure22.3b). The parathyroid glands secrete a peptide hormone calledparathyroid hormone (PTH). The secretion of PTH is regulated by thecirculating levels of calcium ions.Parathyroid hormone (PTH) increases the Ca2+ levels in the blood. PTHacts on bones and stimulates the process of bone resorption (dissolution/
+demineralisation). PTH also stimulates reabsorption of Ca2+ by the renaltubules and increases Ca2+ absorption from the digested food. It is, thus,clear that PTH is a hypercalcemic hormone, i.e., it increases the bloodCa2+ levels. Along with TCT, it plays a significant role in calcium balancein the body.22.2.6ThymusThe thymus gland is a lobular structure located between lungs behindsternum on the ventral side of aorta. The thymus plays a major role inthe development of the immune system. This gland secretes the peptidehormones called thymosins. Thymosins play a major role in thedifferentiation of T-lymphocytes, which provide cell-mediatedimmunity. In addition, thymosins also promote production of antibodiesto provide humoral immunity. Thymus is degenerated in old individualsresulting in a decreased production of thymosins. As a result, the immuneresponses of old persons become weak.22.2.7Adrenal GlandOur body has one pair of adrenal glands, one at the anterior part of each
+kidney (Figure 22.4 a). The gland is composed of two types of tissues.The centrally located tissue is called the adrenal medulla, and outsidethis lies the adrenal cortex (Figure 22.4 b).
+CHEMICAL COORDINATION AND INTEGRATION335The adrenal medulla secretes two hormones called adrenaline orepinephrine and noradrenaline or norepinephrine. These arecommonly called as catecholamines. Adrenaline and noradrenaline arerapidly secreted in response to stress of any kind and during emergencysituations and are called emergency hormones or hormones of Fightor Flight. These hormones increase alertness, pupilary dilation,piloerection (raising of hairs), sweating etc. Both the hormones increasethe heart beat, the strength of heart contraction and the rate of respiration.Catecholamines also stimulate the breakdown of glycogen resulting inan increased concentration of glucose in blood. In addition, they alsostimulate the breakdown of lipids and proteins.The adrenal cortex can be divided into three layers, called zonareticularis (inner layer), zona fasciculata (middle layer) and zonaglomerulosa (outer layer). The adrenal cortex secretes many hormones,
+commonly called as corticoids. The corticoids, which are involved incarbohydrate metabolism are called glucocorticoids. In our body, cortisol
+is the main glucocorticoid. Corticoids, which regulate the balance of waterand electrolytes in our body are called mineralocorticoids. Aldosterone isthe main mineralocorticoid in our body.Glucocorticoids stimulate gluconeogenesis, lipolysis and proteolysis;and inhibit cellular uptake and utilisation of amino acids. Cortisol is alsoinvolved in maintaining the cardio-vascular system as well as the kidneyfunctions. Glucocorticoids, particularly cortisol, produces anti-inflammatory reactions and suppresses the immune response. CortisolFigure 22.4 Diagrammatic representation of : (a) Adrenal gland above kidney(b) Section showing two parts of adrenal gland
+336BIOLOGYstimulates the RBC production. Aldosterone acts mainly at the renaltubules and stimulates the reabsorption of Na+ and water and excretionof K+ and phosphate ions. Thus, aldosterone helps in the maintenance ofelectrolytes, body fluid volume, osmotic pressure and blood pressure.Small amounts of androgenic steroids are also secreted by the adrenalcortex which play a role in the growth of axial hair, pubic hair and facialhair during puberty.22.2.8PancreasPancreas is a composite gland (Figure 22.1) which acts as both exocrineand endocrine gland. The endocrine pancreas consists of ‚Islets ofLangerhans™. There are about 1 to 2 million Islets of Langerhans in anormal human pancreas representing only 1 to 2 per cent of the pancreatictissue. The two main types of cells in the Islet of Langerhans are calledaa
+aa
+a-cells and bb
+
+bb
+b-cells. The a-cells secrete a hormone called glucagon, whilethe bb
+
+bb
+b-cells secrete insulin.Glucagon is a peptide hormone, and plays an important role inmaintaining the normal blood glucose levels. Glucagon acts mainly onthe liver cells (hepatocytes) and stimulates glycogenolysis resulting in anincreased blood sugar (hyperglycemia). In addition, this hormonestimulates the process of gluconeogenesis which also contributes to
+hyperglycemia. Glucagon reduces the cellular glucose uptake andutilisation. Thus, glucagon is a hyperglycemic hormone.Insulin is a peptide hormone, which plays a major role in theregulation of glucose homeostasis. Insulin acts mainly on hepatocytesand adipocytes (cells of adipose tissue), and enhances cellular glucoseuptake and utilisation. As a result, there is a rapid movement of glucosefrom blood to hepatocytes and adipocytes resulting in decreased bloodglucose levels (hypoglycemia). Insulin also stimulates conversion ofglucose to glycogen (glycogenesis) in the target cells. The glucosehomeostasis in blood is thus maintained jointly by the two Œ insulin andglucagons.Prolonged hyperglycemia leads to a complex disorder called diabetesmellitus which is associated with loss of glucose through urine andformation of harmful compounds known as ketone bodies. Diabetic
+patients are successfully treated with insulin therapy.22.2.9TestisA pair of testis is present in the scrotal sac (outside abdomen) of maleindividuals (Figure 22.1). Testis performs dual functions as a primary
+CHEMICAL COORDINATION AND INTEGRATION337sex organ as well as an endocrine gland. Testis is composed ofseminiferous tubules and stromal or interstitial tissue. The Leydigcells or interstitial cells, which are present in the intertubular spacesproduce a group of hormones called androgens mainly testosterone.Androgens regulate the development, maturation and functions ofthe male accessory sex organs like epididymis, vas deferens, seminalvesicles, prostate gland, urethra etc. These hormones stimulate musculargrowth, growth of facial and axillary hair, aggressiveness, low pitch ofvoice etc. Androgens play a major stimulatory role in the process ofspermatogenesis (formation of spermatozoa). Androgens act on the centralneural system and influence the male sexual behaviour (libido). Thesehormones produce anabolic (synthetic) effects on protein and carbohydratemetabolism.22.2.10OvaryFemales have a pair of ovaries located in the abdomen (Figure 22.1). Ovaryis the primary female sex organ which produces one ovum during eachmenstrual cycle. In addition, ovary also produces two groups of steroidhormones called estrogen and progesterone. Ovary is composed ofovarian follicles and stromal tissues. The estrogen is synthesised and
+secreted mainly by the growing ovarian follicles. After ovulation, theruptured follicle is converted to a structure called corpus luteum, whichsecretes mainly progesterone.Estrogens produce wide ranging actions such as stimulation of growthand activities of female secondary sex organs, development of growing
+ovarian follicles, appearance of female secondary sex characters (e.g., highpitch of voice, etc.), mammary gland development. Estrogens also regulatefemale sexual behaviour.Progesterone supports pregnancy. Progesterone also acts on themammary glands and stimulates the formation of alveoli (sac-likestructures which store milk) and milk secretion.22.3HORMONES OF HEART, KIDNEY AND GASTROINTESTINAL TRACTNow you know about the endocrine glands and their hormones. However,as mentioned earlier, hormones are also secreted by some tissues whichare not endocrine glands. For example, the atrial wall of our heart secretesa very important peptide hormone called atrial natriuretic factor (ANF),which decreases blood pressure. When blood pressure is increased, ANF
+is secreted which causes dilation of the blood vessels. This reduces theblood pressure.
+338BIOLOGYThe juxtaglomerular cells of kidney produce a peptide hormone callederythropoietin which stimulates erythropoiesis (formation of RBC).Endocrine cells present in different parts of the gastro-intestinal tractsecrete four major peptide hormones, namely gastrin, secretin,cholecystokinin (CCK) and gastric inhibitory peptide (GIP). Gastrinacts on the gastric glands and stimulates the secretion of hydrochloricacid and pepsinogen. Secretin acts on the exocrine pancreas andstimulates secretion of water and bicarbonate ions. CCK acts on bothpancreas and gall bladder and stimulates the secretion of pancreaticenzymes and bile juice, respectively. GIP inhibits gastric secretion andmotility. Several other non-endocrine tissues secrete hormones calledgrowth factors. These factors are essential for the normal growth of tissuesand their repairing/regeneration.22.4MECHANISM OF HORMONE ACTIONHormones produce their effects on target tissues by binding to specificproteins called hormone receptors located in the target tissues only.Hormone receptors present on the cell membrane of the target cells are
+called membrane-bound receptors and the receptors present inside the
+target cell are called intracellular receptors, mostly nuclear receptors
+(present in the nucleus). Binding of a hormone to its receptor leads to the
+formation of a hormone-receptor complex (Figure 22.5 a, b). Eachreceptor is specific to one hormone only and hence receptors are specific.
+Hormone-Receptor complex formation leads to certain biochemical
+changes in the target tissue. Target tissue metabolism and hence
+physiological functions are regulated by hormones. On the basis of their
+chemical nature, hormones can be divided into groups :(i)peptide, polypeptide, protein hormones (e.g., insulin, glucagon,pituitary hormones, hypothalamic hormones, etc.)(ii)steroids (e.g., cortisol, testosterone, estradiol and progesterone)(iii)iodothyronines (thyroid hormones)(iv)amino-acid derivatives (e.g., epinephrine).Hormones  which interact with membrane-bound receptors normallydo not enter the target cell, but generate second messengers (e.g., cyclic
+AMP, IP3, Ca++ etc) which in turn regulate cellular metabolism (Figure22.5a). Hormones which interact with intracellular receptors (e.g., steroid
+hormones, iodothyronines, etc.) mostly regulate gene expression or
+chromosome function by the interaction of hormone-receptor complex
+with the genome. Cumulative biochemical actions result in physiological
+and developmental effects (Figure 22.5b).
+CHEMICAL COORDINATION AND INTEGRATION339Figure 22.5Diagramatic representation of the mechanism of hormone action :(a) Protein hormone  (b) Steroid hormone(a)(b)
+340BIOLOGYSUMMARYThere are special chemicals which act as hormones and provide chemicalcoordination, integration and regulation in the human body. These hormones
+regulate metabolism, growth and development of our organs, the endocrine glands
+or certain cells. The endocrine system is composed of hypothalamus, pituitary
+and pineal, thyroid, adrenal, pancreas, parathyroid, thymus and gonads (testis
+and ovary). In addition to these, some other organs, e.g., gastrointestinal tract,
+kidney, heart etc., also produce hormones. The pituitary gland is divided into
+three major parts, which are called as  pars distalis, pars intermedia and pars
+nervosa. Pars distalis produces six trophic hormones. Pars intermedia secretes
+only one hormone, while pars nervosa (neurohypophysis) secretes two hormones.
+The pituitary hormones regulate the growth and development of somatic tissues
+and activities of peripheral endocrine glands. Pineal gland secretes melatonin,
+which plays a very important role in the regulation of 24-hour (diurnal) rhythms
+of our body (e.g., rhythms of sleep and state of being awake, body temperature,
+etc.). The thyroid gland hormones play an important role in the regulation of the
+basal metabolic rate, development and maturation of the central neural system,
+erythropoiesis, metabolism of carbohydrates, proteins and fats, menstrual cycle.
+Another thyroid hormone, i.e., thyrocalcitonin regulates calcium levels in our blood
+by decreasing it. The parathyroid glands secrete parathyroid hormone (PTH) which
+increases the blood Ca2+ levels and plays a major role in calcium homeostasis. Thethymus gland secretes thymosins which play a major role in the differentiation of
+T-lymphocytes, which provide cell-mediated immunity. In addition, thymosins
+also increase the production of antibodies to provide humoral immunity. The
+adrenal gland is composed of the centrally located adrenal medulla and the outer
+adrenal cortex. The adrenal medulla secretes epinephrine and norepinephrine.
+These hormones increase alertness, pupilary dilation, piloerection, sweating, heart
+beat, strength of heart contraction, rate of respiration, glycogenolysis, lipolysis,
+proteolysis. The adrenal cortex secretes glucocorticoids and mineralocorticoids.
+Glucocorticoids stimulate gluconeogenesis, lipolysis, proteolysis, erythropoiesis,
+cardio-vascular system, blood pressure, and glomerular filtration rate and inhibit
+inflammatory reactions by suppressing the immune response. Mineralocorticoids
+regulate water and electrolyte contents of the body. The endocrine pancreas secretes
+glucagon and insulin. Glucagon stimulates glycogenolysis and gluconeogenesis
+resulting in hyperglycemia. Insulin stimulates cellular glucose uptake and
+utilisation, and glycogenesis resulting in hypoglycemia. Insulin deficiency
+and/or insulin resistance result in a disease called diabetes mellitus.The testis secretes androgens, which stimulate the development, maturationand functions of the male accessory sex organs, appearance of the male secondary
+sex characters, spermatogenesis, male sexual behaviour, anabolic pathways and
+erythropoiesis. The ovary secretes estrogen and progesterone. Estrogen stimulates
+CHEMICAL COORDINATION AND INTEGRATION341growth and development of female accessory sex organs and secondary sexcharacters. Progesterone plays a major role in the maintenance of pregnancy as
+well as in mammary gland development and lactation. The atrial wall of the heart
+produces atrial natriuretic factor which decreases the blood pressure. Kidney
+produces erythropoietin which stimulates erythropoiesis. The gastrointestinal tract
+secretes gastrin, secretin, cholecystokinin and gastric inhibitory peptide. These
+hormones regulate the secretion of digestive juices and help in digestion.EXERCISES1.Define the following:(a) Exocrine gland(b) Endocrine gland
+(c) Hormone2.Diagrammatically indicate the location of the various endocrine glands in ourbody.3.List the hormones secreted by the following:(a) Hypothalamus(b) Pituitary(c) Thyroid(d) Parathyroid(e) Adrenal(f) Pancreas(g) Testis(h) Ovary(i) Thymus(j) Atrium(k) Kidney(l) G-I Tract4.Fill in the blanks:
+Hormones  Target gland(a) Hypothalamic hormones__________________(b) Thyrotrophin (TSH)__________________(c) Corticotrophin (ACTH)__________________(d) Gonadotrophins (LH, FSH)__________________(e) Melanotrophin (MSH)__________________5.Write short notes on the functions of the following hormones:
+(a) Parathyroid hormone (PTH)(b) Thyroid hormones(c) Thymosins(d) Androgens(e) Estrogens(f) Insulin and Glucagon6.Give example(s) of:
+(a) Hyperglycemic hormone and hypoglycemic hormone(b) Hypercalcemic hormone
+(c) Gonadotrophic hormones
+(d) Progestational hormone
+(e) Blood pressure lowering hormone
+(f) Androgens and estrogens
+342BIOLOGY7.Which hormonal deficiency is responsible for the following:(a) Diabetes mellitus(b) Goitre(c) Cretinism8.Briefly mention the mechanism of action of FSH.9.Match the following:
+Column IColumn II(a)T4(i)Hypothalamus(b)PTH(ii)Thyroid(c)GnRH(iii)Pituitary(d)LH(iv)Parathyroid

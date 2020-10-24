@@ -1,0 +1,13 @@
+Presentation of Data1.INTRODUCTIONYou have already learnt in previouschapters how data are collected andorganised. As data are generallyvoluminous, they need to be put in a
+compact and presentable form. Thischapter deals with presentation of dataprecisely so that the voluminous data
+collected could be made usable readilyand are easily comprehended. There aregenerally three forms of presentation ofdata:ŁTextual 
+or Descriptive presentationŁTabular presentation
+
+ŁDiagrammatic presentation.
+2.TEXTUAL PRESENTATION OF DATAIn textual presentation, data aredescribed within the text. When the
+quantity of data is not too large this formof presentation is more suitable. Lookat the following cases:Case 1In a bandh call given on 08 September2005 protesting the hike in prices ofpetrol and diesel, 5 petrol pumps were
+found open  and 17 were closed whereas2 schools were closed and remaining 9schools were found open in a town of
+Bihar.Studying this chapter shouldenable you to:
+Łpresent data using tables;
+Łrepresent data using appropriate
+diagrams.CHAPTER

@@ -1,0 +1,59 @@
+CHEMISTRY154THERMODYNAMICSIt is the only physical theory of universal content concerningwhich I am convinced that, within the framework of the
+applicability of its basic concepts, it will never be overthrown.Albert EinsteinAfter studying this Unit, you willbe able to··
+··
+·explain the terms : system andsurroundings;··
+··
+·discriminate between close,open and isolated systems;··
+··
+·explain internal energy, workand heat;··
+··
+·state first law ofthermodynamics and  expressit mathematically;··
+··
+·calculate energy changes aswork and heat contributions
+in chemical systems;··
+··
+·explain state functions: U, H.··
+
+··
+·correlate  DU and DH;··
+
+··
+·measure experimentally DUand DH;··
+
+··
+·define standard states for DH;··
+
+··
+·calculate enthalpy changes forvarious types of reactions;··
+··
+·state and apply Hess™s law ofconstant heat summation;··
+··
+·differentiate between extensiveand intensive properties;··
+··
+·define spontaneous and non-spontaneous processes;··
+··
+·explain entropy as athermodynamic state functionand apply it for spontaneity;··
+··
+·explain Gibbs energy change(DG);··
+··
+·establish relationship betweenDG and spontaneity, DG andequilibrium constant.Chemical energy stored by molecules can be released as heatduring chemical reactions when a fuel like methane, cookinggas or coal burns in air. The chemical energy may also beused to do mechanical work when a fuel burns in an engine
+or to provide electrical energy through a galvanic cell like
+dry cell. Thus, various forms of energy are interrelated and
+under certain conditions, these may be transformed from
+one form into  another. The study of these energytransformations forms the subject matter of thermodynamics.
+The laws of thermodynamics deal with energy changes of
+macroscopic systems involving a large number of molecules
+rather than microscopic systems containing a few molecules.
+Thermodynamics is not concerned about how and at whatrate these energy transformations are carried out, but isbased on initial and final states of a system undergoing the
+change. Laws of thermodynamics apply only when a system
+is in equilibrium or moves from one equilibrium state to
+another equilibrium state. Macroscopic properties like
+pressure and temperature do not change with time for a
+system in equilibrium state. In this unit, we would like to
+answer some of the important questions through
+thermodynamics, like:How do we determine the energy changes involved in achemical reaction/process? Will it occur or not?What drives a chemical reaction/process?
+To what extent do the chemical reactions proceed?UNIT 6
+THERMODYNAMICS 1556.1  THERMODYNAMIC TERMSWe are interested in chemical reactions and theenergy changes accompanying them. For thiswe need to know certain thermodynamicterms. These are discussed below.6.1.1The System and the SurroundingsA system in thermodynamics refers to thatpart of universe in which observations aremade and remaining universe constitutes thesurroundings. The surroundings includeeverything other than the system. System and
+the surroundings together constitute theuniverse .The universe = The system + The surroundingsHowever, the entire universe other thanthe system is not affected by the changestaking place in the system. Therefore, forall practical purposes, the surroundings
+are that portion of the remaining universewhich can interact with the system.Usually, the region of space in theneighbourhood of the system constitutesits surroundings.For example, if we are studying thereaction between two substances A and B
+kept in a beaker, the beaker containing thereaction mixture is the system and the roomwhere the beaker is kept is the surroundings(Fig. 6.1).be real or imaginary. The wall that separatesthe system from the surroundings is calledboundary. This is designed to allow us tocontrol and keep track of all movements ofmatter and energy in or out of the system.6.1.2 Types of the SystemWe, further classify the systems according tothe movements of matter and energy in or outof the system.1. Ope

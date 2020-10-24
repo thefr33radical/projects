@@ -1,0 +1,463 @@
+1.1 OverviewThis chapter deals with the concept of a set, operations on sets.Concept of sets will beuseful in studying the relations and functions.1.1.1 Set and their representations 
+A set is a well-defined collection of objects.
+There are two methods of representing a set(i)Roaster or tabular form
+(ii)Set builder form1.1.2 The empty set  A set which does not contain any element is called the empty
+set or the void set or null set and is denoted by { } or .1.1.3 Finite and infinite sets  A set which consists of a finite number of elements is
+called a finite set otherwise, the set is called an infinite set.1.1.4 Subsets  A set A is said 
+to be a subset of set B if every element of A is 
+also anelement of B. In symbols we write A 
+B if a  A  a  B.We denoteset of real numbers by 
+Rset of natural numbers by Nset of integers by Zset of rational numbers by Qset of irrational numbers by TWe observe that
+N  Z  Q  R,T  R, Q  T, N  T1.1.5 Equal sets  Given two sets A and B, if every elements of A is also an element of
+B and if every element of B is also an element of A, then the sets A and B are said to
+
+be equal. The two equal sets will have exactly the same elements.1.1.6 Intervals as subsets of R  Let a, b  R and a < b. Then(a)An open interval denoted by (
+a, b) is the set of real numbers {x : a < x < b}(b)A closed interval denoted by [
+a, b] is the set of real numbers {x : a  x  b)Chapter1SETS
+2    EXEMPLAR PROBLEMS Œ MATHEMATICS(c)Intervals closed at one end and open at the other are given by
+[a, b) = {x : a  x < b}(a, b] = {x : a < x  b}1.1.7 Power set  The collection of all subsets of a set A is called the 
+power set
+ of A.
+It is denoted by P(A). If the number of elements in A = 
+n , i.e., n(A) = n,  then thenumber of elements in P(A) = 2n.1.1.8 Universal set  This is a basic set; in a particular context whose elements andsubsets are relevant to that particular context. For example, for the set of vowels inEnglish alphabet, the universal set can be the set of all alphabets in English. Universalset is denoted by U.1.1.9 Venn diagrams
+  Venn Diagrams are the
+diagrams which represent the relationship betweensets. For example, the set of natural numbers is a
+subset of set of whole numbers which is a subset ofintegers. We can 
+represent this relationship throughVenn diagram in the following way.
+1.1.10 Operations on setsUnion of Sets : The union of any two given sets A and B is the set C which consists
+of all those elements which are either in A or in B. In symbols, we write
+C = A 
+ B = {x | x A or 
+x B}Fig 1.1Fig 1.2 (a)Fig 1.2 (b)Some properties of the operation of union.(i)A 
+B = B  A(ii)(A 
+B) C = A 
+(B  C)(iii)A 
+
+= A(iv)A 
+A = A
+(v)U 
+A = UIntersection of sets: The intersection of two sets A and B is the set which
+consists of all those elements which belong to both A and B. Symbolically, we
+write A 
+ B = {x : x A and 
+x B}.
+SETS    3
+When A 
+B = , then A and B 
+are called disjoint sets.Fig 1.3 (a)Fig 1.3 (b)
+Some properties of the operation of intersection(i)A 
+
+B = B  A(ii)(A 
+
+B) C = A 
+
+B C)(iii)
+A = 
+; U A = A(iv)A 
+A = A
+(v)A 
+(B C) = (A  B) (A C)(vi)A 
+(B C) = (A  B) (A C)Difference of sets
+  The difference of two sets A and B, denoted by A Œ B is defined
+as set of elements which belong to A 
+but not to B. We write
+A Œ B ={
+x : x A and x B}also,B Œ A ={ 
+x : x  B and x A}Complement of a set  Let U be the universal set and A a subset of U. Then the
+complement of A is the set of all elements 
+of U which are not the elements of A.
+Symbolically, 
+we writeA = {x : x U and x A}. Also A
+ = U Œ A
+Some properties of complement of sets(i)Law of complements:
+(a)A 
+A = U(b)A 
+A= (ii)De Mor
+gan™s law
+(a)(A  
+B)= A  B(b)(A 
+
+B)= A  B(iii)(A
+) = A
+(iv)U
+ =  and = U1.1.11 
+Formulae to solve practical problems on union and intersection of two setsLet A, B 
+and C be any finite sets. Then(a)n (A B) = n (A) + n (B) Œ n (A  B)(b)If (A 
+B) = , then n (A B) = n (A) + n (B)
+4    EXEMPLAR PROBLEMS Œ MATHEMATICS(c)n (A B C) = n (A) +  
+n (B) + n (C) Œ n (A B) Œ n (A C) Œ n (B C)+ n (A B  C)1.2 Solved ExamplesShort 
+Answer Type
+Example 1  Write the following sets in the roaster form.
+(i)A = {
+x | x is a positive integer less than 10 and 2x Œ 1 is an odd number}(ii)C = {
+x : x2 + 7x Œ 8 = 0, x  R}Solution(i)2
+x Œ 1 is always an odd number for all positive integral values of x. In particular,
+2x Œ 1 is an odd number for x = 1, 2, ... , 9. Thus, A = 
+{1, 2, 3, 4, 5, 6, 7, 8, 9}.(ii)x2 + 7x Œ 8 = 0    or   (x + 8) (x Œ 1) = 0 giving x = Œ 8 or x = 1Thus,   C = {Œ 8, 1}Example 2 State which of the following statements are true and which are false.Justify your answer.(i)37 
+ {x | x has exactly two positive factors}(ii)28 
+ {y | the sum of the all positive factors of y is 2y}(iii)7,747  {t | t is a multiple of 37}Solution(i)False
+Since, 37 has exactly two positive factors, 1 and 37, 37 belongs to the set.(ii)True
+Since, the sum of positive factors of 28=1 + 2 + 4 + 7 + 14 + 28
+=56 = 2(28)
+(iii)False
+7,747 is not a multiple of 37.Example 3  If X and Y are subsets of the universal set U, then show that
+(i)Y 
+ X  Y(ii)X 
+ Y  X(iii)X 
+ Y  X  Y = X
+Solution(i)X 
+ Y = {
+x | x  X or x  Y}Thusx  Y  x  X  YHence,Y 
+ X  Y
+SETS    5
+(ii)X 
+ Y = {
+x | x  X and x  Y}Thusx  X  Y  x  XHenceX 
+ Y  X(iii)Note thatx  X Y  x  XThusX 
+ Y  XAlso, sinceX 
+ Y,x  X  x  Y  x  X  Yso thatX 
+ X  YHence the result  X = X  Y follows.
+Example 4 Given that N = {1, 2, 3, ..., 100}, then(i)Write the subset A of N, whose element are odd numbers.
+(ii)W
+rite the subset B of N, whose element are represented by x + 2, where x  N.Solution(i)A = {
+x | x  N and x is odd}= {1, 3, 5, 7, ..., 99}(ii)B = {
+y | y = x + 2, x  N}So,  for1 
+ N,  y = 1 + 2 = 32  N,  y = 2 + 2 = 4,and so on. Therefore, B = {3, 4, 5, 6, ... , 100}Example 5 Given that E = {2, 4, 6, 8, 10}. If n represents any member of E, then,write the following sets containing all numbers represented by(i)n + 1(ii)
+n2Solution Given E = {2, 4, 6, 8, 10}(i)Let A = {
+x | x = n + 1, n  E}Thus,  for2 
+ E, x = 34  E, x = 5,and so on. Therefore, A = {3, 5, 7, 9, 11}.
+(ii)Let B = {x | x = n2, n  E}So,  for2 
+ E, x = (2)2 = 4, 4 
+ E, x = (4)2 = 16, 6  E, x = (6)2 = 36,
+and so on. Hence,B = {4, 16, 36, 64, 100}
+Example 6 Let X = {1, 2, 3, 4, 5, 6}. If n represent any member of X, express thefollowing as sets:
+
+6    EXEMPLAR PROBLEMS Œ MATHEMATICS(i)n  X but 2n  X(ii)
+n + 5 = 8(iii)n is greater than 4.Solution(i)For X = {1, 2, 3, 4, 5, 6}, it is the given that 
+n  X, but 2n  X.Let,A = {
+x | x  X and 2x  X}Now,1 
+ A   as2.1 
+
+ X2  A   as2.2 = 4 
+ X3  A   as2.3 = 6 
+ XBut4 
+ A   as2.4 = 8 
+ X5  A   as2.5 = 10 
+ X6  A   as2.6 = 12 
+ XSo,A = {4, 5, 6}
+(ii)Let B = {x | x  X and x + 5 = 8}Here,B = {3}
+as x = 3  X and 3 + 5 = 8 and there is no other element belonging to X
+such that x + 5 = 8.
+(iii)Let C = {x | x  X, x > 4}Therefore,C = {5, 6}
+Example 7  Draw the Venn diagrams to 
+illustrate the followoing relationship amongsets E, M and U, where E is the set of students studying English in a school, M is theset of students studying Mathematics in the same school, U is the set of all students in
+that school.(i)All the students who study Mathematics study English, but some students who
+study English do not study Mathematics.(ii)There is no student who studies both Mathematics and English.(iii)Some of the students study Mathematics but do not study English, some study Englishbut do not study Mathematics, and some study both.(iv)Not all students study Mathematics, but every studentsstudying English studies Mathematics.Solution(i)Since all of the students who study mathematics study
+English, but some students who study English do notstudy Mathematics.Therefore,M 
+ E  UThus the Venn Diagram is
+Fig 1.4
+SETS    7
+(ii)Since there is no student who study both English and MathematicsHence,E 
+ M = .Fig 1.5Fig 1.6Fig 1.7(iii)Since there are some students who study both English and Mathematics, someEnglish only and some Mathematics only.Thus, the Venn Diagram is
+(iv)Since every student studying English studiesMathematics.Hence,E 
+ M  UExample 8  For all sets A, B and C
+Is (A 
+ B)  C = A 
+ (B  C)?Justify your statement.
+8    EXEMPLAR PROBLEMS Œ MATHEMATICSSolution No. consider the following sets A, B and C :
+A ={1, 2, 3}
+B ={2, 3, 5}
+
+C ={4, 5, 6}
+Now(A 
+ B)  C =({1, 2, 3} 
+ {2, 3, 5})  {4, 5, 6}={2, 3} 
+ {4, 5, 6}={2, 3, 4, 5, 6}
+AndA 
+ (B  C) ={1, 2, 3} 
+ [{2, 3, 5}  {4, 5, 6}={1, 2, 3} 
+ {2, 3, 4, 5, 6}={2, 3}
+Therefore,(A 
+ B)  C A  (B  C)Example 9 Use the properties of sets to prove that for all the sets A and B
+A Œ (A  B) =A Œ B
+Solution We have
+A Œ (A  B) =A 
+ (A 
+ B)     (since A Œ B = A 
+ B)=A 
+ (A  B)     [by De Morgan™s 
+law)=(A 
+ A)  (A 
+ B) [by distributive law]
+=
+ (A  B)=A 
+ B = A Œ B
+Long Answer 
+Type
+Example  10  For all sets A, B and CIs (A Œ B)  (C Œ B) = (A  C) Œ B?Justify your answer.Solution Yes
+Let x  (A Œ B)  (C Œ B)x  A Œ B and 
+x  C Œ B(x  A and 
+x  B) and (x  C and x  B)(x  A and 
+x  C) and x  B(x  A  C) and x  Bx  (A  C) Œ BSo(A Œ B) 
+ (C Œ B)  (A  C) Œ B... (1)
+Now, conversely
+
+SETS    9
+Lety  (A  C) Œ By  (A  C) and y  B(y  A and 
+y  C) and (y  B)(y  A and 
+y  B) and (y  C and y  B)y  (A Œ B) and y  (C Œ B)y  (A Œ B)  (C Œ B)So(A 
+ C) Œ B  (A Œ B)  (C Œ B)... (2)
+From (1) and (2), (A Œ B)  (C Œ B) =  (A  C) Œ BExample 11  Let A, B and 
+C be sets. Then show thatA  (B  C) = (A  B)  (A  C)Solution  We first show that A 
+ (B  C)  (A 
+ B)  (A 
+ C)Let x  A  (B  C). Thenx  Aor
+x  B  Cx  Aor(
+x  B and x C)(x  A or 
+x  B) and (x  A or 
+x  C)(x  A  B)and(
+x  A  C)x  (A  B)  (A  C)Thus,A 
+ (B  C)  (A  B)  (A  C)... (1)
+Now we will show that (A  B)  (A  C)  (A  C)Letx  (A  B)  (A  C)x  A  B and x  A  C(x A or 
+x  B) and (x  A or 
+x  C)x  A or (
+x  B and x  C)x  A or (
+x  B  C)x  A  (B  C)Thus,(A 
+ B)  (A 
+ C)  A  (B  C)... (2)
+So, from (1) and (2), we haveA  (B  C) = (A  B)  (A  C)Example 12  Let P be the set of prime numbers and let S = {t | 2t Œ 1 is a prime}.Prove that S  P.Solution  Now the equivalent contrapositive statement of x  S  x  P is x  P x  S.
+10    EXEMPLAR PROBLEMS Œ MATHEMATICSNow, we will prove the above contrapositive statement by contradiction method
+Letx  Px is a composite numberLet us now assume that x  S2x Œ 1 = m(where m is a prime number)2x  = m + 1Which is not true for all composite number, say for x = 4 because24 = 16 which can not be equal to the sum of any prime number m and 1.Thus, we arrive at a contradiction
+x  S.Thus,when x  P, we arrive at 
+x  SSoS 
+ P.Example 13  From 50 students taking examinations in Mathematics, Physics andChemistry, each of the student has passed in at least one of the subject, 37 passed
+Mathematics, 24 Physics and 43 Chemistry. At most 19 passed Mathematics and
+Physics, at most 29 Mathematics and Chemistry and at most 20 Physics and Chemistry.
+What is the largest possible number that could have passed all three examination?Solution  Let M be the set of students passing in MathematicsP be the set of students passing in PhysicsC be the set of students passing in ChemistryNow,
+n(M  P  C) = 50, n(M) = 37, n(P) = 24, n(C) = 43n(M  P)  19, n(M  C)  29, n(P  C)  20  (Given)n(M  P  C)= 
+n(M) + n(P) + n(C) Œ n(M  P) Œ n(M  C)   Œ n(P  C) + n(M  P  C)  5037 + 24 + 43 Œ 19 Œ 29 Œ 20 + n(M  P  C)  50n(M  P  C)  50 Œ 36n(M  P  C)  14Thus,the largest possible number that could have passed all the three examinations is 14.Objective Type Questions
+Choose the correct answer from the given four options in each of the Examples14 to 16: (M.C.Q.)
+
+SETS    11
+Example 14  Each set Xr contains 5 elements and each set Y
+r contains 2 elementsand 2011XSY
+nrrrr. If each element of S belong to exactly 10 of the Xr™s and toexactly 4 of the Yr™s, then n is(A)10(B)20(C)100(D)50
+Solution The correct answer is (B)Since, n(Xr) = 5, 201XSrr, we get n(S) = 100But each element of S belong to exactly 10 of the Xr™sSo,100
+1010 are the number of distinct elements in S.Also each element of S belong to exactly 4 of the Y
+r™ s and each Y
+r contain 2 elements.If S has n number of Yr in it. Then24n =10
+which givesn =20
+Example 15  Two finite sets have 
+m and n elements respectively. The total number of
+subsets of first set is 56 more than the total number of subsets of the second set. Thevalues of m and n respectively are.(A)7, 6(B)5, 1(C)6, 3(D)8, 7
+Solution  The correct answer is (C).Since, let A and B be such sets, i.e., 
+n (A) = m,n (B) =nSon (P(A)) =2
+m, n (P(B)) = 2nThusn (P(A)) Œ n (P(B)) =56, i.e., 2
+m Œ 2n = 562n (2m Œ n Œ 1) =2
+3 7n =3 , 2
+m Œ n Œ 1 = 7m =6Example 16  The set (A  B  C)  (A  B  C)
+ C is equal to(A)B 
+ C(B)A 
+ C(C)B 
+ C(D)A 
+ CSolution  The correct choice is (A).Since (A  B  C)  (A  B
+ C) C
+12    EXEMPLAR PROBLEMS Œ MATHEMATICS=(A 
+ (B  C))  (A  (B  C))  C=(A 
+ A)  (B  C)  C=  (B  C)  C=B 
+ C
+= B  CFill in the blanks in Examples 17 and 18 :Example 17  If A and B are two finite sets, then 
+n(A) + n(B) is equal to ___________Solution  Sincen(A  B) = n (A) + n (B) Œ n (A  B)Son(A) + n (B) = n (A  B) + n (A  B)Example 18 If A is a finite set containing 
+n element, then number of subsets of A is
+__________Solution  2nState true or false for the following statements given in Examples19 and 20.Example 19  Let R and S be the sets defined as follows:R = {x  Z | x is divisible by 2}S = {y  Z | y is divisible by 3}thenR 
+ S = Solution FalseSince 6 is divisible by both 3 and 2.ThusR 
+ S   Example 20  Q  R = Q, where Q is the set of rational numbers and R is the set ofreal numbers.Solution  True
+SinceQ  RSoQ  R = Q 1.3EXERCISE
+Short 
+Answer Type
+1.Write the following sets in the roaster from
+(i)A = {
+x : x  R, 2x + 11 = 15}(ii)B = {
+x | x2 = x, x  R}(iii)C = {
+x | x is a positive factor of a prime number p}
+SETS    13
+2.Write the following sets in the roaster form :
+(i)D = {
+t | t3 = t, t  R}(ii)E = {
+w | 233ww, w  R}(iii)F = {
+x | x4 Œ 5x2 + 6 = 0, x  R}3.If Y = {
+x | x is a positive factor of the number 2p Œ 1 (2p Œ 1),  where 2p Œ 1 is aprime number}.Write Y in 
+the roaster form.4.State which of the following statements are true and which are false. Justifyyour answer.
+(i)35 
+ {x | x has exactly four positive factors}.(ii)128  {y | the sum of all the positive factors of y is 2y}(iii)3 
+ {x | x4 Œ 5x3 + 2x2 Œ 112
+x + 6 = 0}(iv)496  {y | the sum of all the positive factors of y is 2y}.5.Given L = {1, 2, 3, 4}, M = {3, 4, 5, 6} and N = {1, 3, 5}Verify that L Œ (M 
+ N) = (L Œ M)  (L Œ N)
+6.If A and B are subsets of the universal set U, then show that
+(i)A 
+ A  B(ii)A 
+ B A  B = B(iii)(A 
+ B)  A7.Given that N = {1, 2, 3, ... , 100}. Then write(i)the subset of N whose elements are even numbers.
+(ii)the subset of N whose element are perfect square numbers.8.If X = {1, 2, 3}, if n represents any member of X, write the following setscontaining all numbers represented by(i)4
+n(ii)n + 6(iii)
+2n(iv)n Œ 19.If Y = {1, 2, 3, ... 10}, and 
+a represents any element of Y, write the following
+sets, containing all the elements satisfying the given conditions.(i)a  Y but 
+a2  Y(ii)
+a + 1 = 6, a  Y(iii)a is less than 6 and a  Y10.A, B and C are subsets of Universal Set U. If A = {2, 4, 6, 8, 12, 20}
+B = {3, 6, 9, 12, 15}, C = {5, 10, 15, 20} and U is the set of all whole numbers,draw a Venn 
+diagram showing the relation of U, A, B and C.
+
+14    EXEMPLAR PROBLEMS Œ MATHEMATICS11.
+Let U be the set of all boys and girls in a school, G be the set of all girls in theschool, B be the set of all boys in the school, and S be the set of all students in the
+school who take swimming. Some, but not all, students in the school take
+swimming. Draw a Venn diagram showing one of the possible interrelationship
+among sets U, G, B and S.
+12.For all sets A, B and C, show that  (A Œ B) 
+ (C Œ B) = A Œ (B 
+ C)Determine whether each of the statement in Exercises 13 Œ 17 is true or false.Justify your answer.13.For all sets A and B, (A Œ B) 
+ (A 
+ B) = A
+14.For all sets A, B and C, A Œ (B Œ C) = (A Œ B) Œ C
+15.For all sets A, B and C, if A 
+ B, then A 
+ C  B  C16.For all sets A, B and C, if A 
+ B, then A 
+ C  B  C17.For all sets A, B and C, if A 
+ C and B  C, then A 
+B  C.Using properties of sets prove the statements given in Exercises 18 to 2218.For all sets A and B, A 
+ (B Œ A) = A 
+ B19.For all sets A and B, A Œ (A Œ B) = A 
+ B20.For all sets A and B, A Œ (A 
+ B) = A Œ B
+21.For all sets A and B, (A 
+ B) Œ B = A Œ B
+22.Let T = 
+5440
+|5713
+xxxxx. Is T an empty set? Justify your answer.
+Long  Answer Type
+23.Let A, B and C be sets. Then show that
+A  (B  C) = (A  B)  (A  C)24.Out of 100 students; 15 passed in English, 12 passed in Mathematics, 8 in Science,6 in English and Mathematics, 7 in Mathematics and Science; 4 in English andScience; 4 in all the three. Find how many passed(i)in English and Mathematics but not in Science
+(ii)in 
+Mathematics and Science but not in English(iii)in 
+Mathematics only(iv)in 
+more than one subject only25.In a class of 60 students, 25 students play cricket and 20 students play tennis, and
+10 students play both the games. Find the number of students who play neither?
+SETS    15
+26.In a survey of 200 students of a school, it was found that 120 study Mathematics,90 study Physics and 70 study Chemistry, 40 study Mathematics and Physics, 30
+study Physics and Chemistry, 50 study Chemistry and Mathematics and 20 none
+
+of these subjects. Find the number of students who study all the three subjects.27.In a town of 10,000 families it was found that 40% families buy newspaper A,
+
+20% families buy newspaper B, 10% families buy newspaper C, 5% families
+buy A 
+and B, 3% buy B and C and 4% buy A and C. If 2% families buy all the
+three newspapers. Find(a)The number of families which buy newspaper A only.
+(b)The number of families which buy none of A, B and C
+28.In a group of 50 students, the number of students studying French, English,Sanskrit were found to be as follows:
+French = 17, English = 13, Sanskrit = 15
+French and English = 09, English and Sanskrit = 4French and Sanskrit = 5, English, French and Sanskrit = 3. Find the number ofstudents who study(i)French only(v)French and Sanskrit but not English
+(ii)English only(vi)French and English but not Sanskrit(iii)Sanskrit only(vii)at 
+least one of the three languages(iv)English and Sanskrit 
+(viii)none of the three languagesbut not FrenchObjective Type Questions
+Choose the correct answers from the given four options in each Exercises 29 to 43(M.C.Q.).29.Suppose A1, A2, ..., A
+30 are thirty sets each having 5 elements and B1, B2, ..., Bnare n sets each with 3 elements, let 3011ABS
+nijij and each element of Sbelongs to exactly 10 of the A
+i™s and exactly 9 of the B,™S. then 
+n is equal to(A)15(B)3(C)45(D)35
+30.Two finite sets have 
+m and n elements. The number of subsets of the first set is112 more than that of the second set. The values of 
+m and n are, respectively,(A)4, 7(B)7, 4(C)4, 4(D)7, 7
+
+16    EXEMPLAR PROBLEMS Œ MATHEMATICS31.The set (A  B)
+ (B  C) is equal to(A)A
+
+ B  C(B)A
+
+ B(C)A
+
+ C(D)A
+
+ B32.Let F1 be the set of parallelograms, F2 the set of rectangles, F3 the set of rhombuses,F4 the set of squares and F5 the set of trapeziums in a plane. Then F1 may beequal to(A)F
+2  F3(B)F
+3  F4(C)F
+2  F5(D)F
+2  F3  F4 F133.Let S = set of points inside the square, T = the set of points inside the triangle andC = the set of points inside the circle. If the triangle and circle intersect eachother and are contained in a square. Then(A)S 
+ T  C = (B)S 
+ T  C = C(C)S 
+ T  C = S(D)S 
+ T = S  C34.Let R be set of points inside a rectangle of sides a and b (a, b > 1) with two sidesalong the positive direction of x-axis and y-axis. Then(A)R = {(
+x, y) : 0  x  a, 0  y  b}(B)R = {(
+x, y) : 0  x < a, 0  y  b}(C)R = {(
+x, y) : 0  x  a, 0 < y < b}(D)R = {(
+x, y) : 0 < x < a, 0 < y < b}35.In a class of 60 students, 25 students play cricket and 20 students play tennis,
+and 10 students play both the games. Then, the number of students who play
+neither is(A)0(B)25(C)35(D)45
+36.In a town of 840 persons, 450 persons read Hindi, 300 read English and 200 read
+both. Then the number of persons who read neither is(A)210(B)290(C)180(D)260
+37.If X = {8n Œ 7n Œ 1 | n  N} and Y = {49
+n Œ 49 | n  N}. Then
+(A)X 
+ Y(B)Y 
+ X(C)X = Y(D)X 
+ Y = 
+38.A survey shows that 63% of the people watch a News Channel whereas 76%
+watch another channel. If x% of the people watch both channel, then(A)x = 35(B)
+x = 63(C)39 
+ x  63(D)
+x = 3939.If sets A and B are defined as
+ A = {(
+x, y) | y = 1x, 0  x  R}      B = {(
+x, y) | y = Œ x, x  R}, then(A)A 
+ B = A(B)A 
+ B = B(C)A 
+ B = (D)A 
+ B = A
+
+SETS    17
+40.If A and B are two sets, then A 
+ (A 
+ B) equals(A)A(B)B(C)
+(D)A 
+ B41.IfA = {1, 3, 5, 7, 9, 11, 13, 15, 17} B = {2, 4, ... , 18} and 
+N the set of naturalnumbers is the universal set, then A
+  (A 
+ B)  B) is(A)(B)N(C)A(D)B
+42.Let S = {
+x | x is a positive multiple of 3 less than 100}P = {x | x is a prime number less than 20}. Then n(S) + n(P) is(A)34(B)31(C)33(D)30
+43.If X and Y are two sets and X
+ denotes the complement of X, then X  (X  Y)is equal to(A)X(B)Y(C)
+(D)X 
+ YFill in the blanks in each of the Exercises from 44 to 51 :44.The set {x  R : 1  x < 2} can be written as ______________.45.When A = 
+, then number of elements in P(A) is ______________.46.If A and B are finite sets such that A 
+ B, then n (A 
+ B) = ______________.47.If A and B are any two sets, then A Œ B is equal to ______________.
+48.Power set of the set A = {1, 2} is ______________.
+49.Given the sets A = {1, 3, 5}. B = {2, 4, 
+6} and C = {0, 2, 4, 6, 8}. Then the
+universal set of all the three sets A, B and C can be ______________.50.If U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}, A = {1, 2, 3, 5}, B = {2, 4, 6, 7} and
+C = {2, 3, 4, 8}. Then(i)(B 
+ C) is ______________.(ii)(C Œ A)
+ is ______________.51.For all sets A and B, A Œ (A 
+ B) is equal to ______________.52.Match the following sets for all sets A, B 
+and C(i)((A
+
+ B) Œ A)
+(a)A Œ B
+(ii)[B
+  (B Œ A)]
+(b)A
+(iii)(A Œ B) Œ (B Œ C)(c)B
+(iv)(A Œ B) 
+ (C Œ B)(d)(A × B) 
+ (A × C)(v)A × (B 
+ C)(e)(A × B) 
+ (A × C)(vi)A × (B 
+ C)(f)(A 
+ C) Œ B
+18    EXEMPLAR PROBLEMS Œ MATHEMATICSState True or False for the following statements in each of the Exercises from 53 to 58 :
+53.If A is any set, then A 
+ A54.Given that M = {1, 2, 3, 4, 5, 6, 7, 8, 9} and if B = {1, 2, 3, 4, 5, 6, 7, 8, 9}, then B  M55.The sets {1, 2, 3, 4} and {3, 4, 5, 6} are equal.56.Q  Z = Q, where Q is the set of rational numbers and Z is the set of integers.57.Let sets R and T be defined asR = {x  Z | x is divisible by 2}T = {x  Z | x is divisible by 6}. Then T  R58.Given A = {0, 1, 2}, B = {
+x  R | 0  x  2}. Then A = B.
+

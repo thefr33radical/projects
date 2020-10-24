@@ -1,0 +1,380 @@
+CHAPTER EIGHTGRAVITATION
+8.1 INTRODUCTIONEarly in our lives, we become aware of the tendency of all
+material objects to be attracted towards the earth.  Anything
+thrown up falls down towards the earth, going uphill is lot
+more tiring than going downhill, raindrops from the clouds
+
+above fall towards the earth and  there are many other such
+phenomena.  Historically it was the Italian Physicist Galileo
+(1564-1642) who recognised the fact that all bodies,
+irrespective of their masses, are accelerated towards the earth
+with a constant acceleration.  It is said  that he made a public
+demonstration of this fact.  To find the truth, he certainly did
+
+experiments with bodies rolling down inclined planes and
+arrived at a value of the acceleration due to gravity which isclose to the more accurate value obtained later.
+A seemingly unrelated phenomenon, observation of stars,planets and their motion has been the subject of attention inmany countries since the earliest of times.  Observations since
+
+early times recognised stars which appeared in the sky with
+positions unchanged year after year.  The more interesting
+objects are the planets which seem to have regular motions
+
+against the background of stars.  The earliest recorded model
+for planetary motions proposed by Ptolemy about 2000 years
+ago was a ‚geocentric™ model in which all celestial objects,
+stars, the sun and the planets, all revolved around the earth.
+The only motion that was thought to be possible for celestialobjects was motion in a circle.  Complicated schemes of motion
+
+were put forward by Ptolemy in order to describe the observed
+motion of the planets.  The planets were described as moving
+in circles with the center of the circles themselves moving in
+
+larger circles.  Similar theories were also advanced by Indian
+astronomers some 400 years later.  However a more elegant
+model in which the Sun was the center around which the
+
+planets revolved Œ the ‚heliocentric™ model Œ was already
+mentioned by Aryabhatta (5th century A.D.) in his treatise. A
+thousand years later, a Polish monk named Nicolas
+8.1Introduction
+8.2Kepler™s laws
+
+8.3Universal law of
+gravitation8.4The gravitational
+constant8.5Acceleration due to
+gravity of the earth8.6Acceleration due to
+gravity below and above
+the surface of earth
+8.7Gravitational potential
+energy
+8.8Escape speed
+8.9Earth satellites
+
+8.10Energy 
+of an orbitingsatellite8.11Geo
+stationary and polarsatellites8.12Weightlessness
+SummaryPoints to ponderExercises
+Additional exercises
+
+184PHYSICSBACPSS'2b2aCopernicus (1473-1543) proposed a definitive
+model in which the planets moved in circles
+
+around a fixed central sun.  His theory was
+
+discredited by the church, but notable amongst
+
+its supporters was Galileo who had to face
+prosecution from the state for his beliefs.
+It was around the same time as Galileo, a
+nobleman called Tycho Brahe (1546-1601)
+hailing from Denmark, spent his entire lifetime
+
+recording observations of the planets with the
+
+naked eye.  His compiled data were analysed
+
+later by his assistant Johannes Kepler (1571-
+1640). He could extract from the data three
+
+elegant laws that now go by the name of Kepler™s
+
+laws.  These laws were known to Newton and
+
+enabled him to make a great scientific leap in
+
+proposing his universal law of gravitation.
+8.2  KEPLER™S LAWS
+The three laws of Kepler can be stated as follows:1.  Law of orbits :
+ All planets move in elliptical
+orbits with the Sun situated at one of the  foci
+Fig. 8.1(a)An ellipse traced out by a planet around
+
+the sun. The closest point is P and the
+farthest point is A, P is called the
+perihelion and A the aphelion. The
+
+semimajor axis is half the distance AP.
+Fig. 8.1(b)Drawing an ellipse. A string has its ends
+fixed at F1 and F
+2. The tip of a pencil holdsthe string taut and is moved around.
+of the ellipse (Fig. 8.1a). This law was a  deviation
+from the Copernican model which allowed only
+
+circular orbits. The ellipse, of which the circle is
+a special case, is a closed curve which can bedrawn very simply as follows.Select two points F1 and F
+2.  Take a length
+of a string and  fix its ends at F
+1 and F
+2 by pins.
+With the tip of a pencil  stretch the string taut
+
+and then draw a curve by moving the pencilkeeping the string taut throughout.(Fig. 8.1(b))
+The closed curve you get is called an ellipse.
+Clearly for any point T on the ellipse, the sum ofthe distances from F
+1 and F2 is a constant.  F1,F2 are called the focii. Join the points F
+1 and  F2and extend   the line to intersect the ellipse atpoints P and A as shown in Fig. 8.1(b). The
+midpoint of the line PA is the centre of the ellipse
+
+O and the length PO = AO  is called the semi-
+major axis of the ellipse. For a circle, the two
+focii  merge into one  and the semi-major axis
+
+becomes the radius of the circle.
+2. Law of areas :
+ The line that joins any planet
+to the sun sweeps  equal areas in equal intervals
+
+of time (Fig. 8.2).  This law comes from the
+observations that planets appear to move slowerwhen they are  farther from the sun than when
+
+they are nearer.
+Fig. 8.2The planet P moves around the sun in an
+elliptical orbit. The shaded area is the area
+A swept out in a small interval of time  t.3. Law of periods : The square of the time period
+of revolution of a planet is proportional to the
+cube of the semi-major axis of the ellipse tracedout by  the planet.The table below gives the approximate time
+periods of revolution of nine planets around the
+sun along with values of their semi-major axes.
+GRAVITATION
+185Table 1
+Data from measurement of planetary
+motions given below confirm Kepler™s
+
+Law of PeriodsaSemi-major  axis in units of  10
+10 m.
+TTime period of revolution of the planet
+in years(y).QThe quotient ( T2/a3  ) in units of
+10 -34 y2 m-3.PlanetaTQ
+Mercury5.790.242.95
+Venus10.80.6153.00
+
+Earth15.012.96
+
+Mars22.81.882.98
+
+Jupiter77.8
+11.93.01
+Saturn14329.52.98
+
+Uranus287842.98
+
+Neptune4501652.99
+Pluto5902482.99
+The law of areas can be understood as aconsequence of  conservation of angular
+
+momentum whch is valid for any central force .
+
+A central force is such that  the force on the
+
+planet is along the vector joining the sun and
+the planet. Let the sun be at the origin and let
+the position and momentum of the planet bedenoted by r and 
+p  respectively. Then the area
+swept out by the planet of mass m in time
+
+interval t is (Fig. 8.2) A given byA = ½  (r × vt)(8.1)
+ Hence
+A/t    =½ (r × p)/m, (since  v = p/m)                      =    L / (2 m)(8.2)
+where 
+v is the velocity,  
+L is the angular
+momentum equal  to   ( r  ×  
+p  ).  For a central
+force, which is directed along 
+r, L is  a constant
+as the planet goes around. Hence,  
+A/t is a
+constant according to the last equation. This is
+the law of areas. Gravitation is a central force
+
+and hence the law of areas follows.
+Example 8.1  Let  the speed of the planet
+at  the  perihelion 
+P in Fig. 8.1(a) be 
+vP  and
+the Sun-planet distance SP be rP. Relate{rP, vP} to the corresponding quantities at
+the aphelion {rA, vA}. Will the planet take
+equal times to traverse BAC and CPB ?Answer  The magnitude of the angular
+momentum at P is 
+Lp =  m
+p rp vp, since inspectiontells us that rp and 
+vp are mutually
+perpendicular. Similarly, 
+LA = m
+p rA vA. From
+angular momentum conservationmp rp vp = mp rA vAorvvpA=rrApSince rA   
+> rp, vp > 
+vA .The area 
+SBAC bounded by the ellipse andthe radius vectors SB and SC is larger than SBPCin Fig. 8.1. From Kepler™s second law, equal areas
+are swept in equal times. Hence the planet will
+
+take a longer time to traverse BAC than CPB.8.3  UNIVERSAL LAW OF GRAVITATION
+Legend has it that observing an apple fallingfrom a tree, Newton was inspired to arrive at an
+universal law of gravitation that led to anexplanation of terrestrial  gravitation as well as
+
+of Kepler™s laws.  Newton™s reasoning was that
+the moon revolving in an orbit of radius Rm was
+subject to a centripetal acceleration due to
+earth™s gravity of magnitude2224mmmRVaRT==(8.3)where 
+V is the speed of the moon related to the
+time period T  by the relation 
+2/mVRT
+=. Thetime period T is about 27.3 days and 
+Rm was
+already known then to be about 3.84 × 10
+8m.  If
+we substitute these numbers in equation (8.3),we get a value of am much smaller than the value
+of acceleration due to gravity g on the surface of
+
+the earth, arising also due to earth™s gravitational
+attraction.Johannes Kepler(1571Œ1630)  was a
+scientist of German
+
+origin. He formulated
+
+the three laws of
+planetary motion based
+
+on the painstaking
+observations of TychoBrahe and coworkers. Kepler himself was an
+assistant to Brahe and it took him sixteen long
+years to arrive at the three planetary laws. He
+is also known as the founder of geometrical
+optics, being the first to describe what happens
+to light after it enters a telescope.
+186PHYSICSCentral ForcesWe know the time rate of change of the angular momentum of a single particle about the origin
+isddt=×lrFThe angular momentum of the particle is conserved, if the torque 
+=×rF due to the
+force 
+F on it vanishes. This happens either when F is zero or when 
+F is along 
+r. We are
+interested in forces which satisfy the latter condition. Central forces satisfy this condition.
+A ‚central™ force is always directed towards or away from a fixed point, i.e., along the position
+vector of the point of application of the force with respect to the fixed point. (See Figure below.)
+
+Further, the magnitude of a central force 
+F depends on r, the distance of the point of applicationof the force from the fixed point; 
+F = F(r).In the motion under a central force the angular momentum is always conserved. Two important
+results follow from this:
+(1)The motion of a particle under the central force is always confined to a plane.
+(2)The position vector of the particle with respect to the centre of the force (i.e. the fixed point)
+has a constant areal velocity. In other words the position vector sweeps out equal areas in
+
+equal times as the particle moves under the influence of the central force.
+Try to prove both these results. You may need to know that the areal velocity is given by :
+dA/dt = ½ r v sin .An immediate application of the above discussion can be made to the motion of a planetunder the gravitational force of the sun. For convenience the sun may be taken to be so heavy
+
+that it is at rest. The gravitational force of the sun on the planet is directed towards the sun.
+
+This force also satisfies the requirement 
+F = F(r), since F = G m1m2/r2 where 
+m1 and 
+m2 are
+respectively the masses of the planet and the sun and 
+G is the universal constant of gravitation.
+The two results (1) and (2) described above, therefore, apply to the motion of the planet. In fact,
+
+the result (2) is the well-known second law of Kepler.
+Tr is the trejectory of the particle under the central force. At a position P, the force is directed
+along OP, O is the centre of the force taken as the origin. In time 
+t, the particle moves from 
+P to P
+,arc PP
+ = 
+s = v t. The tangent PQ  at P to the trajectory gives the direction of the velocity at P. The
+area swept in 
+t is the area of sector POP
+ ()sinrPP/2 = (r v sin a) 
+t/2.)
+GRAVITATION
+187This clearly shows that the force due to
+earth™s gravity decreases with distance.  If one
+
+assumes that the gravitational force due to the
+
+earth decreases in proportion to the inverse
+
+square of the distance from the center of the
+earth, we will have 2mmaR−; Œ2EgR and we get
+22mmERgaR=; 3600(8.4)
+in agreement with a value of 
+g ; 9.8  m s
+-2 and
+the value of a
+m from Eq. (8.3).  These
+observations led Newton to propose the following
+
+Universal Law of Gravitation :
+Every body in the universe attracts every other
+body with a force which is directly proportional
+
+to the product of their masses and inversely
+
+proportional to the square of the distance
+
+between them.
+The quotation is essentially from Newton™s
+famous treatise  called ‚Mathematical Principles
+
+of Natural Philosophy™ (Principia for short).Stated Mathematically, Newton™s gravitationlaw reads : The force 
+F on a point mass m2 due
+to another point mass m1 has the magnitude
+122||mmGr=F(8.5)Equation (8.5) can be expressed in vector form as
+$()$1212
+22ŒŒmmmm
+GGrr==Frr
+   $123ŒmmG=rrwhere G is the universal gravitational constant,
+$r is the unit vector from 
+m1 to 
+m2 and 
+r = 
+r2 Œ 
+r1as shown in Fig. 8.3.The  gravitational force is attractive, i.e., the
+force 
+F is along Œ r. The force on point mass 
+m1due to m2 is of course Œ 
+F by Newton™s third law.
+Thus, the gravitational force 
+F12 on the body 1
+due to 2 and F21 on the body 2 due to 1 are
+related as F12 = Œ F21.Before we can apply Eq. (8.5) to objects under
+consideration, we have to be careful since the
+
+law refers to 
+point masses whereas we deal with
+extended objects which have finite size. . If we
+have a collection of point masses,the force on
+
+any one of them is the vector sum of the
+gravitational forces exerted by the other point
+
+masses as shown in Fig 8.4.Fig. 8.4Gravitational force on point mass m
+1 is the
+vector sum of the gravitational forces exerted
+by m2, m3 and m
+4.The total force on 
+m1 is
+211221Gmm
+r=F$3121231Gmm
+r+r $$413141
+241Gmm
+r+rrExample 8.2  Three equal masses of m kg
+each are fixed at the vertices of an
+
+equilateral triangle ABC.
+(a) What is the force acting on a mass 2
+mplaced at the centroid G of the triangle?
+
+(b) What is the force if the mass at the
+vertex A is doubled ?
+
+      Take AG 
+= BG 
+= CG 
+= 1m (see Fig. 8.5)
+Fig. 8.3Gravitational force on m1 due to m
+2 is along
+r where the vector 
+r is (
+r2Œ r1).O

@@ -1,0 +1,20 @@
+THE INTERNETIntroductionAfter completing this Chapter, thestudent will be able to:Łexplain the basics of the Internet
+and its origin,Łdescribe functioning of the
+Internet,Łgive examples of Internet services,
+Łwrite terminologies of the Internet,
+
+Łlist various usage of the Internet,
+
+Łillustrate how to surf different
+websites,Łdemonstrate how to download
+files,Łopen an e-mail account,
+
+Łsend and receive emails through
+an email account andŁstore and retrieve addresses from
+the address book.7Guess how is it possible to see the latest news,cricket, talk to our friend, check availability of
+railway reservation, timings or status of a particularflight, send or receive mails/messages as and whenwe wish to. Yes, it is possible through the Internet,where all this happens like magic on few clicks of
+the mouse. Millions of people across the globe areable to communicate and interact with each otherthrough the Internet. All we need for this is anInternet connection on any computing device like
+Desktop, Palmtop, Laptop, Mobile Phone, etc.Applications of the Internet have covered almost
+every fieldŒbe it education, research, entertainment,
+communication, science, commerce, shopping,advertising and many more.The Internet is possible because of the ability tointeract and share information between theObjectivesThe Internet is based on a layered, end-to-endmodel that allows people at each level of thenetwork to innovate free of any central control.
+By placing intelligence at the edges rather thancontrol in the middle of the network, the Internethas created a platform for innovation.Vinton CerfWidely known as a "Father of the Internet," co-designer ofTCP/IP protocols and basic architecture of the Internet

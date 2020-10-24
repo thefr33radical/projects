@@ -1,0 +1,618 @@
+CHAPTER ELEVENTHERMAL PROPERTIES OF MATTER11.1  INTRODUCTIONWe all have common-sense notions of heat and temperature.Temperature is a measure of ‚hotness™ of a body. A kettle
+with boiling water is hotter than a box containing ice. Inphysics, we need to define the notion of heat, temperature,etc., more carefully. In this chapter, you will learn what heat
+is and how it is measured, and study the various proceses by
+which heat flows from one body to another. Along the way,
+you will find out why blacksmiths heat the iron ring beforefitting on the rim of a wooden wheel of a bullock cart and
+why the wind at the beach often reverses direction after thesun goes down. You will also learn what happens when waterboils or freezes, and its temperature does not change during
+these processes even though a great deal of heat is flowing
+into or out of it.11.2  TEMPERATURE AND HEATWe can begin studying thermal properties of matter withdefinitions of temperature and heat. Temperature is a relative
+measure, or indication of hotness or coldness. A hot utensilis said to have a high temperature, and ice cube to have alow temperature. An object that has a higher temperature
+than another object is said to be hotter. Note that hot and
+cold are relative terms, like tall and short. We can perceive
+temperature by touch. However, this temperature sense issomewhat unreliable and its range is too limited to be useful
+for scientific purposes.We know from experience that a glass of ice-cold water lefton a table on a hot summer day eventually warms up whereasa cup of hot tea on the same table cools down. It means that
+when the temperature of body, ice-cold water or hot tea inthis case, and its surrounding medium are different, heattransfer takes place between the system and the surrounding
+medium, until the body and the surrounding medium are at
+the same temperature. We also know that in the case of glass
+tumbler of ice cold water, heat flows from the environment to
+11.1Introduction11.2Temperature and heat11.3Measurement oftemperature11.4Ideal-gas equation andabsolute temperature11.5Thermal expansion11.6Specific heat capacity11.7Calorimetry11.8Change of state11.9Heat transfer11.10Newton™s law of coolingSummaryPoints to ponder
+Exercises
+the glass tumbler, whereas in the case of hottea, it flows from the cup of hot tea to the
+environment. So, we can say that heat is theform of energy transferred between two (or
+more) systems or a system and itssurroundings by virtue of temperature
+difference. The SI unit of heat energytransferred is expressed in joule (J) while SI unit
+of temperature is kelvin (K), and °C is acommonly used unit of temperature. When anobject is heated, many changes may take place.
+Its temperature may rise, it may expand or
+change state. We will study the effect of heat ondifferent bodies in later sections.11.3  MEASUREMENT OF TEMPERATUREA measure of temperature is obtained using athermometer. Many physical properties of
+materials change sufficiently with temperature
+to be used as the basis for constructing
+thermometers. The commonly used property isvariation of the volume of a liquid with
+temperature. For example, a common
+thermometer (the liquid-in-glass type) with
+which you are familiar. Mercury and alcohol are
+the liquids used in most liquid-in-glass
+thermometers.Thermometers are calibrated so that anumerical value may be assigned to a given
+temperature. For the definition of any standardscale, two fixed reference points are needed.Since all substances change dimensions with
+temperature, an absolute reference for
+expansion is not available. However, the
+necessary fixed points may be correlated to
+physical phenomena that always occur at the
+same temperature. The ice point and the steam
+point of water are two convenient fixed points
+and are known as the freezing and boiling points.
+These two points are the temperatures at which
+pure water freezes and boils under standard
+pressure. The two familiar temperature scales
+are the Fahrenheit temperature scale and the
+Celsius temperature scale. The ice andsteam point have values 32 °F and 212 °F
+respectively, on the Fahrenheit scale and 0 °C
+and 100 °C on the Celsius scale. On the
+Fahrenheit scale, there are 180 equal intervals
+between two reference points, and on the celsius
+scale, there are 100.Fig. 11.1A plot of Fahrenheit temperature (t
+F) versusCelsius temperature (tc). A relationship for converting between the twoscales may be obtained from a graph ofFahrenheit temperature (tF) versus celsiustemperature (tC) in a straight line (Fig. 11.1),whose equation isttFCŒ32
+180100
+=(11.1)11.4  IDEAL-GAS EQUATION AND ABSOLUTETEMPERATURELiquid-in-glass thermometers show differentreadings for temperatures other than the fixedpoints because of differing expansion properties.A thermometer that uses a gas, however, givesthe same readings regardless of which gas isused. Experiments show that all gases at low
+densities exhibit same expansion behaviour. Thevariables that describe the behaviour of a givenquantity (mass) of gas are pressure, volume, andtemperature (P, V, and T)(where T = t + 273.15;t is the temperature in °C). When temperatureis held constant, the pressure and volume of a
+quantity of gas are related as  PV = constant.This relationship is known as Boyle™s law, after
+Robert Boyle (1627-1691) the English Chemist
+who discovered it. When the pressure is heldconstant, the volume of a quantity of the gas isrelated to the temperature as V/T = constant.This relationship is known as Charles™ law, afterthe French scientist Jacques Charles (1747-1823). Low density gases obey these laws, which
+may be combined into a single relationship.THERMAL PROPERTIES OF MATTER275
+276PHYSICSNotice that since PV = constant  and V/T =constant for a given quantity of gas, then PV/Tshould also be a constant. This relationship isknown as ideal gas law. It can be written in amore general form that applies not just to a given
+quantity of a single gas but to any quantity of
+any dilute gas and is known as ideal-gasequation:PVRTor PV = µRT(11.2)where, µ is the number of moles in the sampleof gas and R is called universal gas constant:R = 8.31 J molŒ1 KŒ1In Eq. 11.2, we have learnt that the pressureand volume are directly proportional totemperature : PV  T. This relationship allows agas to be used to measure temperature in aconstant volume gas thermometer. Holding the
+volume of a gas constant, it gives P T. Thus,with a constant-volume gas thermometer,
+temperature is read in terms of pressure. A plotof pressure versus temperature gives a straight
+line in this case, as shown in Fig. 11.2.However, measurements on real gases deviatefrom the values predicted by the ideal gas lawat low temperature. But the relationship is linear
+over a large temperature range, and it looks asthough the pressure might reach zero withdecreasing temperature if the gas continued to
+be a gas. The absolute minimum temperaturefor an ideal gas, therefore, inferred byextrapolating the straight line to the axis, as inFig. 11.3.  This temperature is found to be
+Œ 273.15 °C and is designated as absolute zero.Absolute zero is the foundation of the Kelvin
+temperature scale or absolute scale temperaturenamed after the British scientist Lord Kelvin.On this scale, Œ 273.15 °C is taken as the zeropoint, that is 0 K (Fig. 11.4).The size of the unit for Kelvin temperature isthe same celsius degree, so temperature on thesescales are related byT = tC + 273.15(11.3)
+11.5  THERMAL EXPANSIONYou may have observed that sometimes sealedbottles with metallic lids are so tightly screwed
+that one has to put the lid in hot water forsometime to open the lid. This would allow themetallic cover to expand, thereby loosening it to
+unscrew easily. In case of liquids, you may have
+observed that mercury in a thermometer rises,
+when the thermometer is put in a slightly warmwater. If we take out the thermometer from theFig. 11.2Pressure versus temperature of a lowdensity gas kept at constant volume.Fig. 11.3A plot of pressure versus temperature and
+extrapolation of lines for low density gases
+indicates the same absolute zerotemperature.Fig. 11.4Comparision of the Kelvin, Celsius andFahrenheit temperature scales.
+THERMAL PROPERTIES OF MATTER277warm water the level of mercury falls again.Similarly, in the case of gases, a balloon partially
+inflated in a cool room may expand to full sizewhen placed in warm water. On the other hand,a fully inflated balloon when immersed in cold
+water would start shrinking due to contractionof the air inside.It is our common experience that mostsubstances expand on heating and contract oncooling. A change in the temperature of a bodycauses change in its dimensions. The increase
+in the dimensions of a body due to the increasein its temperature is called thermal expansion.The expansion in length is called linearexpansion. The expansion in area is called areaexpansion. The expansion in volume is calledvolume expansion (Fig. 11.5).Fig. 11.5  Thermal Expansion.If the substance is in the form of a long rod,then for small change in temperature, T, thefractional change in length, l/l, is directlyproportional to T.llT=1(11.4)where 1 is known as the coefficient of linearexpansion and is characteristic of the materialof the rod. In Table 11.1 are given typical averagevalues of the coefficient of linear expansion forsome materials in the temperature range 0 °C
+to 100 °C. From this Table, compare the valueof l for glass and copper. We find that copperexpands about five times more than glass forthe same rise in temperature. Normally, metalsexpand more and have relatively high valuesof l.Table 11.1Values of coefficient of linearexpansion for some materialsMaterialsl (10Œ5 KŒ1)Aluminium2.5
+Brass1.8
+
+Iron1.2
+Copper1.7
+Silver1.9
+
+Gold1.4
+
+Glass (pyrex)0.32
+
+Lead0.29
+Similarly, we consider the fractional changein volume, VV, of a substance for temperaturechange T and define the coefficient of volumeexpansion,  V as V=VVT1(11.5)Here V is also a characteristic of thesubstance but is not strictly a constant. Itdepends in general on temperature (Fig 11.6). Itis seen that V becomes constant only at a hightemperature.Fig. 11.6Coefficient of volume expansion of copperas a function of temperature.Table 11.2 gives the values of co-efficient ofvolume expansion of some common substancesin the temperature range 0 Œ100 °C. You cansee that thermal expansion of these substances(solids and liquids) is rather small, withllaTl   l2AaTA   l3VaTV   (a) Linear expansion(b) Area expansion(c) Volume expansion
+
+278PHYSICSmaterials like pyrex glass and invar (a specialiron-nickel alloy) having particularly low values
+of V. From this Table we find that the value ofv for alcohol (ethyl) is more than mercury andexpands more than mercury for the same rise
+in temperature.Table 11.2Values of coefficient of volume
+expansion for some substancesMaterialsv ( KŒ1)Aluminium7  10
+Œ5Brass6  10
+Œ5Iron3.55  10
+Œ5Paraffin58.8  10
+Œ5Glass (ordinary)2.5  10
+Œ5Glass (pyrex)1  10
+Œ5Hard rubber2.4  10
+Œ4Invar2  10
+Œ6Mercurry18.2  10
+Œ5Water20.7  10
+Œ5Alcohol (ethyl)110  10
+Œ5Water exhibits an anomalous behavour; itcontracts on heating between 0 °C and 4 °C.
+The volume of a given amount of water decreasesas it is cooled from room temperature, until itstemperature reaches 4 °C, [Fig. 11.7(a)]. Below4 °C, the volume increases, and therefore thedensity decreases [Fig. 11.7(b)].This means that water has a maximumdensity at 4 °C. This property has an importantenvironmental effect: Bodies of water, such aslakes and ponds, freeze at the top first. As alake cools toward 4 °C, water near the surfaceloses energy to the atmosphere, becomes denser,and sinks; the warmer, less dense water near
+the bottom rises. However, once the colder wateron top reaches temperature below 4 °C, itbecomes less dense and remains at the surface,where it freezes. If water did not have this
+property, lakes and ponds would freeze from the
+bottom up, which would destroy much of their
+animal and plant life.Gases at ordinary temperature expand morethan solids and liquids. For liquids, thecoefficient of volume expansion is relativelyindependent of the temperature. However, for
+gases it is dependent on temperature. For anideal gas, the coefficient of volume expansion atconstant pressure can be found from the ideal
+gas equation :PV = µRTAt constant pressurePV = µR TVVTT=i.e. vT=1 for ideal gas(11.6)
+At 0 °C, v = 3.7  10Œ3 KŒ1, which is muchlarger than that for solids and liquids.Equation (11.6) shows the temperature
+dependence of v; it decreases with increasingtemperature. For a gas at room temperature andconstant pressure v is about 3300  10Œ6 KŒ1, asTemperature (°C)Temperature (°C)
+(a)(b)
+Fig. 11.7Thermal expansion of water.
+THERMAL PROPERTIES OF MATTER279much as order(s) of magnitude larger than thecoefficient of volume expansion of typical liquids.There is a simple relation between thecoefficient of volume expansion (v) andcoefficient of linear expansion (l). Imagine acube of length, l, that expands equally in alldirections, when its temperature increases byT. We havel = l l Tso, V = (l+l)3 Œ l3  3l2 l(11.7)In equation (11.7), terms in (l)2 and (l)3 havebeen neglected since l is small compared to l.SoVVllVTl==33(11.8)which givesv = 3l(11.9)What happens by preventing the thermalexpansion of a rod by fixing its ends rigidly?Clearly, the rod acquires a compressive strain
+due to the external forces provided by the rigid
+support at the ends. The corresponding stress
+set up in the rod is called thermal stress. Forexample, consider a steel rail of length 5 m andarea of cross section 40 cm2 that is preventedfrom expanding while the temperature rises by10 °C. The coefficient of linear expansion of steelis l(steel) = 1.2  10Œ5  KŒ1. Thus, the compressivestrain is ll= l(steel) T = 1.2  10
+Œ5  10=1.2  10
+Œ4.Youngs modulus of steel is Y (steel) = 2  10
+11 N m
+Œ2.Therefore, the thermal stress developed isFAYllsteel==2.4  10
+7 N mŒ2, whichcorresponds to an external force ofF = AYsteel ll =  2.4  107  40  10Œ4  105N.If two such steel rails, fixed at their outer ends,are in contact at their inner ends, a force of this
+magnitude can easily bend the rails.Example 11.1 Show that the coefficientof area expansions, (A/A)/T, of arectangular sheet of the solid is twice itslinear expansivity, l.AnswerFig. 11.8Consider a rectangular sheet of the solidmaterial of length a and breadth b (Fig. 11.8 ).When the temperature increases by T, aincreases by  a = l aT and b increases by b= lb T. From Fig. 11.8,  the increase in areaA = A1 +A2 + A3A=a b + b a + (a)  (b)=a lb T + b l a T + (l)2 ab (T)2=l ab T (2 + l T) = l A T (2 + l T)Since l  10Œ5 KŒ1, from Table 11.1, theproduct l T for fractional temperature is smallin comparision with 2 and may be neglected.Hence,AATl12Example 11.2 A blacksmith fixes iron ringon the rim of the wooden wheel of a bullockcart. The diameter of the rim and the iron
+ring are 5.243 m and 5.231 m respectivelyat 27 °C. To what temperature should the
+ring be heated so as to fit the rim of the
+wheel?AnswerGiven,T1 = 27 °CLT1 = 5.231 mLT2 = 5.243 mSo,LT2 =LT1 [1+l (T2ŒT1)]5.243 m = 5.231 m [1 + 1.2010Œ5  KŒ1 (T2Œ27 °C)]
+or T2 = 218 °C.A3 = (a) (b)Al = a (b)A2 = b (a)abba
+280PHYSICS11.6  SPECIFIC HEAT CAPACITYTake some water in a vessel and start heating iton a burner. Soon you will notice that bubbles
+begin to move upward. As the temperature israised the motion of water particles increasestill it becomes turbulent as water starts boiling.
+What are the factors on which the quantity of
+heat required to raise the temperature of a
+substance depend? In order to answer thisquestion in the first step, heat a given quantity
+of water to raise its temperature by, say 20 °C
+and note the time taken. Again take the same
+amount of water and raise its temperature by
+40 °C using the same source of heat. Note the
+time taken by using a stopwatch. You will findit takes about twice the time and therefore,double the quantity of heat required raising twice
+the temperature of same amount of water.In the second step, now suppose you takedouble the amount of water and heat it, using
+the same heating arrangement, to raise the
+temperature by 20 °C, you will find the time
+taken is again twice that required in the first
+step.In the third step, in place of water, now heatthe same quantity of some oil, say mustard oil,and raise the temperature again by 20 °C. Nownote the time by the same stopwatch. You willfind the time taken will be shorter and therefore,
+the quantity of heat required would be less than
+that required by the same amount of water for
+the same rise in temperature.The above observations show that the quantityof heat required to warm a given substance
+depends on its mass, m, the change intemperature, T and the nature of substance.The change in temperature of a substance, when
+
+a given quantity of heat is absorbed or rejected
+by it, is characterised by a quantity called the
+
+heat capacity of that substance. We define heatcapacity, S of a substance asQST(11.10)where Q is the amount of heat supplied tothe substance to change its temperature from Tto T + T.You have observed that if equal amount ofheat is added to equal masses of differentsubstances, the resulting temperature changeswill not be the same. It implies that every
+substance has a unique value for the amount ofheat absorbed or rejected to change thetemperature of unit mass of it by one unit. This
+quantity is referred to as the specific heatcapacity of the substance.If Q stands for the amount of heat absorbedor rejected by a substance of mass m when itundergoes a temperature change T, then thespecific heat capacity, of that substance is given
+by1SQsmmT
+(11.11)The specific heat capacity is the property ofthe substance which determines the change inthe temperature of the substance (undergoingno phase change) when a given quantity of heat
+is absorbed (or rejected) by it. It is defined as
+the amount of heat per unit mass absorbed orrejected by the substance to change its
+temperature by one unit. It depends on the
+nature of the substance and its temperature.
+The SI unit of specific heat capacity is J kgŒ1 KŒ1.If the amount of substance is specified interms of moles µ, instead of mass m in kg, wecan define heat capacity per mole of thesubstance byCSQT==1(11.12)where C is known as molar specific heatcapacity of the substance. Like S, C alsodepends on the nature of the substance and itstemperature. The SI unit of molar specific heat
+capacity is J molŒ1 KŒ1.However, in connection with specific heatcapacity of gases, additional conditions may be
+needed to define C. In this case, heat transfercan be achieved by keeping either pressure or
+volume constant. If the gas is held under
+constant pressure during the heat transfer, thenit is called the molar specific heat capacity atconstant pressure and is denoted by Cp. Onthe other hand, if the volume of the gas is
+maintained during the heat transfer, then thecorresponding molar specific heat capacity is
+called molar specific heat capacity at constantvolume and is denoted by Cv. For details seeChapter 12. Table 11.3 lists measured specific
+heat capacity of some substances at atmosphericpressure and ordinary temperature while Table11.4 lists molar specific heat capacities of some
+gases. From Table 11.3 you can note that water
+THERMAL PROPERTIES OF MATTER281has the highest specific heat capacity comparedto other substances. For this reason water is
+used as a coolant in automobile radiators as wellas a heater in hot water bags. Owing to its highspecific heat capacity, the water warms up much
+more slowly than the land during summer and
+consequently wind from the sea has a cooling
+effect. Now, you can tell why in desert areas,the earth surface warms up quickly during the
+day and cools quickly at night.Table 11.4Molar specific heat capacities ofsome gasesGasCp (J molŒ1KŒ1) Cv(J molŒ1KŒ1)He20.812.5
+H228.820.4
+N229.120.8
+O229.421.1
+CO237.028.5
+11.7  CALORIMETRYA system is said to be isolated if no exchange ortransfer of heat occurs between the system and
+its surroundings. When different parts of anisolated system are at different temperature, aquantity of heat transfers from the part at higher
+temperature to the part at lower temperature.
+The heat lost by the part at higher temperature
+is equal to the heat gained by the part at lowertemperature.Calorimetry means measurement of heat.When a body at higher temperature is brought
+in contact with another body at lower
+temperature, the heat lost by the hot body isequal to the heat gained by the colder body,provided no heat is allowed to escape to thesurroundings. A device in which heat
+measurement can be made is called acalorimeter. It consists a metallic vessel andstirrer of the same material like copper oralumiunium. The vessel is kept inside a woodenjacket which contains heat insulating materialslike glass wool etc. The outer jacket acts as a
+heat shield and reduces the heat loss from theinner vessel. There is an opening in the outerjacket through which a mercury thermometer
+can be inserted into the calorimeter. The
+following example provides a method by whichthe specific heat capacity of a given solid can bedeterminated by using the principle, heat gained
+is equal to the heat lost.Example 11.3 A sphere of aluminium of0.047 kg placed for sufficient time in avessel containing boiling water, so that thesphere is at 100 °C. It is then immediatelytransfered to 0.14 kg copper calorimetercontaining 0.25 kg of water at 20 °C. Thetemperature of water rises and attains a
+steady state at 23 °C. Calculate the specificheat capacity of aluminium.Answer  In solving this example we shall usethe fact that at a steady  state, heat given by an
+aluminium sphere will be equal to the heatabsorbed by the water and calorimeter.Mass of aluminium sphere (m1) = 0.047 kgInitial temp. of aluminium sphere = 100 °CFinal temp. = 23 °CChange in temp (T) = (100 °C - 23 °C) = 77 °C
+Let specific heat capacity of aluminium be sAl.Table 11.3Specific heat capacity of some substances at room temperature and atmosphericpressureSubstanceSpecific heat capacitySubstanceSpecific heat capacity
+ (J kgŒ1 KŒ1)(J kg
+Œ1 KŒ1)Aluminium900.0Ice2060
+Carbon506.5Glass840
+
+Copper386.4
+Iron450
+Lead127.7
+Kerosene2118Silver236.1Edible oil1965Tungesten134.4Mercury140
+Water4186.0
+
+282PHYSICSThe amount of heat lost by the aluminiumsphere =  
+10.047kg77C
+AlAl
+msTs
+Mass of water (m2) = 0.25 kgMass of calorimeter (m3) = 0.14 kgInitial temp. of water and calorimeter = 20 °C
+Final temp. of the mixture = 23 °CChange in temp. (T2) = 23 °C Œ 20 °C = 3 °CSpecific heat capacity of water (sw)= 4.18  103 J kgŒ1  KŒ1Specific heat capacity of copper calorimeter
+= 0.386  103 J kgŒ1  KŒ1The amount of heat gained by water andcalorimeter = m2 sw T2 + m3scuT2= (m2sw + m3scu) (T2)= 0.25 kg 4.18  10
+3 J kgŒ1  KŒ1 + 0.14 kg 0.386  10
+3 J kgŒ1  KŒ1) (23 °C Œ 20 °C)
+In the steady state heat lost by the aluminiumsphere = heat gained by water + heat gained bycalorimeter.So, 0.047 kg  sAl  77 °C= (0.25 kg  4.18  103 J kgŒ1  KŒ1+ 0.14 kg 0.386  103 J kgŒ1  KŒ1)(3 °C)sAl = 0.911 kJ kgŒ1 KŒ111.8  CHANGE OF STATEMatter normally exists in three states: solid,liquid, and gas. A transition from one of thesestates to another is called a change of state. Twocommon changes of states are solid to liquidand liquid to gas (and vice versa). These changescan occur when the exchange of heat takes place
+between the substance and its surroundings.To study the change of state on heating orcooling, let us perform the following activity.Take some cubes of ice in a beaker. Note thetemperature of ice (0 °C). Start heating it slowly
+on a constant heat source. Note the temperature
+after every  minute.  Continuously stir themixture of water and ice. Draw a graph betweentemperature and time (Fig. 11.9). You will
+observe no change in the temperature so longas there is ice in the beaker. In the above process,the temperature of the system does not change
+even though heat is being continuously supplied.The heat supplied  is being utilised in changingthe state from solid (ice) to liquid (water).Fig. 11.9A plot of temperature versus time showingthe changes in the state of ice on heating(not to scale).The change of state from solid to liquid iscalled melting and from liquid to solid is calledfusion. It is observed that the temperatureremains constant until the entire amount of thesolid substance melts. That is, both the solidand liquid states of the substance coexist inthermal equilibrium during the change of
+states from solid to liquid. The temperatureat which the solid and the liquid states of the
+substance in thermal equilibrium with each
+other is called its melting point. It ischaracteristic of the substance. It also depends
+on pressure. The melting point of a substance
+at standard atomspheric pressure is called itsnormal melting point. Let us do the followingactivity to understand the process of meltingof ice.Take a slab of ice. Take a metallic wire andfix two blocks, say 5 kg each, at its ends. Putthe wire over the slab as shown in Fig. 11.10.
+You will observe that the wire passes throughthe ice slab. This happens due to the fact thatjust below the wire, ice melts at lower
+temperature due to increase in pressure. Whenthe wire has passed, water above the wire freezesagain. Thus the wire passes through the slaband the slab does not split. This phenomenonof refreezing is called regelation. Skating ispossible on snow due to the formation of waterbelow the skates. Water is formed due to theincrease of pressure and it acts as alubricant.
+THERMAL PROPERTIES OF MATTER283Fig. 11.10After the whole of ice gets converted into waterand as we continue further heating, we shallsee that temperature begins to rise. Thetemperature keeps on rising till it reaches nearly100 °C when it again becomes steady. The heatsupplied is now being utilised to change water
+from liquid state to vapour or  gaseous state.The change of state from liquid to vapour (orgas) is called vaporisation. It is observed thatthe temperature remains constant until theentire amount of the liquid is converted intovapour. That is, both the liquid and vapour states
+of the substance coexist in thermal equilibrium,during the change of state from liquid to vapour.The temperature at which the liquid and the
+vapour states of the substance coexist is calledits boiling point. Let us do the following activityto understand the process of boiling of water.Take a round-bottom flask, more than halffilled with water. Keep it over a burner and fix aTriple PointThe temperature of a substance remains constant during its change of state (phase change).A graph between the temperature T and the Pressure P of the substance is called a phasediagram or P Œ T diagram. The following figure shows the phase diagram of water and CO2.Such a phase diagram divides the P Œ T plane into a solid-region, the vapour-region and theliquid-region. The regions are separated by the curves such as sublimation curve (BO), fusioncurve (AO) and vaporisation curve (CO). The points on sublimation curve represent statesin which solid and vapour phases coexist. The point on the sublimation curve BO representstates in which the solid and vapour phases co-exist. Points on the fusion curve AO represent
+states in which solid and liquid phase coexist. Points on the vapourisation curve CO represent
+states in which the liquid and vapour phases coexist. The temperature and pressure at whichthe fusion curve, the vaporisation curve and the sublimation curve meet and all the three
+phases of  a substance coexist is called the triple point of the substance. For example thetriple point of water is represented by the temperature 273.16 K and pressure 6.1110
+Œ3 Pa.(a)(b)
+Pressure-temperature phase diagrams for (a) water and (b) CO2 (not to the scale).
+284PHYSICSthermometer and steam outlet through the corkof the flask (Fig. 11.11). As water gets heated inthe flask, note first that the air, which wasdissolved in the water, will come out as smallbubbles. Later, bubbles of steam will form at
+the bottom but as they rise to the cooler waternear the top, they condense and disappear.Finally, as the temperature of the entire mass
+of the water reaches 100 °C, bubbles of steamreach the surface and boiling is said to occur.The steam in the flask may not be visible but as
+it comes out of the flask, it condenses as tinydroplets of water, giving a foggy appearance.Fig. 11.11 Boiling process.If now the steam outlet is closed for a fewseconds to increase the pressure in the flask,you will notice that boiling stops. More heatwould be required to raise the temperature(depending on the increase in pressure) before
+boiling begins again. Thus boiling point increaseswith increase in pressure.Let us now remove the burner. Allow water tocool to about 80 °C. Remove the thermometer
+and steam outlet. Close the flask with the airtightcork. Keep the flask turned upside down on the
+stand. Pour ice-cold water on the flask. Water
+vapours in the flask condense reducing the
+pressure on the water surface inside the flask.
+Water begins to boil again, now at a lower
+temperature. Thus boiling point decreases with
+decrease in pressure.This explains why cooking is difficult on hills.At high altitudes, atmospheric pressure is lower,
+reducing the boiling point of water as compared
+to that at sea level. On the other hand, boiling
+point is increased inside a pressure cooker by
+increasing the pressure. Hence cooking is faster.
+The boiling point of a substance at standardatmospheric pressure is called its normalboiling point.However, all substances do not pass throughthe three states: solid-liquid-gas. There are
+certain substances which normally pass from
+the solid to the vapour state directly and vice
+versa. The change from solid state to vapour
+state without passing through the liquid state
+is called sublimation, and the substance is saidto sublime. Dry ice (solid CO2) sublimes, so alsoiodine. During the sublimation process both thesolid and vapour states of a substance coexistin thermal equilibrium.11.8.1  Latent HeatIn Section 11.8, we have learnt that certainamount of heat energy is transferred between a
+substance and its surroundings when itundergoes a change of state. The amount of heatper unit mass transferred during change of state
+of the substance is called latent heat of the
+substance for the process. For example, if heatis added to a given quantity of ice at Œ10 °C, thetemperature of ice increases until it reaches its
+melting point (0 °C). At this temperature, the
+addition of more heat does not increase the
+temperature but causes the ice to melt, or
+changes its state. Once the entire ice melts,
+adding more heat will cause the temperature ofthe water to rise. A similar situation
+occurs during liquid gas change of state at the
+boiling point. Adding more heat to boiling water
+causes vaporisation, without increase in
+temperature.
+THERMAL PROPERTIES OF MATTER285The heat required during a change of statedepends upon the heat of transformation andthe mass of the substance undergoing a changeof state. Thus, if mass m of a substanceundergoes a change from one state to the other,then the quantity of heat required is given byQ = m LorL = Q/m
+(11.13)where L is known as latent heat and is acharacteristic of the substance. Its SI unit isJ kgŒ1. The value of L also depends on thepressure. Its value is usually quoted at standardatmospheric pressure. The latent heat for a solid-liquid state change is called the latent heat offusion (Lf), and that for a liquid-gas state changeis called the latent heat of vaporisation (Lv).These are often referred to as the heat of fusionand the heat of vaporisation. A plot oftemperature versus heat energy for a quantityof water is shown in Fig. 11.12. The latent heats
+of some substances, their freezing and boilingpoints, are given in Table 11.5.Fig. 11.12Temperature versus heat for water at1 atm pressure (not to scale).Note that when heat is added (or removed)during a change of state, the temperatureremains constant. Note in Fig. 11.12 that theslopes of the phase lines are not all the same,
+which indicates that specific heats of the variousstates are not equal. For water, the latent heat offusion and vaporisation are 
+Lf = 3.33  10
+5 J kgŒ1and Lv = 22.6  105 J kgŒ1 respectively. That is3.33  105 J of heat are needed to melt 1 kg ofice at 0 °C, and 22.6  105 J of heat are neededto convert 1 kg of water to steam at 100 °C. So,steam at 100 °C carries  22.6  105 J  kgŒ1 moreheat than water at 100 °C. This is why burnsfrom steam are usually more serious than thosefrom boiling water.Example 11.4 When 0.15 kg of ice of 0 °Cmixed with 0.30 kg of water at 50 °C in acontainer, the resulting temperature is6.7 °C. Calculate the heat of fusion of ice.(swater = 4186 J kgŒ1 KŒ1)AnswerHeat lost by water = msw (fŒi)w= (0.30 kg) (4186 J kg
+Œ1 KŒ1) (50.0 °C Œ 6.7 °C)= 54376.14 JHeat required to melt ice = m2Lf = (0.15 kg) 
+LfHeat required to raise temperature of icewater to final temperature = mIsw (fŒi)I= (0.15 kg) (4186 J kgŒ1 KŒ1) (6.7 °C Œ 0 °C)= 4206.93 JHeat lost = heat gained54376.14 J = (0.15 kg) 
+Lf + 4206.93 JLf = 3.3410
+5 J kgŒ1.Table 11.5Temperatures of the change of state and latent heats for various substances at1 atm pressureSubstanceMelting
+LfBoilingLvPoint (°C)(10
+5J kgŒ1)Point (
+°C)(10
+5J kgŒ1)Ethyl alcoholŒ1141.0788.5
+Gold10630.645266015.8
+Lead3280.2517448.67
+MercuryŒ39
+0.123572.7
+NitrogenŒ2100.26Œ1962.0
+OxygenŒ2190.14Œ1832.1
+
+Water03.33
+10022.6
+
+286PHYSICSExample 11.5 Calculate the heat requiredto convert 3 kg of ice at Œ12 °C kept in acalorimeter to steam at 100 °C atatmospheric pressure. Given specific heat
+capacity of ice = 2100 J kgŒ1 KŒ1, specificheat capacity of water = 4186 J kgŒ 1 KŒ1,latent heat of fusion of ice = 3.35  10
+5J kgŒ1 and latent heat of steam = 2.256 106J kgŒ1.Answer We haveMass of the ice, m = 3 kgspecific heat capacity of ice, sice= 2100 J kgŒ1  KŒ1specific heat capacity of water, swater= 4186 J kgŒ1  KŒ1latent heat of fusion of ice, Lf ice= 3.35  105 J kgŒ1latent heat of steam, Lsteam= 2.256  106 J kgŒ1Now,
+Q=heat required to convert 3 kg of
+ice at Œ12 °C to steam at 100 °C,
+Q1=heat required to convert ice at
+Œ12 °C to ice at 0 °C.=m sice T1 = (3 kg) (2100 J kgŒ1.KŒ1) [0Œ(Œ12)]°C = 75600 JQ2=heat required to melt ice at
+0 °C to water at 0 °C=m L
+f ice = (3 kg) (3.35  105 J kgŒ1)= 1005000 J
+Q3=heat required to convert water
+at 0 °C to water at 100 °C.=ms
+w T2 = (3kg) (4186J kgŒ1 KŒ1)(100 °C)=1255800 J
+Q4=heat required to convert water
+at 100 °C to steam at 100 °C.=m L
+steam = (3 kg) (2.25610
+6 JkgŒ1)=6768000 J
+So,Q=Q1 + Q2 + Q3 + Q4=75600J + 1005000 J
++ 1255800 J + 6768000 J=9.110
+6 J11.9  HEAT TRANSFERWe have seen that heat is energy transfer from
+one system to another or from one part of a
+system to another part, arising due totemperature difference. What are the differentways by which this energy transfer takes place?
+There are three distinct modes of heat transfer :
+conduction, convection and radiation
+(Fig. 11.13).Fig. 11.13Heating by conduction, convection andradiation.11.9.1  ConductionConduction is the mechanism of transfer of heatbetween two adjacent parts of a body because
+of their temperature difference. Suppose one endof a metallic rod is put in a flame, the other endof the rod will soon be so hot that you cannot
+hold it by your bare hands. Here heat transfer
+takes place by conduction from the hot end ofthe rod through its different parts to the other
+end.  Gases are poor thermal conductors while
+liquids have conductivities intermediate between
+solids and gases.Heat conduction may be describedquantitatively as the time rate of heat flow in amaterial for a given temperature difference.Consider a metallic bar of length L and uniformcross section A with its two ends maintained atdifferent temperatures. This can be done, for
+example, by putting the ends in thermal contact
+with large reservoirs at temperatures, say, 
+TC andTD respectively (Fig. 11.14). Let us assume the
+ideal condition that the sides of the bar are fullyinsulated so that no heat is exchanged betweenthe sides and the surroundings.
+After sometime, a steady state is reached; thetemperature of the bar decreases uniformly withdistance from TC to TD; (TC>TD). The reservoir atC supplies heat at a constant rate, whichtransfers through the bar and is given out atthe same rate to the reservoir at D. It is found
+THERMAL PROPERTIES OF MATTER287experimentally that in this steady state, the rateof flow of heat (or heat current) H is proportionalto the temperature difference (TC Œ TD) and thearea of cross section A and is inverselyproportional to the length L :H = KA ŒCDTTL(11.14)The constant of proportionality K is called thethermal conductivity of the material. Thegreater the value of K for a material, the morerapidly will it conduct heat. The SI unit of K isJ SŒ1 mŒ1 KŒ1 or W mŒ1 KŒ1. The thermalconductivities of various substances are listedin Table 11.5. These values vary slightly withtemperature, but can be considered to beconstant over a normal temperature range.Compare the relatively large thermalconductivities of the good thermal conductors,the metals, with the relatively small thermalconductivities of some good thermal insulators,
+such as wood and glass wool. You may havenoticed that some cooking pots have coppercoating on the bottom. Being a good conductor
+of heat, copper promotes the distribution of heatover the bottom of a pot for uniform cooking.Plastic foams, on the other hand, are goodinsulators, mainly because they contain pocketsof air. Recall that gases are poor conductors,and note the low thermal conductivity of air in
+the Table 11.5. Heat retention and transfer areimportant in many other applications. Housesmade of concrete roofs get very hot during
+summer days, because thermal conductivity ofconcrete (though much smaller than that of ametal) is still not small enough. Therefore, people
+usually prefer to give a layer of earth or foaminsulation on the ceiling so that heat transfer isprohibited and keeps the room cooler. In somesituations, heat transfer is critical. In a nuclear
+reactor, for example, elaborate heat transfer
+systems need to be installed so that the
+enormous energy produced by nuclear fission
+in the core transits out sufficiently fast, thus
+preventing the core from overheating.Table 11.6Thermal conductivities of some      materialsMaterialsThermal conductivity
+(J sŒ1 mŒ1 KŒ1 )MetalsSilver406
+Copper385
+
+Aluminium205
+
+Brass109
+
+Steel50.2
+
+Lead34.7
+
+Mercury8.3
+Non-metals
+Insulating brick0.15Concrete0.8
+Body fat0.20Felt0.04
+Glass0.8
+
+Ice1.6
+
+Glass wool0.04Wood0.12Water0.8
+Gases
+Air0.024
+Argon0.016
+
+Hydrogen0.14
+Example 11.6 What is the temperature ofthe steel-copper junction in the steadystate of the system shown in Fig. 11.15.Length of the steel rod = 15.0 cm, lengthof the copper rod = 10.0 cm, temperature
+of the furnace = 300 °C, temperature of
+the other end = 0 °C. The area of cross
+section of the steel rod is twice that of thecopper rod. (Thermal conductivity of steel
+= 50.2 J sŒ1 mŒ1KŒ1; and of copper= 385 J sŒ1mŒ1KŒ1).Fig. 11.14Steady state heat flow by conduction ina bar with its two ends maintained at
+temperatures TC and TD; (TC > TD).
+288PHYSICSFig. 11.15Answer  The insulating material around therods reduces heat loss from the sides of the rods.Therefore, heat flows only along the length ofthe rods. Consider any cross section of the rod.In the steady state, heat flowing into the element
+must equal the heat flowing out of it; otherwise
+there would be a net gain or loss of heat by theelement and its temperature would not be
+steady. Thus in the steady state, rate of heat
+flowing across a cross section of the rod is the
+same at every point along the length of the
+combined steel-copper rod. Let T be thetemperature of the steel-copper junction in the
+steady state. Then,    1122
+123000
+K ATK ATŒ
+= LL where 1 and 2 refer to the steel and copper rodrespectively.  For A1 = 2 A2, L1 = 15.0 cm,L2 = 10.0 cm, K1 = 50.2 J sŒ1 mŒ1 K Œ1, K2 = 385 JsŒ1 mŒ1 K Œ1, we have50.2  2 300
+3851510
+TT= which gives T = 44.4 °CExample 11.7 An iron bar (L1 = 0.1 m, A1= 0.02 m2, K1 = 79 W mŒ1 KŒ1) and abrass bar (L2 = 0.1 m, A2 = 0.02 m2,K2 = 109 W mŒ1KŒ1) are soldered end to endas shown in  Fig. 11.16.   The free ends of
+the iron bar and brass bar are maintainedat 373 K and 273 K respectively. Obtainexpressions for and hence compute (i) the
+temperature of the junction of the two bars,
+(ii) the equivalent thermal conductivity of
+the compound bar, and (iii) the heatcurrent through the compound bar.AnswerFig 11.16Given, L1 = L2= L = 0.1 m, A1 = A2= A= 0.02 m2K1 = 79 W mŒ1 KŒ1, K2 = 109 W mŒ1 KŒ1,T1 = 373 K, and T2 = 273 K.Under steady state condition, the heatcurrent (H1) through iron bar is equal to theheat current (H2) through brass bar.So, H = H1 = H2  =    1110
+2202
+12Œ(Œ)
+KATT
+KATT
+LL For A1 = A2 = A and L1 = L2 = L, this equationleads toK1 (T1 Œ T0) = K2 (T0 Œ T2)Thus the junction temperature T0 of the twobars isT0 =     1122
+12KTKT
+KK  Using this equation, the heat current H througheither bar isH =  110
+202
+Œ(Œ)KATT
+KATT
+LL        1012121212ŒŒ11ATT
+ATT
+KKKKL
+LKK                Using these equations, the heat current Hthrough the compound bar of length L1 + L2 = 2Land the equivalent thermal conductivity K, ofthe compound bar are given by  12Œ2KATT
+HHL    12122KKKKK  (i)     1122
+012KTKT
+TKK                Œ1Œ1Œ1Œ1
+Œ1Œ1Œ1Œ1
+79mK373K109WmK273K
+79WmK109WmK
+W   = 315 K(ii) 12122  = KKKKK      = Œ1Œ1Œ1Œ1
+Œ1Œ1Œ1Œ1
+2×(79WmK) ×(109WmK)
+79WmK+109 WmK
+    = 91.6 W mŒ1 KŒ1
+THERMAL PROPERTIES OF MATTER289(iii)   12Œ2KATT
+HHL         
+    Œ1Œ12
+91.6 W mK×0.02m × 373KŒ273K
+2×0.1 m
+   = 916.1 W11.9.2  ConvectionConvection is a mode of heat transfer by actualmotion of matter. It is  possible only in fluids.
+Convection can be natural or forced. In naturalconvection, gravity plays an important part.When a fluid is heated from below, the hot part
+expands and, therefore, becomes less dense.
+Because of buoyancy, it rises and the upper
+colder part replaces it. This again gets heated,rises up and is replaced by the colder part of
+the fluid. The process goes on. This mode of
+heat transfer is evidently different from
+conduction. Convection involves bulk transport
+of different parts of the fluid. In forced
+convection, material is forced to move by a pumpor by some other physical means. The commonexamples of forced convection systems areforced-air heating systems in home, the humancirculatory system, and the cooling system of
+an automobile engine. In the human body, the
+heart acts as the pump that circulates blood
+through different parts of the body, transferring
+heat by forced convection and maintaining it at
+a uniform temperature.Natural convection is responsible for manyfamiliar phenomena. During the day, the ground
+heats up more quickly than large bodies of waterdo. This occurs both because the water has agreater specific heat and because mixing
+currents disperse the absorbed heat throughout
+the great volume of water. The air in contact
+with the warm ground is heated by conduction.
+It expands, becoming less dense than the
+surrounding cooler air. As a result, the warmair rises (air currents) and other air moves
+(winds) to fill the space-creating a sea breeze
+near a large body of water. Cooler air descends,
+and a thermal convection cycle is set up, which
+transfers heat away from the land. At night,
+the ground loses its heat more quickly, and thewater surface is warmer than the land. As aresult, the cycle is reveresed (Fig. 11.17).The other example of natural convection isthe steady surface wind on the earth blowing
+in from north-east towards the equator, the so
+called trade wind. A resonable explanation is
+as follows : the equatorial and polar regions of
+the earth receive unequal solar heat. Air at the
+earth™s surface near the equator is hot while
+the air in the upper atmosphere of the poles is
+cool. In the absence of any other factor, a
+convection current would be set up, with the
+air at the equatorial surface rising and moving
+out towards the poles, descending and
+streaming in towards the equator. The rotation
+of the earth, however, modifies this convection
+current. Because of this, air close to the equator
+has an eastward speed of 1600 km/h, while it
+is zero close to the poles. As a result, the air
+descends not at the poles but at 30° N (North)latitude and returns to the equator. This iscalled trade wind.Fig. 11.17Convection cycles.
+290PHYSICS11.9.3  RadiationConduction and convection require somematerial as a transport medium. These modesof heat transfer cannot operate between bodiesseparated by a distance in vacuum. But theearth does receive heat from the sun across ahuge distance and we quickly feel the warmth
+of the fire nearby even though air conductspoorly and before convection can set in. Thethird mechanism for heat transfer needs nomedium; it is called radiation and the energyso radiated by electromagnetic waves is calledradiant energy.  In an electromagnetic wave
+electric and magnetic fields oscillate in spaceand time. Like any wave, electromagnetic wavescan have different wavelengths and can travel
+in vacuum with the same speed, namely thespeed of light i.e., 3  108 m sŒ1 . You will learnthese matters in more details later, but you nowknow why heat transfer by radiation does notneed any medium and why it is so fast. This ishow heat is transfered to the earth from the
+sun through empty space. All bodies emitradiant energy, whether they are solid, liquidor gases.  The electromagnetic radiation emittedby a body by virtue of its temperature like theradiation by a red hot iron or light from afilament lamp is called thermal radiation.When this thermal radiation falls on otherbodies, it is partly reflected and partly absorbed.
+The amount of heat that a body can absorb by
+radiation depends on the colour of the body.We find that black bodies absorb and emitradiant energy better than  bodies of lighter
+colours. This fact finds many applications inour daily life. We wear white or light colouredclothes in summer so that they absorb the least
+heat from the sun. However, during winter, weuse dark coloured clothes which absorb heatfrom the sun and keep our body warm. The
+bottoms of the utensils for cooking food areblackened so that they absorb maximum heatfrom the fire and give it to the vegetables to be
+cooked.Similarly, a Dewar flask or thermos bottle isa device to minimise heat transfer between thecontents of the bottle and outside. It consistsof a double-walled glass vessel with the innerand outer walls coated with silver. Radiation
+from the inner wall is reflected back into thecontents of the bottle. The outer wall similarlyreflects back any incoming radiation. The spacebetween the walls is evacuted to reduce
+conduction and convection losses and the flask
+is supported on an insulator like cork. The
+device is, therefore, useful for preventing hot
+contents (like milk) from getting cold, or
+alternatively to store cold contents (like ice).11.10  NEWTON™S LAW OF COOLINGWe all know that hot water or milk when left ona table begins to cool gradually. Ultimately it
+attains the temperature of the surroundings.To study how a given body can cool onexchanging heat with its surroundings, let us
+perform the following activity.Take some water, say 300 ml, in acalorimeter with a stirrer and cover it with
+two holed lid. Fix a thermometer through ahole in the lid and make sure that the bulb ofthermometer is immersed in the water. Note
+the reading of the thermometer. This readingT1 is the temperature of the surroundings.Heat the water kept in the calorimeter till itattains a temperature, say, 40 °C above roomtemperature (i.e., temperature of thesurroundings). Then stop heating the water
+by removing the heat source. Start the stop-watch and note the reading of thethermometer after fixed interval of time, say
+after every one minute of stirring gently withthe stirrer. Continue to note the temperature(T2) of water till it attains a temperature about5 °C above that of the surroundings. Then plota graph by taking each value of temperatureT = T2 Œ T1 along y axis and the corespondingvalue of  t along x-axis (Fig. 11.18).Fig. 11.18Curve showing cooling of hot waterwith time.
+THERMAL PROPERTIES OF MATTER291From the graph you will infer how the coolingof hot water depends on the difference of itstemperature from that of the surroundings. Youwill also notice that initially the rate of coolingis higher and decreases as the temperature of
+the body falls.The above activity shows that a hot body losesheat to its surroundings in the form of heatradiation. The rate of loss of heat depends on
+the difference in temperature between the body
+and its surroundings. Newton was the first to
+study, in a systematic manner, the relation
+between the heat lost by a body in a given
+enclosure and its temperature.According to Newton™s law of cooling, the rateof loss of heat, Œ dQ/dt of the body is directlyproportional to the difference of temperature
+T = (T2ŒT1) of the body and the surroundings.The law holds good only for small difference oftemperature. Also, the loss of  heat by radiationdepends upon the nature of the surface of thebody and the area of the exposed surface. We
+can writeŒ dQdtkTT
+=()21(11.15)where k is a positive constant depending uponthe area and nature of the surface of the body.Suppose a body of mass m and specific heatcapacity s is at temperature T2. Let T1 be thetemperature of the surroundings. If thetemperature falls by a small amount dT2 in timedt, then the amount of heat lost isdQ = ms dT2 Rate of loss of heat is given bydQdtmsdTdt=2(11.16)From Eqs. (11.15) and (11.16) we haveŒ(Œ)
+msdTdtkTT
+221=dTTTkmsdtKdt
+221ŒŒŒ==(11.17)where K = k/m sOn integrating,loge (T2 Œ T1) = Œ K t + c(11.18)or T2 = T1 + C eŒKt; where C = ec(11.19)Equation (11.19) enables you to calculate thetime of cooling of a body through a particularrange of temperature.For small temperature differences, the rateof cooling, due to conduction, convection, andradiation combined, is proportional to the
+difference in temperature. It is a valid
+approximation in the transfer of heat from a
+radiator to a room, the loss of heat through the
+wall of a room, or the cooling of a cup of tea on
+the table.Fig. 11.19 Verification of Newton™s Law of cooling.Newton™s law of cooling can be verified withthe help of the experimental set-up shown inFig. 11.19(a). The set-up consists of a double
+walled vessel (V) containing water in between
+the two walls. A copper calorimeter (C)containing hot water is placed inside the double
+walled vessel. Two thermometers through the
+corks are used to note the temperatures T2 ofwater in calorimeter and T1 of hot water inbetween the double walls respectively.Temperature of hot water in the calorimeter is
+noted after equal intervals of time. A graph is
+plotted between loge (T2ŒT1) and time (t). Thenature of the graph is observed to be a straight
+line having a negative slope as shown in Fig.11.19(b). This is in support of Eq. (11.18).Example 11.8  A pan filled with hot foodcools from 94 °C to 86 °C in 2 minutes whenthe room temperature is at 20 °C. How longwill it take to cool from 71 °C to 69 °C?Answer  The average temperature of 94 °C and86 °C is 90 °C, which is 70 °C above the roomtemperature. Under these conditions the pancools 8 °C in 2 minutes.Using Eq. (11.17), we haveChangeintemperature
+TimeKT  
+292PHYSICS8C=70C
+2min
+KThe average of 69 °C and 71 °C is 70 °C, whichis 50 °C above room temperature. K is the samefor this situation as for the original.2CTime
+ = K (50 °C)When we divide above two equations, wehave8 C/2min(70C)
+=2C/time(50C)
+KK    Time = 0.7 min        = 42 sSUMMARY1.Heat is a form of energy that flows between a body and its surrounding medium by
+virtue of temperature difference between them. The degree of hotness of the body isquantitatively represented by temperature.2.A temperature-measuring device (thermometer) makes use of some measurable property
+(called thermometric property) that changes with temperature. Different thermometerslead to different temperature scales. To construct a temperature scale, two fixed points
+are chosen and assigned some arbitrary values of temperature. The two numbers fixthe origin of the scale and the size of its unit.3.The Celsius temperature (
+tC) and the Farenheit temperare (tF)are related bytF = (9/5) tC + 324.The ideal gas equation connecting pressure (
+P), volume (V) and absolute temperature(T) is :PV = µRTwhere µ is the number of moles and R is the universal gas constant.5.In the absolute temperature scale, the zero of the scale is the absolute zero of temperature
+Œ the temperature where every substance in nature has the least possible molecularactivity. The Kelvin absolute temperature scale (T ) has the same unit size as the Celsiusscale (Tc ), but differs in the origin :TC   =  T Œ 273.156.The coefficient of linear expansion (
+l) and volume expansion (v) are defined by therelations :llTl    VVTV    where l  and  V denote the change in length l and volume V for a change of temperatureT.  The relation between them is:
+v  =  3 l7.The specific heat capacity of a substance is defined by
+smQT1
+THERMAL PROPERTIES OF MATTER293where m is the mass of the substance and Q is the heat required to change itstemperature by T.  The molar specific heat capacity of a substance is defined by1QCT    where µ is the number  of moles of the substance.8.The latent heat of fusion (
+Lf) is the heat per unit mass required to change a substancefrom solid into liquid at the same temperature and pressure. The latent heat ofvaporisation (Lv) is the heat per unit mass required to change a substance from liquidto the vapour state without change in the temperature and pressure.9.The three modes of heat transfer are conduction, convection and radiation.
+10.In conduction, heat is transferred between neighbouring parts of a body through
+molecular collisions, without any flow of matter.  For a bar of length L and uniformcross section A with its ends maintained at temperatures TC and TD, the rate of flow ofheat H is : CD TTH= KA
+Lwhere K is the thermal conductivity of the material of the bar.11.Newton™s Law of Cooling says that the rate of cooling of a body is proportional to the
+excess temperature of the body over the surroundings :21d()dQ = Œk T Œ T   
+tWhere T1 is the temperature of the surrounding medium and T2 is the temperature ofthe body.
+294PHYSICSPOINTS TO PONDER1.The relation connecting Kelvin temperature (
+T) and the Celsius temperature tcT  =  
+tc + 273.15and the assignment T = 273.16 K for the triple point of water are exact relations (bychoice). With this choice, the Celsius temperature of the melting point of water andboiling point of water (both at 1 atm pressure) are very close to, but not exactly equalto 0 °C and 100 °C respectively.  In the original Celsius scale, these latter fixed points
+were exactly at 0 °C and 100 °C (by choice), but now the triple point of water is thepreferred choice for the fixed point, because it has a unique temperature.2.A liquid in equilibrium with vapour has the same pressure and temperature throughout
+the system; the two phases in equilibrium differ in their molar volume (i.e. density).This is true for a system with any number of phases in equilibrium.3.Heat transfer always involves temperature difference between two systems or two parts
+of the same system. Any energy transfer that does not involve temperature difference
+in some way is not heat.4.Convection involves flow of matter 
+within a fluid due to unequal temperatures of itsparts. A hot bar placed under a running tap loses heat by conduction between the
+surface of the bar and water and not by convection within water.EXERCISES11.1The triple points of neon and carbon dioxide are 24.57 K and 216.55 K respectively.Express these temperatures on the Celsius and Fahrenheit scales.11.2Two absolute scales A and B have triple points of water defined to be 200 A and350 B. What is the relation between TA and TB?11.3The electrical resistance in ohms of a certain thermometer varies with temperature
+according to the approximate law :R = Ro [1 +  (T Œ To )]The resistance is 101.6  at the triple-point of water 273.16 K, and 165.5  at thenormal melting point of lead (600.5 K). What is the temperature when the resistanceis 123.4 ?11.4Answer the following :(a)The triple-point of water is a standard fixed point in modern thermometry.
+Why ? What is wrong in taking the melting point of ice and the boiling pointof water as standard fixed points (as was originally done in the Celsius scale)?
+(b)There were two fixed points in the original Celsius scale as mentioned above
+which were assigned the number 0 °C and 100 °C respectively. On the absolutescale, one of the fixed points is the triple-point of water, which on the Kelvinabsolute scale is assigned the number 273.16 K. What is the other fixed point
+on this (Kelvin) scale ?(c)The absolute temperature (Kelvin scale) 
+T is related to the temperature tc onthe Celsius scale bytc = T Œ 273.15Why do we have 273.15 in this relation, and not 273.16 ?(d)What is the temperature of the triple-point of water on an absolute scale
+whose unit interval size is equal to that of the Fahrenheit scale ?
+THERMAL PROPERTIES OF MATTER29511.5Two ideal gas thermometers A and B use oxygen and hydrogen respectively.  Thefollowing observations are made:
+TemperaturePressurePressure
+thermometer Athermometer B
+Triple-point of water1.250  10
+5 Pa0.200  10
+5 PaNormal melting point1.797  10
+5 Pa0.287  10
+5 Paof sulphur(a)What is the absolute temperature of normal melting point of sulphur as read
+by thermometers A and B ?(b)What do you think is the reason behind the slight difference in answers of
+thermometers A and B ? (The thermometers are not faulty). What furtherprocedure is needed in the experiment to reduce  the discrepancy between thetwo readings ?11.6A steel tape 1m long is correctly calibrated for a temperature of 27.0 °C.  Thelength of a steel rod measured by this tape is found to be 63.0 cm on a hot day
+when the temperature is 45.0 °C. What is the actual length of the steel rod on thatday ? What is the length of the same steel rod on a day when the temperature is27.0 °C ?  Coefficient of linear expansion of steel = 1.20  10
+Œ5 KŒ1 .11.7A large steel wheel is to be fitted on to a shaft of the same material. At 27 °C, theouter diameter of the shaft is 8.70 cm and the diameter of the central hole in the
+wheel is 8.69 cm. The shaft is cooled using ‚dry ice™. At what temperature of theshaft does the wheel slip on the shaft? Assume coefficient of linear expansion ofthe steel to be constant over the required temperature range :steel = 1.20  10
+Œ5 KŒ1.11.8A hole is drilled in a copper sheet. The diameter of the hole is 4.24 cm at 27.0 °C.What is the change in the diameter of the hole when the sheet is heated to 227 °C?
+Coefficient of linear expansion of copper = 1.70  10
+Œ5 KŒ1.11.9A brass wire 1.8 m long at 27 °C is held taut with little tension between two rigid
+supports. If the wire is cooled to a temperature of Œ39 °C, what is the tension
+developed in the  wire, if its diameter is 2.0 mm ?  Co-efficient of linear expansionof  brass = 2.0  10
+Œ5 KŒ1; Young™s modulus of brass = 0.91  10
+11 Pa.11.10A brass rod of length 50 cm and diameter 3.0 mm is joined to a steel rod of thesame length and diameter. What is the change in length of the combined rod at
+250 °C, if the original lengths are at 40.0 °C?  Is there a ‚thermal stress™ developed
+at the junction ? The ends of the rod are free to expand (Co-efficient of linearexpansion of brass = 2.0  10
+Œ5 KŒ1, steel = 1.2  10
+Œ5 KŒ1 ).11.11The coefficient of volume expansion of glycerin is 49  10
+Œ5 KŒ1.  What is the fractionalchange in its density for a 30 °C rise in temperature?
+11.12A 10 kW drilling machine is used to drill a bore in a small aluminium block of mass8.0 kg.  How much is the rise in temperature of the block in 2.5 minutes, assuming
+50% of power is used up in heating the machine itself or lost to the surroundings.Specific heat of aluminium = 0.91 J gŒ1 KŒ1.11.13A copper block of mass 2.5 kg is heated in a furnace to a temperature of 500 °Cand then placed on a large ice block.  What is the maximum amount of  ice that
+can melt?  (Specific heat of copper = 0.39 J gŒ1 KŒ1; heat of fusion of water= 335 J gŒ1 ).11.14In an experiment on the specific heat of a metal, a 0.20 kg block of the metal at
+150 °C is dropped in a copper calorimeter (of water equivalent 0.025 kg) containing
+150 cm3 of water at 27 °C.  The final temperature is 40 °C. Compute the specific
+296PHYSICSheat of the metal. If heat losses to the surroundings are not negligible, is youranswer greater or smaller than the actual value for specific heat of the metal ?11.15Given below are observations on molar specific heats at room temperature of some
+common gases.GasMolar specific heat (C
+v )(cal mo1Œ1 KŒ1)Hydrogen4.87
+Nitrogen4.97
+Oxygen5.02
+
+Nitric oxide4.99Carbon monoxide5.01Chlorine6.17
+The measured molar specific heats of these gases are markedly different fromthose for monatomic gases.  Typically, molar specific heat of a monatomic gas is
+2.92 cal/mol K.  Explain this difference.  What can you infer from the somewhat
+larger (than the rest) value for  chlorine ?11.16Answer the following questions based on the P-T phase diagram of carbon dioxide:(a)At what temperature and pressure can the solid, liquid and vapour phases of
+CO2  co-exist in equilibrium ?(b)What is the effect of decrease of pressure on the fusion and boiling point of
+CO2?(c)What are the critical temperature and pressure for CO
+2? What is theirsignificance?
+(d)Is CO
+2 solid, liquid or gas at (a) Œ70 °C under 1 atm, (b) Œ60 °C under 10 atm,(c) 15 °C under 56 atm ?11.17Answer the following questions based on the P Œ T phase diagram of CO2:(a)CO
+2 at 1 atm pressure and temperature Œ 60 °C is compressed isothermally.Does it go through a liquid phase ?(b)What happens when CO
+2 at 4 atm pressure is cooled from room temperatureat constant pressure ?(c)Describe qualitatively the changes in a given mass of solid CO
+2  at 10 atmpressure and temperature Œ65 °C as it is heated up to room temperature atconstant pressure.(d)CO
+2 is heated to a temperature 70 °C and compressed isothermally. Whatchanges in its properties do you expect to observe ?11.18A child running a temperature of 101°F is given an antipyrin (i.e. a medicine that
+lowers fever) which causes an increase in the rate of evaporation of sweat from his
+body. If the fever is brought down to 98 °F in 20 min, what is the average rate ofextra evaporation caused, by the drug. Assume the evaporation mechanism to bethe only way by which heat is lost.  The mass of the child is 30 kg.  The specific
+heat of human body is approximately the same as that of water, and latent heat of
+evaporation of water at that temperature is about 580 cal gŒ1.11.19A ‚thermacole™ icebox is a cheap and efficient method for storing small quantitiesof cooked food in summer in particular.  A cubical icebox of side 30 cm has a
+thickness of 5.0 cm. If 4.0 kg of ice is put in the box, estimate the amount of iceremaining after 6 h. The outside temperature is 45 °C, and co-efficient of thermalconductivity of thermacole is 0.01 J sŒ1 mŒ1 KŒ1. [Heat of fusion of water = 335  10
+3J kgŒ1]11.20A brass boiler has a base area of 0.15 m2 and thickness 1.0 cm.  It boils water at therate of 6.0 kg/min when placed on a gas stove.  Estimate the temperature of the part
+THERMAL PROPERTIES OF MATTER297of the flame in contact with the boiler.  Thermal conductivity of brass = 109 J sŒ1 mŒ1KŒ1 
+;  Heat of vaporisation of water =  2256  10
+3 J kgŒ1.11.21Explain why :(a)a body with large reflectivity is a poor emitter
+
+(b)a brass tumbler feels much colder than a wooden tray on a chilly day
+(c)an optical pyrometer (for measuring high temperatures) calibrated for an ideal
+black body radiation gives too low a value for the temperature of a red hotiron piece in the open, but gives a correct value for the temperature when the
+same piece is  in the furnace(d) the earth without its atmosphere would be inhospitably cold
+(e)heating systems based on circulation of  steam are more efficient in warming
+a building than those based on circulation of hot water11.22A body cools from 80 °C to 50 °C in 5 minutes. Calculate the time it takes to coolfrom 60 °C to 30 °C. The temperature of the surroundings is 20 °C.

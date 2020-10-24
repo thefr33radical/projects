@@ -1,0 +1,241 @@
+Analysis and natural philosophy owe their most important discoveries tothis fruitful means, which is called induction. Newton was indebtedto it for his theorem of the binomial and the principle ofuniversal gravity. Œ LAPLACE
+ 4.1  IntroductionOne key basis for mathematical thinking is deductive rea-soning. An informal, and example of deductive reasoning,
+
+borrowed from the study of logic, is an argument expressedin three statements:(a)Socrates is a man.
+(b)All men are mortal, therefore,
+
+(c)Socrates is mortal.
+If statements (a) and (b) are true, then the truth of (c) isestablished. To make this simple mathematical example,
+
+we could write:(i)Eight is divisible by two.
+(ii) 
+Any number divisible by two is an even number,
+therefore,(iii)Eight is an even number.
+Thus, deduction in a nutshell is given a statement to be proven, often called a
+conjecture or a theorem in mathematics, valid deductive steps are derived and a
+
+proof may or may not be established, 
+i.e., deduction is the application of a generalcase to a particular case.In contrast to deduction, inductive reasoning depends on working with each case,and developing a conjecture by observing incidences till we have observed each and
+every case. It is frequently used in mathematics and is a key aspect of scientific
+reasoning, where collecting and analysing data is the norm. Thus, in simple language,
+we can say the word induction means the generalisation from particular cases or facts.Chapter4PRINCIPLE OFMATHEMATICAL INDUCTION
+G . Peano
+(1858-1932)
+PRINCIPLE OF MATHEMATICAL INDUCTION       87In algebra or in other discipline of mathematics, there are certain results or state-ments that are formulated in terms of n, where n is a positive integer. To prove such
+statements the well-suited principle that is usedŒbased on the specific technique, isknown as the principle of mathematical induction.4.2  MotivationIn mathematics, we use a form of complete induction called mathematical induction.To understand the basic principles of mathematical induction, suppose a set of thin
+
+rectangular tiles are placed as shown in Fig 4.1.Fig 4.1When the first tile is pushed in the indicated direction, all the tiles will fall. To be
+absolutely sure that all the tiles will fall, it is sufficient to know that(a)The first tile falls, and
+(b)In the event that any tile falls its successor necessarily falls.
+This is the underlying principle of mathematical induction.We know, the set of natural numbers 
+N is a special ordered subset of the realnumbers. In fact, N is the smallest subset of R with the following property:A set S is said to be an inductive set if 1 S and  x + 1  S whenever x S. SinceN is the smallest subset of R which is an inductive set, it follows that any subset of Rthat is an inductive set must contain N.IllustrationSuppose we wish to find the formula for the sum of positive integers 1, 2, 3,...,n, that is,a formula which will give the value of 1 + 2 + 3 when n = 3, the value 1 + 2 + 3 + 4,when n = 4 and so on and suppose that in some manner we are led to believe that theformula 1 + 2 + 3+...+ n = (1)
+2nn is the correct one.How can this formula actually be proved? We can, of course, verify the statement
+for as many positive integral values of n as we like, but this process will not prove theformula for all values of n. What is needed is some kind of chain reaction which will
+88       MATHEMATICS
+have the effect that once the formula is proved for a particular positive integer theformula will automatically follow for the next positive integer and the next  indefinitely.
+
+Such a reaction may be considered as produced by the method of mathematical induction.4.3  The Principle of Mathematical InductionSuppose there is a given statement P(n)  involving the natural number n such that(i)The statement is true for n = 1, i.e., P(1) is true, and(ii)If the statement is true for n = k (where k is some positive integer
+), thenthe statement is also true for n = k + 1, i.e., truth of P(k) implies thetruth of P (k + 1).Then, P(n) is true for all natural numbers n.Property (i) is simply  a statement of fact. There may be situations when astatement is true for all n  4. In this case, step 1 will start from n = 4 and we shallverify the result for n = 4, i.e., P(4).Property (ii) is a conditional property. It does not assert that the given statement
+is true for n = k, but only that if it is true for n = k, then it is also true for n = k +1. So,to prove that the  property holds , only prove that conditional proposition:If the statement is true for n = k, then it is also true for n = k + 1.This is sometimes referred to as the inductive step. The assumption that the givenstatement is true for n = k in this inductive step is called the inductive hypothesis.For example, frequently in mathematics, a formula will be discovered that appearsto fit a pattern like1 = 12   =14 = 22 = 1 + 39 = 32 = 1 + 3 + 516 = 42 = 1 + 3 + 5 + 7, etc.It is worth to be noted that the sum of the first two odd natural numbers is thesquare of second natural number, sum of the first three odd natural numbers is the
+square of third natural number and so on.Thus, from this pattern it appears that1 + 3 + 5 + 7 + ... + (2n Œ 1) = n2 , i.e,the sum of the first n odd natural numbers is the square of n.Let us writeP(n): 1 + 3 + 5 + 7 + ... + (2n Œ 1) = n2.We wish to prove that P(
+n) is true for all n.The first step in a proof that uses mathematical induction is to prove thatP (1) is true. This step is called the basic step. Obviously1 = 12, i.e., P(1) is true.The next step is called the inductive step. Here, we suppose that P (k) is true for some
+PRINCIPLE OF MATHEMATICAL INDUCTION       89positive integer k and we need to prove that P (k + 1) is true. Since P (k) is true, wehave1 + 3 + 5 + 7 + ... + (2k Œ 1) = k2... (1)Consider1 + 3 + 5 + 7 + ... + (2k Œ 1) + {2(k +1) Œ 1}... (2)
+= k2 + (2k + 1) = (k + 1)2 [Using (1)]Therefore, P (k + 1) is true and the inductive proof is now completed.Hence P(n) is true for all natural numbers n.Example 1 For all n 1, prove that12 + 22 + 32 + 42 +–+ n2     
+= (1)(21)
+6nnn
+.Solution Let the given statement be P(n), i.e.,P(n) :  12 + 22 + 32 + 42 +–+ n2     
+= (1)(21)
+6nnn
+For n = 1,P(1): 1 = 
+1(11)(211)
+6
+=  123
+16 which is true.Assume that P(k) is true for some positive integer k, i.e.,12 + 22 + 32 + 42 +–+ k2     
+= (1)(21)
+6kkk
+... (1)We shall now prove that P(
+k + 1) is also true. Now, we have
+(12  +2
+2  +3
+2  +4
+2  +–
++k2  ) + (k + 1) 2=2(1)(21)
+(1)
+6kkk
+k[Using (1)]=2(1)(21)6(1)
+6kkkk
+
+=2(1)(276)
+6kkk
+
+=(1)(11){2(1)1}
+6kkk
+
+Thus P(k + 1) is true, whenever P (k) is true.Hence, from the principle of mathematical induction, the statement P(n) is truefor all natural numbers n.
+90       MATHEMATICS
+Example 2 Prove that 2n > n for all positive integers n.Solution Let P(n):  2n > nWhen n =1, 21 >1. Hence P(1) is true.Assume that P(k) is true for any positive integer k, i.e.,2k  > k... (1)We shall now prove that P(
+k +1) is true whenever P(k) is true.Multiplying both sides of (1) by 2, we get2. 2k  > 2ki.e.,2 
+k + 1 > 2k = k + k > k + 1Therefore, P(k + 1) is true when P(k) is true. Hence, by principle of mathematicalinduction, P(n) is true for every positive integer n.Example 3 For all n  1, prove that1111
+...1.22.33.4(1)1
+nnnn
+
+.Solution We can write
+P(n):  1111
+...1.22.33.4(1)1
+nnnn
+
+We note that P(1):
+111
+1.2211
+, which is true. Thus, P(
+n) is true for n = 1.Assume that P(k) is true for some natural number k,i.e.,1111
+...1.22.33.4(1)1
+kkkk
+
+... (1)We need to prove that P(
+k + 1) is true whenever P(k) is true. We have
+11111
+...1.22.33.4(1)(1)(2)
+kkkk
+
+
+= 11111
+...1.22.33.4(1)(1)(2)
+kkkk
+
+
+=11(1)(2)
+kkkk
+
+[Using (1)]
+PRINCIPLE OF MATHEMATICAL INDUCTION       91= (2)1
+(1)(2)
+kkkk = 2(21)
+(1)(2)
+kkkk = 
+2112kkk = 11211
+kkkk
+Thus P(k + 1) is true whenever P(k) is true. Hence, by the principle of mathematicalinduction, P(n) is true for all natural numbers.Example 4 For every positive integer n, prove that 7n Œ 3n is divisible by 4.Solution  We can write
+P(n) :  7n Œ 3n is divisible by 4.We note that
+P(1): 71 Œ 31 = 4 which is divisible by 4. Thus P(n) is true for n = 1Let P(k) be true for some natural number k,i.e., P(k) : 7k Œ 3k  is divisible by 4.We can write 7
+k Œ 3k = 4d, where d  N.Now, we wish to prove that P(
+k + 1) is true whenever P(k) is true.Now7
+(k + 1) Œ 3(k + 1)= 7(k  + 1) Œ 7.3k + 7.3k Œ 3(k  + 1)= 7(7k Œ 3k) + (7 Œ 3)3k  = 7(4d) + (7 Œ 3)3k= 7(4d) + 4.3k  =  4(7d + 3k)From the last line, we see that 7(k  + 1)  Œ 3(k  + 1) is divisible by 4. Thus, P(k + 1) is truewhen P(k) is true. Therefore, by principle of mathematical induction the statement istrue for every positive integer n.Example 5 Prove that (1 + x)n  (1 + nx), for all natural number n, where x > Œ 1.Solution Let P(n) be the given statement,i.e., P(n): (1 + x)n (1 + nx), for x > Œ 1.We note that P(
+n) is true when n = 1, since ( 1+x)  (1 + x) for x > Œ1Assume thatP(k): (1 + x)k   (1 + kx), x > Œ 1 is true.... (1)
+We want to prove that P(
+k + 1) is true for x > Œ1 whenever P(k) is true.... (2)
+Consider the identity(1 + x)k + 1 = (1 + x)k (1 + x)Given thatx > Œ1, so (1+x) > 0.Therefore , by using (1 + x)k  (1 + kx), we have(1 + x) k + 1  (1 + kx)(1 + x)i.e.(1 +
+ x)k + 1   (1 + x + kx + kx2).                                              ... (3)
+92       MATHEMATICS
+Here k is a natural number and x2  0 so that kx2  0. Therefore(1 + x + kx + kx2)  (1 + x + kx),and so we obtain(1 + x)k + 1    (1 + x + kx)i.e.(1 +
+ x)k + 1     [1 + (1 + k)x]Thus, the statement in (2) is established. Hence, by the principle of mathematicalinduction, P(n) is true for all natural numbers.Example 6 Prove that2.7n + 3.5n Œ 5  is divisible by 24, for all n  N.Solution Let the statement P(n) be defined asP(n) :2.7
+n + 3.5n Œ 5 is divisible by 24.We note that P(
+n) is true for n = 1, since 2.7 + 3.5 Œ 5 = 24, which is divisible by 24.Assume that P(k) is truei.e.2.7
+k + 3.5k Œ 5 = 24q, when q N... (1)Now, we wish to prove that P(
+k + 1) is true whenever P(k) is true.We have
+    2.7
+k+1 + 3.5k+1 Œ 5 = 2.7
+k . 71 + 3.5k . 51 Œ 5=7 [2.7
+k + 3.5k Œ 5 Œ 3.5k + 5] + 3.5k . 5 Œ 5=7 [24
+q Œ 3.5k + 5] + 15.5k Œ5=7 × 24
+q Œ 21.5k + 35 + 15.5k Œ 5=7 × 24
+q Œ 6.5k + 30=7 × 24
+q Œ 6 (5k Œ 5)=7 × 24
+q Œ 6 (4p) [(5k Œ 5) is a multiple of 4 (why?)]=7 × 24
+q Œ 24p=24 (7
+q Œ p)=24 × 
+r; r = 7q Œ p, is some natural number.... (2)
+The expression on the R.H.S. of (1) is divisible by 24. Thus P(k + 1) is true wheneverP(k) is true.Hence, by principle of mathematical induction, P(n) is true for all n  N.
+PRINCIPLE OF MATHEMATICAL INDUCTION       93Example 7 Prove that12 + 22 + ... + n2  > 
+33n, n  NSolution Let P(n) be the given statement.i.e., P(n) : 12 + 22 + ... + n2  > 
+33n,  n  NWe note that P(
+n) is true for n = 1 since  32113Assume that P(k) is truei.e.P(
+k) : 12 + 22 + ... + k2  > 
+33k...(1)We shall now prove that P(
+k + 1) is true whenever P(k) is true.We have 1
+2 + 22 + 32 + ... + k2 + (k + 1)2322222
+12...11
+3kkkk
+
+[by (1)]= 13 [k3 + 3k2 + 6k + 3]= 13 [(k + 1)3 + 3k + 2] > 13 (k + 1)3Therefore, P(k + 1) is also true whenever P(k) is true. Hence, by mathematical inductionP(n) is true for all n  N.Example 8 Prove the rule of exponents (ab)n = anbnby using principle of mathematical induction for every natural number.
+Solution Let P(n) be the given statementi.e.P(
+n) : (ab)n = anbn.We note that P(
+n) is true for n = 1 since (ab)1 = a1b1.Let P(k) be true, i.e.,(ab)k = akbk... (1)We shall now prove that P(
+k + 1) is true whenever P(k) is true.Now, we have
+   (ab)k + 1= (ab)k (ab)
+94       MATHEMATICS
+= (ak bk) (ab)[by (1)]
+= (ak . a1) (bk . b1) = ak+1 . bk+1Therefore, P(k + 1) is also true whenever P(k) is true. Hence, by principle ofmathematical induction, P(n) is true for all n N.EXERCISE 4.1Prove the following by using the principle of mathematical induction for all n N:1.1 + 3 + 32 + ... + 3n Œ 1 = (31)
+2n.2.13 + 23 + 33 + – +n3 = 2(1)
+2nn.3.1112
+1(12)(123)(123)(1)
+n......nn
+
+
+.4.1.2.3 + 2.3.4 +–+ n(n+1) (n+2) = (1)(2)(3)
+4nnnn
+
+.5.1.3 + 2.32 + 3.33 +–+ n.3n = 1(21)33
+4nn.6.1.2 + 2.3 + 3.4 +–+ n.(n+1) = (1)(2)
+3nnn
+.7.1.3 + 3.5 + 5.7 +–+ (2nŒ1) (2n+1) = 2(461)
+3nnn
+.8.1.2 + 2.22 + 3.22 + ...+n.2n = (nŒ1) 2n + 1 + 2.9.11111
+...1
+248
+22nn
+.10.1111
+...
+2.55.88.11(31)(32)(64)
+nnnn
+
+
+.11.
+1111(3)
+...1.2.32.3.43.4.5(1)(2)4(1)(2)
+nnnnnnn
+
+
+.
+PRINCIPLE OF MATHEMATICAL INDUCTION       9512.a + ar + ar2 +–+ arn-1 = (1)
+1narr.13.22357(21)
+111...1(1)
+149
+nnn
+
+
+
+.14.1111
+111...1(1)
+123
+nn
+
+
+
+.15.12 + 32  + 52  + –+ (2nŒ1)2  = (21)(21)
+3nnn
+.16.1111
+...
+1.44.77.10(32)(31)(31)
+nnnn
+
+
+.17.1111
+...3.55.77.9(21)(23)3(23)
+nnnn
+
+
+.18.1 + 2 + 3 +–+ n < 18(2n + 1)2.19.n (n + 1) (n + 5) is a multiple of 3.20.102n Œ 1 + 1 is divisible by 11.
+21.x2n Œ y2n is divisible by x + y.22.32n+2 Œ 8n Œ 9 is divisible by 8.23.41n Œ 14n is a multiple of 27.24.(2n + 7) < (n + 3)2.SummaryOne key basis for mathematical thinking is deductive reasoning. In contrast todeduction, inductive reasoning depends on working with different cases and
+developing a conjecture by observing incidences till we have observed eachand every case. Thus, in simple language we can say the word ‚induction™means the generalisation from particular cases or facts.The principle of mathematical induction is one such tool which can be used toprove a wide variety  of mathematical statements. Each such statement is
+assumed as P(n) associated with positive integer n, for which the correctness
+96       MATHEMATICS
+for the case n = 1 is examined. Then assuming the truth of P(k) for somepositive integer k, the truth of P (k+1) is established.Historical NoteUnlike other concepts and methods, proof  by mathematical induction is notthe invention of a particular individual at a fixed moment. It is said that the principleof mathematical induction was known by the Pythagoreans.The French mathematician Blaise Pascal is credited with the origin of theprinciple of mathematical induction.The name induction was used by the English mathematician John Wallis.
+Later the principle was employed to provide a proof of the binomial theorem.
+De Morgan contributed many accomplishments in the field of mathematicson many different subjects. He was the first person to define and nameﬁmathematical inductionﬂ and developed De Morgan™s rule to determine the
+
+convergence of a mathematical series.G. Peano  undertook the task of deducing the properties of natural numbers
+from a set of explicitly stated assumptions, now known as Peano™s axioms.The
+
+principle of mathematical induction is a restatement of one of the Peano™s axioms.
+ŠŠ

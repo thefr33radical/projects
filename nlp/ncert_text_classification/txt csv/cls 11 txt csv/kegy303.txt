@@ -1,0 +1,48 @@
+26Practical Work in Geography
+Chapter 3Latitude, Longitude andTime
+THE EARTH is nearly a sphere. It is because of the fact that the
+equatorial radius and the polar radius of the earth is not the same.The rotation of the earth over its axis produces bulging at the equator.
+Hence, the actual shape resembles that of an oblate spheroid. The
+shape of the earth presents some difficulties in positioning its surface
+features, as there is no point of reference from which to measure the
+relative positions of other points. Hence, a network of imaginary lines
+
+is drawn on a globe or a map to locate various places. Let us find outwhat are these lines and how are  they drawn.The spinning of the earth on its axis from west to east provides
+two natural points of reference, i.e. North and South Poles. They form
+
+the basis for the geographical grid. A network of intersecting lines isdrawn for the purpose of fixing the locations of different features.
+The grid consists of two sets of horizontal and vertical lines, whichare called parallels of latitudes and the meridians of longitudes.Horizontal lines are drawn parallel to each other in east-westdirection. The line drawn midway between the North Pole and the
+South Pole is called the equator. It is the largest circle and divides
+the globe into two equal halves. It is also called a great circle
+. All theother parallels get smaller in size, in proportion to their distancefrom
+ the equator towards the poles and divide the earth into two
+unequal halves, also referred to as the small circles. These imaginary
+lines running east-west are commonly known as the parallels oflatitude.The vertical lines running north-south, join the two poles. Theyare called the meridians of longitude. They are spaced farthest apart
+at the equator and converge at a point at each pole.
+27Latitude, Longitude and Time
+GlossaryParallels of Latitude : The parallels of latitude refer to the angular
+distance, in degrees, minutes and seconds of a point north or south ofthe Equator. Lines of latitude are often referred to as parallels.
+Meridians of Longitude : The meridians of longitude refer to the angulardistance, in degrees, minutes, and seconds, of a point east or west ofthe Prime (Greenwich
+) Meridian. Lines of longitude are 
+often referred to
+as meridians.The latitudes and longitudes are commonly referred to as geographical
+coordinates as they provide systematic network of lines upon which the
+position of various surface features of the earth, can be represented.
+With the help of these coordinates, location, distance and direction of
+various points can be easily determined.
+Although an infinite number of parallels and meridians may be drawnon a globe, only a selected number of them are usually drawn on a map.
+Latitudes and longitudes are measured in degrees (°) because they
+represent angular distances. Each degree is further divided into 60
+minutes ( ‚ ) and each minute into 60 seconds ( ﬁ ).PARALLELS OF LATITUDES
+The latitude of a place on the earth™s surface is its distance north or
+south of the equator, measured along the meridian of that place as an
+angle from the centre of the earth. Lines joining places with the same
+latitudes are called parallels. The value of equator is 0° and the latitudeof the poles are 90°N and 90°S (Fig. 3.1 on the next page). If parallels oflatitude are drawn at an interval of one degree, there will be 89 parallels
+
+in the northern and the southern hemispheres each. The total number
+of parallels thus drawn, including the equator, will be 179. Depending
+upon the location of a feature or a place north or south of the equator,
+
+the letter N or S is written along with the value of the latitude.If the earth were a perfect sphere, the length of 1
+0 of latitude (a onedegree arc of a meridian) would be a constant value, i.e. 111 km
+everywhere on the earth. This length is almost the same as that of a

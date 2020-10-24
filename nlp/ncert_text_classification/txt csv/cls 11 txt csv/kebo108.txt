@@ -1,0 +1,205 @@
+UNIT 3Biology is the study of living organisms. The detailed description oftheir form and appearance only brought out their diversity. It is the
+cell theory that emphasised the unity underlying this diversity of forms,
+i.e., the cellular organisation of all life forms. A description of cell
+structure and cell growth by division is given in the chapters comprising
+this unit. Cell theory also created a sense of mystery around living
+phenomena, i.e., physiological and behavioural processes. This mystery
+was the requirement of integrity of cellular organisation for living
+phenomena to be demonstrated or observed. In studying and
+understanding the physiological and behavioural processes, one can
+take a physico-chemical approach and use cell-free systems to
+investigate. This approach enables us to describe the various processes
+in molecular terms. The approach is established by analysis of living
+tissues for elements and compounds. It will tell us what types of organic
+compounds are present in living organisms. In the next stage, one can
+ask the question: What are these compounds doing inside a cell? And,
+in what way they carry out gross physiological processes like digestion,
+excretion, memory, defense, recognition, etc. In other words we answer
+the question, what is the molecular basis of all physiological processes?
+It can also explain the abnormal processes that occur during any
+diseased condition. This physico-chemical approach to study and
+understand living organisms is called ‚Reductionist Biology™. The
+concepts and techniques of physics and chemistry are applied tounderstand biology. In Chapter 9 of this unit, a brief description ofbiomolecules is provided.CELL: STRUCTURE AND FUNCTIONSChapter 8Cell: The Unit of LifeChapter 9BiomoleculesChapter 10Cell Cycle and
+Cell Division
+G.N. RAMACHANDRAN, an outstanding figure in the field of proteinstructure, was the founder of the ‚Madras school™ ofconformational analysis of biopolymers. His discovery of the triple
+helical structure of collagen published in Nature in 1954 and hisanalysis of the allowed conformations of proteins through the
+use of the ‚Ramachandran plot™ rank among the most outstanding
+contributions in structural biology. He was born on October 8,
+1922, in a small town, not far from Cochin on the southwestern
+coast of India. His father was a professor of mathematics at a
+local college and thus had considerable influence in shaping
+Ramachandran™s interest in mathematics. After completing his
+school years, Ramachandran graduated in 1942 as the top-
+ranking student in the B.Sc. (Honors) Physics course of the
+University of Madras. He received a Ph.D. from Cambridge
+University in 1949. While at Cambridge, Ramachandran met
+Linus Pauling and was deeply influenced by his publications on
+models of the a-helix and b-sheet structures that directed hisattention to solving the structure of collagen. He passed away at
+the age of 78, on April 7, 2001.G.N. Ramachandran(1922 Œ 2001)
+When you look around, you see both living and non-living things. Youmust have wondered and asked yourself Œ ‚what is it that makes anorganism living, or what is it that an inanimate thing does not have whicha living thing has™ ? The answer to this is the presence of the basic unit of
+life Œ the cell in all living organisms.All organisms are composed of cells. Some are composed of a singlecell and are called unicellular organisms while others, like us, composedof many cells, are called multicellular organisms.8.1WHAT IS A CELL?Unicellular organisms are capable of (i) independent existence and(ii) performing the essential functions of life. Anything less than a completestructure of a cell does not ensure independent living. Hence, cell is thefundamental structural and functional unit of all living organisms.Anton Von Leeuwenhoek first saw and described a live cell. RobertBrown later discovered the nucleus. The invention of the microscope and
+its improvement leading to the electron microscope revealed all the
+structural details of the cell.8.2CELL THEORYIn 1838, Matthias Schleiden, a German botanist, examined a large numberof plants and observed that all plants are composed of different kinds ofcells which form the tissues of the plant. At about the same time, TheodoreCELL: THE UNIT OF LIFECHAPTER  88.1What is a Cell?8.2Cell Theory8.3An Overview ofCell8.4Prokaryotic Cells8.5Eukaryotic Cells
+126BIOLOGYSchwann (1839), a British Zoologist, studied different types of animal cellsand reported that cells had a thin outer layer which is today known as the‚plasma membrane™. He also concluded, based on his studies on plant
+tissues, that the presence of cell wall is a unique character of the plantcells. On the basis of this, Schwann proposed the hypothesis that the bodiesof animals and plants are composed of cells and products of cells.Schleiden and Schwann together formulated the cell theory. This theoryhowever, did not explain as to how new cells were formed. Rudolf Virchow
+(1855) first explained that cells divided and new cells are formed from
+pre-existing cells (Omnis cellula-e cellula). He modified the hypothesis ofSchleiden and Schwann to give the cell theory a final shape. Cell theory
+as understood today is:(i)all living organisms are composed of cells and products of cells.(ii)all cells arise from pre-existing cells.8.3AN OVERVIEW OF CELLYou have earlier observed cells in an onion peel and/or human cheekcells under the microscope. Let us recollect their structure. The onion cellwhich is a typical plant cell, has a distinct cell wall as its outer boundaryand just within it is the cell membrane. The cells of the human cheek
+have an outer membrane as the delimiting structure of the cell. Insideeach cell is a dense membrane bound structure called nucleus. Thisnucleus contains the chromosomes which in turn contain the genetic
+material, DNA. Cells that have membrane bound nuclei are calledeukaryotic whereas cells that lack a membrane bound nucleus areprokaryotic. In both prokaryotic and eukaryotic cells, a semi-fluid matrix
+called cytoplasm occupies the volume of the cell. The cytoplasm is themain arena of cellular activities in both the plant and animal cells. Variouschemical reactions occur in it to keep the cell in the ‚living state™.Besides the nucleus, the eukaryotic cells have other membrane bounddistinct structures called organelles like the endoplasmic reticulum (ER),the golgi complex, lysosomes, mitochondria, microbodies and vacuoles.
+The prokaryotic cells lack such membrane bound organelles.Ribosomes are non-membrane bound organelles found in all cells Œboth eukaryotic as well as prokaryotic. Within the cell, ribosomes are
+found not only in the cytoplasm but also within the two organelles Œchloroplasts (in plants) and mitochondria and on rough ER.Animal cells contain another non-membrane bound organelle calledcentriole which helps in cell division.Cells differ greatly in size, shape and activities (Figure 8.1). For example,Mycoplasmas, the smallest cells, are only 0.3 mm in length while bacteria
+CELL: THE UNIT OF LIFE127Red blood cells(round and biconcave)
+White blood cells(Branched and long)Columnar epithelial cells(long and narrow)
+(amoeboid)Nerve cellMesophyll cells(round and oval)
+A tracheid(elongated)Figure 8.1 Diagram showing different shapes of the cellscould be 3 to 5 mm. The largest isolated single cell is the egg of an ostrich.Among multicellular organisms, human red blood cells are about 7.0mm in diameter. Nerve cells are some of the longest cells. Cells also varygreatly in their shape. They may be disc-like, polygonal, columnar, cuboid,
+thread like, or even irregular. The shape of the cell may vary with the
+function they perform.8.4PROKARYOTIC CELLSThe prokaryotic cells are represented by bacteria, blue-green algae,mycoplasma and PPLO (Pleuro Pneumonia Like Organisms). They aregenerally smaller and multiply more rapidly than the eukaryotic cells
+(Figure 8.2). They may vary greatly in shape and size. The four basicshapes of bacteria are bacillus (rod like), coccus (spherical), vibrio (commashaped) and spirillum (spiral).The organisation of the prokaryotic cell is fundamentally similar eventhough prokaryotes exhibit a wide variety of shapes and functions. All
+128BIOLOGYprokaryotes have a cell wall surrounding thecell membrane except in mycoplasma. The fluidmatrix filling the cell is the cytoplasm. There is
+no well-defined nucleus. The genetic material isbasically naked, not enveloped by a nuclearmembrane. In addition to the genomic DNA (the
+single chromosome/circular DNA), manybacteria have small circular DNA outside thegenomic DNA. These smaller DNA are called
+plasmids. The plasmid DNA confers certainunique phenotypic characters to such bacteria.One such character is resistance to antibiotics.
+In higher classes you will learn that this plasmidDNA is used to monitor bacterial transformationwith foreign DNA. Nuclear membrane is found
+in eukaryotes. No organelles, like the ones ineukaryotes, are found in prokaryotic cells exceptfor ribosomes. Prokaryotes have something
+unique in the form of inclusions. A specialiseddifferentiated form of cell membrane called mesosome is the characteristic
+of prokaryotes. They are essentially infoldings of cell membrane.8.4.1Cell Envelope and its ModificationsMost prokaryotic cells, particularly the bacterial cells, have a chemicallycomplex cell envelope. The cell envelope consists of a tightly bound threelayered structure i.e., the outermost glycocalyx followed by the cell wall and
+then the plasma membrane. Although each layer of the envelope performsdistinct function, they act together as a single protective unit. Bacteria canbe classified into two groups on the basis of the differences in the cell envelopesand the manner in which they respond to the staining procedure developedby Gram viz., those that take up the gram stain are Gram positive and theothers that do not are called Gram negative bacteria.Glycocalyx differs in composition and thickness among differentbacteria. It could be a loose sheath called the slime layer in some, whilein others it may be thick and tough, called the capsule. The cell walldetermines the shape of the cell and provides a strong structural support
+to prevent the bacterium from bursting or collapsing.The plasma membrane is semi-permeable in nature and interacts withthe outside world. This membrane is similar structurally to that of the
+eukaryotes.A special membranous structure is the mesosome which is formedby the extensions of plasma membrane into the cell. These extensions are
+in the form of vesicles, tubules and lamellae. They help in cell wallTypical bacteria(1-2m)
+mPPLO(about 0.1m)
+mViruses(0.02-0.2m)mA typical eukaryotic cell(10-20m)
+mFigure 8.2Diagram showing comparison ofeukaryotic cell with otherorganisms
+CELL: THE UNIT OF LIFE129formation, DNA replication and distribution to daughter cells. They alsohelp in respiration, secretion processes, to increase the surface area ofthe plasma membrane and enzymatic content. In some prokaryotes like
+cyanobacteria, there are other membranous extensions into the cytoplasmcalled chromatophores which contain pigments.Bacterial cells may be motile or non-motile. If motile, they have thinfilamentous extensions from their cell wall called flagella. Bacteria show a
+range in the number and arrangement of flagella. Bacterial flagellum iscomposed of three parts Œ filament, hook and basal body. The filamentis the longest portion and extends from the cell surface to the outside.Besides flagella, Pili and Fimbriae are also surface structures of thebacteria but do not play a role in motility. The pili are elongated tubularstructures made of a special protein. The fimbriae are small bristle likefibres sprouting out of the cell. In some bacteria, they are known to helpattach the bacteria  to rocks in streams and also to the host tissues.8.4.2Ribosomes and Inclusion BodiesIn prokaryotes, ribosomes are associated with the plasma membrane of
+the cell. They are about 15 nm by 20 nm in size and are made of two
+subunits - 50S and 30S units which when present together form 70Sprokaryotic ribosomes. Ribosomes are the site of protein synthesis. Severalribosomes may attach to a single mRNA and form a chain called
+polyribosomes or polysome. The ribosomes of a polysome translate themRNA into proteins.Inclusion bodies: Reserve material in prokaryotic cells are stored inthe cytoplasm in the form of inclusion bodies. These are not bound byany membrane system and lie free in the cytoplasm, e.g., phosphategranules, cyanophycean granules and glycogen granules. Gas vacuoles
+are found in blue green and purple and green photosynthetic bacteria.8.5EUKARYOTIC CELLSThe eukaryotes include all the protists, plants, animals and fungi. Ineukaryotic cells there is an extensive compartmentalisation of cytoplasm
+through the presence of membrane bound organelles. Eukaryotic cellspossess an organised nucleus with a nuclear envelope. In addition,eukaryotic cells have a variety of complex locomotory and cytoskeletal
+structures. Their genetic material is organised into chromosomes.All eukaryotic cells are not identical. Plant and animal cells are differentas the former possess cell walls, plastids and a large central vacuole which
+are absent in animal cells. On the other hand, animal cells have centrioleswhich are absent in almost all plant cells (Figure 8.3).
+130BIOLOGYRough endoplasmicreticulum
+Lysosome
+Smoothendoplasmicreticulum
+PlasmodesmataMicrotubule
+NucleusNucleolusGolgiapparatusNuclearenvelopeVacuole
+Middle lamellaPlasmamembraneCell wallMitochondrionRibosomesChloroplast
+CytoplasmPeroxisome
+Figure 8.3 Diagram showing : (a) Plant cell  (b) Animal cellGolgiapparatusSmoothendoplasmicreticulum
+NuclearenvelopeNucleolusNucleusMicrovilli
+PlasmamembraneCentriolePeroxiome
+Lysosome
+RibosomesMitochondrionRoughendoplasmicreticulum
+Cytoplasm(a)(b)
+CELL: THE UNIT OF LIFE131Figure 8.4 Fluid mosaic model of plasma membraneCholesterolSugarProteinLipid bilayerLet us now look at individual cell organelles to understand theirstructure and functions.8.5.1 Cell MembraneThe detailed structure of the membrane was studied only after the adventof the electron microscope in the 1950s. Meanwhile, chemical studies onthe cell membrane, especially in human red blood cells (RBCs), enabledthe scientists to deduce the possible structure of plasma membrane.These studies showed that the cell membrane is composed of lipidsthat are arranged in a bilayer. Also, the lipids are arranged within the
+membrane with the polar head towards the outer sides and the
+hydrophobic tails towards the inner part.This ensures that the nonpolartail of saturated hydrocarbons is protected from the aqueous environment(Figure 8.4). The lipid component of the membrane mainly consists of
+phosphoglycerides.Later, biochemical investigation clearly revealed that the cell membranesalso possess protein and carbohydrate. The ratio of protein and lipid varies
+considerably in different cell types. In human beings, the  membrane of theerythrocyte has approximately 52 per cent protein and 40 per cent lipids.Depending on the ease of extraction, membrane proteins can beclassified as integral or peripheral. Peripheral proteins lie on the surface
+of membrane while the integral proteins are partially or totally buried inthe membrane.
+132BIOLOGYAn improved model of  the structure of cell membrane was proposedby Singer and Nicolson (1972) widely accepted as fluid mosaic model(Figure 8.4). According to this, the quasi-fluid nature of lipid enableslateral movement of proteins within the overall bilayer. This ability to movewithin the membrane is measured as its fluidity.The fluid nature of the membrane is also important from the point ofview of functions like cell growth, formation of intercellular junctions,
+secretion, endocytosis, cell division etc.One of the most important functions of the plasma membrane is thetransport of the molecules across it. The membrane is selectively permeable
+to some molecules present on either side of it. Many molecules can movebriefly across the membrane without any requirement of energy and this
+is called the passive transport. Neutral solutes may move across themembrane by the process of simple diffusion along the concentration
+gradient, i.e., from higher concentration to the lower. Water may also move
+across this membrane from higher to lower concentration. Movement ofwater by diffusion is called osmosis. As the polar molecules cannot passthrough the nonpolar lipid bilayer, they require a carrier protein of themembrane to facilitate their transport across the membrane. A few ionsor molecules are transported across the membrane against theirconcentration gradient, i.e., from lower to the higher concentration. Such
+a transport is an energy dependent process, in which ATP is utilised andis called active transport, e.g., Na+/K+ Pump.8.5.2Cell WallAs you may recall, a non-living rigid structure called the cell wall formsan outer covering for the plasma membrane of fungi and plants. Cell wallnot only gives shape to the cell and protects the cell from mechanicaldamage and infection, it also helps in cell-to-cell interaction and provides
+barrier to undesirable macromolecules. Algae have cell wall, made ofcellulose, galactans, mannans and minerals like calcium carbonate, whilein other plants it consists of cellulose, hemicellulose, pectins and proteins.
+The cell wall of a young plant cell, the primary wall is capable of growth,which gradually diminishes as the cell matures and the secondary wall is
+formed on the inner (towards membrane) side of the cell.The middle lamella is a layer mainly of calcium pectate which holdsor glues the different neighbouring cells together. The cell wall and middle
+lamellae may be traversed by plasmodesmata which connect the cytoplasm
+of neighbouring cells.8.5.3Endomembrane SystemWhile each of the membranous organelles is distinct in terms of itsstructure and function, many of these are considered together as an
+CELL: THE UNIT OF LIFE133NucleusNuclear pore
+RoughRibosomeendoplasmicEndoplasmicreticulum
+Smoothreticulum
+endomembrane system because their functionsare coordinated. The endomembrane systeminclude endoplasmic reticulum (ER), golgicomplex, lysosomes and vacuoles. Since the
+functions of the mitochondria, chloroplast andperoxisomes are not coordinated with the abovecomponents, these are not considered as part of
+the endomembrane system.8.5.3.1The Endoplasmic Reticulum (ER)Electron microscopic studies of eukaryotic cellsreveal the presence of a network or reticulum of
+tiny tubular structures scattered in the cytoplasmthat is called the endoplasmic reticulum (ER)(Figure 8.5).  Hence, ER divides the intracellular
+space into two distinct compartments, i.e., luminal(inside ER) and extra luminal (cytoplasm)compartments.The ER often shows ribosomes attached totheir outer surface. The endoplasmic reticulun
+bearing ribosomes on their surface is called rough
+endoplasmic reticulum (RER). In the absence ofribosomes they appear smooth and are calledsmooth endoplasmic reticulum (SER).RER is frequently observed in the cells activelyinvolved in protein synthesis and secretion. They
+are extensive and continuous with the outer
+membrane of the nucleus.The smooth endoplasmic reticulum is the majorsite for synthesis of lipid. In animal cells lipid-like
+steroidal hormones are synthesised in SER.8.5.3.2Golgi apparatusCamillo Golgi (1898) first observed densely stainedreticular structures near the nucleus. These were
+later named Golgi bodies after him. They consistof many flat, disc-shaped sacs or cisternae of0.5mm to 1.0mm diameter (Figure 8.6). These arestacked parallel to each other. Varied number ofcisternae are present in a Golgi complex. The Golgicisternae are concentrically arranged near the
+nucleus with distinct convex cis or the formingface and concave trans or the maturing face.Figure 8.5 Endoplasmic reticulumCisternae
+Figure 8.6  Golgi apparatus
+134BIOLOGYThe cis and the trans faces of the organelle are entirely different, butinterconnected.The golgi apparatus principally performs the function of packagingmaterials, to be delivered either to the intra-cellular targets or secretedoutside the cell. Materials to be packaged in the form of vesicles fromthe ER fuse with the cis face of the golgi apparatus and move towardsthe maturing face. This explains, why the golgi apparatus remains inclose association with the endoplasmic reticulum. A number of proteinssynthesised by ribosomes on the endoplasmic reticulum are modified
+in the cisternae of the golgi apparatus before they are released from itstrans face. Golgi apparatus is the important site of formation ofglycoproteins and glycolipids.8.5.3.3LysosomesThese are membrane bound vesicular structures formed by the processof packaging in the golgi apparatus. The isolated lysosomal vesicleshave been found to be very rich in almost all types of hydrolytic
+enzymes (hydrolases Œ lipases, proteases, carbohydrases) optimally
+active at the acidic pH. These enzymes are capable of digestingcarbohydrates, proteins, lipids and nucleic acids.8.5.3.4VacuolesThe vacuole is the membrane-bound space found in the cytoplasm. It containswater, sap, excretory product and other materials not useful for the cell. Thevacuole is bound by a single membrane called tonoplast. In plant cells thevacuoles can occupy up to 90 per cent of the volume of the cell.In plants, the tonoplast facilitates the transport of a number of ionsand other materials against concentration gradients into the vacuole, hence
+their concentration is significantly higher in the vacuole than in the
+cytoplasm.In Amoeba the contractile vacuole is important for excretion. In manycells, as in protists, food vacuoles are formed by engulfing the foodparticles.8.5.4MitochondriaMitochondria (sing.: mitochondrion), unless specifically stained, are noteasily visible under the microscope. The number of mitochondria per cell
+is variable depending on the physiological activity of the cells. In terms ofshape and size also, considerable degree of variability is observed. Typically
+it is sausage-shaped or cylindrical having a diameter of 0.2-1.0mm (average0.5mm) and length 1.0-4.1mm. Each mitochondrion is a doublemembrane-bound structure with the outer membrane and the inner
+CELL: THE UNIT OF LIFE135membrane dividing its lumen distinctly into two aqueous compartments,i.e., the outer compartment and the inner compartment. The innercompartment is called the matrix. The outer membrane forms thecontinuous limiting boundary of the organelle. The inner membrane formsa number of infoldings called the cristae (sing.: crista) towards the matrix(Figure 8.7). The cristae increase the surface area. The two membraneshave their own specific enzymes associated with the mitochondrial
+function. Mitochondria are the sites of aerobic respiration. They producecellular energy in the form of ATP, hence they are called ‚power houses™ ofthe cell. The matrix also possesses single circular DNA molecule, a few
+RNA molecules, ribosomes (70S) and the components required for thesynthesis of proteins. The mitochondria divide by fission.8.5.5PlastidsPlastids are found in all plant cells and in euglenoides. These are easilyobserved under the microscope as they are large. They bear some specificpigments, thus imparting specific colours to the plants. Based on thetype of pigments plastids can be classified into chloroplasts,chromoplasts and leucoplasts.The chloroplasts contain chlorophyll and carotenoid pigments whichare responsible for trapping light energy essential for photosynthesis. In
+the chromoplasts fat soluble carotenoid pigments like carotene,xanthophylls and others are present. This gives the part of the plant a
+yellow, orange or red colour. The leucoplasts are the colourless plastids
+of varied shapes and sizes with stored nutrients: Amyloplasts storecarbohydrates (starch), e.g., potato; elaioplasts store oils and fats whereasthe aleuroplasts store proteins.OutermembraneInnermembraneMatrixCristaFigure 8.7  Structure of mitochondrion (Longitudinal section)Inter-membranespace
+136BIOLOGYMajority of the chloroplasts of thegreen plants are found in the mesophyllcells of the leaves. These are lens-shaped,oval, spherical, discoid or even ribbon-like
+organelles having variable length(5-10µm) and width (2-4µm). Theirnumber varies from 1 per cell of theChlamydomonas, a green alga to 20-40per cell in the mesophyll.Like mitochondria, the chloroplastsare also double membrane bound. Of the
+two, the  inner chloroplast membrane isrelatively less permeable. The spacelimited by the inner membrane of the chloroplast is called the stroma. A
+number of organised flattened membranous sacs called the thylakoids,are present in the stroma (Figure 8.8). Thylakoids are arranged in stackslike the piles of coins called grana (singular: granum) or the intergranalthylakoids. In addition, there are flat membranous tubules called thestroma lamellae connecting the thylakoids of the different grana. Themembrane of the thylakoids enclose a space called a lumen. The stromaof the chloroplast contains enzymes required for the synthesis of
+carbohydrates and proteins. It also contains small, double-strandedcircular DNA molecules and ribosomes. Chlorophyll pigments arepresent in the thylakoids. The ribosomes of the chloroplasts are smaller(70S) than the cytoplasmic ribosomes (80S).8.5.6RibosomesRibosomes are the granular structures first observed under the electronmicroscope as dense particles by George Palade (1953). They arecomposed of ribonucleic acid (RNA) and proteins and are not surrounded
+by any membrane.The eukaryotic ribosomes are 80S while the prokaryotic ribosomesare 70S. Here ‚S™ (Svedberg™s Unit) stands for the sedimentation coefficient;it indirectly is a measure of density and size. Both 70S and 80S ribosomesare composed of two subunits.8.5.7CytoskeletonAn elaborate network of filamentous proteinaceous structures present inthe cytoplasm is collectively referred to as the cytoskeleton. Thecytoskeleton  in a cell are involved in many functions such as mechanical
+support, motility, maintenance of the shape of the cell.Figure 8.8  Sectional view of chloroplast
+CELL: THE UNIT OF LIFE1378.5.8Cilia and FlagellaCilia (sing.: cilium) and flagella (sing.: flagellum) are hair-like outgrowthsof the cell membrane.  Cilia are small structures which work like oars,causing the movement of either the cell or the surrounding fluid. Flagella
+are comparatively longer and responsible for cell movement. Theprokaryotic bacteria also possess flagella but these are structurallydifferent from that of the eukaryotic flagella.The electron microscopic study of a cilium or the flagellum show thatthey are covered with plasma membrane. Their core called the axoneme,possesses a number of microtubules running parallel to the long axis.
+The axoneme usually has nine pairs of doublets of radially arrangedperipheral microtubules, and a pair of centrally located microtubules.Such an arrangement of axonemal microtubules is referred to as the 9+2
+array (Figure 8.9). The central tubules are connected by bridges and isalso enclosed by a central sheath, which is connected to one of the tubulesof each peripheral doublets by a radial spoke. Thus, there are nine radial
+spokes. The peripheral doublets are also interconnected by linkers. Boththe cilium and flagellum emerge from centriole-like structure called thebasal bodies.8.5.9Centrosome and CentriolesCentrosome is an organelle usually containing two cylindrical structurescalled centrioles. They are surrounded by amorphous pericentriolarmaterials. Both the centrioles in a centrosome lie perpendicular to each
+other in which each has an organisation like the cartwheel. They arePlasmamembranePeripheral
+microtubules
+
+(doublets)Interdoublet
+
+bridgeCentral
+microtuble
+RadialspokeCentralsheathFigure 8.9Section of cilia/flagella showing different parts : (a) Electron micrograph(b) Diagrammatic representation of internal structure(a)(b)
+138BIOLOGYmade up of nine evenly spaced peripheral fibrils of tubulin protein. Eachof the peripheral fibril is a triplet.The adjacent triplets are also linked.The central part of the proximal region of the centriole is also proteinaceousand called the hub, which is connected with tubules of the peripheraltriplets by radial spokes made of protein. The centrioles form the basalbody of cilia or flagella, and spindle fibres that give rise to spindleapparatus during cell division in animal cells.8.5.10NucleusNucleus as a cell organelle was first described by Robert Brown as earlyas 1831. Later the material of the nucleus stained by the basic dyes was
+given the name chromatin by Flemming.The interphase nucleus (nucleus of acell when it is not dividing) has highly
+extended and elaborate nucleoproteinfibres called chromatin, nuclear matrix andone or more spherical bodies called
+nucleoli (sing.: nucleolus) (Figure 8.10).Electron microscopy has revealed that thenuclear envelope, which consists of two
+parallel membranes with a space between(10 to 50 nm) called the perinuclear space,forms a barrier between the materialspresent inside the nucleus and that of thecytoplasm. The outer membrane usuallyremains continuous with the endoplasmic
+reticulum and also bears ribosomes on it.At a number of places the nuclear envelope is interrupted by minute
+pores, which are formed by the fusion of its two membranes. These nuclear
+pores are the passages through which movement of RNA and proteinmolecules takes place in both directions between the nucleus and thecytoplasm. Normally, there is only one nucleus per cell, variations in the
+number of nuclei are also frequently observed. Can you recollect namesof organisms that have more than one nucleus per cell? Some maturecells even lack nucleus, e.g., erythrocytes of many mammals and sieve
+tube cells of vascular plants. Would you consider these cells as ‚living™?The nuclear matrix or the nucleoplasm contains nucleolus andchromatin. The nucleoli are spherical structures present in the
+nucleoplasm. The content of nucleolus is continuous with the rest of thenucleoplasm as it is not a membrane bound structure. It is a site foractive ribosomal RNA synthesis. Larger and more numerous nucleoli are
+present in cells actively carrying out protein synthesis.Figure 8.10  Structure of nucleusNucleoplasmNucleolusNuclear poreNuclearmembrane
+CELL: THE UNIT OF LIFE139Kinetochore
+Figure 8.11Chromosome withkinetochoreFigure 8.12  Types of chromosomes based on the position of centromereYou may recall that the interphase nucleus has a looseand indistinct network of nucleoprotein fibres calledchromatin. But during different stages of cell division, cells
+show structured chromosomes in place of the nucleus.Chromatin contains DNA and some basic proteins called
+histones, some non-histone proteins and also RNA. Asingle human cell has approximately two metre longthread of DNA distributed among its forty six (twenty threepairs) chromosomes. You will study the details of DNA
+packaging in the form of a chromosome in class XII.Every chromosome essentially has a primaryconstriction or the centromere on the sides of which discshaped structures called kinetochores are present(Figure 8.11). Based on the position of the centromere,
+the chromosomes can be classified into four types (Figure
+8.12). The metacentric chromosome has middlecentromere forming two equal arms of the chromosome.
+The sub-metacentric chromosome has centromereslightly away from the middle of the chromosome resultinginto one shorter arm and one longer arm. In case ofacrocentric chromosome the centromere is situated closeto its end forming one extremely short and one very longarm, whereas the telocentric chromosome has a terminalcentromere.
+140BIOLOGYSometimes a few chromosomes have non-staining secondaryconstrictions at a constant location. This gives the appearance of a smallfragment called the satellite.8.5.11MicrobodiesMany membrane bound minute vesicles called microbodies that containvarious enzymes, are present in both plant and animal cells.SUMMARYAll organisms are made of cells or aggregates of cells. Cells vary in their shape, sizeand activities/functions. Based on the presence or absence of a membrane bound
+nucleus and other organelles, cells and hence organisms can be named as
+eukaryotic or prokaryotic.A typical eukaryotic cell consists of a cell membrane, nucleus and cytoplasm.Plant cells have a cell wall outside the cell membrane. The plasma membrane is
+selectively permeable and facilitates transport of several molecules. The
+endomembrane system includes ER, golgi complex, lysosomes and vacuoles. Allthe cell organelles perform different but specific functions. Centrosome and centrioleform the basal body of cilia and flagella that facilitate locomotion. In animal cells,
+centrioles also form spindle apparatus during cell division. Nucleus contains
+nucleoli and chromatin network. It not only controls the activities of organellesbut also plays a major role in heredity.Endoplasmic reticulum contains tubules or cisternae. They are of two types:rough and smooth. ER helps in the transport of substances, synthesis ofproteins, lipoproteins and glycogen. The golgi body is a membranous organellecomposed of flattened sacs. The secretions of cells are packed in them and
+transported from the cell. Lysosomes are single membrane structures
+containing enzymes for digestion of all types of macromolecules. Ribosomes
+are involved in protein synthesis. These occur freely in the cytoplasm or areassociated with ER. Mitochondria help in oxidative phosphorylation andgeneration of adenosine triphosphate. They are bound by double membrane;
+the outer membrane is smooth and inner one folds into several cristae. Plastids
+are pigment containing organelles found in plant cells only. In plant cells,chloroplasts are responsible for trapping light energy essential for
+photosynthesis. The grana, in the plastid, is the site of light reactions and the
+stroma of dark reactions. The green coloured plastids are chloroplasts, which
+contain chlorophyll, whereas the other coloured plastids are chromoplasts,which may contain pigments like carotene and xanthophyll. The nucleus isenclosed by nuclear envelope, a double membrane structure with nuclear pores.The inner membrane encloses the nucleoplasm and the chromatin material.
+Thus, cell is the structural and functional unit of life.
+CELL: THE UNIT OF LIFE141EXERCISES1.Which of the following is not correct?(a)Robert Brown discovered the cell.(b)Schleiden and Schwann formulated the cell theory.(c)Virchow explained that cells are formed from pre-existing cells.(d)A unicellular organism carries out its life activities within a single cell.2.New cells generate from
+(a)bacterial fermentation(b)regeneration of old cells(c)pre-existing cells(d)abiotic materials3.Match the followingColumn IColumn II(a)Cristae(i)Flat membranous sacs in stroma(b)Cisternae(ii)Infoldings in mitochondria(c)Thylakoids(iii)Disc-shaped sacs in Golgi apparatus4.Which of the following is correct:
+(a)Cells of all living organisms have a nucleus.(b)Both animal and plant cells have a well defined cell wall.(c)In prokaryotes, there are no membrane bound organelles.(d)Cells are formed de novo from abiotic materials.5.What is a mesosome in a prokaryotic cell? Mention the functions that it performs.6.How do neutral solutes move across the plasma membrane? Can the polarmolecules also move across it in the same way? If not, then how are thesetransported across the membrane?7.Name two cell-organelles that are double membrane bound. What are the
+characteristics of these two organelles? State their functions and draw labelleddiagrams of both.8.What are the characteristics of prokaryotic cells?9.Multicellular organisms have division of labour. Explain.10.Cell is the basic unit of life. Discuss in brief.11.What are nuclear pores? State their function.12.Both lysosomes and vacuoles are endomembrane structures, yet they differ interms of their functions. Comment.13.Describe the structure of the following with the help of labelled diagrams.(i)Nucleus(ii)Centrosome14.What is a centromere? How does the position of centromere form the basis ofclassification of chromosomes. Support your answer with a diagram showingthe position of centromere on different types of chromosomes.

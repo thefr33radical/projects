@@ -1,0 +1,691 @@
+ANSWERSChapter   22.1(b)2.2(b)2.3(c)2.4(d)2.5(a)2.6(c)2.7(a)2.8(d)2.9(a)2.10(a)2.11(c)2.12(d)2.13(b), (c)2.14(a), (e)2.15(b), (d)2.16(a), (b), (d)2.17(a), (b)2.18(b), (d)2.19Because, bodies differ in order of magnitude significantly in respectto the same physical quantity. For example, interatomic distancesare of the order of angstroms, inter-city distances are of the order ofkm, and interstellar distances are of the order of light year.
+Exemplar ProblemsŒPhysics1142.2010152.21Mass spectrograph2.221 u = 1.67 × 10Œ27 kg2.23Since ()fqis a sum of different powers of q, it has to bedimensionless2.24Because all other quantities of mechanics can be expressed interms of length, mass and time through simple relations.2.251()rad1
+6060
+oEERaRq==
+\ Diameter of the earth as seen from the moon is about 2°.(b) At earth-moon distance, moon is seen as (1/2)° diameter andearth is seen as 2° diameter. Hence, diameter of earth is 4 timesthe diameter of moon.    4earth
+moon
+DD=(c) 400
+sun
+moon
+rr=(Here r stands for distance, and D for diameter.)Sun and moon both appear to be of the same angular diameter asseen from the earth.sunmoon
+sunmoon
+DD
+rr
+\=
+400
+\=
+sun
+moon
+DDBut  4100
+=\=
+earth
+sun
+moonearth
+DD
+DD
+.2.26An atomic clock is the most precise time measuring device because
+atomic oscillations are repeated with a precision of 1s in 1013 s.2.273 × 1016 s2.280.01 mm
+Answers1152.29()()2222
+e/R/
+=ssmem
+RRR
+qpp
+ses
+mem
+RR
+RR
+=2.30105 kg2.31(a)Angle or solid angle(b)Relative density, etc.(c)Planck™s constant, universal gravitational constant, etc.(d)Raynold number2.323.14
+31cm16.3cm
+6===´=
+llrl
+rqq
+2.334 × 10Œ 2 steradian2.34Dimensional formula of w =T Œ 1Dimensional formula of k = LŒ12.35(a)Precision is given by the least count of the instrument.For 20 oscillations, precision = 0.1 sFor 1 oscillation, precision = 0.005 s.(b)Average time 39.639.939.5
+s39.6s
+3++
+==
+tPeriod 39.6
+1.98
+20
+==
+sMax. observed error = (1.995 Œ1.980)s = 0.015s.2.36Since energy has dimensions of ML2 T Œ2, 1J in new units becomes22
+/gab
+J. Hence 5 J becomes 22
+5/
+gab
+.2.37The dimensional part in the expression is 4rhrl. Therefore, thedimensions of the right hand side comes out to beŒ1Œ243
+Œ1Œ1
+[MLT][L][L]
+[T]
+[MLT][L]
+=, which is volume upon time. Hence, theformula is dimensionally correct.2.38The fractional error in X isd2d3d2.5d2d
+=Xabc(d)
++++
+Xabcd
+0.2350.24
+=
+Exemplar ProblemsŒPhysics116Since the error is in first decimal, hence the result should berounded off as 2.8.2.39Since E, l and G have dimensional formulas:2Œ2
+EMLT
+®2Œ1
+MLT
+®l3Œ1Œ2
+GLMT
+®Hence, P = E l 2 mŒ5 GŒ2 will have dimensions:[]
+[][][][][]
+2Œ224Œ224
+56
+MLTMLTMT
+PML
+=  = M0 L0 T 0Thus, P is dimensionless.2.40M, L, T, in terms of new units become35
+chhGhG
+M,L,T
+Gcc
+®®®
+2.41Given aa
+233/2
+TrTr
+. T is also function of g andxy
+RTgR
+a[][][][]
+xy
+oo13/2oo1o-21oo
+=LMTLMTLMTLMT
+\For L, 302xy
+=++
+For T, 1102
+2xx
+=-
+=-
+Therefore,  31
+01
+22
+yy
+=-+
+=-
+Thus, 33/21/21
+kr
+TkrgR
+Rg
+--
+==
+2.42(a)Because oleic acid dissolves in alcohol but does not disssolvein water.(b)When lycopodium powder is spread on water, it spreads on theentire surface. When a drop of the prepared solution is dropped
+on water, oleic acid does not dissolve  in water, it spreads onthe water surface pushing the lycopodium powder away to cleara circular area where the drop falls. This allows measuringthe area where oleic acid spreads.
+Answers117(c)111
+mLmL
+2020400
+´=
+(d)By means of a burette and measuring cylinder and measuringthe number of drops.(e)If n drops of the solution make 1 mL, the volume of oleic acidin one drop will be (1/400)n mL.2.43(a)By definition of parsec\ 1 parsec 1A.U.
+1arcsec
+
+=
+
+1 deg = 3600 arc sec\ 1 arcsec 3600180
+p=´ radians\  1 parsec 3600180
+p´= A.U. = 206265 A.U. 5210
+»´
+ A.U.(b) At 1 A.U. distance, sun is (1/2°) in diameter.Therefore, at 1 parsec, star is 51/2
+210
+´degree in diameter = 15× 10-5 arcmin.With 100 magnification, it should look 15 × 10-3 arcmin. However,due to atmospheric fluctuations, it will still look of about 1 arcmin.It can™t be magnified using telescope.(c) 11
+,2400
+==
+marsearth
+earthsun
+DD
+DD
+[from Answer 2.25 (c)]1.800
+\=
+mars
+sun
+DDAt 1 A.U. sun is seen as 1/2 degree in diameter, and mars willbe seen as 1/1600 degree in diameter.At 1/2 A.U, mars will be seen as 1/800 degree in diameter. With100 magnification mars will be seen as 1/8 degree60
+7.5
+8==
+arcmin.This is larger than resolution limit due to atmosphericfluctuations. Hence, it looks magnified.2.44(a)Since 1 u = 1.67 × 10Œ27 kg, its energy equivalent is 1.67×10Œ27 c2in SI units. When converted to eV and MeV, it turns out to be1 u º 931.5 MeV.(b)1 u × c2 = 931.5 MeV.
+Exemplar ProblemsŒPhysics118Chapter   33.1(b)3.2(a)3.3(b)3.4(c)3.5(b)3.6(c)3.7(a), (c), (d)3.8(a), (c), (e)3.9(a), (d)3.10(a), (c)3.11(b), (c), (d)3.12(a) (iii), (b) (ii), (c) iv, (d) (i)3.133.14(i) x (t) = t - sin t(ii) x (t) = sin t3.15x(t) = A + ;tBe
+-g
+ A > B, 0g>are suitably chosen positive constants.3.16v = g/b3.17The ball is released and is falling under gravity. Acceleration is Œg ,except for the short time intervals in which the ball collides withat-g0
+Answers119ground, and when the impulsive force acts and produces a largeacceleration.3.18(a) x = 0, g=ovx
+3.19Relative speed of cars = 45km/h, time required to meet36km
+0.80h
+45km/h
+==
+Thus, distance covered by the bird = 36 km/h × 0.8h = 28.8 km.3.20Suppose that the fall of 9 m will take time t. Hence22ooy
+gt
+yyv
+-=-
+Since 0,
+=oy
+v22()29m
+1.81.34
+10m/s
+-´
+=®=»
+oyy
+tgseconds.In this time, the distance moved horizontally isx-xo = voxt = 9 m/s × 1.34s = 12.06 m.Yes-he will land.3.21Both are free falling. Hence, there is no acceleration of one w.r.t.another. Therefore, relative speed remains constant (=40 m/s ).3.22v = (-vo/xo) x + vo, a = (vo/xo)2 x - vo2/xo The variation of a with x is shown in the figure. It is a straight linewith a positive slope and a negative intercept.3.23(a) 22101000141m/s510km/h.
+==´´==
+vgh
+(b)3333
+544
+(210)(10)3.410kg.
+33
+--
+==´=´
+mr
+pp
+r33
+4.710kgm/s510kgm/s.
+--
+=»´»´
+Pmv
+(c)Diameter 4mm
+»/28s30s
+tdv
+mm
+D»=»
+(d)3264.710
+168N1.710N.
+2810
+--D´
+==»»´
+D´PFt(e)Area of cross-section22
+/40.8m.
+=»
+dp9m/s9m10mxa0
+Exemplar ProblemsŒPhysics120With average separation of 5 cm, no. of drops that will fall almostsimultaneously is 222
+0.8m
+320.
+(510)
+-»´Net force » 54000 N (Practically drops are damped by air viscosity).3.24Car behind the truckRegardation of truckŒ2
+20
+4ms
+5==
+Regardation of carŒ2
+20
+ms
+3=Let the truck be at a distance x from the car when breaks are appliedDistance of truck from A at t > 0.5 s isx + 20t Œ 2t2.Distance of car from A is10 + 20(t Œ 0.5) Œ210
+(Œ0.5)
+3t.If the two meetx + 20t Œ 2t2 = 10 + 20t Œ 10 Œ2101010
+Œ0.25
+333
++´
+tt
+.x =24105
+ŒŒ
+336
+tt
++.To find xmin,810
+Œ0
+33
+=+=
+dx
+tdt
+which gives tmin= 105
+s84
+=.Therefore, xmin=2410555
+5ŒŒ
+33464
+4
++´=
+
+
+.Therefore, x > 1.25m.Second method: This method does not require the use of calculus.If the car is behind the truck,Vcar = 20 Œ (20/3)(t Œ 0.5) for t > 0.5 s as car declerate only after 0.5 s.Vtruck = 20 Œ 4tFind t from equating the two or from velocity vs time graph. Thisyields t = 5/4 s.In this time truck would travel truck,Struck= 20(5/4) Œ (1/2)(4)(5/4)2 = 21.875m
+Answers121and car would travel, Scar = 20(0.5) + 20(5/4 Œ 0.5) Œ215
+(20/3)
+23.125m
+Œ0.5
+24
+
+´=
+
+
+Thus  Scar Œ Struck = 1.25m.If the car maintains this distance initially, its speed after 1.25s willhe always less than that of truck and hence collision never occurs.3.25(a) (3/2)s,(b) (9/4)s,(c) 0,3s,(d) 6 cycles.3.26v1=20 m/s, v2 = 10m/s, time difference = 1s.Chapter   44.1(b)4.2(d)4.3(b)4.4(b)4.5(c)4.6(b)4.7(d)4.8(c)4.9(c)4.10(b)4.11(a), (b)4.12(c)4.13(a), (c)4.14(a), (b), (c)4.15(b), (d)4.162vR in the direction RO
+.4.17The students may discuss with their teachers and find answer.4.18(a)Just before it hits the ground.
+Exemplar ProblemsŒPhysics122(b)At the highest point reached.(c)a = g = constant.4.19acceleration Œ g.velocity Œ zero.4.20Since B × C is perpendicular to plane of B and C, cross product ofany vector will lie in the plane of B and C.4.21For a ground-based observer, the ball is a projectile with speed voand the angle of projection q with horizontal in as shown above.4.22Since the speed of car matches with the horizontal speed of theprojectile, boy sitting in the car will see only vertical component ofmotion as shown in Fig (b).4.23Due to air resistance, particle energy aswell as horizontal component of velocity
+keep on decreasing making the fall steeper
+than rise as shown in the figure.4.2411
+21,tantan2312'
+2ooHgH
+HRv
+gvR--
+
+
+====°
+
+
+
+
+f4.25Acceleration 2242vR
+RTp=vo0qv(speedtossed)u(car speed)(a)(b)yx0
+Answers1234.26(a) matches with (iv)(b) matches with (iii)(c) matches with (i)
+(d) matches with (ii)4.27(a) matches with (ii)
+(b)  matches with (i)
+(c) matches with (iv)(d) matches with (iii)4.28(a) matches with (iv)(b) matches with (iii)(c) matches with (i)(d) matches with (ii)4.29The minimm vertical velocity required for crossing the hill is given by2v^ ³ 2gh = 10,000v^ > 100 m/sAs canon  can haul packets with a speed of 125m/s, so the
+maximum value of horizontal velocity, v will be22
+12510075
+m/s
+=-=
+vThe time taken to reach the top of the hill with velocity v^is given by110s.
+22gT=hT=
+In 10s the horizontal distance covered  = 750 m.
+So cannon has to be moved through a distance of 50 m on the
+ground.
+So total time taken (shortest)  by the packet to reach ground
+across the hill 50s10s10s
+2=++
+ = 45 s.4.31(a) 222sincos()
+cos
+ovLgbab
+a+=(b)2sin
+cos
+ovTgba=(c)42
+=-
+pa
+b4.3220sin
+Av
+gq
+Exemplar ProblemsŒPhysics1244.33‹‹
+55
+=-
+rVij
+4.34(a) 5m/s37
+at
+° to N.(b) (i) ()-1tanofN,(ii)7m/s
+3/7
+(c) in case (i) he reaches the opposite bank in shortest time.4.35(a)1sin
+tan
+cos
+oovvu
+qq-
+
++
+(b)2sin
+ovgq(c)oo
+2sin(cos+u)
+g=vv
+Rqq
+(d) 22
+1max
+84oouuv
+cos
+vq-
+-++
+=
+
+
+(e) max
+60.
+==
+ooforuv
+qmax
+450.
+==
+oforu
+q ouv
+<\ 1max
+142oucos
+vq-
+-»
+
+()
+4=oifuv
+p()
+1max
+2-
+>»=
+
+
+ooovvu
+uvcos
+upq(f) max
+45.
+>°
+q4.3622
+22
+22
+‹‹‹‹
+2dd
+and
+dtdt
+qq
+wwq
+wqqw
+
+=+=
++-+
+
+
+Vra
+rqqqqqqqq4.37Consider the straight line path APQC through the sand.Time taken to go from A to C via this pathTsand = AP+QC
+PQ
++1v= 252+252502
++1v= 502
+ 1+1
+v
+
+
+The shortest path outside the sand will be ARC.ACPQR50m100mDB
+Answers125Time taken to go from A to C via this path= Toutside = AR+RC
+1s= 22
+275+25
+s= 2×2510
+sFor Tsand < Toutside, 1502+1<2×2510
+v
+
+
+Þ 1+1<5
+vÞ 1<5-1
+v or 1>0.81
+5-1
+v»m/s.Chapter   55.1(c)5.2(b)5.3(c)5.4(c)5.5(d)5.6(c)5.7(a)5.8(b)5.9(b)5.10(a), (b) and (d)5.11(a), (b), (d) and (e)5.12 (b) and (d)5.13 (b), (c)5.14 (c), (d)5.15 (a), (c)5.16 Yes, due to the principle of conservation of momentum.Initial momentum = 50.5 × 5 kg m sŒ1
+Exemplar ProblemsŒPhysics126fFFinal momentum = (50 v + 0.5 × 15) kg m sŒ1v   = 4.9 m s-1
+, change in speed = 0.1 m sŒ15.17 Let R be the reading of the scale, in newtons.Effective downward acceleration 50
+50
+gR
+g-==
+R = 5g = 50N. (The weighing scale will show 5 kg).5.18 Zero; 32-kg m s-15.19The only retarding force that acts on him, if he is not using a seatbelt comes from the friction exerted by the seat. This is not enoughto prevent him from moving forward when the vehicle is brought toa sudden halt.5.20‹‹‹‹
+88,(48)N
+=+=+
+pijFij
+5.21f = F until the block is stationary.f remains constant if F increases beyond thispoint and the block starts moving.5.22In transportation, the vehicle say a truck, may need to halt suddenly.To bring a fragile material, like porcelain object to a sudden haltmeans applying a large force and this is likely to damage the object.If it is wrapped up in say, straw, the object can travel some distanceas the straw is soft before coming to a halt. The force needed toachieve this is less, thus reducing the possibility of damage.5.23The body of the child is brought to a sudden halt when she/he fallson a cement floor. The mud floor yields and the body travels  somedistance before it comes to rest , which takes some time. This meansthe force which brings the child to rest is less for the fall on a mudfloor, as the change in momentum is brought about over a longerperiod.5.24(a) 12.5 N s(b) 18.75 kg m sŒ15.25f = mR = mmg  cosq  is the force of friction, if  q  is angle made by theslope. If q is small, force of friction is high and there is less chance ofskidding. The road straight up would have a larger slope.5.26AB, because force on the upper thread will be equal to sum of theweight of the body and the applied force.
+Answers1275.27If the force is large and sudden, thread CD breaks because as CD isjerked, the pull is not transmitted to AB instantaneously(transmission depends on the elastic properties of the body).Therefore, before the mass moves, CD breaks.5.28T1 = 94.4 N, T2 = 35.4 N5.29W = 50 N5.30If F is the force of the finger on the book, F = N, the normal reactionof the wall on the book. The minimum upward frictional force neededto ensure that the book does not fall is Mg. The frictional force = mN.Thus, minimum value of Mg
+Fm= .5.310.4 m sŒ15.322,xtyt
+==
+10,2ms
+xy
+aa
+-==
+F = 0.5×2 = 1N. along y-axis.5.3322×204010
+=====3.33s.
++10+2123
+Vtga
+5.34(a) Since the body is moving with no acceleration, the sum of theforces is zero =0
+123
+F+F+F
+. Let ,,
+123
+FFF
+be the three forcespassing through a point. Let 1Fand 2F be in the plane A (one canalways draw a plane having two intersecting lines such that thetwo lines lie on the plane). Then +12
+FF
+ must be in the plane A.Since ()Œ=312
+FF+F
+, 3F is also in the plane A.(b) Consider the torque of the forces about P. Since all the forcespass through P, the torque is zero. Now consider torque aboutanother point 0. Then torque about 0 isTorque ()=´
+123
+F+F+F
+OP
+Since 0=123
+F+F+F
+, torque = 05.35General case212/
+2sattsa
+==Smooth caseAcceleration sin
+2gag
+q==
+\=
+122/
+tsg
+PF3OF1F2
+Exemplar ProblemsŒPhysics128Rough caseAcceleration sincos
+agg
+qmq
+=-
+ (1)/2
+gm=-
+21
+2222
+(1)
+ss
+tptp
+gg
+m\===
+-2211
+11ppmm==-
+-5.36    =<£
+2         01
+xvtt
+01s
+yvtt
+=<<
+    =-<<
+2(2)       12
+tt
+    11
+=<
+t     = 0      2 < t    2;01
+xFt
+=<<
+101s
+=<<
+yFt
+  2;1s2s
+t=-<<
+      01s
+t=<
+   = 0 ;     2s < t    ‹‹
+2=+
+Fij
+01
+t<<
+s ‹2=-
+i 1s < t < 2s  = 0  2s < t5.37For DEFm2vmR=gmm-===
+1max
+10010ms
+vgR
+For ABCm-===
+21,20014.14ms
+2vgv
+RTime for DEF = 100
+5s
+210
+pp´=
+Time for ABC = 3200300
+s214.1414.14
+pp
+=For FA and DC = 100
+24s
+50
+´=
+Total time = 300
+54=86.3s
+14.14
+pp++
+5.38‹‹
+sincos
+dAtBt
+dt
+wwww
+==-
++rvij
+22
+;dmdt
+ww
+==-=-
+varFr
+
+Answers12922
+22
+cos,sin
+1xy
+xAtyBt
+AB
+ww
+==
++=
+5.39For (a) 212zvgH
+=2zvgH
+=Speed at ground = 222
+2szs
+vvvgH
++=+
+For (b) also 212smvmgH
+
++
+
+ is the total energy of the ball when ithits the ground.So the speed would be the same for both (a) and (b).5.4034
+2213
+222
+FF
+F++===
+N34122
+FFF+=
+43
+1122
+FF
+F-==
+N5.41(a)1tan
+qm
+-=(b)mg sincos
+mg
+ama
+-(c)mg()sincos
+ama
++(d)mg ()sincos
+qmq
+++ ma.5.42(a) F - (500 ×10) = (500 × 15) or F = 12.5 × 103 N, where F is theupward reaction of the floor and is equal to the force downwards onthe floor, by Newton™s 3rd law of motion(b) R - (2500 × 10) = (2500 × 15) or R = 6.25 × 104 N, action of the airon the system, upwards. The action of the rotor on the surroundingair is 6.25 × 104 N downwards.(c) Force on the helicopter due to the air = 6.25 × 104 N upwards.
+Exemplar ProblemsŒPhysics130Chapter   66.1(b)6.2(c)6.3(d)6.4(c)6.5(c)6.6(c)6.7(c)6.8(b)6.9(b)6.10(b)6.11(b) as displacement 3/2
+ta6.12(d)6.13(d)6.14(a)6.15(b)6.16(d)6.17(b)6.18(c)6.19(b), (d)6.20(b), (d), (f)6.21(c)6.22Yes, No.6.23To prevent elevator from falling freely under gravity.6.24(a) Positive, (b) Negative6.25Work done against gravity in moving along horizontal road is zero .6.26No, because resistive force of air also acts on the body which is anon-conservative force. So the gain in KE would be smaller than theloss in PE.6.27No, work done over each closed path is necessarily zero only if allthe forces acting on the system are conservative.
+Answers1316.28(b) Total linear momentum.While balls are in contact, there may be deformation which meanselastic potential energy which came from part of KE. Momentum isalways conserved.6.29 Power 1009.810
+W490W
+20
+mgh
+T´´
+===
+6.30 0.5×72
+==
+60
+EPtDD=0.6watts
+6.31A charged particle moving in an uniform magnetic field.6.32Work done = change in KEBoth bodies had same KE and hence same amount of work is neededto be done. Since force aplied is same, they would come to rest withinthe same distance.6.33(a) Straight line: vertical, downward(b)Parabolic path with vertex at C.(c) Parabolic path with vertex higher than C.6.346.35(a) For head on collission:     Conservation of momentum Þ 2mv0 = mv1 + mv2     Or 2v0 = v1 + v2     and 21
+0-=2vv
+evÞ v2 = v1+ 2v0e      \    2v1 = 2v0 Œ 2ev0      \       v1 =   v0(1 Œ e)     Since e <1 Þ v1 has the same sign as v0, therefore the ball     moves on after collission.(b)  Conservation of momentum Þ p = p1+ p2But KE is lost 2222
+>+
+222
+2pp
+pmmm
+CDFXBEoEoKECCDDFxBOVelocity
+
+Exemplar ProblemsŒPhysics132\  p2 > p12 + p22Thus p, p1 and p2 are related as shown in the figure.q is acute (less than 90°) 222
+12
+90
+q=+=°
+(wouldgive )
+ppp
+6.36 Region A : No, as KE will become negative.Region B : Yes, total energy can be greater than PE for non zero K.E.Region C : Yes, KE can be greater than total energy if its PE is negative.Region D : Yes, as PE can be greater than KE.6.37(a) Ball A transfers its entire momentum to the ball on the tableand does not rise at all.(b)=2=4.42m/s
+vgh
+6.38(a) Loss of PE = mgh =Œ3Œ3
+1×10×10×10=10J
+(b) Gain in KE = Œ3
+11
+2=×10×2500=1.25J
+22
+mv
+(c) No, because a part of PE is used up in doing work against theviscous drag of air.6.39(b)6.40m = 3.0 × 10 Œ 5 kg  r = 10 Œ 3 kg/m2  v = 9 m/sA = 1m2h = 100 cm  Þ n = 1m3M = rv = 10Œ3 kg,  E = 324
+11
+=×10×(9)=4.05×10J
+22
+2Mv
+.pp1p2qpp1p2before
+afterE1E0T/43/4
+T5/4
+Tt7T/4E2E0T/43/4
+T5/4
+T7T
+/4t
+Answers1336.41 242
+11
+510
+22
+10
+=@´
+´´
+KEmv
+        = 2.5 × 105 J.10% of this is stored in the spring.12.5×10
+224
+kx=
+  x = 1 mk = 5 × 104 N/m.6.42In 6 km there are 6000 steps.\ E = 6000 (mg)h        = 6000 × 600 × 0.25                   =  9 × 105J.This is 10 % of intake.\   Intake energy = 10 E = 9 ×106J.6.43With 0.5 efficiency, 1 litre generates 1.5 × 107J, which is used for 15km drive.
+\ F d = 1.5 ×107J. with d = 15000 m\  F = 1000 N : force of friction.6.44(a) Wg = mg sinq d = 1×10 × 0.5 ×10 = 50 J.(b) Wf  = m mg cosq  d = 0.1 ×10 × 0.866 × 10 = 8.66 J.(c) U= = 1×10×5= 50J
+mgh
+D(d) (){}[]=-sin+cos=10-5.87
+qq
+Fmgmg
+am  = 4.13 m/s2v = u + at or v2 = u2 + 2ad22
+11
+=Œ==41.3J
+22
+DKmvmumad
+ (e) W = F d = 100 J6.45(a)Energy is conserved for balls 1 and 3.(b)Ball 1 acquires rotational energy, ball 2 loses energy by friction.They cannot cross at C. Ball 3 can cross over.
+Exemplar ProblemsŒPhysics134(c)Ball 1, 2 turn back before reaching C. Because of loss of energy,ball 2 cannot reach back to A. Ball 1 has a rotational motion inﬁwrongﬂ sense when it reaches B. It cannot roll back to A,because of kinetic friction.6.46 ()
+22
+11
+()()()
+22
+=+D+D-
+-D
++D
+KEvvmvu
+Mm
+tt
+ rocket gas211
+222
+=+D-D+D
+MvMvvmvumu
+=12()
+2KEMv
+t22
+1()()()
+212-=D-D+D
++D
+=D=
+KEKEMvmuvmu
+ttt
+muW
+(By Work - Energy theorem)Since ()
+()0
+=
+
+D-D=
+
+
+
+
+Mdv
+dm
+udt
+dt
+Mvmu
+6.47 Hooke™s law : =Y
+FL
+AL
+Dwhere A is the surface area and L is length of the side of the cube. Ifk is spring orcompression constant, then F = k  D L\ Ak=Y=YL
+LInitial KE = 2Œ4
+12×=5×10J
+2mv
+Final PE = 212()
+2kL
+´D
+\   ==
+YDKEKE
+LkL
+= Œ4
+5×10
+11
+2×10×0.1
+=1.58 × 10Œ7m6.48Let m , V, He
+r denote respectively the mass, volume and density ofhelium baloon and rair
+ be density of airVolume V of baloon displaces volume V of air.So, V ()gma
+air
+He
+r-r
+=       (1)Integrating with respect to t,()Vgtmv
+air
+He
+r-r
+=()
+22222
+211
+22
+Vmvmgt
+air
+He
+mr-r
+= ()
+2222
+12airHe
+Vgt
+mr-r
+=   (2)

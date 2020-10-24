@@ -1,0 +1,23 @@
+Mathematics is both the queen and the hand-maiden ofall sciences Œ E.T. BELL
+12.1  IntroductionYou may recall that to locate the position of a point in a
+plane, we need two intersecting mutually perpendicular lines
+in the plane. These lines are called the 
+coordinate
+ axesand the two numbers are called the coordinates
+ of thepoint with respect to the axes
+. In actual life, we do nothave to deal with points lying in a plane only. For example,
+
+consider the position of a ball thrown in space at differentpoints of time or the position of an aeroplane as it fliesfrom one place to another at different times during its flight.Similarly, if we were to locate the position of the
+lowest tip of an electric bulb hanging from the ceiling of a
+room or the position of the central tip of the ceiling fan in a room, we will not only
+require the perpendicular distances of the point to be located from two perpendicular
+walls of the room but also the height of the point from the floor of the room. Therefore,
+we need not only two but three numbers representing the perpendicular distances of
+the point from three mutually perpendicular planes, namely the floor of the room and
+two adjacent walls of the room. The three numbers representing the three distances
+are called the coordinates of the point with reference to the three coordinate
+planes. So, a point in space has three coordinates. In this Chapter, we shall study the
+basic concepts of geometry in three dimensional space.**For various activities in three dimensional geometry one may refer to the Book, ﬁA Hand Book fordesigning Mathematics Laboratory in Schoolsﬂ, NCERT, 2005.
+Leonhard Euler(1707-1783)12ChapterINTRODUCTION TO THREE
+DIMENSIONAL GEOMETRY
+

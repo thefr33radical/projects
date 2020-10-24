@@ -1,0 +1,29 @@
+As the summer heat rises, hillstations, are crowded with more and
+more visitors. Ice-cream sales become
+more brisk. Thus, the temperature is
+
+related to number of visitors and sale
+of ice-creams. Similarly, as the supply
+of tomatoes increases in your local
+mandi, its price drops. When the local
+harvest starts reaching the market,
+
+the price of tomatoes drops from a
+
+princely Rs 40 per kg to Rs 4 per kg oreven less. Thus supply is related to
+price. Correlation analysis is a means
+for examining such relationships
+systematically. It deals with questionssuch as:
+ŁIs there any relationship between
+two variables?Correlation
+71.  INTRODUCTIONIn previous chapters you have learnt
+how to construct summary measures
+out of a mass of data and changesamong similar variables. Now you willlearn how to examine the relationship
+between two variables.Studying this chapter shouldenable you to:Łunderstand the meaning of the
+term correlation;
+†understand the nature of
+relationship  between twovariables;†calculate  the different measures
+of correlation;
+†analyse the degree and direction
+of the relationships.
+CHAPTER

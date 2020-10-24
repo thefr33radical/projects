@@ -1,0 +1,89 @@
+EXEMPLAR PROBLEMSSCIENCECLASS X
+The National Curriculum Framework (NCF) 2005 initiated a new phase ofdevelopment of syllabi and textbooks for all stages of school education. In
+this phase, a conscious effort has been made to discourage rote learning and
+to enhance comprehension. This is well in tune with the NPE-1986 and
+Learning Without Burden-1993 that recommend child centred system of
+education. The textbooks for Class IX were released in February, 2006 and
+for Class X in December, 2006. Overall the books have been well received by
+students and teachers.NCF-2005 notes that treating the prescribed textbooks as the sole basis ofexamination is one of the key reasons why other resources and sites of learning
+are ignored. It further reiterates that the methods used for teaching and
+evaluation will also determine how effective these textbooks prove for making
+children™s life at school a happy experience, rather than source of stress orboredom. It calls for reforms in examination system currently prevailing in
+the country.The position papers of the National Focus Groups on Teaching of Science,Teaching of Mathematics and Examination Reforms envisage that the question
+papers, set in annual examinations conducted by the various Boards do not
+really assess genuine understanding of the subjects. The quality of question
+papers is often not up to the mark. They usually seek mere information
+based on rote memorisation, and fail to test higher-order skills like reasoning
+and analysis, let alone lateral thinking, creativity and judgment. Good
+unconventional questions, challenging problems and experiment-based
+problems rarely find a place in question  papers. In order to address  the
+issue, and also to provide additional learning material, the Department of
+Education in Science and Mathematics (DESM) has made an attempt to
+develop resource book of exemplar problems in different subjects at secondary
+and higher-secondary stages. Each resource book contains different types of
+questions of varying difficulty level. Some questions would require the students
+to apply simultaneously understanding of more than one concept. These
+problems are not meant to serve merely as questions bank for examinations
+but are primarily meant to improve the quality of teaching/learning process
+in schools. It is expected that these problems would encourage teachers to
+design quality questions on their own. Students and teachers should always
+keep in mind that examination and assessment should test comprehension,
+information recall, analytical thinking and problem-solving ability, creativity
+and speculative ability.FOREWORD
+A team of experts and teachers with an understanding of the subjectand a proper role of examinations worked hard to accomplish this task.The material was discussed, edited and finally included in this resource
+book.NCERT would welcome suggestions from students, teachers andparents which would help us to further improve the quality of thismaterial in subsequent editions.New DelhiProf. Yash Paliv
+The Department of Education in Science and Mathematics (DESM), NationalCouncil of Educational Research and Training (NCERT), initiated theprogramme for the development of ‚Exemplar Problems™ in Science and
+Mathematics for secondary and higher secondary stages based on the subjecttextbooks developed on the bases of the NCF-2005. The present book is basedon the contents of the Science Textbook for Class X published by the Councilin December, 2006.The main objective of the book on ‚Exemplar Problems in Science™ is toprovide the teachers and students a large number of quality problems invarious forms and format with varying levels of difficulty to facilitate teaching-
+learning of concepts in Science that are presented through the textbook forClass X. It is envisaged that the problems included in this book would help the
+teachers to design tasks to assess effectiveness of their preparation of balanced
+question papers for unit and terminal tests. The feedback based on the analysis
+of students™ responses may help the teachers in further improving the quality
+of classroom instructions. In addition, the problems given in this book are alsoexpected to help the teachers to perceive the basic characteristics of goodquality questions and motivate them to frame similar problems on their own.
+Students can benefit themselves by attempting the problems given in the book
+for self assessment and also in mastering the basic techniques of problem
+solving. Some of the problems given in the book are expected to challenge thestudents understanding of Science concepts and to apply them in new situations.The problems included in this book were developed in workshop modeorganised by the DESM involving practicing teachers, subject experts fromuniversities and institutes of higher learning and the members of the Science
+group of the DESM whose names appear separately. I gratefully acknowledgetheir efforts and thank them for their valuable contribution in our endeavourto provide good quality instructional material for the school system. I
+especially thank Professor Krishna Kumar, Director, and Professor G. Ravindra,Joint Director, NCERT for their administrative support and keen interest inthe development of the book. I 
+acknowledge with thanks the dedicated effortsand valuable contribution of Dr. Anjni Koul, coordinator of this programme.I also thank Dr. K.T. Chitralekha, Copy Editor and Shri MohammadJabir Hussain, DTP Operator for typing the manuscript and preparing apress-ready copy.We look forward to feedback from students, teachers and parents for furtherimprovement of the contents of the book.Dr. Hukum SinghNew Delhi     Professor and HeadPREFACE
+MEMBERSRupamanjari Ghosh, Professor and Dean, School of Physical Sciences,Jawaharlal Nehru University, New Delhi. Chief Advisor of Science Textbooks forClasses IX and XAlka Mehrotra, Reader, DESM, NCERT, New DelhiAnimesh K. Mahapatra, Reader, RIE, AjmerB.K. Sharma, Professor (Retd.), DESM, NCERT, New DelhiB.K. Tripathi, Professor, DESM, NCERT, New DelhiBrahm Parkash, Professor (Retd.), DESM, NCERT, New DelhiDinesh Kumar, Reader, DESM, NCERT, New DelhiGagan Gupta, Reader, DESM, NCERT, New DelhiHaritma Chopra, Reader, Maitreyi College, Delhi University, DelhiH.C. Jain, Principal (Retd.), RIE, AjmerMahesh Prakash, Professor, Department of Physics, Jiwaji University, GwaliorManju Mishra, PGT, Navyug School, Moti Bagh, New DelhiMeenambika Menon, TGT, Cambridge School, NoidaMonika Chopra, PGT, N.C. Jindal Public School, Punjabi Bagh, New DelhiNalini Nigam, Reader, Department of Botany, Ramjas College, DelhiUniversity, DelhiR. Joshi, Lecturer (S.G), DESM, NCERT, New DelhiR.P. Singh, Lecturer, Rajkiya, Pratibha Vidyalaya, Kishen Ganj, DelhiRuchi Verma, Lecturer, DESM, NCERT, New DelhiSanjeev Kumar, Reader, School of Sciences, Indira Gandhi National OpenUniversity (IGNOU), Maidan Garhi, New DelhiShahid Hasan, Scientific officer, Department of Physics, Aligarh MuslimUniversity, Aligarh
+Sulekh Chandra, Reader, Department of 
+Chemistry, Zakir Hussain College, DelhiUniversi
+ty, DelhiV.V. Anand, Reader, RIE, MysoreMEMBER-COORDINATORAnjni Koul, Senior Lecturer, DESM, NCERT, New Delhi.DEVELOPMENT TEAM
+The National Council of Educational Research and Training is grateful to themembers of Development Committee, whose names are given separately, for
+their contribution in the development of Exemplar Problems in Science forClass X. The Council also gratefully acknowledges the contribution of thefollowing members for reviewing the manuscript of the book: RajiKamalasanan, PGT, DTEA Senior Secondary School, R.K. Puram, New Delhi,Meenakshi Tawakley, Reader (Retd.), Maitreyi College, New Dehi, Ravi A.TGT, JNU, Devarahalli, Davangere, Karnataka, J.P. Aggarwal, Retd. ADE,Directorate of Education, GNC, Delhi, K.K. Arora, Reader, Zakir HussainCollege, New Delhi, Sanjeev Bansal, Headmaster, Ahlcon Public School, MayurVihar, Delhi, Kusum Chander, PGT, Army Public School, Sector-37, Noida,Anju Sachdeva, DPS, R.K. Puram, New Delhi.Special thanks are due to Hukum Singh, Professor and Head, Departmentof Education in Science and Mathematics, NCERT, New Delhi for providingall academic and administrative support.The Council also gratefully acknowledges the support provided by the APCOffice of DESM, administrative staff of DESM; Deepak Kapoor, Incharge,Computer Station, DESM; Mohammad Jabir Hussain, DTP Operator and K.T.Chitralekha, Copy Editor. The efforts of the Publication Department, NCERTare also highly appreciated.ACKNOWLEDGEMENTS
+INTRODUCTIONThe task of building an enlightened, knowledgeable and prosperous nation rests onthe shoulders of its children, the future citizens, who are to be cherished, nurtured and
+taken care with tenderness. Education, particularly school education has always playedthis important role. It has emerged as an important segment of the total educationalsystem expected to contribute significantly to the individual, social as well as the national
+developmental processes. In order to effectively fulfill this role, its progress and processes
+including curriculum need to be continuously reviewed, restructured and updated. Thepresent National Curriculum FrameworkŒ2005 (NCFŒ2005), has identified five guiding
+principles for curriculum planning, development and transaction ŠConnecting knowledge to life outside the school.Ensuring that learning shifts away from rote methods.Enriching the curriculum so that it goes beyond textbooks.Making examinations more flexible and integrating them with class room life.Nurturing an overriding identity informed by caring concerns within thedemocratic polity of the country.Most pertinent of these guiding principles is perhaps the one pertaining to  evaluationsystem which expects  to make examination processes more flexible and to integrate
+them with everyday life. It can be implemented effectively  only if evaluation is designed
+in such a manner that it can be used as a powerful means of influencing the quality of
+classroom instructional transactions so as to help the learners internalise the subject
+matter rather than make them a store house of information. However, the evaluationsystem, as it exists today, is such that it focuses only on cognitive learning outcomes
+and completely ignores the non-cognitive aspects, which are equally vital components
+of human personality.CHILD AS A CONSTRUCTOR OF KNOWLEDGETraditionally it is believed that students learn from teachers and it is their responsibility
+to ensure that students learn. A teacher is classified as effective or otherwise  depending
+on the achievements of his/her students in examinations. Actually the examination
+system in India occupies a central place in the entire education system that it tends to
+thwart any attempt to innovate teaching learning process. In order to improve the quality
+of school education, it is imperative that  examination system ought to be debated in
+detail at the highest policy levels and transformed radically throughout the country.Examinations in their present form are not the real measure of 
+student™s potentialbecause these are limited to test only one aspect i.e. content knowledge of the course
+that the students strive to learn over a period of one year.NCFŒ2005 suggests that teaching should be learner centered where learner is placedat the centre of teaching processes. It envisages the primacy of children™s experiences,
+their voices and their active involvement in the process of learning. Learning experiences
+at school should pave the way for construction of knowledge and fostering creativity sothat it becomes a source of joy and not a stress. The syllabi and textbooks developed on
+the basis of NCFŒ2005 signify an attempt to implement this basic idea. The syllabusdesigners have tried to address the problem of curriculum burden by restructuringand reorienting knowledge at different stages with greater consideration for child
+psychology. The textbooks, particularly in science, attempts to enhance this endeavour
+by giving higher priority and space for contemplation and wonder in the texts, and
+suggesting discussions in small groups and activities requiring hands on experiences,
+through  exercises and practical work.In the present Science Textbook for Class X, the science concepts are framed notalong disciplinary lines, but rather organized around themes that are potentially cross
+disciplinary in nature. The themes are  Materials, The world of the Living, How Thingswork, Natural Phenomena and Natural Resources. There are sixteen chapters in the
+Textbook of  Science for  Class X and these cover the above mentioned themes.Chapter-1 ﬁ Chemical Reaction and Equationsﬂ deals with chemical reactionsand balancing of chemical equations. Different types of reactions like combination,
+decomposition, displacement, double displacement, oxidation and reduction have been
+discussed.Chapter-2 ﬁAcids, Bases and Saltsﬂ deals with classification of substances intoacids, bases and salts, their identification using indicators. The characteristic chemicalproperties have also been discussed. Importance of pH, preparing of some salts and
+their uses have also been highlighted.Chapter-3 ﬁMetals and Non-metalsﬂ discusses about properties of metals and non-metals which are the key areas of discussion. Extraction of metals from their oreshave been explained in a stepwise manner. A common phenomena of corrosion of
+metals and its prevention has also been discussed.Chapter-4 ﬁCarbon and its Compoundsﬂ highlights the versatile nature of carbonand its ability to form a wide range of hydrocarbons. Nomenclature, isomerism andchemical properties of these compounds have been discussed. Concept of heteroatom
+and functional group has been introduced with special reference to properties and
+uses of ethanol and ethanoic acid. The use of carbon and its compounds is highlighted
+in soaps and detergents.Chapter-5 ﬁPeriodic Classification of Elementsﬂ deals with the historicalbackground of Classification of Elements, introduction of Modern Periodic Table andgeneral trends in properties of elements with reference to Modern Periodic Table have
+been discussed.Chapter-6 ﬁLife Processesﬂ highlights functions of living beings. It discusses aboutmulti cellularity and specialisation for the division of labour, which has led to thedevelopment of various systems. Life processes covered in this chapter are nutrition,ix

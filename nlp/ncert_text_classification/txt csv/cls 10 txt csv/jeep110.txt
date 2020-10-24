@@ -1,0 +1,127 @@
+Multiple Choice Questions
+1.Which of the following can make a parallel beam of light whenlight  from a  point source is incident on it?(a)Concave mirror as well as convex lens
+(b)Convex mirror as well as concave lens
+(c)Two plane mirrors placed at 90° to each other
+(d)Concave mirror as well as concave lens
+2.A 10 mm long awl pin is placed vertically in front of a concavemirror. A 5 mm long image of the awl pin is formed at 30 cm infront of the mirror. The focal length of this mirror is(a)Œ 30 cm(b)Œ 20 cm
+(c)Œ 40 cm(d)Œ 60 cm
+3.Under which of the following conditions a concave mirror can forman image  larger than the actual object?(a)When the object is kept at a distance equal to its radius of
+curvature(b)When object is kept at a distance less than its focal length
+(c)When object is placed between the focus and centre of curvature
+(d)When object is kept at a distance greater than its radius of
+curvature4.Figure 10.1 shows a ray of light as it travels frommedium A to medium B. Refractive index of themedium B relative to medium A is(a)3/2
+(b)2/3
+(c)1/2
+(d)2Light Œ Reflection andRefraction10CHAPTERFig. 10.1
+EXEMPLAR PROBLEMS Œ SCIENCE80Fig. 10.25.A light ray enters from medium A to mediumB as shown in Figure 10.2. The refractive
+index of medium B relative to A will be(a)greater than unity
+(b)less than unity
+(c)equal to unity
+(d)zero
+6.Beams of light are incident through the holesA and B and emerge out of box through theholes C and D respectively as shown in theFigure10.3. Which of the following could beinside the box?(a)A rectangular glass slab
+(b)A convex lens
+(c)A concave lens
+(d)A prism
+7.A beam of light is incidentthrough the holes on side A and
+emerges out of the holes on theother face of the box as shown inthe Figure 10.4. Which of thefollowing could be inside the box?(a)Concave lens
+(b)Rectangular glass slab
+(c)Prism
+(d)Convex lens
+8.Which of the following statements is true?(a)A convex lens has  4 dioptre power having a focal length 0.25 m
+(b)A convex lens has Œ4 dioptre power having a focal length 0.25 m
+(c)A concave lens has 4 dioptre power having a focal length 0.25 m
+(d)A concave lens has Œ4 dioptre power having a focal length 0.25 m
+Fig. 10.3Fig. 10.4
+LIGHT Œ REFLECTION AND REFRACTION819.Magnification produced by a rear view mirror fitted in vehicles(a)is less than one
+(b)is more than one
+(c)is equal to one
+(d)can be more than or less than one depending upon the position
+of the object in front of it10.Rays from Sun converge at a point 15 cm in front of a concavemirror. Where should an object be placed so that size of its imageis equal to the size of the object?(a)15 cm in front of the mirror
+(b)30 cm in front of the mirror
+(c)between 15 cm and 30 cm in front of the mirror
+(d)more than 30 cm in front of the mirror
+11.A full length image of a distant tall building can definitely beseen by using(a)a concave mirror
+(b)a convex mirror
+(c)a plane mirror
+(d)both concave as well as plane mirror
+12.In torches, search lights and headlights of vehicles the bulb isplaced(a)between the pole and the focus of the reflector
+(b)very near to the focus of the reflector
+(c)between the focus and centre of curvature of the reflector
+(d)at the centre of curvature of the reflector
+13.The laws of reflection hold good for(a)plane mirror only
+(b)concave mirror only
+(c)convex mirror only
+(d)all mirrors irrespective of their shape
+Fig. 10.514.The path of a ray of light coming from airpassing through a rectangular glass slabtraced by four students are shown as A,B, C and D in Figure 10.5. Which one ofthem is correct?(a)A
+(b)B
+(c)C
+(d)D
+
+EXEMPLAR PROBLEMS Œ SCIENCE82Fig. AFig. BFig. CFig. D
+Fig. BFig. D15.You are given water, mustard oil, glycerine and kerosene. In whichof these media a ray of light incident obliquely at same angle would
+bend the most?(a)Kerosene
+(b)Water
+(c)Mustard oil
+(d)Glycerine
+16.Which of the following ray diagrams is correct for the ray of lightincident on a concave mirror as shown in Figure 10.6?(a)Fig. A
+(b)Fig. B
+(c)Fig. C
+(d)Fig. D
+17.Which of the following ray diagrams is correct for the ray of lightincident on a lens shown in Fig. 10.7?Fig. 10.7Fig. AFig. C(a)Fig. A.
+(b)Fig. B.
+(c)Fig. C.
+(d)Fig. D.
+Fig. 10.6
+LIGHT Œ REFLECTION AND REFRACTION8318.A child is standing in front of a magic mirror. She finds the imageof her head bigger, the middle portion of her body  of the same size
+and that of the legs smaller. The following is the order ofcombinations for the magic mirror from the top.(a)Plane, convex and concave
+(b)Convex, concave and plane
+(c)Concave, plane and convex
+(d)Convex, plane and concave
+19.In which of the following, the image of an object placed at infinitywill be highly diminished and point sized?(a)Concave mirror only
+(b)Convex mirror only
+(c)Convex lens only
+(d)Concave mirror, convex mirror, concave lens and convex lens
+Short Answer Questions
+20.Identify the device used as a spherical mirror or lens in followingcases, when the image formed is  virtual and erect in each case.(a)Object is placed between device and its focus, image formed is
+enlarged and behind it.(b)Object is placed between the focus and device, image formed
+is enlarged and on the same side as that of the object.(c)Object is placed between infinity and device, image formed is
+diminished and between focus and optical centre on the sameside as that of the object.(d)Object is placed between infinity and device, image formed is
+diminished and between pole and focus, behind it.21.Why does a light ray incident on a rectangular glass slab immersedin any medium emerges parallel to itself? Explain using a diagram.22.A pencil when dipped in water in a glass tumbler appears to bebent at the interface of air and water. Will the pencil appear to bebent to the same extent, if instead of water we use liquids like,kerosene or turpentine. Support your answer with reason.23.How is the  refractive index of a medium related to the speed oflight? Obtain an expression for refractive index of a medium withrespect to another in terms of speed of light in these two media?24.Refractive index of diamond with respect to glass is 1.6 and
+absolute refractive index of glass is 1.5. Find out the absolute
+refractive index of diamond.
+EXEMPLAR PROBLEMS Œ SCIENCE8425.A convex lens of focal length 20 cm can produce a magnified virtualas well as real image. Is this  a correct statement? If yes, where
+shall  the object be placed in each case for obtaining these images?26.Sudha finds out that the sharp image of the window pane of herscience laboratory is formed at a distance of  15 cm from the lens.She now tries to focus the building visible to her outside the windowinstead of the window pane without disturbing the lens. In which
+direction will  she move the screen to obtain a sharp image of thebuilding? What is the approximate focal length of this lens?27.How are power and focal length of a lens related? You are provided
+with two lenses of focal length 20 cm and 40 cm respectively. Whichlens will you use to obtain more convergent light?28.Under what condition in an arrangement of two plane mirrors,incident ray and reflected ray will always be parallel to each other,whatever may be angle of incidence. Show the same with the helpof diagram.29.Draw a ray diagram showing the path of rays of light when it enterswith oblique incidence (i)  from air into water; (ii) from water into air.Long Answer Questions
+30.
+Draw ray diagrams showing the image formation by a concavemirror when an object is placed(a)between pole and focus of the mirror
+(b)between focus and centre of curvature of the mirror
+(c)at centre of curvature of the mirror
+(d)a little beyond centre of curvature of the mirror
+(e)at infinity
+31.Draw ray diagrams showing the image formation by a convex lenswhen an object is placed(a)between optical centre and focus of the lens
+(b)between focus and twice the focal length of the lens
+(c)at twice the focal length of the lens
+(d)at infinity
+(e)at the focus of the lens
+32.Write laws of refraction. Explain the same with the help of ray
+diagram, when a ray of light passes through a rectangular glassslab.
+LIGHT Œ REFLECTION AND REFRACTION8533.Draw ray diagrams showing the image formation by a concavelens when an object is placed(a)at the focus of the lens
+(b)between focus and twice the focal length of the lens
+(c)beyond twice the focal length of the lens
+34.Draw ray diagrams showing the image formation by a convexmirror when an object is placed(a)at infinity
+(b)at finite distance from the mirror
+35.The image of a candle flame formed by a lens is obtained on ascreen placed on the other side of the lens. If the image is threetimes the size of the flame 
+and the distance between lens andimage is 80 cm, at 
+what distance should the candle be placedfrom the lens? What is the nature of the image at a 
+distance of80 cm and the lens?
+36.Size of image of an object by a mirror having a focal length of 20
+cm is observed to be reduced to 1/3rd of its size. At what distance
+the object has been placed from the mirror? What is the nature ofthe image and the mirror?37.Define power of a lens. What is its unit? One student uses a lens of
+focal length 50 cm and another of Œ50 cm. What is the nature ofthe lens and its power used by each of them?38.A student focussed the image of a candle flame on a white screenusing a convex lens. He noted down the position of the candlescreen and the lens as underPosition of candle=  12.0 cm
+Position of convex lens=  50.0 cm
+
+Position of the screen=  88.0 cm
+(i)What is the focal length of the convex lens?
+(ii)Where will the image be formed if he shifts the candle towardsthe lens at a position of 31.0 cm?(iii)What will be the nature of the image formed if he further shiftsthe candle towards the lens?(iv)Draw a ray diagram to show the formation of the image in case
+(iii) as said above.

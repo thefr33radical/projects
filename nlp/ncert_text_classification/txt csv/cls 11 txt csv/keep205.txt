@@ -1,0 +1,41 @@
+5.1 OverviewWe know that the square of a real number is always non-negative e.g. (4)
+2 = 16 and(Œ 4)2 = 16. Therefore, square root of 16 is ± 4. What about the square root of anegative number? It is clear that a negative number can not have a real square root. Sowe need to extend the system of real numbers to a system in which we can find out the
+square roots of negative numbers. Euler (1707 - 1783) was the first mathematician tointroduce the symbol i (iota) for positive square root of Œ 1 i.e., i = 1.5.1.1  Imaginary numbersSquare root of a negative number is called an imaginary number., for example,
+919
+ =i3, 7177
+
+i5.1.2 Integral powers of ii = 1, i 2 = Œ 1, i 3 = i 2 i  = Œ i , i 4 = (i 2)2 = (Œ1)2 = 1.To compute 
+in for n > 4, we divide 
+n by 4 and write it in the form n = 4m + r, where m isquotient and r is remainder (0  r  4)Hencein = i4m+r =(i4)m . (i)r = (1)m (i)r = irFor example,(
+i)39 = i 4 × 9 + 3 =(i4)9 . (i)3 = i3 = Œ iand(
+i)Œ435 = i Œ (4 × 108 + 3) =(i)Œ (4 × 108) . (i)Œ 3=410834
+11.()()()
+iiiii
+(i)If 
+a and b are positive real numbers, then11
+ababiaibab
+(ii).abab
+ if a and b are positive or at least one of them is negative orzero. However, 
+abab
+if a and b, both are negative.Chapter5COMPLEX NUMBERS AND
+QUADRATIC EQUATIONS
+
+74   EXEMPLAR PROBLEMS Œ MATHEMA
+TICS5.1.3 Complex numbers(a)A number which can be written in the form 
+a + ib, where a, b are real numbersand i = 1 is called a complex number.(b)If 
+z = a + ib is the complex number, then 
+a and b are called real and imaginaryparts, respectively, of the complex number and written as R
+e (z) = a, Im (z) = b.(c)Order relations ﬁgreater thanﬂ and ﬁless thanﬂ are not defined for complex
+numbers.(d)If the imaginary part of a complex number is zero, then the complex number is
+known as purely real number and if real part is zero, then it is calledpurely imaginary number, for example, 2 is a purely real number because its
+imaginary part is zero and 3i is a purely imaginary number because its real partis zero.5.1.4 Algebra of complex numbers(a)Two complex numbers 
+z1 = a + ib and z2 = c + id are said to be equal ifa = c and b = d.(b)Let 
+z1 = a + ib and z2 = c + id be two complex numbers thenz1 + z2 = (a + c) + i (b + d).5.1.5 Addition of complex numbers satisfies the following properties1.As the sum of two complex numbers is again a complex number, the set of
+complex numbers is closed with respect to addition.2.Addition of complex numbers is commutative, i.e., 
+z1 + z2 =  z2 + z13.Addition of complex numbers is associative, i.e., (
+z1 + z2) + z3 =  z1 + (z2 + z3)4.For any complex number 
+z = x + i y, there exist 0, i.e., (0 + 0i) complex numbersuch that z + 0 = 0 + z = z, known as identity element for addition.5.For any complex number 
+z = x + iy, there always exists a number Œ z = Œ a Œ ibsuch that z + (Œ z) = (Œ z) + z = 0 and is known as the additive inverse of z.5.1.6 Multiplication of complex numbersLet z1 = a + ib and z2 = c + id, be two complex numbers. Thenz1 . z2 = (a + ib) (c + id) = (ac Œ bd) + i (ad + bc)1.As the product of two complex numbers is a complex number, the set of complex
+numbers is closed with respect to multiplication.2.Multiplication of complex numbers is commutative, i.e., 
+z1.z2 = z2.z13.Multiplication of complex numbers is associative, i.e., (
+z1.z2) . z3 = z1 . (z2.z3)

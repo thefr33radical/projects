@@ -1,0 +1,534 @@
+PHYSICSCLASS XITIME: 3 HRS.MAX. MARKS: 70The weightage or the distribution of marks over different dimensions of the questionpaper shall be as follows:A.Weightage to content/subject unitsSr. No.UnitMarks1.Physical world and measurement032.Kinematics103.Laws of motion104.Work, Energy and Power065.Motion of system of particles and rigid body066.Gravitation057.Properties of bulk matter108.Thermodynamics059.Behaviour of perfect gas and kinetic theory of gases0510.Oscillation and waves10Total70B.Weightage to form of questionsSr. No.Form of QuestionMarks for each No. of QuestionTotal Marksquestion1.Long Answer Type (1A)53
+152.Short Answer (SAI)30927
+3.Short Answer (SAII)/21020
+Multiple Choice Question (MCQ)4.Very Short Answer (VSA)/10808
+Multiple Choice Question (MCQ)TotalŒ3070
+DESIGN OF QUESTION PAPERSAMPLEQUESTION PAPERS
+Exemplar ProblemsŒPhysics1821 Mark quesiton may be Very Short Answer (VSA) type or Multiple choice Quesitionwith only one option correct.2 Mark question may be Short Answer (SAII) or Multiple choice Question with morethan one option correct.C.Scheme of options1.  There will be no over all option.2.  Internal choices (either for type) on a very selective basis has been given in somequestions.D.Weightage to difficulty levels of questionsSr. No.Estimated difficulty levelPercentage1.Easy152.Average703.Difficult15
+183Sample Question PapersTopicVSA (1 Mark)SAI (2 Marks)SA II (3 Marks)LA (5 Marks)TotalIPhysical Work and1(1)2 (1)ŠŠ3 (2)MeasurementIIKinematics1 (1)4 (2)
+Š5 (1)10 (4)IIILaws of Motion1 (1)Š9 (3)Š10 (4)IVWork, Energy and Power1 (1)2 (1)
+3 (1)Š6 (3)VMotion of System of Particles1 (1)2 (1)
+3 (1)Š6 (3) & Rigid bodyVIGravitationŠ2 (1)3 (1)Š5 (2)VIIProperties of bulk of MatterŠ2 (1)3 (1)5 (1)
+10 (3)VIIIThermodynamicsŠ2 (1)3 (1)Š5 (2)IXBehavior of Perfect gas &    1 (1)4 (2)ŠŠ5 (3)Kinetic Theory of gasesXOscillation & Waves   2 (2)Š3 (1)5 (1)
+10 (4)Total8 (8)20 (10)27 (9)15 (3)70 (30)Sample Paper 1Blue Print
+Exemplar ProblemsŒPhysics184General Instructions(a)All questions are compulsory.(b)There are 30 questions in total. Questions 1 to 8 carry one mark each, questions 9 to 18carry two marks each, questions 19 to 27 carry three marks each and questions 28 to
+30 carry five marks each.(c)There is no overall choice. However, an internal choice has been provided in one questionof two marks, one question of three marks and all three questions of five marks each.
+You have to attempt only one of the given choices in such questions.(d)Use of calculators is not permitted.(e)You may use the following physical constants wherever necessary :c = 3 × 108ms-1h = 6.6 × 10-34Jsµo = 4p × 10Œ7 TmAŒ1Boltzmann constant k = 1.38 × 1023 JK-1Avogadro™s number NA = 6.023 × 1023/mole1.If momentum (P), area (A) and time (T) are taken to be fundamental quantities, thenenergy has the dimensional formula(a)[P1 A-1 T1](b)[P2 A1 T1](c)[P1 A-1/2 T1](d)[P1 A1/2 T-1]2.The average velocity of a particle is equal to its instantaneous velocity. What is thenature of its motion?3.A Force of ()=N
+6-3
+Fij
+acts on a mass of 2kg. Find the magnitude of acceleration.4.The work done by a body against friction always results in(a)loss of kinetic energy(b)loss of potential energy(c)gain of kinetic energy(d)gain of potential energy.SAMPLE PAPER IPHYSICS Œ XITime : Three Hours Max. Marks : 70
+185Sample Question Papers5.Which of the following points is the likely position of the centre ofmass of the system shown in Fig. 1.(a)A(b)B(c)C(d)D6.Two molecules of a gas have speeds 9 × 106 m/s and 1.0 × 106 m/s,respectively. What is the r.m.s. speed?7.A particle in S.H.M has displacement x given by x = 3 cos (5pt+p) where x is in metresand t in seconds. Where is the particle at t = 0 and t = 1/2 s?8.When the displacement of a particle in S.H.M.  is one-fourth of the amplitude, whatfraction of the total energy is the kinetic energy?9.The displacement of a progressive wave is represented byy = A sin(wt Œ kx),  where x is distance and t is time.Write the dimensional formula of (i) w and (ii) k.10.100 g of water is supercooled to Œ10oC. At this point, due to some disturbance mechanisedor otherwise some of it suddenly freezes to ice. What will be the temperature of theresultant  mixture and how much mass would freeze? owFusion
+S=1cal/g/Cand=80cal/g
+wLOROne day in the morning to take bath, I filled up 1/3 bucket of hot water from geyser.Remaining 2/3 was to be filled by cold water (at  room temperature) to bring the mixture
+to a comfortable temperature. Suddenly I had to attend to some work which would take,say 5-10 minutes before I can take bath. Now I had two options: (i) fill the remainingbucket completely by cold water and then attend to the work; (ii) first attend to the workand fill the remaining bucket just before taking bath. Which option do you think would
+have kept water warmer? Explain.11.Prove the following;For two angles of projection ‚q™ and (90-q) (with horizontal) with same velocity ‚V™(a) range is the same,(b) heights are in the ratio: tan2 q:1.12.What is meant by ‚escape velocity™? Obtain an expression for escape velocity of an objectprojected from the surface of the earth.R/2R/2ABCDHollow sphereAirSandFig. 1
+Exemplar ProblemsŒPhysics186Fig. 2Fig. 313.A fighter plane is flying horizontally at an altitude of 1.5 km with speed 720 km/h. Atwhat angle of sight (w.r.t. horizontal) when the target is seen, should the pilot dropthe bomb in order to hit the target?14.A sphere of radius R rolls without slipping on a horizontal road.A, B, C and D are four points on the vertical line through thepoint of contact ‚A™ (Fig.2). What are the translational velocitiesof particles at points A, B, C, D? The velocity of the centre ofmass is Vcm.15.A thermodynamic system is taken from an original state D to an intermediate state Eby the linear process shown in the Fig. 3.Its volume is then reduced to the original value fromE to F by an isobaric process. Calculate the total workdone by the gas from D to E to F.16.A flask contains Argon and Chlorine in the ratio 2:1by mass. The temperature of the mixture is 37°C.Obtain the ratio of (i) average kinetic energy per
+molecule and (ii) root mean square speed Vrms of themolecules of the two gases. Atomic mass of argon =39.9u; molecular mass of chlorine = 70.9u.17.Calculate the root mean square speed of smoke particles of mass 5 × 10-17 kg in Brownianmotion in air at NTP?18.A ball with a speed of 9m/s strikes another identical ball at rest such that after collisionthe direction of each ball makes an angle 30° with the original direction. Find the speedof two balls after collision. Is the kinetic energy conserved in this collision process?19.Derive a relation for the maximum velocity with which a car can safely negotiate acircular turn of radius r on a road banked at an angle q, given that the coefficient offriction between the car types and the road is m.20.Give reasons for the following:Œ(a) A circketer moves his hands backwards while holding a catch.(b) It is easier to pull a lawn mower than to push it.(c) A carpet is beaten with a stick to remove the dust from it.21.A helicopter of mass 1000 kg rises with a vertical acceleration of 15 m sŒ2. The crewand the passengers weight 300 kg. Give the magnitude and direction of the(a) force on the floor by the crew and passengers,(b) action of the rotor of the helicopter on the surrounding air,(c) force on the helicopter due to the surrounding air.22.A woman pushes a trunk on a railway platform which has a rough surface. She ap-plies a force of 100 N over a distance of 10 m. Thereafter, she gets progressively tired
+187Sample Question Papersand her applied force reduces linearly with distance to 50 N. The total distance throughwhich the trunk has been moved is 20 m. Plot the force applied by the woman and thefrictional force, which is 50 N. Calculate the work done by the two forces over 20m.23.Derive equations of motion for a rigid body rotating with constant angular accelera-
+tion ‚a™ and initial angular velocity wo.24.Derive an expression for the kinetic energy and potential energy of a statellite orbitingaround a planet. A satellite of mass 200kg revolves around a planet of mass 5 × 1030kg in a circular orbit 6.6 × 106 m radius. Calculate the B.E.  of the satellite.-1122
+G=6.6×10Nm/kg
+.25.State and prove Bernoulli™s theroem.26.Consider a cycle tyre being filled with air by a pump. Let V be the volume of the tyre(fixed) and at each stroke of the pump ()
+VV
+D of air is transferred to the tubeadiabatically. What is the work done when the pressure in the tube is increased fromP1 to P2?ORIn a refrigerator one removes heat from a lower temperature and deposits to the sur-roundings at a higher temperature. In this process, mechanical work has to be done,which is provided by an electric motor. If the motor is of 1kW power, and heat is trans-ferred from oo
+-3Cto27C
+, find the heat taken out of the refrigerator per second assum-ing its efficiency is 50% of a perfect engine.27.Show that when a string fixed at its two ends vibrates in 1 loop, 2 loops, 3 loops and 4loops, the frequencies are in the ratio 1:2:3:4.28.(a) Define coefficient of viscosity and write its SI unit.(b)  Define terminal velocity and find an expression for the terminal velocity in case of    a sphere falling through a viscous liquid.ORThe stress-strain graph for a metal wire is shown in Fig. 4. The wire returns to its
+original state O along the curve EFO when it is gradually unloaded. Point B corre-sponds to the fracture of the wire.(i)Upto what point of the curve is Hooke™s law obeyed?(ii)Which point on the curve corresponds to the elasticlimit or yield point of the wire?(iii)Indicate the elastic and plastic regions of the stress-strain graph.(iv)Describe what happens when the wire is loaded upto a stress corresponding to the point A on the graphand then unloaded gradually. In particular explainthe dotted curve.Stress
+StrainFECBO¢AOFig. 4
+Exemplar ProblemsŒPhysics188(v)What is peculiar about the portion of the stress-strain graph from C to B? Uptowhat stress can the wire be subjected without causing fracture?29.It is a common observation that rain clouds can be at about a kilometre altitude abovethe ground.(a)If a rain drop falls from such a height freely under gravity, what will be its speed?Also calculate in km/h. (g = 10m/s2).(b)A typical rain drop is about 4mm diameter. Estimate its momentum if it hits you.(c)Estimate the time required to flatten the drop i.e. time between first contact andthe last contact.(d)Estimate how much force such a drop would exert on you.(e)Estimate to the order of magnitude force on an umbrella. Typical lateral separation
+between two rain drops is 5 cm.(Assume that the umbrella cloth is not pierced through !!)ORA cricket fielder can throw the cricket ball with a speed vo. If he throws the ball whilerunning with speed u at an angle q to the horizontal, find(i)The effective angle to the horizontal at which the ball is projected in air as seen bya spectator.(ii)What will be time of flight?(iii)What is the distance (horizontal range) from the point of projection at which the
+ball will land?(iv)Find q at which he should throw the ball that would maximise the horizontalrange as found in (iii).(v)How does q for maximum range change if u >vo,    u = vo,    u < vo?30.(a)Show that in S.H.M., acceleration is directy proportional  to its displacement at a
+given instant(b)A cylindrical log of wood of height h and area of cross-section A floats in water. It ispressed  and  then released. Show that  the log  would execute S.H.M. with a timeperiod,2mTAg
+=prwhere m is mass of the body and r is density of the liquidOR
+189Sample Question PapersA progressive wave represented byy = 5 sin (100pt-0.4px)where y and x are in m, t is in s. What is the(a)amplitude(b)wave length(c)frequency(d)wave velocity(e)magnitude of particle velocity.
+Exemplar ProblemsŒPhysics190SAMPLE PAPER ISOLUTIONS AND MARKING SCHEME1.(d)(1)2.Uniform motion(1)3.()22
+‹‹
+m/s;3.35m/s
+31.5
+==
+-aaij
+(½)+(½)   (1)4.(a)(1)5.(c)(1)6.6.4 × 106 m/s(Formula ½ , Result ½)  (1)7.Œ3m; O m.(½)+(½)   (1)8...15
+16
+KE
+E=(Formula ½ , Ratio ½)  (2)9.(i) []Œ1MLT
+°°
+, (ii) []Œ1MLT
+°°
+1 + 1  (2)10.Resultant mixture reaches 0oC. 12.5 g of ice and rest of water.(1+1)ORThe first option would have kept water warmer because according to Newtons law ofcooling the rate of loss of heat is directly proportional to the difference of temperature ofthe body and the surrounding. In the first case the temperature difference is less sorate of loss of heat will be less.(2)11.Proof R1 = R2 and  212tan
+1hh=q1 + 1  (2)12.The minimum velocity of prejection of an object so that it just escapes the gravitationalforce of the planet from which its is projected.(1)212
+2ee
+GMmGM
+mvorv
+RR
+==
+(1)13.Let the time taken by the bomb to hit the target be t.
+191Sample Question Papers2115002gt
+=Or,  30017.32s
+t==
+ (1)Horizontal distance covered by the bomb = 17.32 × v= 17.32 × 200 = 3464m.1500
+tan
+3464
+q\=
+or  q = tan Œ1 0.43(1)14.ACM
+=Œ=0
+vvR
+wvCM = wR(½)wBCMCM
+=Œ=/2
+2Rvvv
+(½)CCMCM
+3==
+22
+Rvvv
+w+(½)DCMCM
+=+=2
+vvRv
+w(½)15.Work done = area under the P-V curve(1)                  = 1(300)(30)=450J
+2(1)16.Since Argon and Chlorine are both at the same temperature, the ratio of theiraverage K.E. per molecule is 1:1 12(½)MV 2rms=K.E. per molecule 32=kT.(½)()
+()
+()
+\==
+(Argon)
+70.9
+39.9
+Chlorine
+rms
+rms
+VMCl
+VM
+Ar
+                           =1.771.33
+=(½+½)
+Exemplar ProblemsŒPhysics192FFFmgFFFmg(Pull)17.213rms
+mPVmVRT
+M==
+(1)()
+33
+rms
+TkT
+Nk
+VNmm
+==
+(½)23
+Œ17
+31.3810273
+510
+-´´´
+=´(½)= 15 × 10Œ3 m sŒ1= 1.5 cm sŒ1(1)18.12
+9cos30cos30
+mmvmv
+´=°+°
+(½)12
+0sin30Œsin30
+mvmv
+=°°
+(½)12
+63
+vv
++=
+12
+vv
+=Œ1
+12
+33ms
+vv
+==
+()
+22fi
+11
+Œ=×2Œ9=Œ13.5joule
+33
+22
+TTm
+m×
+m(½)m is mass of either balls. So, K.E. is not conserved.(½)19.Diagram, derivation of relation ()
+tan+
+=1Œtan
+rg
+Vqm
+mq
+(1) + (2)20.(a) He does so to increase the time taken for the catch. Since F = Ma = dv
+Mdt
+,therefore increasing the time for the catch reduces the impact of force by theball on the hands.(b) As seen from the figure, when the lawn mower is pulled by force Fat q° to thehorizontal, the horizontal component F cos q causes translatory motion of thelawn mower while the vertical component cancels the weight of the lawn mower.If the lawn mower is pushed by a force F at q° to the horizontal, the horizontalcomponent is again F cos q, while thevertical component F sin q adds on to theweight mg, making it move difficult topush the lawn mower.(1)(1)
+193Sample Question Papers(c) By Newton™s law of inertia, when the carpet is beaten by the stick, it suddenlymoves forward but the dust particles tend to remain at their original positionsat rest, so they fall down under gravity.21.(a) 7.5 × 103 N, downwards(b) 3.25 × 104N, downwards(c) 3.25 × 104N, upwards   (1+1+1)22.Work done by the women = 1750 JWork done by the frictional force = Œ1000 J   (1+1+1)23.222
+1;;2
+2fiifi
+ttt
+=+=+=+
+wwaqwawwaq
+                                                    (1+1+1)24.Derivation of K.E.=,
+GMm
+2r
+P.E.=Œ
+GMm
+r15
+Œ5×10J
+2b11GMm
+V=Œmv=Œ=
+22r
+   (1+1+1)25.Statement and proof of Bernoulli™s theorem.     (1 + 2)26.()()
+PVvPpV
+gg
++D=+D
+11
+vp
+PP
+VP
+gDD
+
+=++
+
+
+
+       (1);vpdvV
+VPdpp
+ggDD
+==
+W.D. ()22
+11
+21
+PP
+PP
+PP
+VPdvPdp
+Vpgg
+-===
+
+ (2)OR2701
+130010
+h=-=
+      (1)Efficiency of refrigerator10.5
+20
+h==
+ (1)If Q is the heat/s transferred at higher temperture (1)
+Exemplar ProblemsŒPhysics194then 120
+WQ=or  Q = 20W = 20mKJand heat removed from lower temperture = 19 kJ. (1)27.From the relation, 2nv
+Ln=, the result follows.Calculation of ratio of frequencies:                                                   
+++++
+
+
+1111
+12222
+28.(a) Coefficent of viscosity for a fliud is defined as the ratio of shearing stressto the strain rate://FAFl
+vlvA
+m==
+      (1)SI unit of viscosity is poiseiulle (Pl)   (½)(b) Terminal velocity is the constant maximum velocity attained by a bodyfalling through a viscous fluid when viscous force nullifies the net downward
+force.
+               (1)Derivation of ()2Œ29LTvr
+=rr
+h  (2½)OR(i) Upto point P.   (1+1+1+1+1)(ii)Point E(iii)Elastic region : O to EPlastic region : E to B(iv)Strain increases proporional to the load upto P. Beyond P, it increases by anincreasingly greater amount for a given increase in the load. Beyond the elas-tic limit E, it does not retrace the curve backward. The wire is unloaded butreturns along the dotted line AO
+¢. Point O¢, corresponding to zero load whichimplies a permanent strain in the wire.(v)From C to B, strain increases even if the wire is being unloaded and at B itfractures. Stress upto that corresponding to C can be applied without caus-ing fracture.29.(a) 22101000141m/s510km/h
+vgh
+==´´==
+                              (1+1+1+1+1)(b)33335
+44
+(210)(10)3.410kg
+33
+mr
+pp
+r--
+==´=´
+33
+4.710kgm/s510kgm/s
+Pmv
+--
+=»´»´
+
+195Sample Question Papers(c)diameter 4mm
+»/28s30s
+tdv
+mm
+D»=»
+(d)3264.710
+168N1.710N
+2810
+PFt--D´
+==»»´
+D´(e)A typical umbrella has 1m diameter\Area of cross-section22
+/40.8m
+dp=»
+With average separation of 5cm, no. of drops that will fall almost simultaneouslyis 222
+0.8m
+320
+(510)
+-»´OR(i)1sin
+tan
+cos
+oovvu
+qq-
+
++
+(1+½+1+1+½+½+½)(ii)2sin
+ovgq (iii)2()
+oo
+vvu
+Rg+= (iv)22
+1max
+84oouuv
+cos
+vq-
+-++
+=
+
+
+ (v)max
+60
+ooforuv
+q==
+, max
+450
+oforu
+q==
+ouv
+<:1max
+142oucos
+vq-
+-»
+
+= ()
+4oifuv
+p()
+qp
+->»=
+1max
+f:/2
+ooovivu
+uvcos
+u30.(a) In S.H.M. the displacement of the particle at an instant is given byy = sin
+rt
+wVelocity, cos
+dy
+vrt
+dt
+==
+ww
+Acceleration 2Œsin
+dv
+art
+dt
+==
+ww
+  2Œyw=(1)
+Exemplar ProblemsŒPhysics196So, acceleration of a body executing S.H.M. is directly proportional to the displacementof the particle from the mean position at that instant.(b) Let the block be pressed and let the vertical displacement at the equilibrium positionbe xo.   At equilibrium   mg = Buoyant force    ...
+oAxg
+r=   When it is displaced by a further displacement x, the buoyant force is ()
+oAxxg
+r+   Net restoring force= Buoyant force Š weight= ()
+oAxxg
+r+ Š mg()
+Agx
+r=. i.e. proportional to x.   2mTAg
+pr\=
+OR(a) 5m    (b) 5m     (c) 50Hz    (d) 250ms-1    (e) 500p ms-1.(1+1+1+1+1)
+197Sample Question PapersTopicVSA (1 Mark)SAI (2 Marks)SA II (3 Marks)LA (5 Marks)TotalIPhysical Word and1(1)1(2)
+ŠŠ
+3MeasurementIIKinematicsŠ2(2)2(3)
+Š10IIILaws of MotionŠ1(2)1(3)1(5)
+10IVWork, Energy and Power1(1)1(2)
+1 (3)Š6VMotion of System of ParticlesŠ2 (3)Š6& Rigid BodyŠVIGravitation1(1)2(2)
+ŠŠ
+5VIIPropertics of Bulk Modules2(1)Š1(3)1(5)
+10Bulk MatterVIIIThermodynamics2(1)Š1(3)Š5IXBehavior of Perfect Gas  &1(1)2(2)
+ŠŠ
+5Kinetic Theory of GasesXOscillations & Wave  Š1(2)1(3)1(5)
+10Total70Sample Paper IIBlue Print
+Exemplar ProblemsŒPhysics198SAMPLE PAPER IITime : Three Hours Max. Marks : 70(a)All questions are compulsory.(b)There are 30 questions in total. Questions 1 to 8 carry one mark each, questions 9 to 18carry two marks each, questions 19 to 27 carry three marks each and questions 28 to30 carry five marks each.(c)There is no overall choice.(d)Use of calculators is not permitted.(e)You may use the following physical constants wherever necessary :c = 3 × 108ms-1h = 6.6 × 10-34Jsµo = 4p × 10Œ7 TmAŒ1Boltzmann constant k = 1.38 × 1023 JK-1Avogadro™s number NA = 6.023 × 1023/mole1.Modulus of rigidity of liquids is(a) infinity; (b) zero; (c) unity; (d) some finite small non-zero constant value.2.If all other parameters except the one mentioned in each of the options below be thesame for two objects, in which case (s) they would have the same kinetic energy?(a)Mass of object A is two times that of B.(b)Volume of object A is half that of B.(c)Object A if falling freely while object B is moving upward with the same speed at anygiven point of time.(d)Object A is moving horizontally with a constant speed while object B is falling freely.3.If the sun and the planets carried huge amounts of opposite charges,(a)all three of Kepler™s laws would still be valid.(b)only the third law will be valid.(c)the second law will not change.(d)the first law will still be valid.
+199Sample Question Papers10100200300400
+500203040VT(K)()
+lP2P1Fig. 2PDCBAV4.Which of the following pairs of physical quantities does not have the same dimensionalformula?(a)Work and torque.(b)Angular momentum and Planck™s constant.(c)Tension and surface tension.(d)Impulse and linear momentum.5.An ideal gas undergoes four different processes from same initial state (Fig.1). Fourprocesses are adiabatic, isothermal, isobaric and isochoric. Out of A, B, C, and D, whichone is adiabatic?(a)(B)(b)(A)(c)(C)(d)(D)6.Why do two layers of a cloth of equal thickness provide warmer covering than a singlelayer of cloth of double the thickness?7.Volume versus temperature graphs for a given mass of an ideal gas are shown in Fig 2 attwo different values of constant pressure. What can be inferred about relations betweenP1 & P2?(a)12
+PP
+>(b)12
+PP
+=(c)12
+PP
+<(d)data is insufficient.8.Along a streamline(a)the velocity of a fluid particle remains constant.(b)the velocity of all fluid particles crossing a given position is constant.(c)the velocity of all fluid particles at a given instant is constant.(d)the speed of a fluid particle remains constant.9.State Newton™s third law of motion and use it to deduce the principle of conservation oflinear momentum.Fig. 1
+Exemplar ProblemsŒPhysics20010.A graph of x v/s t is shown in Fig. 3. Choose correctalternatives from below.          (2)(a)The particle was released from rest at t = 0.(b)At B, the acceleration a > 0.(c)At C, the velocity and the acceleration vanish.(d)Average velocity for the motion between A and D ispositive.(e)The speed at D exceeds that at E.11.A vehicle travels half the distance L with speed V1 and the other half with speed V2then its average speed is(a)12
+2VV
++(b)12
+12
+2VV
+VV
+++(c)12
+12
+2VV
+VV
++(d)12
+12
+()
+LVV
+VV
++12.Which of the diagrams shown in Fig. 4 most closely shows the variation in kineticenergy of the earth as it moves once around the sun in its elliptical orbit?xABCtEDOFig. 4(a)(b)(c)(d)Fig. 3tK.E
+201Sample Question Papers13.The vernier scale of a travelling microscope has 50 divisions which coincide with 49main scale divisions. If each main scale division is 0.5 mm, calculate the minimuminaccuracy in  the measurement of distance.14.A vessel contains two monatomic gases in the ratio 1:1 by mass. The temperature of the
+mixture is 27°C. If their atomic masses are in the  ratio 7:4, what is the (i) average kineticenergy per molecule (ii) r.m.s. speed of the atoms of the gases.15.A 500kg satellite is in a circular orbit of radius Re about the earth. How much energy isrequired to transfer it to a circular orbit of radius 4Re? What are the changes in thekinetic and potential energy? ()6Œ2
+=6.37×10m,=9.8×ms,
+eRg
+16.A  pipe  of 17 cm length, closed at one end, is found to resonate with a 1.5 kHz source.
+(a) Which harmonic of the pipe resonate with the above source? (b) Will resonance with
+the same source be observed if the pipe is open at both ends? Justify your answer. (Speedof sound in air = 340 m s-1)17.Show that the average kinetic energy of a molecule of an ideal gas is directly propotionalto the absolute temperature of the gas.18. Obtain an expression for the acceleration due to gravity at a depth h below the surfaceof the earth.19.The position of a particle is given by 2‹‹‹
+6410
+tt
+=++
+rijk
+ where r is in metres and t inseconds.(a)Find the velocity and acceleration as a function of time.(b)Find the magnitude and direction of the velocity at t = 2s.20.A river is flowing due east with a speed 3m/s. A swimmer canswim in still water at a speed of 4 m/s (Fig. 5).(a)If swimmer starts swimming due north, what will be hisresultant velocity (magnitude and direction)?(b)If he wants to start from point A on south bank and reachopposite point B on north bank,(i) which direction should he swim?
+(ii) what will be his resultant speed?(c)From two different cases as mentioned in (a) and (b) above,in which case will he reach opposite bank in shorter time?21.(a)A raindrop of mass 1 g falls from rest, from a height of 1 km and hits the ground witha speed of 50 m s-1.(i) What are the final K.E. of the drop and its initial P.E.?(ii) How do you account for the difference between the two?     (Take g = 10msŒ2).Fig. 5NEBA3m/s
+Exemplar ProblemsŒPhysics202Fig. 8(b)Two identical ball bearings in contact with each other and resting on a frictionlesstable are hit head-on by another ball bearing of the same mass moving initiallywith a speed V as shown in Fig. 6.(c)(d)(a)(b)1V = 0V/2123V /3123V /1V /2V /3Fig. 7If the collision is elastic, which of the following (Fig. 7) is a possible resultafter collision?22.Explain why:(a)It is easier to pull a hand cart than to push it.(b)Figure 8 shows (x, t), (y,t) diagrams of a particle moving in 2-dimensions.If the particle has a mass of 500 g, find the force (direction and magnitude) actingon the particle.Fig. 6xt1s2s3s
+
+203Sample Question Papers23.(a)State parallel axis and perpendicular axis theorem.(b)Find the moment of inertia of a sphere about a tangent to the sphere, given themoment of inertia of the sphere about any of its diameters to be 2MR2/5, where Mis the mass of the sphere and R is the radius of the sphere.24.A 3m long ladder weighing 20 kg leans on a frictionless wall. Its feet rest on the floor1 m from the wall Find the reaction forces of the wall and the floor. (3)25.A fully loaded Boeing aircraft has a mass of 3.3×105 kg. Its total wing area is 500 m2.It is in level flight with a speed of 960km/h. (a) Estimate the pressure differencebetween the lower and upper surfaces of the wings. (b) Estimate the fractionalincrease in the speed of the air on the upper surface of the wing relative to the lowersurface.
+(The density of air Œ3
+1.2kgm
+r=
+)26.Explain briefly the working principle of a refrigerator and obtain an expression for itscoefficient of performance.27.Derive an expression for the apparent frequency of the sound heard by a listener when
+source of sound and the listener both move in the same direction.28.(a)Show that for small amplitudes the motion of a simple pendulum is simple harmonic,
+hence obtain an expression for its time period.(b)Consider a pair of identical pendulums, which oscillate independently such thatwhen one pendulum is at its extreme position making an angle of 2° to the right withthe vertical, the other pendulum is at its extreme position making an angle of 1° to
+the left of the vertical. What is the phase difference between the pendulums?29.(a)What is capillary rise? Derive an expression for the height to which a liquid rises in
+a capillary tube of radius r.(b)Why small drops of a liquid are always spherical in shape.30.(a)Derive an expression for the maximum safe speed for a car on a banked track,inclined at angle a to the horizontal.  m is the cofficient of friction between the tracksand the tyres.(b)A 100 kg gun fires a ball of 1kg from a cliff of height 500 m. It falls on the ground ata distance of 400m from the bottom of the cliff. Find the recoil velocity of the gun.(acceleration due to gravity = 10 m s-2)
+Exemplar ProblemsŒPhysics204SAMPLE PAPER IISOLUTIONS AND MARKING SCHEME1.(b)(1)2.(e)(1)3.(c)(1)4.(c)(1)5.(c)6.Air enclosed between two layers of cloth prevents the transmission of heat fromour body to outside.(1)7.(a)(1)8.(b)(2)9.Statement(1)()
+12
+12
+0ddd
+or
+dtdtdt
+=-+=
+pp
+pp
+(½)12
+constant
++=
+pp
+.(½)10.(a), (c), (e)(2)11.(c)(2)12.(d)(2)13.0.01 mm(2)14.(i) 1:1, (ii) 1.32:1(2)15.9E=11.75×10J
+D(1)9KE=-11.75×10J
+D(½)9PE=-23.475×10J
+D(½)
+205Sample Question Papers16.(a) 2×340×10
+500
+417
+nn=´, where n is the harmonic for a closed pipe. Closed pipe vibratesin 3rd harmonic with source of 1.5 KHz.(1)(b) For a pipe open at both ends,23×340×10
+10
+217
+nn=´ where n is the harmonic. No integral value of n is possible for1.5KHz. So answer is No.(1)17.213MC
+PV=(½)212
+.33
+PVMCKE
+==
+(½)PV = nRT(½)K.E µ T(½)18.AP = h(½)()
+2eGM
+gRh
+¢¢=-(½)()
+343eRh
+Mpr
+¢-=(½)e1Rhgg
+
+-¢=
+
+(½)19.(a) =6+8
+tvij
+(1+1+1)      8=aj
+(b) 616or3625619.8m/s
+v=+=+=
+vij
+.     v makes an angle of tan-1 (8/3) with x-axis.20.(i) 5m/s37
+at
+° to N.(3)(ii) (a) ()1tanofN,(b)7m/s
+3/7
+-(iii) in case (i) he reaches the opposite bank in shortest time.APReh
+Exemplar ProblemsŒPhysics20621.(i) (a) 1.25 J , 10J    (b) Difference is due to the work done by viscous force of air(ii) (b)(3)22.(a)(1)FFFmg(Pull)FFFmgFSinq reduces the downward force in the case of pull.(b)2,xtyt
+==
+ 10,2ms
+xy
+aa
+-==
+ F = 0.5×2 = 1N. along y-axis           (2)23.(a)Statement of parallel axis theorem           (1)(b)275MR
+ (Using parallel axis)           (1)Statement of perpendicular axis theorem           (1)24.Let F1 and F2 be the reaction forces of the wall and the floor respectively.NŒW = 0           (3)FŒF1 = 0(½)()
+122Œ
+01/2
+FW
+=          (½)W = N = 20 × 9.8 N = 196 NF = F1 = /42
+w= 34.6N          (½)F2 = 22
+FN
++=
+199.0N          (½)
+207Sample Question PapersThe force F2 makes an angle a with the horizontalŒ1
+tan/42,tan42
+NF
+a==a=
+ (½)25.(a)The weight of the  Boeing aircraft is balanced by the upwards force due to the pressuredifference:    5Œ2
+3.310kg9.8ms
+PA
+D´=´´
+(½)   5Œ22
+(3.3109.8ms)/500m
+Pkg
+D=´´
+(½)        = 6.5×103NmŒ2(b) The pressure difference between the lower and upper surfaces of the wing is     ()
+()22
+21
+/2
+ŒPvv
+D=
+r(½)where v2 is the speed of air over the upper surface and v1 is the speed under thebottom surface.()
+21
+21
+2Œpvv
+vv
+D=r+
+(½)     ()Œ1
+12
+/2960km/h267ms
+av
+vvv
+=+==
+(½)      ()
+221
+Œ//0.08
+av
+av
+vvvPv
+=Dr@
+(½)26.(a) Principle of reverse heat engine(1)(b)(1)Source
+T2SystemSinkT2W = Q
+1Q1
+Exemplar ProblemsŒPhysics208(c) 212
+TTT
+b=-(1)27.vv
+ooSvv
+vv
++
+=
++
+.(3)28.(a)Diagram of simple pendulum with forces(1)Deviation of2lTgp=(2)(b)()11
+sin
+otqqwd
+=+
+()22
+sin
+otqqwd
+=+
+For the first, ()12,sin1
+tqwd
+=°\+=
+For the 2nd ()21,sin
+1/2
+tqwd
+=-°\+=-
+12
+90,30
+tt
+wdwd
+\+=°+=-°
+12
+120
+dd
+\-=°
+(2)29.(a)Definition of capillary action(1)Diagram  of capillary rise(½)Derivation(1½)(b)Due to surface tension, liquid drops take the shape of minimum area whichis sphere(2)30.(a)Diagram(1)Devivation offormula 1/2
+tan
+1tan
+sVrg
++
+
+=
+
+-
+
+ma
+ma
+(2)(b)0.4 m s-1(2)
+Notes
+Notes

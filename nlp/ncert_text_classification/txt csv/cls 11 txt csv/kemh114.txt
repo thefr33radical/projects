@@ -1,0 +1,17 @@
+There are few things which we know which are not capable ofmathematical reasoning and when these can not, it is a sign that ourknowledge of them is very small and confused and where a mathematicalreasoning can be had, it is as great a folly to make use of another,
+as to grope for a thing in the dark when you have a candle stickstanding by you. Œ ARTHENBOT
+ 14.1  IntroductionIn this Chapter, we shall discuss about some basic ideas of
+Mathematical Reasoning. All of us know that human beings
+
+evolved from the lower species over many millennia. Themain asset that made humans ﬁsuperiorﬂ to other specieswas the ability to reason. How well this ability can be useddepends on each person™s power of reasoning. How to
+
+develop this power? Here, we shall discuss the process of
+reasoning especially in the context of mathematics.In mathematical language, there are two kinds ofreasoning Œ inductive and deductive. We have already
+discussed the inductive reasoning in the context of
+mathematical induction. In this Chapter, we shall discuss
+
+some fundamentals of deductive reasoning.14.2  Statements
+The basic unit involved in mathematical reasoning is a mathematical statement.Let us start with two sentences:In 2003, the president of India was a woman.
+An elephant weighs more than a human being.
+14ChapterMATHEMATICAL REASONING
+George Boole (1815 - 1864)

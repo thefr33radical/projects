@@ -1,0 +1,17 @@
+COORDINATE  GEOMETRY
+CHAPTER 7(A) Main Concepts and ResultsDistance Formula, Section Formula, Area of a Triangle.
+ŁThe distance between two points P (x1, y1) and Q (x2, y2) is
+222121
+ŒŒxxyy
+ŁThe distance of a point P (x,y) from the origin is 22xyŁThe coordinates of the point P which divides the line segment joining the points
+A (x1, y1) and  B (
+x2, y2) internally in the ratio m1 : m2 are12211221
+1212
+++,++mxmxmymy
+mmmm
+
+ŁThe coordinates of the mid-point of the line segment joining the points P (x1, y1)and Q (x2, y2) are 1212
+,22xxyy
+ŁThe area of a triangle with vertices A (
+x1, y1), B (x2, y2) and C (x3, y3) is12 [x1 (y2 Œ y3) + x2 (y3 Œ y1) + x3 (y1 Œ y2)]which is nonŒzero unless the points A, B and C are collinear.
+(B) Multiple Choice QuestionsChoose the correct answer from the given four options:

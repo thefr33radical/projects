@@ -1,0 +1,53 @@
+Every body of discovery is mathematical in form because there is noother guidance we can have Œ DARWIN
+7.1  Introduction
+Suppose you have a suitcase with a number lock. The number
+
+lock has 4 wheels each labelled with 10 digits from 0 to 9.The lock can be opened if 4 specific digits are arranged in a
+particular sequence with no repetition. Some how, you have
+
+forgotten this specific sequence of digits. You remember only
+the first digit which is 7. In order to open  the lock, how many
+sequences of 3-digits you may have to check with? To answer
+
+this question, you may, immediately, start listing all possible
+arrangements of  9 remaining digits taken 3 at a time. But,
+this method will be tedious, because the number of possible
+sequences may be large. Here, in this Chapter, we shall learn
+some basic counting techniques which will enable us to answer this question withoutactually listing 3-digit arrangements. In fact, these techniques will be useful in determining
+the number of different ways of arranging and selecting objects without actually listingthem. As a first step, we shall examine a principle which is most fundamental to thelearning of these techniques.7.2  Fundamental Principle of Counting
+Let us 
+consider the following problem. Mohan has 3 pants and 2 shirts. How manydifferent pairs of a pant and a shirt, can he dress up with? There are 3 ways in which
+a pant can be chosen, because there are 3 pants available. Similarly, a shirt can be
+chosen in 2 ways. For every choice of a pant, there are 2 choices of a shirt. Therefore,there are 3 × 2 = 6 pairs of a pant and a shirt.7ChapterPERMUTATIONS 
+AND COMBINATIONSJacob Bernoulli(1654-1705)
+   PERMUTATIONS 
+AND COMBINATIONS       135
+Let us name the three pants as P1, P2, P3  and the two shirts as S
+1, S2. Then,these six possibilities can be illustrated in the Fig. 7.1.Let us consider another problemof the same type.
+Sabnam has 2 school bags, 3 tiffin boxes
+and 2 water bottles. In how many ways
+can she carry these items (choosing one
+each).A school  bag can be chosen in 2
+different ways. After a school bag is
+
+chosen, a tiffin box can be chosen in 3
+different ways. Hence, there are
+2 × 3 = 6 pairs of school bag and a tiffin
+box. For each of these pairs a water
+bottle can be chosen in 2 different ways.
+Hence, there are 6 × 2 = 12 different ways in which, Sabnam can carry these items to
+school. If we name the 2 school bags as B1, B2, the three tiffin boxes as T1, T2, T3 and
+the two water bottles as W1, W2, these possibilities can be illustrated in the Fig. 7.2.Fig 7.1Fig 7.2
+136       MA
+THEMATICSIn fact, the problems of the above types are solved by applying the followingprinciple known as the fundamental principle of counting, or, simply, the 
+multiplicationprinciple, which states thatﬁIf an event can occur in m different ways, following which another event
+can occur in n different ways, then the total number of occurrence of the events
+
+in the given order is m×n.ﬂ
+The above principle can be generalised for any finite number of events. Forexample, for 3 events, the principle is as follows:‚If an event can occur in m different ways, following which another event canoccur in n different ways, following which a third event can occur in p different ways,then the total number of occurrence to ‚the events in the given order is m × n × p.ﬂIn the first problem, the required number of ways of wearing a pant and a shirtwas the number of different ways of the occurence of the following events in succession:
+(i)the event of choosing a pant
+(ii)the event of choosing a shirt.In the second problem, the required number of ways was the number of differentways of the occurence of the following events in succession:(i)the event of choosing a school bag
+(ii)the event of choosing a tiffin box(iii)the event of choosing a water bottle.Here, in both the cases, the events in each problem could occur in various possibleorders. But, we have to choose any one of the possible orders and count the number ofdifferent ways of the occurence of the events in this chosen order.
+Example 1 Find the number of 4 letter words, with or without meaning, which can beformed out of the letters of the word ROSE, where the repetition of the letters is not
+allowed.Solution There are as many words as there are ways of filling in 4 vacant placesby the 4 letters, keeping in mind that the repetition is not allowed. Thefirst place can be filled in 4 different ways by anyone of the 4 letters R,O,S,E. Followingwhich, the second place can be filled in by anyone of the remaining 3 letters in 3different ways, following which the third place can be filled in 2 different ways; followingwhich, the fourth place can be filled in 1 way. Thus, the number of ways in which the
+4 places can be filled, by the multiplication principle, is 4 × 3 × 2 × 1 = 24. Hence, therequired number of words is 24.

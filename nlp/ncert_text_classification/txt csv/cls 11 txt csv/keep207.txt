@@ -1,0 +1,259 @@
+7.1 OverviewThe study of permutations and combinations is concerned with determining the numberof different ways of arranging and selecting objects out of a given number of objects,
+without actually listing them. There are some basic counting techniques which will be
+useful in determining the number of different ways of arranging or selecting objects.The two basic counting principles are given below:Fundamental principle of counting7.1.1  Multiplication principle (Fundamental Principle of Counting)Suppose an event E can occur in m different ways and associated with each way ofoccurring of E, another event F can occur in n different ways, then the total number ofoccurrence of the two events in the given order is m × n .7.1.2  Addition principleIf an event E can occur in m ways and another event F can occur in n ways, andsuppose that both can not occur together, then E or F can occur in 
+m + n ways.7.1.3  Permutations
+  A permutation is an arrangement of objects in a definite order.
+7.1.4  Permutation of n different objects  The number of permutations of n objectstaken all at a time, denoted by the symbol nPn, is given byPnnn,... (1)
+where n = n(n Œ 1) (n Œ 2) ... 3.2.1, read as factorial n, or n factorial.The number of permutations of n objects taken r at a time, where 0 < r  n,denoted by nPr, is given bynPr = nnrWe assume that 
+01Chapter7PERMUTATIONS AND
+COMBINATIONS
+
+7.1.5  When repetition of objects is allowed  The number of permutations of n thingstaken all at a time, when repetion of objects is allowed is nn.The number of permutations of n objects, taken r at a time, when repetition ofobjects is allowed, is nr.7.1.6  Permutations when the objects are not distinct   The number of permutationsof n objects of which p1 are of one kind, p2 are of second kind, ..., pk are of kth kind andthe rest if any, are of different kinds is
+ 12!!!...!
+knppp7.1.7  Combinations  On many occasions we are not interested in arranging but onlyin selecting r objects from given n objects. A combination is a 
+selection of some or allof a number of different objects where the order of selection is immaterial. The numberof selections of r objects from the given n objects is denoted by nCr , and is given bynCr =!!()!
+nrnr
+Remarks1.Use permutations if a problem calls for the number of arrangements of objects
+and different orders are to be counted.2.Use combinations if a problem calls for the number of ways of selecting objects
+and the order of selection is not to be counted.7.1.8  Some important resultsLet n and r be positive integers such that r  n. Then(i)nCr = nCn Œ r(ii)nCr + nCr Œ 1 = n + 1Cr(iii)n n Œ 1Cr Œ 1  = (
+n Œ r + 1) n Cr Œ 17.2  Solved ExamplesShort 
+Answer Type
+Example 1  In a class, there are 27 boys and 14 girls. The teacher wants to select 1boy and 1 girl to represent the class for a function. In how many ways can the teachermake this selection?Solution  Here the teacher is to perform two operations:(i)Selecting a boy from among the 27 boys and
+(ii)Selecting a girl from among 14 girls.PERMUTATIONS AND COMBINATIONS    115
+116    EXEMPLAR PROBLEMS Œ MATHEMATICSThe first of these can be done in 27 ways and second can be performed in14 ways. By the 
+fundamental principle of counting, the required number of ways is27 × 14 = 378.Example 2(i)How many numbers are there between 99 and 1000 having 7  in the units place?
+(ii)How many numbers are there between 99 and 1000 having atleast one of theirdigits 7?
+Solution(i)First note that all these numbers have three digits. 7 is in the unit™s place. The
+middle digit can be any one of the 10 digits from 0 to 9. The digit in hundred™s
+
+place can be any one of the 9 digits from 1 to 9. Therefore, by the fundamental
+principle of counting, there are 10 × 9 = 90 numbers between 99 and 1000 having7 in the unit™s place.
+(ii)T
+otal number of 3 digit numbers having atleast one of their digits as 7 = (Total
+numbers of three digit numbers) Œ (Total number of 3 digit numbers in which 7
+does not appear at all).= (9 × 10 × 10) Œ (8 × 9 × 9)
+= 900 Œ 648 = 252.Example 3  In how many ways can this diagram be coloured subject to the followingtwo conditions?(i)Each of the smaller triangle is to be painted with one of three colours: red, blue or
+green.(ii)No 
+two adjacent regions have the same colour.
+Solution  These conditions are satisfied exactly when we do as follows: First paint thecentral triangle in any one of the three colours. Next paint the remaining 3 triangles,with any one of the remaining two colours.By the fundamental principle of counting, this can be done in 3 × 2 × 2 × 2 = 24 ways.
+PERMUTATIONS AND COMBINATIONS    117Example 4  In how many ways can 5 children be arranged in a line such that (i) twoparticular children of them are always together (ii) two particular children of them arenever together.
+Solution(i)We consider the arrangements by taking 2 particular children together as one
+and hence the remaining 4 can be arranged in 4! = 24 ways. Again two particular
+
+children taken together can be arranged in two ways. Therefore, there are
+24 × 2 = 48 total ways of arrangement.(ii)Among the 5! = 120 permutations of 5 children, there are 48 in which two childrenare together. In the remaining 120 Œ 48 = 72 permutations, two particular children
+are never together.Example 5  If all permutations of the letters of the word AGAIN are arranged in the
+order as in a dictionary. What is the 49
+th word?Solution  Starting with letter A, and arranging the other four letters, there are 4! = 24
+words. These are the first 24 words. Then starting with G, and arranging A, A, I and N
+in different ways, there are 4!122!1!1!
+ words. Next the 37th word starts with I.There are again 12 words starting with I. This accounts up to the 48th word.The 49th word is NAAGI.Example 6 In how many ways 3 mathematics books, 4 history books, 3 chemistrybooks and 2 biology books can be arranged on a shelf so that all books of the samesubjects are together.
+Solution  First we take books of a particular subject as one unit. Thus there are4 units which can be arranged in 4! = 24 ways. Now in each of arrangements,
+mathematics books can be arranged in 3! ways, history books in 4! ways,
+chemistry books in 3! ways and biology books in 2! ways. Thus the total number
+of ways = 4! × 3! × 4! × 3! × 2! = 41472.Example 7  A student has to answer 10 questions, choosing atleast 4 from each ofParts A and B. If there are 6 questions in Part A and 7 in Part B, in how many ways
+
+can the student choose 10 questions?Solution  The possibilities are:4 from Part A and 6 from Part B
+or5 from Part A and 5 from Part B
+or6 from Part A and 4 from Part B.
+
+Therefore, the required number of ways is
+118    EXEMPLAR PROBLEMS Œ MATHEMATICS6C4 × 7C6 + 6C5 × 7C5 + 6C6 × 7C4=105 + 126 + 35 = 266.
+Long Answer 
+Type
+Example 8  Suppose m men and n women are to be seated in a row so that no twowomen sit together. If 
+m > n, show that the number of ways in which they can be
+seated is!(1)!
+(1)!
+mmmnSolution  Let the men take their seats first. They can be seated in mPm ways as shownin the following figure   M   
+   M   
+   ...      M   
+1st2ndmthFrom the above figure, we observe, that there are (m + 1) places for n women.It is given that m > n and no two women can sit together. Therefore, 
+n women cantake their seats (m + 1)Pn ways and hence the total number of ways so that no twowomen sit together is(mPm) × (m + 1Pn) = !(1)!
+(1)!
+mmmnExample 9  Three married couples are to be seated in a row having six seats in acinema hall. If spouses are to be seated next to each other, in how many ways can theybe seated? Find also the number of ways of their seating if all the ladies sit together.
+Solution  Let us denote married couples by S1, S2, S3,  where each couple is consideredto be a single unit as shown in the following figure:1st2nd3rdThen the number of ways in which spouces can be seated next to each other is3! = 6 ways.Again each couple can be seated in 2! ways. Thus the total number of seatingarrangement so that spouces sit next to each other = 3! × 2! × 2! × 2! = 48.Again, if three ladies sit together, then necessarily three men must sit together.
+Thus, ladies and men can be arranged altogether among themselves in 2! ways.
+Therefore, the total number of ways where ladies sit together is 3! × 3! × 2! = 144.
+PERMUTATIONS AND COMBINATIONS    119Example 10  In a small village, there are 87 families, of which 52 families have atmost2 children. In a rural development programme 20 families are to be chosen for assistance,of which atleast 18 families must have at most 2 children. In how many ways can the
+choice be made?Solution  It is given that out of 87 families, 52 families have at most 2 children so other35 families are of other type. According to the question, for rural development
+
+programme, 20 families are to be chosen for assistance, of which at least 18 familiesmust have atmost 2 children. Thus, the following are the number of possible choices:52C18 × 35C2(18 families having atmost 2 children and 2 selected from other typeof families)52C19 × 35C1(19 families having at most 2 children and 1 selected from other typeof families)52C20(All selected 20 families having atmost 2 children)Hence, the total number of possible choices is52C18 × 35C2 + 52C19 × 35C1 + 52C20Example 11
+  A boy has 3 library tickets and 8 books of his interest in the library. Of
+these 8, he does not want to borrow Mathematics Part II, unless Mathematics Part I is
+also borrowed. In how many ways can he choose the three books to be borrowed?Solution  Let us make the following cases:Case (i) Boy borrows Mathematics Part II, then he borrows Mathematics Part I also.So the number of possible choices is 6C1 = 6.Case (ii) Boy does not borrow Mathematics Part II, then the number of possible
+choices is 7C3 = 35.
+Hence, the total number of possible choices is 35 + 6 = 41.Example 12  Find the number of permutations of n different things taken r at a timesuch that two specific things occur together.Solution  A bundle of 2 specific things can be put in 
+r places in (r Œ 1) ways (Why?)and 2 things in the bundle can be arranged themselves into 2 ways. Now (n Œ 2)things will be arranged in (r Œ 2) places in n Œ2Pr Œ2 ways.Thus, using the fundamental principle of counting, the required numer ofpermutations will be 222(1)P
+nrr
+.
+120    EXEMPLAR PROBLEMS Œ MATHEMATICSObjective Type QuestionsChoose the correct answer out of four options given against each of the followingExamples (M.C.Q.).Example 13  There are four bus routes between A and B; and three bus routes
+between B and C. A man can travel round-trip in number of ways by bus from A to C
+
+via B. If he does not want to use a bus route more than once, in how many ways can
+he make round trip?(A)72(B)144(C)14(D)19
+Solution  (A) is the correct answer. In the following figure:
+ABC
+there are 4 bus routes from A to B and 3 routes from B to C. Therefore, there are
+
+4 × 3 = 12 ways to go from A to C. It is round trip so the man will travel back from C
+
+to A via B. It is 
+restricted that man can not use same bus routes from C to B and B to
+A more than once. 
+Thus, 
+there are 2 × 3 = 6 
+routes for return journey. Therefore, the
+required number of ways = 12 × 6 = 72.Example 14  In how many ways a committee consisting of 3 men and 2 women, canbe chosen from 7 men and 5 women?(A)45(B)350(C)4200(D)230
+Solution  (B) is the correct choice. Out of 7 men, 3 men can be chosen in 7C3ways and out of 5 women, 2 women can be chosen in 5C
+2 ways. Hence, the
+committee can be chosen in 7C3 × 5C2 = 350 ways.Example 15  All the letters of the word ‚EAMCOT™ are arranged in different possible
+ways. The number of such arrangements in which no two vowels are adjacent to each
+other is(A)360(B)144(C)72(D)54
+Solution  (B) is the correct choice. We note that there are 3 consonants and 3
+vowels E, A and O. Since no two vowels 
+have to be together, the possible choice for
+vowels are the places marked as ‚X™. X M X C X T X, these volwels can be arrangedin 4P3 ways 3 consonents can be arranged in 3 ways. Hence, the required number ofways = 3! × 
+4P3 = 144.
+Example 16  Ten different letters of alphabet are given. Words with five letters are
+formed from these given letters. Then the number of words which have atleast oneletter repeated is
+PERMUTATIONS AND COMBINATIONS    121(A)69760(B)30240(C)99748(D)99784
+Solution  (A) is correct choice. Number of 5 letters words (with the condition that aletter can be repeated) = 105. Again number of words using 5 different letters is 
+10P5.Therefore, required number of letters=Total number of words Œ Total number of words in which no letter is repeated
+=10
+5 Œ  10P5 = 69760.Example 17  The number of signals that can be sent by 6 flags of different colourstaking one or more at a time is(A)63(B)1956(C)720(D)21
+Solution  The correct answer is B.Number of signals using one flag = 6P1 = 6Number of signals using two flags = 6P2 = 30Number of signals using three flags = 6P3 = 120Number of signals using four flags = 6P4 = 360Number of signals using five flags = 6P5 = 720Number of signals using all six flags = 6P6 = 720Therefore, the total number of signals using one or more flags at a time is6 + 30 + 120 + 360 + 720 + 720 = 1956 (Using addition principle).Example 18  In an examination there are three multiple choice questions and eachquestion has 4 choices. Number of ways in which a student can fail to get all answercorrect is(A)11(B)12(C)27(D)63
+Solution  The correct choice is (D). There are three multiple choice question, eachhas four possible answers. Therefore, the total number of possible answers will be4 × 4 × 4 = 64. Out of these possible answer only one will be correct and hence thenumber of ways in which a student can fail to get correct answer is 64 Œ 1 = 63.Example 19  The straight lines l1, l2 and l3 are parallel and lie in the same plane. Atotal numbers of m points are taken on l1; n points on l2, k points on l3. The maximumnumber of triangles formed with vertices at these points are(A)(m + n + k)C3(B)(m + n + k)C3 Œ mC3 Œ nC3 Œ kC3(C)mC3 + nC3 + kC3(D)mC3 × nC3 × kC3Solution  (B) is the correct answer. Here the total number of points are (
+m + n + k)which must give (m + n + k)C3 number of triangles but m points on l1 taking 3 points at atime gives mC3 combinations which  produce no triangle. Similarly, 
+nC3 and kC3
+122    EXEMPLAR PROBLEMS Œ MATHEMATICSnumber of triangles can not be formed. Therefore, the required number of triangles is(m + n + k)C3 Œ mC3 Œ nC3 Œ kC3.7.3EXERCISE
+Short 
+Answer Type
+1.Eight chairs are numbered 1 to 8. Two women and 3 men wish to occupy one
+chair each. First the women choose the chairs from amongst the chairs 1 to 4
+and then men select from the remaining chairs. Find the total number of possible
+arrangements.[Hint: 2 women occupy the chair, from 1 to 4 in 
+4P2 ways and 3 men occupy theremaining chairs in 6P3 ways.]2.If the letters of the word RACHIT are arranged in all possible ways as listed indictionary. Then what 
+is the rank of the word RACHIT?
+[Hint: In each case number of words beginning with A, C, H, I is 5!]
+3.A candidate is required to answer 7 questions out of 12 questions, which are
+divided into two groups, each containing 6 questions. He is not permitted to
+attempt more than 5 questions from either group. Find the number of different
+ways of doing questions.4.Out of 18 points in a plane, no three are in the same line except five points whichare collinear. Find the number of lines that can be formed joining the point.[Hint: Number of straight lines = 18C2 Œ 5C2 + 1.]5.We wish to select 6 persons from 8, but if the person A is chosen, then B must be
+chosen. In how many ways can selections be made?6.How many committee of five persons with a chairperson can be selected from12 persons.[Hint: Chairman can be selected  in 12 ways and remaining in 11C4.]7.How many automobile license plates can be made if each plate contains twodifferent letters followed by three different digits?
+8.A bag contains 5 black and 6 red balls. Determine the number of ways in which2 black and 3 red balls can be selected from the lot.9.Find the number of permutations of n distinct things taken r together, in which 3particular things must occur together.
+10.Find the number of different words that can be formed from the letters of theword ‚TRIANGLE™ so that no vowels are together.
+11.
+Find the number of positive integers greater than 6000 and less than 7000 which
+are divisible by 5, provided that no digit is to be repeated.
+PERMUTATIONS AND COMBINATIONS    12312.There are 10 persons named P1, P2, P3, ... P10. Out of 10 persons, 5 persons areto be arranged in a line such that in each arrangement P1 must occur whereas P4and P5 do not occur. Find the number of such possible arrangements.
+[Hint: Required number of arrangement = 7C4 × 5!]13.There are 10 lamps in a hall. Each one of them can be switched on independently.
+Find the number of ways in which the hall can be illuminated.[Hint: Required number = 210 Œ 1].14.A box contains two white, three black and four red balls. In how many wayscan three balls be drawn from the box, if atleast one black ball is to be includedin the draw.
+
+[Hint: Required number of ways = 3C1 × 6C2 + 3C2 × 6C2 + 3C3.]15.If nCr Œ 1 = 36, nCr = 84 and nCr + 1 = 126, then find rC2.[Hint: Form equation using 1Œ1
+CCand
+CCnnrrnnrr to find the value of r.]16.Find the number of integers greater than 7000 that can be formed with the digits3, 5, 7, 8 and 9 where no digits are repeated.[Hint: Besides 4 digit integers greater than 7000, five digit integers are alwaysgreater than 7000.]17.If 20 lines are drawn in a plane such that no two of them are parallel and no threeare concurrent, in how many points will they intersect each other?18.In a certain city, all telephone numbers have six digits, the first two digits always
+being 41 or 42 or 46 or 62 or 64. How many telephone numbers have all six digits
+distinct?19.In an examination, a student has to answer 4 questions out of 5 questions; questions
+1 and 2 are however compulsory. Determine the number of ways in which the
+
+student can make the choice.20.A convex polygon has 44 diagonals. Find the number of its sides.[Hint: Polygon of n sides has (nC2 Œ n) number of diagonals.]Long Answer  Type Questions
+21.18 mice were placed in two experimental groups and one control group, with allgroups equally large. In how many ways can the mice be placed into three
+groups?22.A bag contains six white marbles and five red marbles. Find the number of ways
+in which four marbles can be drawn from the bag if (a) they can be of any colour
+(b) two must be white and two red and (c) they must all be of the same colour.
+
+124    EXEMPLAR PROBLEMS Œ MATHEMATICS23.In how many ways can a football team of 11 players be selected from 16 players?How many of them will(i)include 2 particular players?
+(ii)exclude 2 particular players?24.A sports team of 11 students is to be constituted, choosing at least 5 from Class
+XI and atleast 5 from Class XII. If there are 20 students in each of these classes,
+in how many ways can the team be constituted?25.A group consists of 4 girls and 7 boys. In how many ways can a team of 5
+members be selected if the team has(i)no girls
+(ii)at 
+least one boy and one girl(iii)at 
+least three girls.Objective Type Questions
+Choose the correct answer out of the given four options against each of the Exercises
+from 26 to 40 (M.C.Q.).26.If  nC12 = nC8, then n is equal to(A)20(B)12(C)6(D)30
+27.The number of possible outcomes when a coin is tossed 6 times is(A)36(B)64(C)12(D)32
+28.The number of different four digit numbers that can be formed with the digits 2,
+3, 4, 7  and using each digit only once is(A)120(B)96(C) 24(D)100
+29.The sum of the digits in unit place of all the numbers formed with the help of 3,4, 5 and 6 taken all at a time is(A) 432(B) 108(C) 36(D)18
+30.Total number of words formed by 2 vowels and 3 consonants taken from 4
+vowels and 5 consonants is equal to(A)60(B)120(C)7200(D)720
+31.A five digit number divisible by 3 is to be formed using the numbers 0, 1, 2, 3, 4
+and 5 without repetitions. The total number of ways this can be done is(A)216(B)600(C)240(D)3125
+[Hint: 5 digit numbers can be formed using digits 0, 1, 2, 4, 5 or by using digits 1,2, 3, 4, 5 since sum of digits in these cases is divisible by 3.]
+PERMUTATIONS AND COMBINATIONS    12532.Every body in a room shakes hands with everybody else. The total number ofhand shakes is 66. The total number of persons in the room is(A)11(B)12(C)13(D)14
+33.The number of triangles that are formed by choosing the vertices from a set of12 points, seven of which lie on the same line is(A)105(B)15(C)175(D)185
+34.The number of parallelograms that can be formed from a set of four parallel
+lines intersecting another set of three parallel lines is (A)6(B)18(C)12(D)9
+35.The number of ways in which a team of eleven players can be selected from 22
+players always including 2 of them and excluding 4 of them is(A)16C11(B)16C5(C)16C9(D)20C936.The number of 5-digit telephone numbers having atleast one of their digits repeated is(A)90,000(B)10,000(C)30,240(D)69,760
+37.The number of ways in which we can choose a committee from four men and six
+women so that the committee includes at least two men and exactly twice as many
+women as men is(A)94(B)126(C)128(D)None
+38.The total number of 9 digit numbers which have all different digits is(A)10!(B)9 !(C)9 × 9!(D)10×10!
+39.The number of words which can be formed out of the letters of the word
+ARTICLE, so that vowels occupy the even place is
+(A)1440(B)144
+(C)7!(D)
+4C4 × 3C340.Given 5 different green dyes, four different blue dyes and three different red
+dyes, the number of combinations of dyes which can be chosen taking at least
+one green and one blue dye is(A)3600(B)3720(C)3800(D)3600
+[Hint: Possible numbers of choosing or not choosing 5 green dyes, 4 blue dyesand 3 red dyes are 25, 24 and 23, respectively.]
+Fill in the Blanks in the Exercises 41 to 50.41.If nPr = 840, nCr = 35, then r = ______. 42.15C8 + 15C9 Œ 15C6 Œ 15C7 = ______.43.The number of permutations of n different objects, taken r at a line, whenrepetitions are allowed,  is ______.
+126    EXEMPLAR PROBLEMS Œ MATHEMATICS44.The number of different words that can be formed from the letters of the wordINTERMEDIATE such 
+that two vowels never come together is ______.[Hint: Number of ways of arranging 6 consonants of which two are alike is 
+6!2!and number of ways of arranging vowels 7611P3!2!
+
+.]45.Three balls are drawn from a bag containing 5 red, 4 white and 3 black balls.The number of ways in which this can be done if at least 2 are red is ______46.The number of six-digit numbers, all digits of which are odd is ______.47.In a football championship, 153 matches were played . Every two teams played
+one match with each other. The number of teams, participating in the championship
+is ______.48.The total number of ways in which six ‚+™ and four ‚Œ™ signs can be arranged ina line such that no two signs ‚Œ™ occur together is ______.49.A committee of 6 is to be chosen from 10 men and 7 women so as to contain
+atleast 3 men and 2 women. In how many different ways can this be done if twoparticular women refuse to serve on the same committee.[Hint:At least 3 men and 2 women: The number of ways = 10C3 × 7C3 + 10C4 × 7C2.For 2 particular women to be always there: the number of ways = 10C4 + 10C3 × 5C1 .The total number of committees when two particular women are never together= Total Œ together.]
+50.A box contains 2 white balls, 3 black balls and 4 red balls. The number of ways
+three balls be drawn from the box if at least one black ball is to be included in the
+draw is ______.State whether the statements in Exercises from 51 to 59 True or False? Also give
+justification.51.There are 12 points in a plane of which 5 points are collinear, then the number oflines obtained by joining these points in pairs is 12C2 Œ 5C2.52.Three letters can be posted in five letterboxes in 35 ways.53.In the permutations of n things, r taken together, the number of permutations inwhich m particular things occur together is nŒmPrŒm × rPm.54.In a steamer there are stalls for 12 animals, and there are horses, cows and
+calves (not less than 12 each) ready to be shipped. They can be loaded in 312ways.55.If some or all of n objects are taken at a time, the number of combinationsis 2nŒ1.
+PERMUTATIONS AND COMBINATIONS    12756.There will be only 24 selections containing at least one red ball out of a bagcontaining 4 red and 5 black balls. It is being given that the balls of the same
+colour are identical.57.Eighteen guests are to be seated, half on each side of a long table. Fourparticular guests desire to sit on one particular side and three others on otherside of the table. The number of ways in which the seating arrangementscan be made is 
+11!
+(9!)(9!)
+5!6!
+.[Hint: After sending 4 on one side and 3 on the other side, we have to select out
+of 11; 5 on one side and 6 on the other. Now there are 9 on each side of the long
+table and each can be arranged in 9! ways.]58.A candidate is required to answer 7 questions out of 12 questions which are
+divided into two groups, each containing 6 questions. He is not permitted to
+attempt more than 5 questions from either group. He can choose the seven
+questions in 650 ways.59.To fill 12 vacancies there are 25 candidates of which 5 are from scheduled
+castes. If 3 of the vacancies are reserved for scheduled caste candidates whilethe rest are open to all, the number of ways in which the selection can be made
+is 5C3 × 20C9.In each if the Exercises from 60 to 64 match each item given under the column C1 toits correct answer given under the column C2.60.There are 3 books on Mathematics, 4 on Physics and 5 on English. How many
+different collections can be made such that each collection consists of :C1C2(a)One book of each subject;(i)
+3968(b)At least one book of each subject :
+(ii)60
+(c)At least one book of English:
+(iii)325561.Five boys and five girls form a line. Find the number of ways of making the
+seating arrangement under the following condition:C1C2(a)Boys and girls alternate:(i)5! × 6!
+(b)No two girls sit together :
+(ii)10 ! Œ 5 ! 6 !
+(c)All the girls sit together
+(iii)(5!)2 + (5!)2(d)All the girls are never together :
+(iv)2 ! 5 ! 5 !
+
+128    EXEMPLAR PROBLEMS Œ MATHEMATICS62.There are 10 professors and 20 lecturers out of whom a committee of 2 professorsand 3 lecturer is to be formed. Find :C1C2(a)In how many ways committee :(i)
+10C2 × 19C3can be formed(b)In how many ways a particular :
+(ii)10C2 × 19C2professor is included(c)In how many ways a particular :
+(iii)9C1 × 20C3lecturer is included(d)In how many ways a particular :
+(iv)10C2 × 20C3lecturer is excluded63.Using the digits 1, 2, 3, 4, 5, 6, 7, a number of 4 different digits is formed. FindC1C2(a)how many numbers are formed?(i)840
+(b)how many numbers are exactly
+(ii)200
+divisible by 2?(c)how many numbers are exactly
+(iii)360
+divisible by 25?(d)how many of these are exactly
+(iv)40
+divisble by 4?64.How many words (with or without dictionary meaning) can be made from theletters of the word MONDAY, assuming that no letter is repeated, if
+C1C2(a)4 letters are used at a time(i)720
+(b)All letters are used at a time
+(ii)240
+(c)All letters are used but the
+(iii)360
+first is a vowel
