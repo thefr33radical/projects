@@ -4,13 +4,13 @@
 
 ```
 Presented By
-```
-DimpiSaikia 15CS60R
-GowthamNayak 15CS60R
-Kalyani Roy 15CS60R
-SurviMakharia 15CS60R0 1
 
-```
+* DimpiSaikia 15CS60R
+* GowthamNayak 15CS60R
+* Kalyani Roy 15CS60R
+* SurviMakharia 15CS60R
+
+
 Under the Guidance
 of
 Dr. Plaban Bhowmick
