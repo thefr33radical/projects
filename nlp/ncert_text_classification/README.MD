@@ -1,2 +1,1 @@
-[embed]https://github.com/thefr33radical/projects/blob/master/nlp/ncert_text_classification/presentation/Language%20Processing%20Term%20Project.pdf[/embed]
-</object>
+https://docs.google.com/viewer?url=https://github.com/thefr33radical/projects/blob/master/nlp/ncert_text_classification/presentation/Language%20Processing%20Term%20Project.pdf
