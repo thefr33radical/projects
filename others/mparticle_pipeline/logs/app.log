@@ -1,0 +1,21 @@
+INFO:root:started
+INFO:root:Records already procesed
+INFO:root:started
+INFO:root:Records already procesed
+INFO:root:finished
+INFO:root:started
+INFO:root:Record not found previously, Reading
+INFO:root:Read all files Success
+INFO:root:Wrting to file 12/10/2020
+INFO:root:Merged previous records 12/10/2020
+INFO:root:Processed all files Success
+INFO:root:Wrting to file 12/13/2020
+INFO:root:Created file 12/13/2020Length mismatch: Expected axis has 5 elements, new values have 4 elements
+INFO:root:Processed all files Success
+INFO:root:Wrting to file 12/16/2020
+INFO:root:Merged previous records 12/16/2020
+INFO:root:Processed all files Success
+INFO:root:Wrting to file 12/21/2020
+INFO:root:Merged previous records 12/21/2020
+INFO:root:Processed all files Success
+INFO:root:finished
