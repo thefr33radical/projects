@@ -1,0 +1,36 @@
+INFO:root:
+...Model Module Started...
+
+INFO:root:Before outlier removal : 427030
+INFO:root:onsite 374791
+INFO:root:After outlier removal : 374692
+INFO:root:
+...LGBM training started...
+
+INFO:root:Train 49.51129668989025
+INFO:root:Test 54.79933539142637
+INFO:root:Train MAE 30.604183259723694
+INFO:root:Test MAE 32.86801611922513
+INFO:root:R2, Adjusted R2 Train : 0.936948226682641 0.8778617928788922
+INFO:root:R2, Adjusted R2 Test : 0.9237872782110169 0.8533340062718763
+INFO:root:Top 10 Features[('AffiliateNTE', 43529), ('OnSiteTime', 34823), ('AffiliateId', 29863), ('ClientNTE', 24436), ('CallTimeday', 22144), ('TTSQFT', 18499), ('City', 15954), ('YearBuilt', 15432), ('Lat', 14959), ('Lng', 13732), ('ServiceCode', 11656), ('CallTimemonth', 8126), ('ZipCode', 6058), ('DefaultAffiliateNTE', 6047), ('PriorityId', 4855)]
+INFO:root:
+...LGB Model Train/Test Completed...
+
+INFO:root:       SubAffiliateCost
+count     374692.000000
+mean         259.107694
+std          205.818779
+min            0.000000
+25%          122.740000
+50%          200.000000
+75%          340.000000
+max          965.620000
+INFO:root:Median & Mode
+INFO:root:SubAffiliateCost    200.0
+dtype: float64
+INFO:root:   SubAffiliateCost
+0               0.0
+INFO:root:
+...Model Module Started...
+

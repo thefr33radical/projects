@@ -1,0 +1,49 @@
+INFO:root:
+...Feature Eng Module Started...
+
+INFO:root:Index(['WOTypeId', 'PurposeId', 'ServiceCategory', 'ServiceType',
+       'ServiceCode', 'PriorityId', 'ClientNTE', 'AffiliateNTE', 'State',
+       'City', 'ZipCode', 'Lat', 'Lng', 'YearBuilt', 'BathRooms', 'BedRooms',
+       'TTSQFT', 'Pool', 'SubAffiliateCost', 'OnSiteTime', 'AffiliateId',
+       'DefaultAffiliateNTE', 'DefaultClientNTE', 'CallTimequarter',
+       'CallTimemonth', 'CallTimeday'],
+      dtype='object')
+INFO:root:
+...Feature Eng Module End...
+
+INFO:root:
+...Model Module Started...
+
+INFO:root:Before outlier removal : 427030
+INFO:root:onsite 354707
+INFO:root:After outlier removal : 354655
+INFO:root:
+...LGBM training started...
+
+INFO:root:Train 46.869457133334905
+INFO:root:Test 51.94106903277666
+INFO:root:Train MAE 30.31631662986643
+INFO:root:Test MAE 32.78975939436705
+INFO:root:R2, Adjusted R2 Train : 0.8996302459415143 0.8093177776182239
+INFO:root:R2, Adjusted R2 Test : 0.8750765500519044 0.7656763787068784
+INFO:root:Top 15 Features[('AffiliateNTE', 38851), ('OnSiteTime', 35795), ('AffiliateId', 29915), ('ClientNTE', 23644), ('CallTimeday', 22371), ('TTSQFT', 21074), ('YearBuilt', 16988), ('Lat', 16059), ('City', 15379), ('Lng', 14958), ('ServiceCode', 11690), ('CallTimemonth', 8662), ('DefaultAffiliateNTE', 7025), ('ZipCode', 6190), ('PriorityId', 5651)]
+INFO:root:
+...LGB Model Train/Test Completed...
+
+INFO:root:       SubAffiliateCost
+count     354655.000000
+mean         226.648396
+std          157.373406
+min            0.000000
+25%          118.000000
+50%          195.000000
+75%          300.000000
+max          717.390000
+INFO:root:Median & Mode
+INFO:root:SubAffiliateCost    195.0
+dtype: float64
+INFO:root:   SubAffiliateCost
+0               0.0
+INFO:root:
+...Model Module Started...
+
